@@ -27,8 +27,8 @@ The effect is characterized by a force acting toward the thinner electrode of an
 - **Primary Scientific Interpretation**: Electrohydrodynamics (EHD) / Ionic Wind.
 
 ## Sources
-- [Biefeld–Brown effect - Wikipedia](httpshttps://en.wikipedia.org/wiki/Biefeld-Brown_effect)
-- [Force on an Asymmetric Capacitor - DTIC](httpshttps://apps.dtic.mil/sti/tr/pdf/ADA416740.pdf)
-- [The Biefeld-Brown Effect: Misinterpretation of Corona Wind - TU Dresden](httpshttps://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf?lang=en)
-- [An analysis of the Brown–Biefeld effect - ScienceDirect](httpshttps://www.sciencedirect.com/science/article/abs/pii/S0304388611001367)
-- [Gravitoelectromagnetic Theories - Academia.edu](httpshttps://www.academia.edu/117920612/In_Gravitoelectromagnetic_Theories_HISTORY_OF_ELECTROGRAVITICS)
+- [Biefeld–Brown effect - Wikipedia](https://en.wikipedia.org/wiki/Biefeld-Brown_effect)
+- [Force on an Asymmetric Capacitor - DTIC (Link inaccessible/403)](https://apps.dtic.mil/sti/tr/pdf/ADA416740.pdf)
+- [The Biefeld-Brown Effect: Misinterpretation of Corona Wind - TU Dresden](https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf?lang=en)
+- [An analysis of the Brown–Biefeld effect - ScienceDirect (Link inaccessible/403)](https://www.sciencedirect.com/science/article/abs/pii/S0304388611001367)
+- [Gravitoelectromagnetic Theories - Academia.edu (Link inaccessible/403)](https://www.academia.edu/117920612/In_Gravitoelectromagnetic_Theories_HISTORY_OF_ELECTROGRAVITICS)

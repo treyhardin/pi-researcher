@@ -9,6 +9,8 @@ Conducts deep web research on a provided topic and organizes the findings into a
 
 ## Procedure
 
+All research conducted using this skill must strictly adhere to the integrity and documentation protocols defined in `research/RESEARCH_GUIDELINES.md`.
+
 ### 1. Topic Analysis & Categorization
 - **Identify Topic:** Receive the research topic from the user.
 - **Determine Category:** Analyze the topic to determine an appropriate category (e.g., `people`, `organizations`, `places`, `cases`, `technologies`, `events`, etc.).
@@ -48,6 +50,11 @@ Conducts deep web research on a provided topic and organizes the findings into a
 ### 4. Report Generation
 - **File Naming:** Generate a slugified version of the topic name (e.g., "John Doe" -> `john-doe.md`).
 - **Storage:** Save the report to `research/{category}/{topic-slug}.md`.
+- **Link & URL Integrity (CRITICAL):** 
+    - Before finalizing the report, verify all URLs in the `Sources` section.
+    - If a URL is inaccessible (HTTP 403, 404, etc.), attempt to find an alternative or archive link (e.g., WayBack Machine, or different repository).
+    - If no alternative is found, document the failure in the link text: `[Source Name (Link Inaccessible/403)](URL)`.
+    - Ensure all internal links between research files use correct relative paths (avoid path doubling).
 - **Report Content Structure:**
     - `# [Topic Name]`
     - `## Summary`

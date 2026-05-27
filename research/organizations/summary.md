@@ -4,5 +4,5 @@ This directory contains research reports on various organizations, including def
 
 ## Research Entries
 
-### [Lockheed Martin](research/organizations/lockheed-martin.md)
+### [Lockheed Martin](lockheed-martin.md)
 A global aerospace and defense technology company and major player in the US defense industry, known for its advanced aeronautics, space, and missile systems, as well as the legendary Skunk Works division.

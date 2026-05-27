@@ -32,5 +32,5 @@ Lockheed Martin is a global, security-focused aerospace and defense technology c
 - [80 Years of Lockheed Martin Skunk Works® Innovation | Lockheed Martin](https://www.lockheedmartin.com/en-us/news/features/2023/80-years-of-skunk-works-innovation.html)
 - [Lockheed Martin - Wikipedia](https://en.wikipedia.org/wiki/Lockheed_Martin)
 - [Form 10-K for Lockheed Martin Corp (2026)](https://investors.lockheedmartin.com/static-files/13d6ed3e-54da-4278-8996-46008b7f0912)
-- [Lockheed Martin: Our History](httpslyhttps://www.lockheedmartin.com/en-us/news/features/history.html)
+- [Lockheed Martin: Our History](https://www.lockheedmartin.com/en-us/news/features/history.html)
 - [2024 Annual Report - Lockheed Martin](https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/annual-reports/lockheed-martin-annual-report-2024.pdf)
