@@ -16,3 +16,6 @@ An advanced form of electric propulsion that uses the acceleration of ions to ge
 The theoretical field proposed by Thomas Townsend Brown involving the use of electric fields to potentially manipulate gravity.
 ### Ion Propulsion
 A high-efficiency electric propulsion technology using ionized gas to generate thrust, ideal for long-duration space missions.
+
+### Biefeld-Brown effect
+An electrical phenomenon where an asymmetric capacitor produces thrust under high voltage, historically linked to electrogravitics and modernly to ionic wind.

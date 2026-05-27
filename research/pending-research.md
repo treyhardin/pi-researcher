@@ -26,8 +26,6 @@ Highly innovative division of Lockheed Martin known for advanced aerospace proje
 ### Martin Marietta (organizations)
 Company that merged with Lockheed to be part of Lockheed Martin in 1995.
 
-### Lockheed Corporation (organizations)
-Company that merged with Martin Marietta to be part of Lockheed Martin in 1995.
 
 
 ### Dielectric pumps (technologies)
