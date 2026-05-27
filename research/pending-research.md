@@ -29,5 +29,11 @@ Company that merged with Lockheed to be part of Lockheed Martin in 1995.
 ### Lockheed Corporation (organizations)
 Company that merged with Martin Marietta to be part of Lockheed Martin in 1995.
 
-### Kelly Johnson (people)
-Chief Research Engineer who founded Skunk Works and led its early development.
+### Ion propulsion (technologies)
+The use of electric fields to accelerate ions to create thrust, a technology heavily influenced by the Biefeld-Brown effect.
+
+### Dielectric pumps (technologies)
+Devices that use electric fields to move fluids, related to the principles of the Biefeld-Brown effect.
+
+### Corona wind (technologies)
+The flow of ionized air caused by high voltage, often identified as the true cause of the Biefeld-Brown effect.
