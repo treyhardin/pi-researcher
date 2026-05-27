@@ -9,3 +9,10 @@ An electrical phenomenon discovered in the 1920s where high voltage on an asymme
 
 ### [Electrogravitics](electrogravitics.md)
 The theoretical field proposed by Thomas Townsend Brown involving the use of electric fields to potentially manipulate gravity.
+
+### [Ion propulsion](ion-propulsion.md)
+An advanced form of electric propulsion that uses the acceleration of ions to generate thrust, characterized by high specific impulse and low thrust.
+### [Electrogravitics](electrogravitics.md)
+The theoretical field proposed by Thomas Townsend Brown involving the use of electric fields to potentially manipulate gravity.
+### Ion Propulsion
+A high-efficiency electric propulsion technology using ionized gas to generate thrust, ideal for long-duration space missions.

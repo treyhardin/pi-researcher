@@ -73,4 +73,3 @@ All research conducted using this skill must strictly adhere to the integrity an
 
 ### 6. Repository Synchronization
 - **Commit Changes:** Use `git add .` and `git commit -m "Research completed: [Topic Name]"` to stage and commit all changes made during the research process, including new reports, summary updates, and pending research entries.
-- **Push to Remote:** Use `git push origin main` to push the changes to the GitHub repository, ensuring the remote repository is always up to date with the latest findings.
