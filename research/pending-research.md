@@ -29,8 +29,6 @@ Company that merged with Lockheed to be part of Lockheed Martin in 1995.
 ### Lockheed Corporation (organizations)
 Company that merged with Martin Marietta to be part of Lockheed Martin in 1995.
 
-### Ion propulsion (technologies)
-The use of electric fields to accelerate ions to create thrust, a technology heavily influenced by the Biefeld-Brown effect.
 
 ### Dielectric pumps (technologies)
 Devices that use electric fields to move fluids, related to the principles of the Biefeld-Brown effect.
