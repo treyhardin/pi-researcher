@@ -6,3 +6,6 @@ This directory contains research on various technologies and physical phenomena,
 
 ### [Biefeld-Brown effect](biefeld-brown-effect.md)
 An electrical phenomenon discovered in the 1920s where high voltage on an asymmetric capacitor produces thrust, often attributed to electrohydrodynamics (EHD).
+
+### [Electrogravitics](electrogravitics.md)
+The theoretical field proposed by Thomas Townsend Brown involving the use of electric fields to potentially manipulate gravity.
