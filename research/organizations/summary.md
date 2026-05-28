@@ -13,5 +13,5 @@ A prominent American aerospace manufacturer that merged with Martin Marietta in 
 ### AARO (All-domain Anomaly Resolution Office)
 The U.S. government's lead office for investigating Unidentified Anomalable Phenomena (UAP) and analyzing related data.
 
-### [Skunk Works](skunk-works.md)
-The Advanced Development Programs division of Lockheed Martin, famous for developing highly classified aircraft and stealth technology.
+### [Raytheon (RTX)](raytheon.md)
+A major aerospace and defense company, pivotal in developing advanced sensing, radar (e.g., AN/APG-79 AESA), and electronic warfare technologies used in detecting and recording UAPs.

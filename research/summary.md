@@ -29,6 +29,7 @@ The research also focuses on specific, documented events that serve as catalysts
 
 * **Case Studies in UAP Sightings:** The **Kumburgaz UFO** videos from Turkey serve as a primary example of highly scrutinized, visual evidence of metallic, disc-shaped objects, fueling ongoing debates about the nature and origin of such phenomena.
 * **The Pascagoula Incident (1973):** A significant case involving an alleged abduction and encounter near the Pascagoula River. This case is notably characterized by the "Hickson Tapes" and documented descriptions of humanoid entities and anomalous craft movement, highlighting the physical and human-centric aspects of close encounters.
+* **Technological Detection (Raytheon):** The development of advanced sensors by companies like **Raytheon** (e.g., AESA radar and Advanced Targeting FLIR) has been critical in providing the high-sensitivity data necessary to detect and record UAPs during major encounters like the 2004 Nimitz incident.
 
 ---
 *This summary is a living document, subject to expansion as new research is conducted and new connections are identified.*
