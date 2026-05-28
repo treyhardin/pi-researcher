@@ -10,8 +10,8 @@ Collaborator of Thomas Townsend Brown in the discovery of the Biefeld-Brown effe
 ### Denison University (organizations)
 Location where Brown performed his early experiments in the 1920s.
 
-### NICAP (organizations)
-An organization where Brown briefly served as highly important for UFO research.
+
+
 
 
 
@@ -56,3 +56,21 @@ One of the two primary witnesses to the 1973 Pascagoula incident.
 
 ### The Hickson Tapes (audio/evidence)
 An audio recording of the initial, distressed statements made by Hickson and Parker to authorities.
+
+### Condon Committee (organizations)
+A scientific study of UFOs that significantly highly impacted research.
+
+### Project Blue Book (programs)
+The US Air Force's investigation of UFOs.
+
+### Donald E. Keyhoe (people)
+The primary leader of NICAP.
+
+### Richard Hall (people)
+A key figure in the NICAP investigation era.
+
+### Leonard Stringfield (people)
+A prominent UFOlogist and NICAP PR adviser.
+
+### T. Townsend Brown (people)
+An early leader in NICAP.

@@ -1,33 +1,36 @@
-# NICAP (National Investigations Committee on Aerial Phenomena)
+# National Investigations Committee on Aerial Phenomena (NICAP)
 
 ## Summary
-The National Investigations Committee on Aerial Phenomena (NICAP) was the most prominent and influential non-governmental UFO research and investigation organization in the United States, active primarily from the 1950s through the 1980s. Headed for much of its height by Donald E. Keyhoe, NICAP functioned as both a research body and a powerful lobbying force, seeking to pressure the U.S. government toward transparency regarding the UFO phenomenon.
+The National Investigations Committee on Aerial Phenomena (NICAP) was the most influential civilian UFO research organization in the United States, active primarily from 1956 through the 1980s. Headed for much of its existence by Major Donald E. Keyhoe, NICAP focused on investigating unidentified aerial phenomena, coordinating nationwide reports, and lobbying the U.S. government for greater transparency and disclosure regarding the nature of "flying saucers."
 
 ## Detailed Findings
 
-### Origins and Leadership
-- **Founding:** The organization emerged in the mid-1950s as a private, non-profit research group.
-- **Donald E. Keyhoe:** The "dynamic" and "long-headed" director of NICAP, Keyhoe was its most recognizable leader. His leadership and public presence were instrumental in making NICAP the primary source of UFO news and a key player in the discourse on aerial phenomena.
-- **Role of Research:** NICAP was heavily involved in coordinating investigations of Unidentified Aerial Phenomena (UAP/UFO) across the United States, acting as a repository for eyewitness accounts and physical evidence.
+### History and Evolution
+NICAP was incorporated on August 29, 1956, with T. Townsend Brown playing a role in its early leadership. The organization experienced several distinct eras:
+* **The Formative/Keyhoe Era (late 1950s - 1960s):** Under the direction of Major Donald E. Keyhoe, NICAP became a large and highly influential group. It functioned as a private, non-profit research and education network, exercising significant lobbying power in Washington, D.C.
+* **The Peak Era:** During the 1960s, NICAP was at its height, acting as a major source of UFO news and coordinating investigations across the country.
+* **The Decline (post-1s 1960s):** The release of the University of Colorado's Condon Committee report in 1968, which many perceived as having an anti-UFO bias, led to a decline in NICAP's momentum and eventually contributed to its fading influence.
 
-### Mission and Advocacy
-- **Lobbying and Transparency:** One of NICAP's primary objectives was to move the U.S. government toward an open and vigorous effort to investigate and disclose the nature of "flying saucers."
-- **Public Interest:** The organization framed its work as a "fact-finding body serving the public interest," emphasizing the need for accountability and the prevention of potential national security risks posed by unidentified objects in American airspace.
-- **Influence:** During the late 1950s and 1960s, NICAP exercised considerable influence and was the most well-known of all non-governmental UFO groups.
+### Key Activities and Contributions
+* **Investigation and Data Collection:** NICAP coordinated various investigations of UAP sightings across the United States. A major achievement was the publication of "The UFO Evidence" in 1964, a 200-page dossier analyzing 746 unexplained incidents from 1945 to 1963.
+* **Lobbying and Disclosure Advocacy:** A primary goal of NICAP was to pressure the U.S. government to move toward an open and vigorous effort to discover the truth behind UAP. They used their platform to bring attention to sightings and demand investigations.
+* **Informational Resource:** The organization's archives and published papers remain a critical resource for modern UAP researchers, providing historical context and detailed reports of mid-20th-century sightings.
 
-### Organizational Lifecycle and Decline
-- **Resource Challenges:** Despite its influence, NICAP faced frequent financial difficulties and periods of instability, common to many privately-supported research groups of the era.
-- **Transition and Legacy:** The organization'sing lifecycle included transitions between different leadership structures and eventual shifts in focus, including links to the transition toward organizations like the Center for UFO Studies (CUFOS) in the early 1980s.
-- **Information Repository:** Today, NICAP's legacy survives primarily through its extensive archive of documents, reports, and investigations, much of which is preserved by organizations like the Center for UFO Studies (CUFOS).
+### Notable Incidents Investigated
+* **Edwards Air Force Base Incident (October 7, 1965):** NICAP investigated sightings of multiple luminous UFOs over this secure test facility.
 
 ## Key Entities/Facts
-- **Donald E. Keyhoe:** The most influential director and spokesperson for NICAP.
-- **Primary Era:** 1950s through the 1980s.
-- **Core Function:** Investigation, coordination of UAP reports, and government lobbying.
-- **Historical Significance:** The largest and most influential non-governmental UFO research organization in U.S. history.
+* **Major Donald E. Keyhoe:** The spiritual leader and longtime director of NICAP. His books were instrumental in bringing attention to the phenomenon.
+* **Richard Hall:** Assistant Director (1965-1967) and a key figure during the "Colorado Project" era.
+* **Leonard Stringfield:** Served as a public relations adviser in 1957 and was a prominent UFOlogist.
+* **T. Townsend Brown:** Involved in the initial leadership and incorporation.
+* **Condon Committee:** The 1968 report by this committee was a turning point that contributed to NICAP's decline.
 
 ## Sources
-- **NICAPhdr** - [NICAP Archive](https://nicap.org/articles/Nicap_history_1976.htm)
-- **National Investigations Committee On Aerial Phenomena** - [Wikipedia](https Implication/Unidentified_flying_object)
-- **The National Investigations Committee on Aerial Phenomena (NICAP) | Enigma Labs** - [Enigma Labs](https://enigmalabs.io/library/0913a909-84a2-48fd-a9f8-dfaabdf97303)
-- **NICAP Documents - Center for UFO Studies** - [CUFOS](https://cufos.org/resources/nicap-documents/)
+* [NICAP History (1976)](https://nicap.org/articles/Nicap_history_1976.htm)
+* [NICAP Papers - Richard Hall (IUR 1994)](https://nicap.org/papers/hall-IUR1994.htm)
+* [Wikipedia - National Investigations Committee On Aerial Phenomena](https://en.wikipedia.org/wiki/NICAP)
+* [Enigma Labs - NICAP Research](https://enigmalabs.io/library/0913a909-84a2-48fd-a9f8-dfaabdf97303)
+* [Official NICAP Website](http://www.nicap.org/)
+* [CIA Reading Room - NICAP Case Evaluation](https://www.cia.gov/readingroom/docs/DOC_0005516060.pdf)
+* [Disclosdex - NICAP Organization Profile](https://disclosdex.com/organizations/nicap)
