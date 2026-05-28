@@ -3,9 +3,8 @@
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
 
-### Electrogravitics (technologies)
-A theoretical field proposed by Brown involving the manipulation of gravity via electric fields.
 
+### Electrohydrodynamics (new)
 ### Electrohydrodynamics (new)
 The scientific explanation for the Biefeld-Brown effect, involving ionic wind.
 
