@@ -18,3 +18,6 @@ A facility in Turkey where the Kumburgaz UFO videos were recorded.
 
 ### [NICAP](../organizations/nicap.md)
 The National Investigations Committee on Aerial Phenomena, a leading private UFO research organization active from 1956 to the 1980s.
+
+### [Condon Committee](../organizations/condon-committee.md)
+The University of Colorado UFO project (1966-1968) led by Dr. Edward Condon, which resulted in the highly controversial Condon Report and influenced the shutdown of Project Bluebook.

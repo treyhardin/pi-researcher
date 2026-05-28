@@ -24,7 +24,7 @@ One of the two primary witnesses to the 1973 Pascagoula incident.
 An audio/evidence recording of the initial, distressed statements made by Hickman and Parker to authorities.
 
 ### Condon Committee (organizations)
-A[scientific study of UFOs that significantly highly impacted research.
+The University of Colorado UFO project (1966-1968) led by Dr. Edward Condon, which resulted in the highly controversial Condon Report and influenced the shutdown of Project Blue Book.
 
 ### Donald E. Keyhoe (people)
 The primary leader of NICAP.
