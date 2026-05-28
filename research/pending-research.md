@@ -50,4 +50,14 @@ Expert who has provided testimony to Congress regarding AARP and UAP.
 ### Al Taqaddum Air Base (places)
 Location of a significant UAP incident involving an infrared sensor in 2017.
 
+### AATIP (programs)
+Advanced Aerospace Threat Identification Program, a DoD program studying UAP.
+
+### AAWSAP (programs)
+Advanced Aerospace Weapon System Applications Program, a program studying UAP.
+
+### Stargate Program (programs)
+CIA remote-viewing program mentioned in relation to officials like Puthoff.
+
+
 
