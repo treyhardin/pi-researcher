@@ -13,7 +13,7 @@ All research conducted using this skill must strictly adhere to the integrity an
 
 ### 1. Topic Analysis & Categorization
 - **Identify Topic:** Receive the research topic from the user.
-- **Determine Category:** Analyze the topic to determine an appropriate category (e.g., `people`, `organizations`, `places`, `cases`, `technologies`, `events`, etc.).
+- **Determine Category:** Analyze the topic to determine an appropriate category (e.g., `people`, `organizations`, `places`, `cases`, `technologies`, `events`, etc.). Keep the project's core themes (UAP, NHI, disclosure, theoretical physics) in mind to ensure consistent organization.
 - **Directory Check:**
     - Check if `research/{category}/` exists.
     - **If it exists:** Proceed to step 2.
@@ -31,6 +31,12 @@ All research conducted using this skill must strictly adhere to the integrity an
 
 ### 3. Discovery & Pending Research Identification
 - **Identify Sub-topics:** During research, scan the gathered information for significant, recurring entities or topics (e.g., names, places, technologies, events) that are not the primary subject of the current research.
+- **Thematic Focus:** Prioritize identifying topics that align with the project's core research themes, including:
+    - **UAP/UFO Phenomena:** Unidentified Anomalous Phenomena, sightings, crafts, or related incidents.
+    - **Non-Human Intelligence (NHI):** Evidence or theories regarding non-human entities.
+    - **Government Disclosure:** Leaks, declassified documents, official statements, or investigative reports.
+    - **Theoretical Physics:** Technologies or phenomena involving gravity manipulation, propulsion, or advanced physics.
+    - **Advanced Aerospace/Technologies:** Classified or non-traditional aerospace projects, propulsion systems, etc.
 - **For each candidate topic:**
     - **Check Existence:** Verify if the topic already has a dedicated research file in its appropriate directory (e.g., `research/people/john-doe.md`).
     - **Determine Category:** Assign the candidate to a category (e.g., `people`, `places`, `technologies`).

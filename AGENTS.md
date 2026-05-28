@@ -8,8 +8,9 @@ This file contains instructions on how the AI agent should behave, communicate, 
 - If a user's instruction is highly ambiguous or unclear, ask clarifying follow-up questions instead of making a best-guess interpretation.
 
 ## Workflow & Task Execution
-- [e.g., Always run tests before committing changes.]
-- [e.g., Prefer using `npm test` for verification.]
+- Always run tests before committing changes.
+- Prefer using `npm test` for verification.
+- **CRITICAL:** After performing any research-related task and committing changes (including updates to `pending-research.md` and `summary.md`), you **MUST** execute `git push origin main` to ensure the remote repository is synchronized with the local changes.
 
 ## Coding Standards & Practices
 - [e.g., Use TypeScript for all new files.]

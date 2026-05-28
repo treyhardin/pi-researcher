@@ -41,3 +41,13 @@ Location of the Kumburgaz UFO sightings.
 ### Yeni Kent facility (organizations)
 The facility where the witness was working during the sightings.
 
+### Sean Kirkpatrick (people)
+Former Director of AARO, involved in US government UAP investigations.
+
+### Jon Kosloski (people)
+Expert who has provided testimony to Congress regarding AARP and UAP.
+
+### Al Taqaddum Air Base (places)
+Location of a significant UAP incident involving an infrared sensor in 2017.
+
+
