@@ -59,6 +59,9 @@ A key U.S. intelligence agency where David Grusch served as a senior official.
 ### National Reconnaissance Office (NRO) (organizations)
 A U.S. intelligence agency where David Grusch previously served as a representative.
 
+### Betty and Barney Hill (people)
+The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction, establishing the template for modern UFO lore.
+
 ### David Fravor (people)
 US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
 
@@ -68,5 +71,11 @@ The Ticonderoga-class cruiser that detected anomalous aerial vehicles in 2004.
 ### F/A-18 Super Hornet (technologies)
 The primary fighter aircraft involved in the 2004 Nimitz encounter.
 
-### Aegis Combat System (technologies)
-The advanced radar and weapon system used to detect unidentified aerial phenomena.
+### Charles Hickson (people)
+One of the two primary witnesses to the 1973 Pascagoula incident.
+
+### Calvin Parker (people)
+One of the two primary witnesses to the 1973 Pascagoula incident.
+
+### The Hickson Tapes (audio/evidence)
+An audio recording of the initial, distressed statements made by Hickson and Parker to authorities.

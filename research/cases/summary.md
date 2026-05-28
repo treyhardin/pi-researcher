@@ -16,5 +16,5 @@ A Ticonderoga-class cruiser involved in detecting anomalous aerial vehicles duri
 ### F/A-18 Super Hornet (technologies)
 The primary fighter aircraft used by Navy squadrons that encountered UAPs during the 2004 incident.
 
-### Aegis Combat System (technologies)
-The advanced radar and weapon system on the USS Princeton that detected unprecedented aerial targets.
+### Pascagoula Incident (1973)
+A famous 1973 alleged abduction and encounter near the Pascagoula River, involving Charles Hickson and Calvin Parker, characterized by the "Hickson Tapes."
