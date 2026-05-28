@@ -15,6 +15,7 @@ The research highlights a profound connection between private aerospace innovati
 
 * **The Role of Skunk Works and Lockheed Martin:** **Lockheed Martin**, through its legendary **Skunk Works** division, serves as a primary driver of advanced aeronautics. The development of stealth technologies (e.g., **F-117 Nighthawk**, **SR-71 Blackbird**) and highly classified platforms (e.g., **U-2**, **RQ-170 Sentinel**) exemplifies the cutting edge of aerospace R&D. 
 * **Government Oversight and Investigation:** Modern UAP investigation is characterized by the transition from clandestine programs to organized oversight. The **All-domain Anomaly Resolution Office (AARO)** represents the U.S. government's formalized effort to investigate UAPs, building on the legacy of earlier, more secretive programs.
+* **Scientific Investigation and Figures:** The legacy of individuals like **Dr. J. Allen Hynek** is central to the history of UAP research. As a scientific advisor for **Project Blue Book**, his development of the **"Close Encounters" classification system** provided a framework for studying the phenomenon, moving it from mere speculation toward a more structured investigation.
 
 ## 3. Whistleblowers, Disclosure, and the Intelligence Community
 
