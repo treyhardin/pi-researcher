@@ -6,7 +6,7 @@ This file tracks topics that have been identified during research but have not y
 ### Electrogravitics (technologies)
 A theoretical field proposed by Brown involving the manipulation of gravity via electric fields.
 
-### Electrohydrodynamics (technologies)
+### Electrohydrodynamics (new)
 The scientific explanation for the Biefeld-Brown effect, involving ionic wind.
 
 ### Paul Biefeld (people)
@@ -41,9 +41,6 @@ Location of the Kumburgaz UFO sightings.
 ### Yeni Kent facility (organizations)
 The facility where the witness was working during the sightings.
 
-### Sean Kirkpatrick (people)
-Former Director of AARO, involved in US government UAP investigations.
-
 ### Jon Kosloski (people)
 Expert who has provided testimony to Congress regarding AARP and UAP.
 
@@ -67,6 +64,3 @@ A U.S. intelligence agency where David Grusch previously served as a representat
 
 ### Psionic Experiments (technologies/phenomena)
 The study of mental and intuitive abilities to interact with or influence UAP, as claimed by whistleblower Jake Barber.
-
-
-
