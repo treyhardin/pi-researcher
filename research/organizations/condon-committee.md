@@ -1,32 +1,37 @@
 # Condon Committee
 
 ## Summary
-The Condon Committee, formally known as the Scientific Study of Unidentified Flying Objects, was a research project conducted by the University of Colorado from 1966 to 1968. Commissioned by the United States Air Force and led by physicist Dr. Edward Condon, the committee's goal was to investigate the scientific validity of UFO sightings and determine if they warranted further official study. The project's final findings, published in 1968 as the "Condon Report," concluded that there was no evidence that UFOs were extraterrestrial in origin and that further scientific study was not justified, a conclusion that had a profound and controversial impact on the field of UFO research.
+The Condon Committee, formally known as the "Scientific Study of Unidentified Flying Objects," was a research project conducted at the University of Colorado from 1966 to 1968. Funded by the United States Air Force and led by physicist Edward Condon, the project aimed to scientifically investigate the nature of unidentified flying objects (UFOs). The project's conclusion, the "Condon Report," famously suggested that there was no evidence of extraterrestrial origin for UFOs, which subsequently contributed to the shutdown of the Air Force's Project Blue Book.
 
 ## Detailed Findings
-The committee's investigation involved examining thousands of UFO sightings, including files from the Air Force's Project Blue Book and data from civilian organizations like NICAP and APRO. 
 
-Key findings from the Condon Report included:
-- **Lack of Scientific Progress:** The report concluded that nothing from the study of UFOs in the preceding 21 years had significantly advanced scientific knowledge in a way that would justify continued, extensive study.
-- **No Evidence of Extraterrestrial Origin:** The committee stated that the evidence did not support the hypothesis that UFOs represented spacecraft from other worlds.
-- **Recommendation to Cease Study:** Based on these conclusions, the committee recommended that the Air Force discontinue its investigation into UFOs.
+### Origins and Purpose
+The project was established following recommendations from the Air Force Scientific Advisory Board in March 1966. The primary goal was to provide a scientific assessment of the UFO phenomenon to determine whether there was any basis for the belief that these objects were of extraterlin-terrestrial origin. The research was conducted under contract F44620-67-C-0035 to the United States Air Force.
 
-The report's release was met with intense controversy. Critics, including some scientists and prominent UFO researchers, argued that the committee's sample size was too small (analyzing only a fraction of significant cases) and that it ignored highly anomalous and puzzling reports. This controversy contributed to the eventual shutdown of Project Blue Book and the perception that the government was attempting to dismiss the phenomenon.
+### The Condon Report (1968)
+The final report, titled *Scientific Study of Unidentified Flying Objects*, was published in 1968. Dr. Edward Condon served as the Scientific Director. The report's findings were highly controversial. While it acknowledged a significant number of sightings, the committee concluded that:
+- There was no evidence that UFOs represented a threat to national security.
+- There was no evidence of extraterrestrial technology or lifeforms.
+- The phenomenon did not warrant further scientific investigation by the government.
+
+### Impact on Project Blue Book and Public Perception
+The release of the Condon Report had a profound impact on the study of UAPs in the United States. The report's dismissive conclusion regarding the potential for extraterrestrial origins provided the political and scientific justification for the Air Force to terminate Project Blue Book, the official investigation into UFO sightings, in 1969. This led to a period of reduced government interest and funding in the study of the phenomenon, often referred to as a "dark age" in UFO research.
+
+### Historical Context
+The project was part of a broader period of intense interest in UFOs during the 1950s and 1960s. It followed previous government-led investigations such as Project Sign and Project Grudge, and was situated within the larger context of the Cold War, where the possibility of advanced enemy technology was a significant concern.
 
 ## Key Entities/Facts
-- **Dr. Edward Condon:** The physicist and former CU professor who led the committee.
-- **The Condon Report (1968):** The final, highly influential document resulting from the study.
-- **University of Colorado:** The institution that hosted the research project.
-- **Project Blue Book:** The Air Force's preceding UFO investigation program, which the committee reviewed.
-- **NICAP (National Investigations Committee On Aerial Phenomena):** A major civilian UFO research organization whose data was used in the study.
+- **Edward Condon:** The physicist and scientific director of the project.
+- **University of Colorado:** The host institution for the research.
+- **United States Air Force (USAF):** The funding agency for the project.
+- **Condon Report (1968):** The seminal document resulting from the study.
+- **Project Blue Book:** The Air Force investigation program that was terminated following the report's conclusions.
 
 ## Related Research
-- [Project Blue Book](research/programs/project-blue-book.md) (If exists)
-- [NICAP (organizations)](research/organizations/nicap.md) (If exists)
+- [Condon Committee](../organizations/condon-committee.md)
 
 ## Sources
-- [Condon Committee (Wikipedia)](https://en.wikipedia.org/wiki/Condon_Report)
-- [SCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS, VOLUME 1 (DTIC)](https://apps.dtic.mil/sti/tr/pdf/AD0680975.pdf)
-- [Condon Report, Section I: Conclusions & Recommendations](https://condon.ncas.org/text/sec-i.htm)
-- [UFOs and the Condon Report - A Scientist's Critique](http://kirkmcd.princeton.edu/JEMcDonald/mcdonald_resa_021269.pdf)
-- [The Condon Report: CU Boulder’s Historic UFO Study](https://www.coloradan.com/2021/11/05/condon-report-cu-boulders-historic-ufo-study/)
+- [Condon Committee - Wikipedia](httpss://en.wikipedia.org/wiki/Condon_Committee)
+- [Scientific Study of Unidentified Flying Objects (PDF) - DTIC](https://apps.dtic.mil/sti/tr/pdf/AD0deg80975.pdf)
+- [Condon Report, Section II: Summary of the Study](http://files.ncas.org/condon/text/sec-ii.htm)
+- [The Condon Report: CU Boulder’s Historic UFO Study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)

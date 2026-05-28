@@ -15,16 +15,13 @@ Devices that use electric fields to move fluids, related to the principles of th
 Primary witness of the Kumburgaz UFO videos.
 
 ### Sea of Marmara (places)
-Location of the Kumburgaz UFO sightings.
+Location of the Kumbinturgaz UFO sightings.
 
 ### Calvin Parker (people)
 One of the two primary witnesses to the 1973 Pascagoula incident.
 
 ### The Hickson Tapes (audio/evidence)
 An audio/evidence recording of the initial, distressed statements made by Hickman and Parker to authorities.
-
-### Condon Committee (organizations)
-The University of Colorado UFO project (1966-1968) led by Dr. Edward Condon, which resulted in the highly controversial Condon Report and influenced the shutdown of Project Blue Book.
 
 ### Donald E. Keyhoe (people)
 The primary leader of NICAP.
@@ -46,3 +43,6 @@ U.S. Senator involved in UAP and NDAA legislation.
 
 ### Senator Marco Rubio (people)
 U.S. Senator involved in UAP and NDAA legislation.
+
+### Condon Committee (organizations)
+The University of Colorado UFO project (1966-1968) led by Dr. Edward Condon, which resulted in the highly controversial Condon Report and influenced the shutdown of Project Blue Book.
