@@ -18,3 +18,6 @@ The primary fighter aircraft used by Navy squadrons that encountered UAPs during
 
 ### Pascagoula Incident (1973)
 A famous 1973 alleged abduction and encounter near the Pascagoula River, involving Charles Hickson and Calvin Parker. The case is characterized by the "Hickson Tapes" and significant discrepancies in reported craft dimensions and humanoid entity descriptions.
+
+### Recovered Biologics (cases)
+Investigation into allegations of the U.S. government recovering biological remains of non-human intelligence from UAP crash sites, highlighted by the 2023 whistleblower testimony of David Grusch and subsequent 2024 NDAA provisions.

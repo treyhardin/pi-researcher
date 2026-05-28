@@ -38,11 +38,8 @@ A prominent UFOlogist and NICAP PR adviser.
 ### Advanced Aerospace Intelligence Integration (organizations)
 The connection between military intelligence programs (AARO, Project Blue Book) and advanced aeronautics development (Skunk Works, stealth technology) and their role in UAP research.
 
-### Xenobots (technologies)
+### Xenobot (technologies)
 Synthetic biological organisms used as a proof of concept for biological-technological integration.
-
-### Recovered Biologics (cases)
-Investigation into the claims of non-human biological remains recovered from UAP crash sites.
 
 ### NDAA Biological Evidence (organizations)
 Examining the legislative references to biological evidence within the U.S. National Defense Authorization Act.
