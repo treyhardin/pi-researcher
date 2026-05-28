@@ -36,7 +36,7 @@ A key figure in the NICAP investigation era.
 A prominent UFOlogist and NICAP PR adviser.
 
 ### Advanced Aerospace Intelligence Integration (organizations)
-The connection between military intelligence programs (AARO, Project Blue Book) and advanced aeronautics development (Skunk Works, stealth technology) and their role in UAP research.
+The intersection of military intelligence, specialized task forces (like AARO), and classified aerospace technology development in the study of UAP.
 
 ### Xenobot (technologies)
 Synthetic biological organisms used as a proof of concept for biological-technological integration.
