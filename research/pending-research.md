@@ -59,25 +59,14 @@ A key U.S. intelligence agency where David Grusch served as a senior official.
 ### National Reconnaissance Office (NRO) (organizations)
 A U.S. intelligence agency where David Grusch previously served as a representative.
 
-### Psionic Experiments (technologies/phenomena)
+### David Fravor (people)
+US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
 
-### Rob Weiss (people)
-Identified in relation to Skunk Works and UAP disclosure discussions.
+### USS Princeton (organizations)
+The Ticonderoga-class cruiser that detected anomalous aerial vehicles in 2004.
 
-### U-2 Spy Plane (technologies)
-Advanced reconnaissance aircraft developed by Skunk Works.
+### F/A-18 Super Hornet (technologies)
+The primary fighter aircraft involved in the 2004 Nimitz encounter.
 
-### F-117 Nighthawk (technologies)
-The first operational stealth fighter developed by Skunk Works.
-
-### SR-71 Blackbird (technologies)
-High-altitude, Mach 3+ reconnaissance aircraft developed by Skunk Works.
-
-### RQ-170 Sentinel (technologies)
-Stealth UAV developed by Skunk Works.
-
-### Have Blue (technologies)
-The technology demonstrator that paved the way for the F-117.
-
-### AARO (programs)
-All-domain Anomaly Resolution Office, responsible for investigating UAPs.
+### Aegis Combat System (technologies)
+The advanced radar and weapon system used to detect unidentified aerial phenomena.
