@@ -24,9 +24,6 @@ Primary witness of the Kumburgaz UFO videos.
 ### Sea of Marmara (places)
 Location of the Kumburgaz UFO sightings.
 
-### Yeni Kent facility (organizations)
-The facility where the witness was working during the sightings.
-
 ### David Fravor (people)
 US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
 
