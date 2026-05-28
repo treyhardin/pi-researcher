@@ -2,8 +2,6 @@
 
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
-### Biefeld-Brown effect (technologies)
-Appears frequently in research regarding Thomas Townsend Brown; involves thrust from asymmetric capacitors.
 
 ### Electrogravitics (technologies)
 A theoretical field proposed by Brown involving the manipulation of gravity via electric fields.
@@ -33,3 +31,13 @@ Devices that use electric fields to move fluids, related to the principles of th
 
 ### Electrokinetics Propulsion (technologies)
 Related to the movement of charged particles and the principles discussed in electrogravitics research.
+
+### Murat Yalcin Yalman (people)
+Primary witness of the Kumburgaz UFO videos.
+
+### Sea of Marmara (places)
+Location of the Kumburgaz UFO sightings.
+
+### Yeni Kent facility (organizations)
+The facility where the witness was working during the sightings.
+
