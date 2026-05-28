@@ -45,14 +45,11 @@ A prominent UFOlogist and NICAP PR adviser.
 ### Jim Slaight (people)
 Navy pilot who participated in the 2004 Tic Tac encounter with David Fravor.
 
-### Project Sign (programs)
-Predecessor to Project Blue Book.
-
 ### Project Grudge (programs)
 Predecessor to Project Blue Book.
 
 ### Dr. J. Allen Hynek (people)
-Key figure in the NICAP investigation era and examiner for Project Blue Book.
+Key and examiner for Project Blue Book.
 
 ### Wright-Patterson Air Force Base (places)
 Headquarters for Project Blue Book.
