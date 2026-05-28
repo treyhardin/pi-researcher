@@ -41,5 +41,8 @@ The intersection of military intelligence, specialized task forces (like AARO), 
 ### Xenobot (technologies)
 Synthetic biological organisms used as a proof of concept for biological-technological integration.
 
-### NDAA Biological Evidence (organizations)
-Examining the legislative references to biological evidence within the U.S. National Defense Authorization Act.
+### Senator Mike Rounds (people)
+U.S. Senator involved in UAP and NDAA legislation.
+
+### Senator Marco Rubio (people)
+U.S. Senator involved in UAP and NDAA legislation.
