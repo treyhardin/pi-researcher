@@ -17,9 +17,9 @@ Fravor's account has been a cornerstone of the modern UAP disclosure movement, p
 * **Luis Elizondo:** Former official in the AATIP/AAWSAP programs who has worked to bring these incidents to public light.
 
 ## Related Research
-* [[luis-elizondo]] (people)
-* [[aatip]] (programs)
-* [[david-grusch]] (people)
+* [Luis Elizondo](luis-elizondo.md)
+* [AATIP](../programs/aatip.md)
+* [David Grusch](david-grusch.md)
 
 ## Sources
 * [Statement to House Oversight Committee (2023)](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-FravorD-20230726.pdf)
