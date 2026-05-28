@@ -27,14 +27,10 @@ Location of the Kumburgaz UFO sightings.
 ### Yeni Kent facility (organizations)
 The facility where the witness was working during the sightings.
 
-### Jon Kosloski (people)
-Expert who has provided testimony to Congress regarding AARP and UAP.
-
-### Betty and Barney Hill (people)
-The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction, establishing the template for modern UFO lore.
-
 ### David Fravor (people)
 US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
+
+### AATIP (programs)
 Advanced Aerospace Threat Identification Program, a DoD program studying UAP.
 
 ### AAWSAP (programs)
@@ -48,12 +44,6 @@ A key U.S. intelligence agency where David Grusch served as a senior official.
 
 ### National Reconnaissance Office (NRO) (organizations)
 A U.S. intelligence agency where David Grusch previously served as a representative.
-
-### Betty and Barney Hill (people)
-The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction, establishing the template for modern UFO lore.
-
-### David Fravor (people)
-US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
 
 ### USS Princeton (organizations)
 The Ticonderoga-class cruiser that detected anomalous aerial vehicles in 2004.
