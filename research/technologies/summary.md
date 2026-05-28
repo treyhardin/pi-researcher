@@ -16,5 +16,6 @@ The theoretical field involving the use of electric fields to potentially manipu
 ### [Electrokinetics Propulsion](electrokinetics-propulsion.md)
 A class of propulsion technology using electric fields to drive charged particles in fluids, used in everything from micro-robotics to nano-satellite thrusters.
 
-### [Ion propulsion](ion-propulsion.md)
-A high-efficiency electric propulsion technology using ionized gas to generate thrust, ideal for long-duration space missions.
+### [Electrogravitic Propulsion History](electrogravitic-propulsion-history.md)
+A historical overview of the transition from the "electrogravitic" hypothesis of gravity manipulation to the modern understanding of electrohydrodynamic (EHD) propulsion and ion wind.
+

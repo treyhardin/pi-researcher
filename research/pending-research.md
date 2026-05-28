@@ -38,8 +38,5 @@ A prominent UFOlogist and NICAP PR adviser.
 ### Advanced Aerospace Intelligence Integration (organizations)
 The connection between military intelligence programs (AARO, Project Blue Book) and advanced aeronautics development (Skunk Works, stealth technology) and their role in UAP research.
 
-### Electrogravitic Propulsion History (technologies)
-The lineage from historical Biefeld-Brown effect experiments to modern electrohydrodynamic propulsion.
-
 ### Biological-Technological Convergence (theories)
 Investigating the potential link between anomalous technology (e.g., Biefeld-Brown effect) and biological recovery claims (e.g., Roswell/Wright-Patterson).
