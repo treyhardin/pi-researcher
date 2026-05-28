@@ -7,10 +7,13 @@ This directory contains research on various organizations involved in the study,
 ### [AATIP](../programs/aatip.md)
 The Advanced Aerospace Threat Identification Program, a DoD program studying UAP.
 
-### [Martin Marietta](../programs/martin-marietta.md)
+### [The Disclosure Project](../organizations/disclosure-project.md)
+An organization founded by Dr. Steven Greer dedicated to the disclosure of UAP and advanced technology information.
+
+### [Martin Marietta](../organizations/martin-marietta.md)
 A major aerospace and defense corporation that merged with Lockheed in 1995.
 
-### [Yeni Kent facility](../places/yeni-kent-facility.md)
+### [Yeni Kent facility](../organizations/yeni-kent-facility.md)
 A facility in Turkey where the Kumburgaz UFO videos were recorded.
 
 ### [NICAP](../organizations/nicap.md)

@@ -27,7 +27,10 @@ The protocol utilizes various physical and sensory signals to establish a presen
 5.  **Observation and Documentation:** Monitoring the environment for any anomalous lights, sounds, or physical manifestations.
 6.  **Decompression:** A period of reflection and group discussion of any perceived events.
 
-## Criticisms and Scientific Standing
-* **Lack of Empirical Evidence:** The scientific community generally views the CE5 protocol as pseudoscientific due to the difficulty in providing reproducible, objective evidence of "communication."
+## Related Topics
+* **[Dr. Steven Greer](../people/steven-greer.md)** (people)
+* **[The Disclosure Project](../organizations/disclosure-project.md)** (organizations)
+
+## Criticisms and Scientific Standing** The scientific community generally views the CE5 protocol as pseudoscientific due to the difficulty in providing reproducible, objective evidence of "communication."
 * **Observer Bias:** Critics argue that the protocol is highly susceptible to observer bias, where the expectation of an encounter leads participants to interpret natural phenomena (e.'s. satellites, drones, planets) as UAP.
 * **Psychological Factors:** The reliance on subjective mental states makes it hard to distinguish between an actual encounter and a profound psychological or hallucinatory response to the intense environment.
