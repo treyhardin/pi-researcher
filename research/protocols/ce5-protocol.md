@@ -3,7 +3,8 @@
 ## Overview
 The **CE5 Protocol** (Close Encounters of the Fifth Kind) is a structured methodology intended to foster communication and interaction with non-human intelligences (NHI) or Unidentified Anomalous Phenomena (UAP). It is based on the premise that human consciousness can act as a bridge to connect with other forms of intelligence.
 
-## Core Principles
+## Origins
+The protocol is primarily associated with the work of **Dr. Steven Greer** and the **Disclosure Project**. It emerged as part a broader effort to move UAP research from passive observation toward active, consciousness-driven engagement.
 
 ### 1. Intention
 The fundamental pillar of the protocol is the power of **intention**. Participants must maintain a clear, focused, and non-threatening mental broadcast, expressing a sincere desire to interact, observe, and learn from the phenomena.
