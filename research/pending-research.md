@@ -18,9 +18,6 @@ Location where Brown performed his early experiments in the 1920s.
 ### NICAP (organizations)
 An organization where Brown briefly served as highly important for UFO research.
 
-### Skunk Works (organizations)
-Highly innovative division of Lockheed Martin known for advanced aerospace projects and stealth technology.
-
 ### Martin Marietta (organizations)
 Company that merged with Lockheed to be part of Lockheed Martin in 1995.
 
@@ -63,4 +60,24 @@ A key U.S. intelligence agency where David Grusch served as a senior official.
 A U.S. intelligence agency where David Grusch previously served as a representative.
 
 ### Psionic Experiments (technologies/phenomena)
-The study of mental and intuitive abilities to interact with or influence UAP, as claimed by whistleblower Jake Barber.
+
+### Rob Weiss (people)
+Identified in relation to Skunk Works and UAP disclosure discussions.
+
+### U-2 Spy Plane (technologies)
+Advanced reconnaissance aircraft developed by Skunk Works.
+
+### F-117 Nighthawk (technologies)
+The first operational stealth fighter developed by Skunk Works.
+
+### SR-71 Blackbird (technologies)
+High-altitude, Mach 3+ reconnaissance aircraft developed by Skunk Works.
+
+### RQ-170 Sentinel (technologies)
+Stealth UAV developed by Skunk Works.
+
+### Have Blue (technologies)
+The technology demonstrator that paved the way for the F-117.
+
+### AARO (programs)
+All-domain Anomaly Resolution Office, responsible for investigating UAPs.
