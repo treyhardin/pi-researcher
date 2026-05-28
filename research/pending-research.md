@@ -4,10 +4,6 @@ This file tracks topics that have been identified during research but have not y
 
 
 
-### Electrohydrodynamics (new)
-### Electrohydrodynamics (new)
-The scientific explanation for the Biefeld-Brown effect, involving ionic wind.
-
 ### Paul Biefeld (people)
 Collaborator of Thomas Townsend Brown in the discovery of the Biefeld-Brown effect.
 
