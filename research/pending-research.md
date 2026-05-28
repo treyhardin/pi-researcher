@@ -30,10 +30,11 @@ The facility where the witness was working during the sightings.
 ### Jon Kosloski (people)
 Expert who has provided testimony to Congress regarding AARP and UAP.
 
-### Al Taqaddum Air Base (places)
-Location of a significant UAP incident involving an arbitrary infrared sensor in 2017.
+### Betty and Barney Hill (people)
+The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction, establishing the template for modern UFO lore.
 
-### AATIP (programs)
+### David Fravor (people)
+US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
 Advanced Aerospace Threat Identification Program, a DoD program studying UAP.
 
 ### AAWSAP (programs)

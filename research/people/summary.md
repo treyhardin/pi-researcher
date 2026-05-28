@@ -18,3 +18,6 @@ A U.S. Air Force veteran and former helicopter pilot turned whistleblower, who c
 
 ### [Sean Kirkpatrick](sean-kirkpatrick.md)
 The first director of the U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO), responsible for overseeing investigations into Unidentified Anomalous Phenomena (UAP).
+
+### [Betty and Barney Hill](betty-and-barney-hill.md)
+The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction.
