@@ -11,7 +11,7 @@ The "Nimitz encounter" refers to a series of highly significant and well-documen
 * **Context:** The USS Nimitz was conducting routine training exercises in preparation for deployment to the Arabian Sea.
 
 ### The Phenomenon and Flight Characteristics
-The encounters involved multiple "Anomalous Aerial Vehicles" (AAVs) or "Unprecedented Aerial Vehicles" (UAVs) that exhibited flight capabilities far beyond known human technology.
+The encounters involved multiple "Anomalous Aerial Vehicles" (AAVs) or "Unprecented Aerial Vehicles" (UAVs) that exhibited flight capabilities far beyond known human technology.
 * **Extreme Maneuverability:** The objects were observed performing rapid descents from high altitudes (60,000–80,000 feet) to near sea level (~50 feet) in a matter of seconds.
 * **"Tic-Tac" Shape:** Witnesses, including Commander David Fravor, described the objects as having a smooth, white, "tic-tac" shape with no visible wings, rotors, or propulsion systems.
 * **High Velocity and Hovering:** The objects demonstrated high-velocity motion, sudden stops, and the ability to hover stationary despite being in a high-wind environment.
@@ -24,7 +24,7 @@ The encounters involved multiple "Anomalous Aerial Vehicles" (AAVs) or "Unpreced
 
 ### Sensor and Radar Evidence
 The encounter was not merely visual; it was supported by advanced military sensor data:
-* **SPY-1 Aegis Radar:** The USS Princeton, an Aegist-equipped cruiser, detected multiple unknown aerial contacts that could not be identified as known aircraft or even birds/debris.
+* **SPY-1 Aegis Radar:** The USS Princeton, an Aegis-equipped cruiser, detected multiple unknown aerial contacts that could not be identified as known aircraft or even birds/debris.
 * **FLIR/Infrared Cameras:** Pilots reported observing the objects on their aircraft's infrared targeting systems, noting the distinct thermal signatures and movement patterns.
 
 ## Key Entities/Facts
@@ -34,8 +34,12 @@ The encounter was not merely visual; it was supported by advanced military senso
 * **Key Aircraft:** F/A-18 Super Hornet, E-2C Hawkeye.
 * **Core Phenomenon:** "Tic-Tac" UAP/UAV.
 
+## Related Research
+- [Commander David Fravor](people/david-fravor.md)
+- [AATIP Program](programs/aatip.md)
+
 ## Sources
 * [The Vault Files: The “Tic-Tac” Incident, November 14, 2004 - The Black Vault Case Files](https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/)
-* [The Truth About the Navy’s Nimitz Encounter UFO Sightings - Popular Mechanics](httpshttps://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/)
+* [The Truth About the Navy’s Nimitz Encounter UFO Sightings - Popular Mechanics](https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/)
 * [Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter - MDPI](https://www.mdpi.com/2504-3900/33/1/26)
-* [USS Princeton radar detection reports - Handprint.com](https://handprint.com/UFO/2004Nimitz_AATIP.pdf)
+* [USS Princeton radar detection reports - Handprint.com](httpshttps://handprint.com/UFO/2004Nimitz_AATIP.pdf)

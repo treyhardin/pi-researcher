@@ -1,25 +1,28 @@
 # David Fravor
 
 ## Summary
-Commander David Fravor is a retired US Navy fighter pilot who became a key witness in the 2004 "Nimitz encounter," one of the most significant documented UAP (Unidentified Anomalous Phenomena) incidents in recent history.
+Retired US Navy Commander and former Commanding Officer of Strike Fighter Squadron Forty-One (VFA-41 "Black Aces"). He is widely known for his firsthand account of a highly anomalous "Tic Tac" shaped Unidentified Anomalous Phenomenon (UAP) encounter in November 2004.
 
 ## Detailed Findings
-In November 2004, while piloting an F/A-18 Super Hornet near the USS Princeton, Commander David Fravor and his wingman encountered multiple UAPs operating in the airspace. These objects, often described as "Tic Tacs" due to their white, smooth, and oblong shape, exhibited flight characteristics that defy known physics.
+In November 2004, while operating as part of the USS Nimitz (CVN-68) Carrier Strike Group off the coast of San Diego, Commander David Fravor and Lt. Cmdr. Jim Slaight encountered an unidentified object. The object was described as white, oval, and smooth, resembling a "Tic Tac" candy. The craft exhibited extraordinary flight characteristics, including the ability to descend rapidly from approximately 60,000 feet to 50 feet in a matter of seconds without apparent aerodynamic control surfaces or visible propulsion.
 
-### Key Observations:
-- **Extreme Maneuverability:** The objects performed rapid, high-G maneuvers, sudden stops, and instantaneous direction changes without any apparent inertia or visible control surfaces.
-- **Lack of Propulsion:** No visible exhaust, wings, or rotors were observed, suggesting an advanced form of propulsion.
-- **Sensor Correlation:** The sightings were corroborated by radar data from the USS Princeton, which tracked objects performing similar anomalous maneuvers.
-- **Interaction with Aircraft:** The objects appeared to "interact" with the F/A-18s, sometimes appearing directly in front of them or moving in ways that suggested awareness of the pilots.
+Fravor's account has been a cornerstone of the modern UAP disclosure movement, particularly following his 2023 testimony before the House Oversight Committee. His experiences were also subject to investigation under the Pentagon's Advanced Aerospace Threat Identification Program (AATIP) and the Unidentified Aerial Phenomena Task Force/All-domain Anomaly Resolution Office (AARO) precursors.
 
 ## Key Entities/Facts
-- **Primary Aircraft:** F/A-18 Super Hornet.
-- **Key Vessel:** USS Princeton (CG-59).
-- **Incident Name:** 2004 Nimitz Encounter.
-- **Object Shape:** "Tic Tac" (oblong, smooth, white).
-- **Primary Pilot:** Commander David Fravor.
+* **VFA-41 (Black Aces):** The U.S. Navy Strike Fighter Squadron commanded by Fravor during the 2004 incident.
+* **USS Nimitz (CVN-68):** The aircraft carrier that was part of the Carrier Strike Group during the encounter.
+* **USS Princeton:** Another carrier in the strike group that reportedly detected multiple Anomalous Aerial Vehicles (AAVs) during the same period.
+* **Jim Slaight:** The Navy pilot who was flying alongside Fravor during the encounter.
+* **AATIP/AAWSAP:** The Pentagon programs that investigated these and other UAP incidents.
+* **Luis Elizondo:** Former official in the AATIP/AAWSAP programs who has worked to bring these incidents to public light.
+
+## Related Research
+* [[luis-elizondo]] (people)
+* [[aatip]] (programs)
+* [[david-grusch]] (people)
 
 ## Sources
-- [US Navy Reports and Testimony (General Reference)](#)
-- [News Archives regarding the 2004 Nimitz Incident](#)
-- [Public interviews with David Fravor (e.g., 60 Minutes, various podcasts)](#)
+* [Statement to House Oversight Committee (2023)](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-FravorD-20230726.pdf)
+* [The Seattle Times: ‘Pretty weirded out’: Pilot recalls close encounter](https://www.seattletimes.com/nation-world/pretty-weirded-out-pilot-recalls-close-encounter-with-strange-aircraft/)
+* [The Black Vault: Tic Tac Case Files](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)
+* [Joe Rogan Experience #1361 - Cmdr. David Fravor & Jeremy Corbell](https://www.youtube.com/watch?v=Eco2s3-0zsQ)

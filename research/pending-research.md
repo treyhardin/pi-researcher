@@ -24,12 +24,6 @@ Primary witness of the Kumburgaz UFO videos.
 ### Sea of Marmara (places)
 Location of the Kumburgaz UFO sightings.
 
-### David Fravor (people)
-US Navy pilot and key eyewitness to the2004 Nimitz encounter.
-
-### Charles Hickson (people)
-One of the two primary witnesses to the 1973 Pascagoula incident.
-
 ### Calvin Parker (people)
 One of the two primary witnesses to the 1973 Pascagoula incident.
 
@@ -53,3 +47,9 @@ A prominent UFOlogist and NICAP PR adviser.
 
 ### T. Townsend Brown (people)
 An early leader in NICAP.
+
+### Jim Slaight (people)
+Navy pilot who participated in the 2004 Tic Tac encounter with David Fravor.
+
+### Jay Stratton (people)
+Former official involved in AATIP/AAWSAP investigations.

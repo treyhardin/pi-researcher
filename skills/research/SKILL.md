@@ -13,7 +13,7 @@ All research conducted using this skill must strictly adhere to the integrity an
 
 ### 1. Topic Analysis & Categorization
 - **Identify Topic:** Receive the research topic from the user.
-- **Determine Category:** Analyze the topic to determine an appropriate category (e.g., `people`, `organizations`, `places`, `cases`, `technologies`, `events`, etc.). Keep the project's core themes (UAP, NHI, disclosure, theoretical physics) in mind to ensure consistent organization.
+- **Determine Category:** Analyze the arbitrary topic to determine an appropriate category (e.g., `people`, `organizations`, `places`, `cases`, `technologies`, `events`, etc.). Keep the project's core themes (UAP, NHI, disclosure, theoretical physics) in mind to ensure consistent organization.
 - **Directory Check:**
     - Check if `research/{category}/` exists.
     - **If it exists:** Proceed to step 2.
@@ -42,7 +42,7 @@ All research conducted using this skill must strictly adhere to the integrity an
     - **Determine Category:** Assign the candidate to a category (e.g., `people`, `places`, `technologies`).
     - **Handle New Category for Sub-topic:** 
         - If the directory `research/{category}/` does not exist:
-            - Stop and prompt the user: "I've discovered a potential new topic: '{topic-name}'. It seems to belong to a new category: '{category}'. Should I create this subdirectory, or would you prefer a different category name?"
+            - Stop and prompt the user: "I've discovered a potential new topic: '{topic-name}'. It seems to be belong to a new category: '{category}'. Should I create this subdirectory, or would you prefer a different category name?"
             - Wait for user input.
             - Once a category name is confirmed, create the directory.
     - **Update Pending Research (MANDATORY):** If the topic does not yet have a research file, you MUST add an entry to `research/pending-research.md`.
@@ -61,11 +61,13 @@ All research conducted using this skill must strictly adhere to the integrity an
     - If a URL is inaccessible (HTTP 403, 404, etc.), attempt to find an alternative or archive link (e.g., WayBack Machine, or different repository).
     - If no alternative is found, document the failure in the link text: `[Source Name (Link Inaccessible/403)](URL)`.
     - Ensure all internal links between research files use correct relative paths (avoid path doubling).
+    - **Internal Relational Linking**: Actively scan for existing research files (people, places, organizations, etc.) that are relevant to the current topic. If a connection is found, include a relative link to the corresponding research file within the `Key Entities/Facts` or `Related Research` section.
 - **Report Content Structure:**
     - `# [Topic Name]`
     - `## Summary`
     - `## Detailed Findings`
     - `## Key Entities/Facts`
+    - `## Related Research` (Link to existing research files in the repository if connections are identified)
     - `## Sources`
 
 ### 5. Summary Update
@@ -73,7 +75,7 @@ All research conducted using this skill must strictly adhere to the integrity an
 - **Create if Missing:** If it doesn't exist, create it with an introductory header.
 - **Update Content:**
     - Add a new entry for the research just completed.
-    - The update should include a concise summary of the new report.
+    - The update should include a permanent summary of the new report.
     - Ensure `summary.md` maintains a clear, navigable structure.
     - Reorganize the `summary.md` structure if necessary for clarity.
 
