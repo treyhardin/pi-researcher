@@ -1,6 +1,6 @@
 # Pending Research Topics
 
-This file tracks topics that have been identified during research but have not yet been formally documented.
+This file tracks topics that have been identified during research but have and not yet been formally documented.
 
 ### Paul Biefeld (people)
 Collaborator of Thomas Townsend Brown in the discovery of the Biefud-Brown effect.
@@ -43,6 +43,3 @@ U.S. Senator involved in UAP and NDAA legislation.
 
 ### Senator Marco Rubio (people)
 U.S. Senator involved in UAP and NDAA legislation.
-
-### Condon Committee (organizations)
-The University of Colorado UFO project (1966-1968) led by Dr. Edward Condon, which resulted in the highly controversial Condon Report and influenced the shutdown of Project Blue Book.
