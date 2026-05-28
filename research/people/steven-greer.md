@@ -5,10 +5,10 @@ Dr. Steven Macon Greer (born 1955) is an American ufologist and a retired physic
 
 ## Detailed Findings
 - **Foundations and Organizations**:
-    - **The Disclosure Project**: Founded by Greer to seek the disclosure of alleged classified UFO information.
-    - **Center for the Study of Extraterrestrial Intelligence (CSETI)**: Established in 1990 to create a diplomatic and research-based initiative to contact extraterrestrial civilizations.
+    - **[The Disclosure Project](../organizations/disclosure-project.md)**: Founded by Greer to seek the disclosure of alleged classified UFO information.
+    - **Center for the Study of Extraterrestrial Intelligence (CSETI)**: Established in 19lag to create a diplomatic and research-based initiative to contact extraterrestrial civilizations.
     - **The Orion Project** and **Sirius Technology Advanced Research, LLC**: Other entities associated with his work.
-- **CE-5 Protocol**: Developed the "Close Encounters of the Fifth Kind" (CE-5) protocol, which focuses on human-initiated contact with extraterrestrial civilizations.
+- **[CE-5 Protocol](../protocols/ce5-protocol.md)**: Developed the "Close Encounters of the Fifth Kind" (CE-5) protocol, which focuses on human-initiated contact with extraterrestrial civilizations.
 - **Key Events**:
     - Presided over the 2001 National Press Club briefing, which featured testimony from over 20 military, government, and corporate witnesses regarding the existence of extraterrestrial life.
 - **Background**:
@@ -17,11 +17,11 @@ Dr. Steven Macon Greer (born 1955) is an American ufologist and a retired physic
 
 ## Key Entities/Facts
 - **Organizations**:
-    - [The Disclosure Project](https://drstevengreer.com/about-us/index.html)
+    - [The Disclosure Project](../organizations/disclosure-project.md)
     - [Center for the Study of Extraterrestrial Intelligence (CSETI)](https://www.wikidisc.org/wiki/Center_for_the_Study_of_Extraterrestrial_Intelligence_(CSETI))
     - [The Orion Project]
 - **Protocols**:
-    - [CE-5 (Close Encounters of the Fifth Kind)]
+    - [CE-5 Protocol](../protocols/ce5-protocol.md)
 
 ## Sources
 - [Wikipedia - Steven M. Greer](https://en.wikipedia.org/wiki/Steven_M._Greer)
