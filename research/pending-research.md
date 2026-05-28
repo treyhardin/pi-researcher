@@ -3,7 +3,7 @@
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
 ### Paul Biefeld (people)
-Collaborator of Thomas Townsend Brown in the discovery of the Biefeld-Brown effect.
+Collaborator of Thomas Townsend Brown in the discovery of the Biefud-Brown effect.
 
 ### Denison University (organizations)
 Location where Brown performed his early experiments in the 1920s.
@@ -21,7 +21,7 @@ Location of the Kumburgaz UFO sightings.
 One of the two primary witnesses to the 1973 Pascagoula incident.
 
 ### The Hickson Tapes (audio/evidence)
-An audio/evidence recording of the initial, distressed statements made by Hickson and Parker to authorities.
+An audio/evidence recording of the initial, distressed statements made by Hickman and Parker to authorities.
 
 ### Condon Committee (organizations)
 A scientific study of UFOs that significantly highly impacted research.
@@ -35,8 +35,11 @@ A key figure in the NICAP investigation era.
 ### Leonard Stringfield (people)
 A prominent UFOlogist and NICAP PR adviser.
 
-### Jim Slaight (people)
-Navy pilot who participated in the 2004 Tic Tac encounter with David Fravor.
+### Advanced Aerospace Intelligence Integration (organizations)
+The connection between military intelligence programs (AARO, Project Blue Book) and advanced aeronautics development (Skunk Works, stealth technology) and their role in UAP research.
 
-### Project Grudge (programs)
-Predecessor to Project Blue Book.
+### Electrogravitic Propulsion History (technologies)
+The lineage from historical Biefeld-Brown effect experiments to modern electrohydrodynamic propulsion.
+
+### Biological-Technological Convergence (theories)
+Investigating the potential link between anomalous technology (e.g., Biefeld-Brown effect) and biological recovery claims (e.g., Roswell/Wright-Patterson).
