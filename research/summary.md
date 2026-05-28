@@ -32,5 +32,12 @@ The research also focuses on specific, documented events that serve as catalysts
 * **The Pascagoula Incident (1973):** A significant case involving an alleged abduction and encounter near the Pascagoula River. This case is notably characterized by the "Hickson Tapes" and documented descriptions of humanoid entities and anomalous craft movement, highlighting the physical and human-centric aspects of close encounters.
 * **Technological Detection (Raytheon):** The development of advanced sensors by companies like **Raytheon** (e.g., AESA radar and Advanced Targeting FLIR) has been critical in providing the high-sensitivity data necessary to detect and record UAPs during major encounters like the 2004 Nimitz incident.
 
+## 5. Historical Infrastructure and the Legend of Hangar 18
+
+The physical sites of past investigations often bridge the gap between official military history and modern UFO mythology.
+
+* **Wright-Patterson Air Force Base (WPAFB):** As the headquarters for **Project Blue Book**, WPAFB is a cornerstone of UAP history. Its role in official investigations of thousands of sightings makes it a primary site for historical and scientific study. 
+* **The Hangar 18 Mythos:** WPAFB is also the epicenter of the **"Hangar 18" legend**, which alleges the base houses recovered extraterrestrial technology and biological remains. This myth highlights the enduring cultural impact of official UFO investigation programs.
+
 ---
 *This summary is a living document, subject to expansion as new research is conducted and new connections are identified.*

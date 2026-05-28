@@ -40,6 +40,3 @@ Navy pilot who participated in the 2004 Tic Tac encounter with David Fravor.
 
 ### Project Grudge (programs)
 Predecessor to Project Blue Book.
-
-### Wright-Patterson Air Force Base (places)
-Headquarters for Project Blue Book.
