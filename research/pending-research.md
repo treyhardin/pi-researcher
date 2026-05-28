@@ -27,9 +27,6 @@ Location of the Kumburgaz UFO sightings.
 ### David Fravor (people)
 US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
 
-### AATIP (programs)
-Advanced Aerospace Threat Identification Program, a DoD program studying UAP.
-
 ### AAWSAP (programs)
 Advanced Aerospace Weapon System Applications Program, a program studying UAP.
 
@@ -55,7 +52,7 @@ One of the two primary witnesses to the 1973 Pascagoula incident.
 One of the two primary witnesses to the 1973 Pascagoula incident.
 
 ### The Hickson Tapes (audio/evidence)
-An audio recording of the initial, distressed statements made by Hickson and Parker to authorities.
+An audio/evidence recording of the initial, distressed statements made by Hickson and Parker to authorities.
 
 ### Condon Committee (organizations)
 A scientific study of UFOs that significantly highly impacted research.
