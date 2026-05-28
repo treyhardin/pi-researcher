@@ -25,25 +25,7 @@ Primary witness of the Kumburgaz UFO videos.
 Location of the Kumburgaz UFO sightings.
 
 ### David Fravor (people)
-US Navy pilot and key eyewitness to the 2004 Nimitz encounter.
-
-### AAWSAP (programs)
-Advanced Aerospace Weapon System Applications Program, a program studying UAP.
-
-### Stargate Program (programs)
-CIA remote-viewing program mentioned in relation to officials like Puthoff.
-
-### National Geospatial-Intelligence Agency (NGA) (organizations)
-A key U.S. intelligence agency where David Grusch served as a senior official.
-
-### National Reconnaissance Office (NRO) (organizations)
-A U.S. intelligence agency where David Grusch previously served as a representative.
-
-### USS Princeton (organizations)
-The Ticonderoga-class cruiser that detected anomalous aerial vehicles in 2004.
-
-### F/A-18 Super Hornet (technologies)
-The primary fighter aircraft involved in the 2004 Nimitz encounter.
+US Navy pilot and key eyewitness to the2004 Nimitz encounter.
 
 ### Charles Hickson (people)
 One of the two primary witnesses to the 1973 Pascagoula incident.

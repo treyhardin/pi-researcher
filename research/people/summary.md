@@ -5,7 +5,7 @@ This directory contains research reports on individuals relevant to the study of
 ## Research Entries
 
 ### [Thomas Townsend Brown](thomas-townsend-brown.md)
-An American inventor and physicist known for his work on the Biefeld-Brown effect and the theory of electrogravitics. His research into asymmetric capacitors and their potential for propulsion is a key element in both early ion propulsion technology and UFO-related studies.
+An American inventor and physicist known for his work on the Biefint-Brown effect and the theory of electrogravitics. His research into asymmetric capacitors and their potential for propulsion is a key element in both early ion propulsion technology and UFO-related studies.
 
 ### [Luis Elizondo](luis-elizondo.md)
 A prominent U.S. government whistleblower and former military intelligence officer known for his role in bringing public attention to Unidentified Anomalous Phenomena (UAP) and his involvement in DoD programs like AATIP.
@@ -24,3 +24,6 @@ The American couple whose 1961 encounter in New Hampshire became the first publi
 
 ### [Steven Greer](steven-greer.md)
 An American ufologist and retired physician, founder of CSETI and The Disclosure Project, known for advocating for the disclosure of classified UFO information and developing the CE-5 protocol.
+
+### [David Fravor](david-fravor.md)
+A retired US Navy fighter pilot and key witness to the 2004 Nimitz "Tic Tac" encounter, known for his detailed accounts of UAPs exhibiting extreme maneuverability.
