@@ -33,3 +33,24 @@ This file contains instructions on how the AI agent should behave, communicate, 
 - **Immediate Synchronization:** Strictly adhere to the `CRITICAL` instruction to execute `git push origin main` immediately after committing research findings. Never assume the user will prompt for the push.
 - **Discrepancy Analysis:** In cases involving multiple witness accounts or historical reports, actively search for and document discrepancies in timeline, physical dimensions, and descriptions to provide a comprehensive view of the phenomenon.
 - **Tool Parameter Precision:** When encountering tool validation errors, re-verify the parameter structure and schema adherence to ensure correct execution.
+
+## Decision Protocol
+- Reason about a task ONCE before acting. Do not re-evaluate the same decision.
+- If you find yourself reconsidering a choice you already made, STOP and execute instead.
+- "I will check X" means you check X immediately in the next tool call — not plan to check it.
+
+## Prohibited Patterns
+- Do not output phrases like "wait", "actually", "let me reconsider", or "on second thought"
+- Do not explain what you're about to do — just do it
+- Do not restate the task before acting on it
+
+## Reasoning Budget
+Limit internal deliberation to identifying: (1) what file/tool to touch, (2) what change to make.
+Do not reason about whether your previous reasoning was correct.
+
+## Before Any File Operation
+State only:
+- TARGET: <file path>
+- ACTION: <create | edit | delete>
+- REASON: <one sentence>
+Then execute immediately.

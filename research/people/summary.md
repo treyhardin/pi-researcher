@@ -22,5 +22,5 @@ The first director of the U.S. Department of Defense's All-domain Anomaly Resolu
 ### [Betty and Barney Hill](betty-and-barney-hill.md)
 The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction.
 
-### [Jon Kosloski](jon-kosloski.md)
-Director of AARO, providing key testimony to Congress on UAP investigations.
+### [Steven Greer](steven-greer.md)
+An American ufologist and retired physician, founder of CSETI and The Disclosure Project, known for advocating for the disclosure of classified UFO information and developing the CE-5 protocol.

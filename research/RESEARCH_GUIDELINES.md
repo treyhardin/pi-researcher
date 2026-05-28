@@ -28,3 +28,8 @@ To maintain a high standard of evidence-backed research where all cited sources 
 ### 4. Continuous Audit
 - Periodically run the `validate_links.py` script to identify and remediate any newly introduced broken links.
 - Update these guidelines if new patterns of broken links or researcher-specific complexities emerge.
+
+### 5. Cross-Referencing and Entity Linking
+- **Identify Related Topics**: When conducting research, actively look for connections between different categories (people, places, technologies, organizations, etc.).
+- **Categorical Linking**: If a subject (e.g., a location) is related to an entity in another directory (e.g., a person in `/research/people/`), add a clear reference to that entity in the `Key Entities/Facts` or a dedicated `Related Entities` section.
+- **Maintain Directory Integrity**: Ensure all cross-references use the established relative pathing standards.
