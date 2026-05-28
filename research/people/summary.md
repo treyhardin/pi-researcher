@@ -28,5 +28,5 @@ The first director of the U.S. Department of Defense's All-domain Anomaly Resolu
 ### [Steven Greer](steven-greer.md)
 An American ufologist and retired physician, founder of CSETI and The Disclosure Project, known for advocating for the highly classified UFO information and developing the CE-5 protocol.
 
-### [Thomas Townsend Brown](thomas-townsend-brown.md)
-An American inventor and physicist known for his work on the Biefeld-Brown effect and the theory of electrogravitics. His research into asymmetric capacitors and their potential for propulsion is a key element in both early ion propulsion technology and UFO-related studies.
+### [Marco Rubio (people)](marco-rubio.md)
+U.S. Senator and Vice Chairman of the Senate Intelligence Committee, leading bipartisan legislative efforts for UAP disclosure and oversight.

@@ -43,3 +43,7 @@ U.S. Senator involved in UAP and NDAA legislation.
 
 ### Senator Marco Rubio (people)
 U.S. Senator involved in UAP and NDAA legislation.
+### Xenobot (technologies)
+Synthetic biological organisms used as a proof of concept for biological-technological integration.
+### Senator Mike Rounds (people)
+U.S. Senator involved in UAP and NDAA legislation.
