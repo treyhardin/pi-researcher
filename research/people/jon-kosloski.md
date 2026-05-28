@@ -26,6 +26,13 @@ On November 19, 2024, Dr. Kosloski testified before the Senate Armed Services Su
 - **Assumed Office:** August 2024
 - **Key Event:** Testimony before the Senate Armed Services Subcommittee on November 19, 2024.
 
+
+
+
+
+## Related Topics
+### Organizations
+- [All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md)
 ## Sources
 - [Senate Testimony Transcript (November 19, 2024)](https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript?download=1)
 - [UAP Hearing 20241119 – SASC Hearing on the Activities of AARO | Anomaly Archives](https://anomalyarchives.org/collections/file/uap-hearing-20241119-senate-armed-services-subcommittee-hearing-on-the-activities-of-aaro/)

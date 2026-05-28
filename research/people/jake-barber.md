@@ -14,9 +14,4 @@ Jake Barber is a U.S. Air Force veteran and former helicopter pilot who has emer
 - **Prominent Interviews:** Has appeared on Ross Coulthart's programs (e.g., *Reality Check* on NewsNation) to share his testimony.
 - **Evidence:** Claims to possess documentation of his service and other evidence that he intends to release to support his claims.
 
-## Related Topics
-- UAP Retrieval Programs
-- Non-Human Intelligence (NHI)
-- Psionic Experiments
-- Ross Coulthart
-- Skywatcher
+

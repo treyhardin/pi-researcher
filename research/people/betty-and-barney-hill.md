@@ -25,6 +25,13 @@ The Hill case is significant because it was the first account to move from a sim
 - **Individuals:** Betty Hill, Barney Hill
 - **Key Elements:** UFO sighting, time loss, hypnotic regression, humanoid beings, medical examination.
 
+
+
+
+
+## Related Topics
+### Organizations
+- [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
 ## Sources
 - [NICAP Report: Hill Case (PDF)](https://nicap.org/reports/610919hill_report1.pdf)
 - [The Hill Case (NICAP)](http://www.nicap.org/reports/hill.htm)

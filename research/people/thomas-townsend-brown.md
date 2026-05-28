@@ -27,6 +27,18 @@ A critical distinction exists between Brown's interpretation and the modern scie
 - **Key Terms:** Bief_feld-Brown effect, Electrogravitics, Electrohydrodynamics (EHD), Ion Propulsion, NICAP
 - **Notable Organizations:** Denison University (early experiments), Office of Naval Research (investigations)
 
+
+
+
+
+## Related Topics
+### Organizations
+- [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
+### Technologies
+- [Biefeld-Brown Effect](../technologies/biefeld-brown-effect.md)
+- [Electrogravitics](../technologies/electrogravitics.md)
+- [Electrohydrodynamics](../technologies/electrohydrodynamics.md)
+- [Ion propulsion](../technologies/ion-propulsion.md)
 ## Sources
 - [Thomas Townsend Brown - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)
 - [Thomas Townsend Brown | Stephen M. Walker II](https://smw.ai/research/townsend-brown)

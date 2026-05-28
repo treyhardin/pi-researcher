@@ -13,6 +13,13 @@ The Kumburgaz UFO case is notable for the volume of footage (over 25 videos) and
 - **Object Characteristics:** Disc and oval-shaped, metallic, sometimes with red/orange lights
 - **Expert Validation:** Prof. Dr. Zeki Eker (Director of the Turkish National Observatory of Science and Technology) analyzed the footage and stated it was not a model or computer-generated imagery.
 
+
+
+
+
+## Related Topics
+### Organizations
+- [Yeni Kent Facility](../organizations/yeni-kent-facility.md)
 ## Sources
 - [UAPedia - Kumburgaz, Turkey (2007-2009)](https://www.uapedia.ai/wiki/kumburgaz-turkey-2007-2009/)
 - [The UFO Database - Kumburgast, Turkey UFO Sightings](https://theufodatabase.com/incidents/kumburgaz-turkey-ufo-sightings)

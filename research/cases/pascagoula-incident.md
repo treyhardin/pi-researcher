@@ -42,6 +42,13 @@ The encounter involved an unidentified aerial phenomenon (UAP) and a close encou
 * **Associated Program/Evidence:** The "Hickson Tapes" (police recordings); Coast Guard reports of an amber beam.
 * **Core Phenomenon:** Alien Abduction / Close Encounter of the Third Kind.
 
+
+
+
+
+## Related Topics
+### Organizations
+- [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
 ## Sources
 * [The Pascagoula Abduction Case, 1973: An Investigative Synthesis - UAPedia](https://www.uapedia.ai/wiki/the-pascagoula-abduction-case-1973-an-investigative-synthesis/)
 * [Pascagula Abduction - Wikipedia](httpshttps://en.m.wikipedia.org/wiki/Pascagoula_Abduction)

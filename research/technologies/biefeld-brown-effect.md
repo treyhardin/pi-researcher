@@ -30,6 +30,16 @@ Despite the controversy surrounding its fundamental nature, the principles of th
 - **Ionic Wind**: The currently accepted scientific explanation for the thrust in atmospheric conditions.
 - **Electrogravitics**: The term used by Brown to describe the hypothesized interaction between electricity and gravity.
 
+
+
+
+
+## Related Topics
+### People
+- [Thomas Townsend Brown](../people/thomas-townsend-brown.md)
+### Technologies
+- [Electrogravitics](electrogravitics.md)
+- [Electrohydrodynamics](electrohydrodynamics.md)
 ## Sources
 - [Bief-Brown effect - Wikipedia](httpshttps://en.wikipedia.org/wiki/Biefeld-Brown_effect)
 - [Force on an Asymmetric Capacitor - DTIC](httpshttps://apps.dtic.mil/sti/tr/pdf/ADA416740.pdf)

@@ -24,6 +24,13 @@ The "Kumburgaz UFO Videos" are highly regarded in the UAP community due to the c
 - **Timeline:** 2007–2009.
 - **Facility Name:** Yeni Kent Compound / Complex.
 
+
+
+
+
+## Related Topics
+### Cases
+- [Kumburgaz UFO](../cases/kumburgaz-ufo.md)
 ## Sources
 - [Kumburgaz, Turkey (2007-2009) - UAPedia](https://www.uapedia.ai/wiki/kumburgaz-turkey-2007-2009/)
 - [Kumburgaz, Turkey UFO Sightings | The UFO Database](https://theufodatabase.com/incidents/kumburgaz-turkey-ufo-sightings)

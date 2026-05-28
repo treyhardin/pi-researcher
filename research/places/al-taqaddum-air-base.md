@@ -28,6 +28,13 @@ Despite the official conclusion of it being a balloon cluster, the Al Taqaddum f
 - **Balloon Cluster Hypothesis:** The official identification of the object.
 - **October 23, 2017:** The date of the recorded encounter.
 
+
+
+
+
+## Related Topics
+### Organizations
+- [All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md)
 ## Sources
 - **UAP Imagery - AARO** - [AARO Official Site](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)
 - **AARO UAP Case Resolution Reports** - [AARO Official Site](https://www.aaro.mil/UAP-Cases/UAP-Case-判Resolution-Reports/)

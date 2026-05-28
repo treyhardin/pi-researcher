@@ -28,6 +28,13 @@ Grusch's testimony shifted the UAP conversation from "fringe" theories to a seri
 - **Core Issues:** Lack of Congressional oversight, illegal Special Access Programs (SAPs), and government suppression of UAP information.
 - **Related Organizations:** National Geospatial-Intelligence Agency (NGA), National Reconnaissance Office (NRO), U.S. House Committee on Oversight and Accountability, AARO.
 
+
+
+
+
+## Related Topics
+### Organizations
+- [All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md)
 ## Sources
 - [Congressional Testimony (PDF)](https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GruschD-20230726.pdf)
 - [David Grusch UFO whistleblower claims - Wikipedia](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)

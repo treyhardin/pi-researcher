@@ -20,6 +20,16 @@ Key aspects of AARO's work include:
 - **Significant Incident:** **Al Taqaddum Air Base, Iraq (2017):** An incident where an infrared sensor recorded an unidentified object appearing to float above the ground, which AARO assessed with high confidence as not exhibiting anomalous behavior.
 - **Regulatory Framework:** The FY23 NDAA expanded AARO's mission, structure, and reporting requirements.
 
+
+
+
+
+## Related Topics
+### People
+- [Jon Kosloski](../people/jon-kosloski.md)
+- [Sean Kirkpatrick](../people/sean-kirkpatrick.md)
+### Places
+- [Al Taqaddum Air Base](../places/al-taqaddum-air-base.md)
 ## Sources
 - [AARO Home](https://www.aaro.mil/)
 - [AARO Mission Brief (PDF)](https://www.aaro.mil/Portals/136/PDFs/AARO%20Mission%20Brief_DOPSR%20Reviewed%2007-2023.pdf?ver=Az1ksH5lqv4ORzVm5rI6Mw%3D%3D)

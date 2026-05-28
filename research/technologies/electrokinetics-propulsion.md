@@ -27,6 +27,14 @@ The term "electrokinetics" is often used interchangeably or in close relation to
 - **T. Townsend Brown:** Historical figure whose work linked electrokinetics to the concept of electrogravitics.
 - **Micro-Newton range:** The scale of force typically associated with electrokinetic space propulsion.
 
+
+
+
+
+## Related Topics
+### Technologies
+- [Biefeld-Brown Effect](biefeld-brown-effect.md)
+- [Electrogravitics](electrogravitics.md)
 ## Sources
 - **On the capabilities of nano electrokinetic thrusters for space propulsion** - [ScienceDirect](https://www.scimdirect.com/science/article/abs/pii/S0094576512003773)
 - **Electrokinetic Propulsion for Electronically Integrated Microscopic Robots** - [arXiv](https://arxiv.org/html/2409.07293v1)

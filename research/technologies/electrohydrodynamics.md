@@ -31,6 +31,13 @@ EHD is a highly interdisciplinary field, requiring expertise in:
 - **Electrospray:** A technique for generating fine droplets from a liquid using electric fields.
 - **Electric Body Force:** The force exerted by the electric field on the charges within the fluid that drives the motion.
 
+
+
+
+
+## Related Topics
+### Technologies
+- [Biefeld-Brown Effect](biefeld-brown-effect.md)
 ## Sources
 - **Electrohydrodynamics - IOPscience** - [IOPscience](https://iopscience.iop.org/article/10.3367/UFNe.0182.201205b.0495)
 - **Mechanisms and modeling of electrohydrodynamic phenomena** - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7415859/)

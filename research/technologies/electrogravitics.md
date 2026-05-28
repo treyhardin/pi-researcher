@@ -28,6 +28,15 @@ Recent theoretical works, including "Introduction to Electrogravitational Theory
 - **Fine-Structure Constant ($\alpha$):** A fundamental constant used in the theory to link electromagnetic and gravitational scales.
 - **Residual Force Hypothesis:** The idea that gravity is a byproduct of electromagnetic field interactions.
 
+
+
+
+
+## Related Topics
+### People
+- [Thomas Townsend Brown](../people/thomas-townsend-brown.md)
+### Technologies
+- [Biefeld-Brown Effect](biefeld-brown-effect.md)
 ## Sources
 - **Introduction to Electrogravitational Theory** (2024) - [Zenodo](https://zenodo.org/records/12734877)
 - **Wikipedia: History of electromagnetic theory** - [Wikipedia](https://en.wikipedia.org/wiki/History_of_electromagnetic_theory)
