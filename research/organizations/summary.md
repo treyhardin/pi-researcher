@@ -22,5 +22,6 @@ The National Investigations Committee on Aerial Phenomena, a leading private UFO
 ### [Condon Committee](../organizations/condon-committee.md)
 The University of Colorado UFO project (1966-1968) led by Dr. Edward Condon, which resulted in the highly controversial Condon Report and influenced the shutdown of Project Bluebook.
 
-### [NDAA Biological Evidence](../organizations/ndaa-biological-evidence.md)
-Examining the legislative references to biological evidence within the U.S. National Defense Authorization Act.
+### [Advanced Aerospace Intelligence Integration](../organizations/advanced-aerospace-intelligence-integration.md)
+The intersection of military intelligence, specialized task forces (like AARO), and classified aerospace technology development in the study of UAP.
+
