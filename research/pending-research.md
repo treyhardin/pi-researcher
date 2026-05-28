@@ -24,7 +24,7 @@ One of the two primary witnesses to the 1973 Pascagoula incident.
 An audio/evidence recording of the initial, distressed statements made by Hickman and Parker to authorities.
 
 ### Condon Committee (organizations)
-A scientific study of UFOs that significantly highly impacted research.
+A[scientific study of UFOs that significantly highly impacted research.
 
 ### Donald E. Keyhoe (people)
 The primary leader of NICAP.
@@ -38,5 +38,11 @@ A prominent UFOlogist and NICAP PR adviser.
 ### Advanced Aerospace Intelligence Integration (organizations)
 The connection between military intelligence programs (AARO, Project Blue Book) and advanced aeronautics development (Skunk Works, stealth technology) and their role in UAP research.
 
-### Biological-Technological Convergence (theories)
-Investigating the potential link between anomalous technology (e.g., Biefeld-Brown effect) and biological recovery claims (e.g., Roswell/Wright-Patterson).
+### Xenobots (technologies)
+Synthetic biological organisms used as a proof of concept for biological-technological integration.
+
+### Recovered Biologics (cases)
+Investigation into the claims of non-human biological remains recovered from UAP crash sites.
+
+### NDAA Biological Evidence (organizations)
+Examining the legislative references to biological evidence within the U.S. National Defense Authorization Act.
