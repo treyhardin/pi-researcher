@@ -13,9 +13,6 @@ Location where Brown performed his early experiments in the 1920s.
 ### NICAP (organizations)
 An organization where Brown briefly served as highly important for UFO research.
 
-### Martin Marietta (organizations)
-Company that merged with Lockheed to be part of Lockheed Martin in 1995.
-
 
 
 ### Dielectric pumps (technologies)
