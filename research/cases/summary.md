@@ -8,7 +8,7 @@ This file provides a brief overview of documented UFO/UAP cases.
 A landmark series of UAP sightings by the USS Nimitz Carrier Strike Group, involving "Tic-Tac" shaped objects with extreme maneuverability.
 
 ### David Fravor (people)
-Former Navy TOPGUN pilot and key eyewitness to the 200able Nimitz encounter.
+Former Navy TOPGUN pilot and key eyewitness to the 2004 Nimitz encounter.
 
 ### USS Princeton (organizations)
 A Ticonderoga-class cruiser involved in detecting anomalous aerial vehicles during the 2004 Nimitz encounter.
@@ -17,4 +17,4 @@ A Ticonderoga-class cruiser involved in detecting anomalous aerial vehicles duri
 The primary fighter aircraft used by Navy squadrons that encountered UAPs during the 2004 incident.
 
 ### Pascagoula Incident (1973)
-A famous 1973 alleged abduction and encounter near the Pascagoula River, involving Charles Hickson and Calvin Parker, characterized by the "Hickson Tapes."
+A famous 1973 alleged abduction and encounter near the Pascagoula River, involving Charles Hickson and Calvin Parker. The case is characterized by the "Hickson Tapes" and significant discrepancies in reported craft dimensions and humanoid entity descriptions.

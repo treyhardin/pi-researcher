@@ -28,6 +28,7 @@ A critical dimension of the project is the human element: individuals within the
 The research also focuses on specific, documented events that serve as catalysts for wider investigation.
 
 * **Case Studies in UAP Sightings:** The **Kumburgaz UFO** videos from Turkey serve as a primary example of highly scrutinized, visual evidence of metallic, disc-shaped objects, fueling ongoing debates about the nature and origin of such phenomena.
+* **The Pascagoula Incident (1973):** A significant case involving an alleged abduction and encounter near the Pascagoula River. This case is notably characterized by the "Hickson Tapes" and documented descriptions of humanoid entities and anomalous craft movement, highlighting the physical and human-centric aspects of close encounters.
 
 ---
 *This summary is a living document, subject to expansion as new research is conducted and new connections are identified.*
