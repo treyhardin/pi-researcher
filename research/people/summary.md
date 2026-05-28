@@ -9,3 +9,6 @@ An American inventor and physicist known for his work on the Biefeld-Brown effec
 
 ### [Luis Elizondo](luis-elizondo.md)
 A prominent U.S. government whistleblower and former military intelligence officer known for his role in bringing public attention to Unidentified Anomalous Phenomena (UAP) and his involvement in DoD programs like AATIP.
+
+### [David Grusch](david-grusch.md)
+A former U.S. intelligence official and whistleblower who testified to Congress about the existence of UAP-related crash-retrieint programs and "non-human biologics."

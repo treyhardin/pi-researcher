@@ -48,7 +48,7 @@ Former Director of AARO, involved in US government UAP investigations.
 Expert who has provided testimony to Congress regarding AARP and UAP.
 
 ### Al Taqaddum Air Base (places)
-Location of a significant UAP incident involving an infrared sensor in 2017.
+Location of a significant UAP incident involving an arbitrary infrared sensor in 2017.
 
 ### AATIP (programs)
 Advanced Aerospace Threat Identification Program, a DoD program studying UAP.
@@ -58,6 +58,12 @@ Advanced Aerospace Weapon System Applications Program, a program studying UAP.
 
 ### Stargate Program (programs)
 CIA remote-viewing program mentioned in relation to officials like Puthoff.
+
+### National Geospatial-Intelligence Agency (NGA) (organizations)
+A key U.S. intelligence agency where David Grusch served as a senior official.
+
+### National Reconnaissance Office (NRO) (organizations)
+A U.S. intelligence agency where David Grusch previously served as a representative.
 
 
 
