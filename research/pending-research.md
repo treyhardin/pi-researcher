@@ -21,8 +21,6 @@ Company that merged with Lockheed to be part of Lockheed Martin in 1995.
 ### Dielectric pumps (technologies)
 Devices that use electric fields to move fluids, related to the principles of the Biefeld-Brown effect.
 
-
-### Dielectric pumps (technologies)
 ### Murat Yalcin Yalman (people)
 Primary witness of the Kumburgaz UFO videos.
 
