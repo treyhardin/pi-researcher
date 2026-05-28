@@ -33,9 +33,6 @@ An audio/evidence recording of the initial, distressed statements made by Hickso
 ### Condon Committee (organizations)
 A scientific study of UFOs that significantly highly impacted research.
 
-### Project Blue Book (programs)
-The US Air Force's investigation of UFOs.
-
 ### Donald E. Keyhoe (people)
 The primary leader of NICAP.
 
@@ -45,11 +42,17 @@ A key figure in the NICAP investigation era.
 ### Leonard Stringfield (people)
 A prominent UFOlogist and NICAP PR adviser.
 
-### T. Townsend Brown (people)
-An early leader in NICAP.
-
 ### Jim Slaight (people)
 Navy pilot who participated in the 2004 Tic Tac encounter with David Fravor.
 
-### Jay Stratton (people)
-Former official involved in AATIP/AAWSAP investigations.
+### Project Sign (programs)
+Predecessor to Project Blue Book.
+
+### Project Grudge (programs)
+Predecessor to Project Blue Book.
+
+### Dr. J. Allen Hynek (people)
+Key figure in the NICAP investigation era and examiner for Project Blue Book.
+
+### Wright-Patterson Air Force Base (places)
+Headquarters for Project Blue Book.

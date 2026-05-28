@@ -6,7 +6,7 @@ The National Investigations Committee on Aerial Phenomena (NICAP) was the most i
 ## Detailed Findings
 
 ### History and Evolution
-NICAP was incorporated on August 29, 1956, with T. Townsend Brown playing a role in its early leadership. The organization experienced several distinct eras:
+NICAP was incorporated on August 29, 1956, with Thomas Townsend Brown playing a role in its early leadership. The organization experienced several distinct eras:
 * **The Formative/Keyhoe Era (late 1950s - 1960s):** Under the direction of Major Donald E. Keyhoe, NICAP became a large and highly influential group. It functioned as a private, non-profit research and education network, exercising significant lobbying power in Washington, D.C.
 * **The Peak Era:** During the 1960s, NICAP was at its height, acting as a major source of UFO news and coordinating investigations across the country.
 * **The Decline (post-1s 1960s):** The release of the University of Colorado's Condon Committee report in 1968, which many perceived as having an anti-UFO bias, led to a decline in NICAP's momentum and eventually contributed to its fading influence.
@@ -23,7 +23,7 @@ NICAP was incorporated on August 29, 1956, with T. Townsend Brown playing a role
 * **Major Donald E. Keyhoe:** The spiritual leader and longtime director of NICAP. His books were instrumental in bringing attention to the phenomenon.
 * **Richard Hall:** Assistant Director (1965-1967) and a key figure during the "Colorado Project" era.
 * **Leonard Stringfield:** Served as a public relations adviser in 1957 and was a prominent UFOlogist.
-* **T. Townsend Brown:** Involved in the initial leadership and incorporation.
+* **Thomas Townsend Brown:** Involved in the initial leadership and incorporation.
 * **Condon Committee:** The 1968 report by this committee was a turning point that contributed to NICAP's decline.
 
 ## Sources
