@@ -29,10 +29,13 @@ The first director of the U.S. Department of Defense's All-domain Anomaly Resolu
 An American ufologist and retired physician, founder of CSETI and The Disclosure Project, known for advocating for the highly classified UFO information and developing the CE-5 protocol.
 
 ### [Marco Rubio (people)](marco-rubio.md)
-U.S. Senator and Vice Chairman of the Senate Intelligence Committee, leading bipartisan legislative efforts for UAP disclosure and oversight.
+U.S. Senator and Vice $\text{Chairman}$ of the Senate Intelligence Committee, leading bipartisan legislative efforts for UAP disclosure and oversight.
 
 ### [Murat Yalcin Yalman](murat-yalcin-yalman.md)
 Turkish night security guard who documented a series of significant UAP videos over the Sea of Mumbai/Marmara between 2007 and 2009.
 
 ### [Calvin Parker](calvin-parker.md)
 One of the two primary witnesses to the 1973 Pascagoula incident.
+
+### [Donald E. Keyhoe](donald-e-keyhoe.md)
+Major, USMC (Ret.) and a leading figure in early UFO research and director of NICAP.

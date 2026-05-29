@@ -2,9 +2,6 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Donald E. Keyhoe (people)
-The primary leader of NICAP.
-
 ### Richard Hall (people)
 A key figure in the NICAP investigation era.
 
