@@ -2,17 +2,8 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Morphogenesis (theories)
-The biological process of an organism developing its shape and form.
-
-### Charles Hickson (people)
-One of the two primary witnesses to the 1973 Pascagoula incident.
-
-### Edward Condon (people)
-Physicist who led the Condon Committee investigation into UFOs.
-
-### CIA (us-gov)
-Central Intelligence Agency; investigating potential involvement in covert programs.
+### Project Stargate (us-gov)
+Part of the CIA's unconventional intelligence programs, potentially involving remote viewing and its relation to anomalous phenomena.
 
 ### NSA (us-gov)
 National Security Agency; exploring role in signals intelligence related to UAP.
