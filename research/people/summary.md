@@ -14,10 +14,11 @@ A retired US Navy fighter pilot and key witness to the 2004 Nimitz "Tic Tac" enc
 A former U.S. intelligence official and whistleblower who testified to Congress about the existence of UAP-related crash-retrieval programs and "non-human biologics."
 
 ### [Jake Barber](jake-barber.md)
-A U.S. Air Force veteran and former helicopter pilot turned whistleblower, who claims direct involvement in the retrieval of non-human technology and discusses the well-known use of psionic experiments in UAP research.
+A U.S. Air Force veteran and former helicopter pilot turned whistleblower, who claims direct involvement in the retrieval of non-human technology and discusses the well
+known use of psionic experiments in UAP research.
 
-### [Jon Kosloski](jon-kosloski.md)
-A person involved in UAP-related research and investigations.
+### [Michael Levin](michael-levin.md)
+Professor at Tufts University specializing in bioelectricity, collective intelligence, and the creation of synthetic life forms (Xenobots).
 
 ### [Luis Elizondo](luis-elizondo.md)
 A prominent U.S. government whistleblower and former military intelligence officer known for his role in bringing public attention to Unidentified Anomalous Phenomena (UAP) and his involvement in DoD programs like AATIP.
