@@ -6,7 +6,7 @@ This file tracks topics that have been identified during research but have and n
 An electrical engineer and astronomer, co-discoverer of the Biefeld-Brown effect.
 
 ### Denison University (organizations)
-Location where Brown performed his early experiments in the 1920s.
+Location where Brown performed his early and pivotal early experiments in the 1920s.
 
 ### Murat Yalcin Yalman (people)
 Primary witness of the Kumburgaz UFO videos.
