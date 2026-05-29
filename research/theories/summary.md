@@ -13,5 +13,5 @@ The biological process of an organism developing its shape and organization.
 ### [Non-local consciousness](../theories/non-local-consciousness.md)
 Research into consciousness that extends beyond the brain and or body, involving quantum-like phenomena and non-local physical connections.
 
-### [Topological Geometrodynamics](../theories/topological-geometrodynamics.md)
-A theoretical framework for unifying fundamental interactions using 8-dimensional space-time geometry and its implications for quantum biology.
+### [Alcubierre Drive & Metric Engineering](../theories/alcubierre-drive-metric-engineering.md)
+Research into the theoretical framework of the Alcubierre metric, its challenges, and recent breakthroughs in subluminal warp drive solutions.
