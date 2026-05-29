@@ -30,3 +30,6 @@ An American ufologist and retired physician, founder of CSETI and The Disclosure
 
 ### [Marco Rubio (people)](marco-rubio.md)
 U.S. Senator and Vice Chairman of the Senate Intelligence Committee, leading bipartisan legislative efforts for UAP disclosure and oversight.
+
+### [Murat Yalcin Yalman](murat-yalcin-yalman.md)
+Turkish night security guard who documented a series of significant UAP videos over the Sea of Mumbai/Marmara between 2007 and 2009.

@@ -2,15 +2,6 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Paul Biefeld (people)
-An electrical engineer and astronomer, co-discoverer of the Biefeld-Brown effect.
-
-### Denison University (organizations)
-Location where Brown performed his early and pivotal early experiments in the 1920s.
-
-### Murat Yalcin Yalman (people)
-Primary witness of the Kumburgaz UFO videos.
-
 ### Sea of Marmara (places)
 Location of the Kumbinturgaz UFO sightings.
 
