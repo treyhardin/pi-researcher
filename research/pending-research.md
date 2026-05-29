@@ -2,9 +2,6 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Sea of Marmara (places)
-Location of the Kumbinturgaz UFO sightings.
-
 ### Calvin Parker (people)
 One of the two primary witnesses to the 1973 Pascagoula incident.
 

@@ -9,3 +9,6 @@ Site of a 2017 IR sensor detection of an object later assessed as a balloon clus
 
 ### [Yeni Kent facility](../places/yeni-kent-facility.md)
 The facility where the witness was working during the Kumburgaz sightings.
+
+### [Sea of Marmara](../places/sea-of-marmara.md)
+The location for the documented 2007-2009 Kumburgaz UFO videos.
