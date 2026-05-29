@@ -2,8 +2,8 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Project Stargate (us-gov)
-Part of the CIA's unconventional intelligence programs, potentially involving remote viewing and its relation to anomalous phenomena.
+### Hal Puthoff (people)
+Physicist and key figure in both Project Stargate and modern UAP/NHI research.
 
 ### NSA (us-gov)
 National Security Agency; exploring role in signals intelligence related to UAP.
