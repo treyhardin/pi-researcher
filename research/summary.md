@@ -18,15 +18,15 @@ The research highlights a profound connection between private aerospace innovati
 * **Scientific Investigation and Figures:** The legacy of individuals like **Dr. J. Allen Hynek** is central to the history of UAP research. As a scientific advisor for **Project Blue Book**, his development of the **"Close Encounters" classification system** provided a framework for studying the phenomenon, moving it from mere speculation toward a more structured investigation.
 * **Satellite-Based Detection and Surveillance:** New research highlights the critical role of orbital assets in monitoring the phenomenon. This includes the use of **multispectral and hyperspectral imaging** to identify chemical signatures, and the emergence of **AI-driven systems like "Sentient"** (attributed to the NRO) for autonomous anomaly detection. The integration of **commercial satellite constellations** also provides a decentralized layer of persistent surveillance, despite the challenges posed by "signal noise" from objects like **Starlink**.
 
-## 3. Whistleblowers, Disclosure, and the Intelligence Community
+## 4. Radar-Based Detection and Anomalous Signatures
 
-A critical dimension of the project is the human element: individuals within the intelligence and military communities who have brought information regarding UAPs and classified programs into the public sphere.
+The detection of UAPs relies on identifying patterns in electromagnetic and radar data that deviate from conventional aeronautical models.
 
-* **The Vanguard of Disclosure:** Key figures such as **Luis Elizondo**, **David Grusch**, and **Jake Barber** have played pivotal roles in the disclosure movement. Their testimonies and claims—ranging from the existence of UAP-related crash-retintretrieval programs to the investigation of "non-human biologics"—have fundamentally shifted the public and congressional discourse.
-* **The Impact of Leaks and Intelligence Oversight:** The research underscores how leaks (such as the **WikiLeaks** releases) and the actions of high-ranking officials (like **Sean Kirkpatrick** at AARO) create the tension between national security secrecy and the public's right to know about phenomena that may have profound technological and existential implications.
-* **NSA Intelligence Disclosures:** Recent FOIA-driven releases from the **National Security Agency (NSA)** have provided unprecedented access to historical UAP-related records. These records, once classified as **"TOP SECRET UMBRA,"** reveal the agency's role in intercepting and analyzing signals (SIGINT) related to anomalous radar tracks and visual sightings, demonstrating the depth of signal-based intelligence held by the U.S. government regarding the phenomenon.
+* **Non-Ballistic Signatures:** Research focuses on identifying tracks that exhibit extreme acceleration, sudden stops, and rotations that defy Newtonian inertia.
+* **Transmedium Capabilities:** Investigating "aerospace-undersea" phenomena, where objects transition between the atmosphere and the ocean without a loss of kinetic signature.
+* **The Detection Dilemma:** A critical challenge lies in distinguishing between physical anomalous objects and electronic warfare (EW) "spoofing" or false-target injection.
+* **Emerging Sensor Networks:** The rise of passive, multistatic radar systems and AI-driven anomaly detection to bypass traditional "velocity gate" filtering.
 
-## 5. Biological and Morphogenetic Theories
 
 This emerging area of research investigates the potential overlap between advanced biological processes and the manifestation of anomalous phenomena.
 
