@@ -30,5 +30,6 @@ This skill automates the transition from "pending research" to "active research"
 - **Cleanup Pending Research:** Once the research is complete, remove the entry for "[Topic Name]" from `research/pending-research.md`.
 - **Push to GitHub:** Use `git push origin main` to push all changes (including the removal of the entry) to the remote repository.
 
-### 4. Confirmation
+### 4. Confirmation & Continuation
 - **Finalize:** Upon completion of the research workflow, confirm to the user that the research for "[Topic Name]" has been successfully documented, the pending entry has been removed, and the repository has been updated.
+- **Looping:** If there are still pending topics in `research/pending-research.md`, return to **Step 1** to allow the user to select another topic. If no topics remain, conclude the execution.

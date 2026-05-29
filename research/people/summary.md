@@ -39,3 +39,9 @@ One of the two primary witnesses to the 1973 Pascagoula incident.
 
 ### [Donald E. Keyhoe](donald-e-keyhoe.md)
 Major, USMC (Ret.) and a leading figure in early UFO research and director of NICAP.
+
+### [Calvin Parker](calvin-parker.md)
+One of the two primary witnesses to the 1973 Pascagoula incident.
+
+### [Richard Hall](richard-hall.md)
+Prominent ufologist and Assistant Director of NICAP, known for his systematic documentation of UFO sightings.
