@@ -4,6 +4,9 @@ This directory contains research reports on individuals relevant to the study of
 
 ## Research Entries
 
+### [Hal Puthoff](hal-puthoff.md)
+Physicist and key figure in both Project Stargate and modern UAP/NHI research.
+
 ### [Betty and Barney Hill](betty-and-barney-hill.md)
 The American couple whose 1961 encounter in New Hampshire became the first publicized account of an alien abduction.
 
