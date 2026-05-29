@@ -46,8 +46,9 @@ All research conducted using this skill must strictly adhere to the integrity an
             - Wait for user input.
             - Once a category name is confirmed, create the directory.
     - **Update Pending Research (MANDATORY):** If the topic does not yet have a research file, you MUST add an entry to `research/pending-research.md`.
+        - **Check for Duplicates:** Before adding, verify the topic is not already listed in `research/pending-research.md`.
         - Ensure `research/pending-research.md` exists (create with header if not).
-        - **Append using the Anchor Method:** To avoid overwriting, do NOT overwrite the whole file. Instead, find the last line of the file (the "anchor") and use the `edit` tool to replace that line with itself plus the new entry.
+        - **Append using the Disjoint Edit Method:** To avoid overwriting, do NOT overwrite the whole file. Instead, find the last line of the file (the "anchor") and use the `edit` tool to replace that line with itself plus the new entry.
         - Add an entry with:
             - `### [Topic Name] ([Category])`
             - A brief summary of why it's worth further research (e.g., "Appears frequently in research regarding [Primary Topic]").

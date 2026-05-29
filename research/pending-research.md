@@ -20,9 +20,6 @@ Location of the Kumbinturgaz UFO sightings.
 ### Calvin Parker (people)
 One of the two primary witnesses to the 1973 Pascagoula incident.
 
-### The Hickson Tapes (audio/evidence)
-An audio/evidence recording of the initial, distressed statements made by Hickman and Parker to authorities.
-
 ### Donald E. Keyhoe (people)
 The primary leader of NICAP.
 
@@ -32,18 +29,8 @@ A key figure in the NICAP investigation era.
 ### Leonard Stringfield (people)
 A prominent UFOlogist and NICAP PR adviser.
 
-### Advanced Aerospace Intelligence Integration (organizations)
-The intersection of military intelligence, specialized task forces (like AARO), and classified aerospace technology development in the study of UAP.
-
 ### Xenobot (technologies)
 Synthetic biological organisms used as a proof of concept for biological-technological integration.
 
-### Senator Mike Rounds (people)
-U.S. Senator involved in UAP and NDAA legislation.
-
-### Senator Marco Rubio (people)
-U.S. Senator involved in UAP and NDAA legislation.
-### Xenobot (technologies)
-Synthetic biological organisms used as a proof of concept for biological-technological integration.
 ### Senator Mike Rounds (people)
 U.S. Senator involved in UAP and NDAA legislation.
