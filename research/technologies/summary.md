@@ -20,5 +20,8 @@ A class of propulsion technology using electric fields to drive charged particle
 A historical overview of the transition from the "electrogravitic" hypothesis of gravity manipulation to the modern understanding of electrohydrodynamic (EHD) propulsion and ion wind.
 
 ### [Xenobot](xenobot.md)
-Synthetic living machines created from frog cells and designed using evolutionary algorithms, representing a convergence of synthetic biology and soft robotics.
+Synthetic living machines created from frog cells and designed using evolutionary algorithms, representing a new paradigm in soft robotics.
+
+### [Synthetic Biology](synthetic-biology.md)
+An interdisciplinary field using the Design-Build-Test-Learn (DBTL) cycle to redesign organisms and biological systems for useful applications.
 
