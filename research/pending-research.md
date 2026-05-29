@@ -32,5 +32,8 @@ A prominent UFOlogist and NICAP PR adviser.
 ### Xenobot (technologies)
 Synthetic biological organisms used as a proof of concept for biological-technological integration.
 
-### Senator Mike Rounds (people)
-U.S. Senator involved in UAP and NDAA legislation.
+### Michael Levin (people)
+Leading researcher in bioelectricity and synthetic living machines.
+
+### Synthetic Biology (technologies)
+The field of science that involves redesigning organisms for useful purposes by manipulating their native DNA and proteins.
