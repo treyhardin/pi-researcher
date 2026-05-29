@@ -43,5 +43,5 @@ Major, USMC (Ret.) and a leading figure in early UFO research and director of NI
 ### [Calvin Parker](calvin-parker.md)
 One of the two primary witnesses to the 1973 Pascagoula incident.
 
-### [Richard Hall](richard-hall.md)
-Prominent ufologist and Assistant Director of NICAP, known for his systematic documentation of UFO sightings.
+### [Leonard Stringfield](leonard-stringfield.md)
+An American ufologist prominent for his research into crashed UFOs and the recovery of extraterrestrial biological entities and spacecraft.
