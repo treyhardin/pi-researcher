@@ -2,8 +2,11 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Non-local consciousness (theories)
-Exploring the connection between consciousness and non-local physical phenomena.
+### Electronic Warfare (EW) vs. UAP (evidence)
+Analyzing the difficulty in distinguishing true UAP signatures from sophisticated adversarial electronic spoofing and false-target injection.
 
-### Declassified Documents (evidence)
-Reviewing released government documents and intelligence reports regarding UAP.
+### Theory of Psychic Quanta (theories)
+A quantum model for the unity of individual consciousness involving psychic quanta in a non-local psychic field.
+
+### Topological Geometrodynamics (theories)
+A framework for understanding non-locality in quantum biology and neuroscience.

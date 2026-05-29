@@ -9,3 +9,6 @@ The study of how biological systems and advanced technology integrate, specifica
 
 ### [Morphogenesis](../theories/morphogenesis.md)
 The biological process of an organism developing its shape and organization.
+
+### [Non-local consciousness](../theories/non-local-consciousness.md)
+Research into consciousness that extends beyond the brain and body, involving quantum-like phenomena and non-local physical connections.
