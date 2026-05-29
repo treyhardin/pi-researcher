@@ -31,6 +31,3 @@ A prominent UFOlogist and NICAP PR adviser.
 
 ### Michael Levin (people)
 Leading researcher in bioelectricity and synthetic living machines.
-
-### Synthetic Biology (technologies)
-The field of science that involves redesigning organisms for useful purposes by manipulating their native DNA and proteins.
