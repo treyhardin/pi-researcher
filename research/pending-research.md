@@ -2,9 +2,6 @@
 
 This file tracks topics that have been identified during research but have and not yet been formally documented.
 
-### Hal Puthoff (people)
-Physicist and key figure in both Project Stargate and modern UAP/NHI research.
-
 ### NSA (us-gov)
 National Security Agency; exploring role in signals intelligence related to UAP.
 

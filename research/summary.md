@@ -22,8 +22,9 @@ The research highlights a profound connection between private aerospace innovati
 
 A critical dimension of the project is the human element: individuals within the intelligence and military communities who have brought information regarding UAPs and classified programs into the public sphere.
 
-* **The Vanguard of Disclosure:** Key figures such as **Luis Elizondo**, **David Grusch**, and **Jake Barber** have played pivotal roles in the disclosure movement. Their testimonies and claims—ranging from the existence of UAP-related crash-retrieval programs to the investigation of "non-human biologics"—have fundamentally shifted the public and congressional discourse.
+* **The Vanguard of Disclosure:** Key figures such as **Luis Elizondo**, **David Grusch**, and **Jake Barber** have played pivotal roles in the disclosure movement. Their testimonies and claims—ranging from the existence of UAP-related crash-retintretrieval programs to the investigation of "non-human biologics"—have fundamentally shifted the public and congressional discourse.
 * **The Impact of Leaks and Intelligence Oversight:** The research underscores how leaks (such as the **WikiLeaks** releases) and the actions of high-ranking officials (like **Sean Kirkpatrick** at AARO) create the tension between national security secrecy and the public's right to know about phenomena that may have profound technological and existential implications.
+* **NSA Intelligence Disclosures:** Recent FOIA-driven releases from the **National Security Agency (NSA)** have provided unprecedented access to historical UAP-related records. These records, once classified as **"TOP SECRET UMBRA,"** reveal the agency's role in intercepting and analyzing signals (SIGINT) related to anomalous radar tracks and visual sightings, demonstrating the depth of signal-based intelligence held by the U.S. government regarding the phenomenon.
 
 ## 5. Biological and Morphogenetic Theories
 
