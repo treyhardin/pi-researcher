@@ -29,9 +29,6 @@ A key figure in the NICAP investigation era.
 ### Leonard Stringfield (people)
 A prominent UFOlogist and NICAP PR adviser.
 
-### Xenobot (technologies)
-Synthetic biological organisms used as a proof of concept for biological-technological integration.
-
 ### Michael Levin (people)
 Leading researcher in bioelectricity and synthetic living machines.
 
