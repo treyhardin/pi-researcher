@@ -23,7 +23,7 @@ A historical overview of the transition from the "electrogravitic" hypothesis of
 Synthetic living machines created from frog cells and designed using evolutionary algorithms, representing a new paradigm in soft robotics.
 
 ### [Synthetic Biology](synthetic-biology.md)
-An interdisciplinary field using the Design-Build-leg-Test-Learn (DBTL) cycle to redesign organisms and biological systems for useful applications.
+An interdisciplinary field using the Design-Build-Test-Learn (DBTL) cycle to redesign organisms and biological systems for useful applications.
 
 ### [Metamaterials & Low-Observable (Stealth) Cloaking](metamaterials-low-observable-stealth-cloaking.md)
 Research into the use of advanced metamaterials and metasurfaces for electromagnetic invisibility, radar cross-section reduction, and their theoretical application in UAP propulsion and vacuum-shaping.
@@ -31,3 +31,5 @@ Research into the use of advanced metamaterials and metasurfaces for electromagn
 ### [Bioelectric Signaling](bioelectric-signaling.md)
 The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
 
+### [Electrogravitics & Plasma-Based Propulsion](electrogravitics-plasma-based-propulsion.md)
+Research into high-voltage electromagnetic fields, plasma-based propulsion, and the theoretical use of Biefeld-Brown effects and plasma solitons for propellantless UAP motion.
