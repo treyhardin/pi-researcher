@@ -18,3 +18,6 @@ Research into the theoretical framework of the Alcubierre metric, its challenges
 
 ### [The Great Filter & The Fermi Paradox](../theories/the-great-filter-fermi-paradox.md)
 An investigation into the contradiction between the high probability of extraterrestrial life and the observed lack of evidence, specifically exploring the "Great Filter" as a potential evolutionary or technological barrier.
+
+### [Frequency Wave Theory](../theories/frequency-wave-theory.md)
+Exploring the concept of plasma-based coherence engines and the manipulation of inertia/spacetime through phase-locked frequency engineering.
