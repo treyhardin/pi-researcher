@@ -25,3 +25,6 @@ Synthetic living machines created from frog cells and designed using evolutionar
 ### [Synthetic Biology](synthetic-biology.md)
 An interdisciplinary field using the Design-Build-Test-Learn (DBTL) cycle to redesign organisms and biological systems for useful applications.
 
+### [Bioelectric Signaling](bioelectric-signaling.md)
+The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
+
