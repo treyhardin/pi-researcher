@@ -31,5 +31,6 @@ Research into the use of advanced metamaterials and metasurfaces for electromagn
 ### [Bioelectric Signaling](bioelectric-signaling.md)
 The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
 
-### [Electrogravitics & Plasma-Based Propulsion](electrogravitics-plasma-based-propulsion.md)
-Research into high-voltage electromagnetic fields, plasma-based propulsion, and the theoretical use of Biefeld-Brown effects and plasma solitons for propellantless UAP motion.
+### [Non-Electromagnetic Detection](non-electromagnetic-detection.md)
+Explores the frontier of UAP detection beyond radar, including acoustic monitoring, quantum sensing (magnetometry/gravimetry), and biological/biochemical indicators.
+
