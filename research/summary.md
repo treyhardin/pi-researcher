@@ -28,11 +28,7 @@ The detection of UAPs relies on identifying patterns in electromagnetic and rada
 
 * **Non-Ballistic Signatures:** Research focuses on identifying tracks that exhibit extreme acceleration, sudden stops, and rotations that defy Newtonian inertia.
 * **Transmedium Capabilities:** Investigating "aerospace-undersea" phenomena, where objects transition between the atmosphere and the ocean without a loss of kinetic signature.
-* **The Detection Dilemma:** A critical challenge lies in distinguishing between physical anomalous objects and electronic warfare (EW) "spoofing" or false-target injection.
-* **Emerging Sensor Networks:** The rise of passive, multistatic radar systems and AI-driven anomaly detection to bypass traditional "velocity gate" filtering.
-
-
-This emerging area of research investigates the potential overlap between advanced biological processes and the manifestation of anomalous phenomena.
+* **AI Consciousness and Cognitive Subjectivity:** Exploring the theoretical emergence of consciousness in large-scale computational models and the implications of AI as an epistemic "cognitive subject" in research and decision-making.
 
 * **Morphogenesis and Advanced Engineering:** Research into the biological process of **morphogenesis**-the development of shape and form-provides a theoretical framework for understanding how highly advanced, possibly non-human, technologies might employ "biological" or "programmable" manufacturing and self-repair capabilities. This explores the possibility of craft that utilize morphogen gradients and cellular-like differentiation to adapt their physical structures.
 * **Morphogenetic Fields and Non-locality:** Investigating the intersection of biological development with the hypothesis of **morphogenetic fields** (as proposed by researchers like **Rupert Sheldrake**). This explores whether the "shaping" of biological organisms could be influenced by non-local, collective memory or information transfer, a concept that may have implications for understanding anomalous signal detection and the nature of consciousness.
