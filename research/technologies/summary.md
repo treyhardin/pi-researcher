@@ -31,6 +31,6 @@ Research into the use of advanced metamaterials and metasurfaces for electromagn
 ### [Bioelectric Signaling](bioelectric-signaling.md)
 The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
 
-### [Non-Electromagnetic Detection](non-electromagnetic-detection.md)
-Explores the frontier of UAP detection beyond radar, including acoustic monitoring, quantum sensing (magnetometry/gravimetry), and biological/biochemical indicators.
+### [Sensor Fusion for UAP Detection](sensor-fusion-for-uap-detection.md)
+Research into multi-modal sensor integration (Optical, IR, Radar, Acoustic, RF) and the role of Edge AI in the scientific detection, tracking, and verification of Unidentified Aerial Phenomena.
 
