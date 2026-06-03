@@ -31,6 +31,7 @@ Research into the use of advanced metamaterials and metasurfaces for electromagn
 ### [Bioelectric Signaling](bioelectric-signaling.md)
 The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
 
-### [Sensor Fusion for UAP Detection](sensor-fusion-for-uap-detection.md)
-Research into multi-modal sensor integration (Optical, IR, Radar, Acoustic, RF) and the role of Edge AI in the scientific detection, tracking, and verification of Unidentified Aerial Phenomena.
+### [F-117 Nighthawk](f-117-nighthawk.md)
+The world's first operational stealth aircraft, developed by Lockheed's Skunk Works division to penetrate advanced Soviet air defense systems through its unique faceted design and radar-absorbent materials.
+
 
