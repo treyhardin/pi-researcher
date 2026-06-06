@@ -10,12 +10,13 @@ This skill automates the transition from "pending research" to "active research"
 ## Procedure
 
 ### 1. Parse Pending Topics
-- **Read File:** Access `research/pending-progress.md` (or `research/pending-research.md` - check existence).
+- **Read File:** Access `research/pending-research.md` (or `research/pending-progress.md` - check existence).
 - **Extract Entries:** Parse the markdown file to find all entries following the pattern: `### [Topic Name] ([Category])`.
-- **Format List:** Present a numbered list of these topics to the user, clearly showing both the **Topic Name** and its **Category**.
+- **Format List:** Present a numbered list of these topics to the user, clearly showing both the **Topic and Category**.
 
 ### 2. User Selection
 - **Wait for Input:** Prompt the user to enter the number corresponding to their choice.
+- **Duplicate Check:** Before executing, check if a research file for this topic already exists in the `research/` directory. If found, ask the user if they wish to overwrite or skip.
 - **Handle Invalid Input:** If the user enters an invalid number or an unrecognized command, re-display the list and ask again.
 
 ### 3. Execute Research Workflow

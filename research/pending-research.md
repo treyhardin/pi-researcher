@@ -2,7 +2,10 @@
 
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
-- [ ] SR-71 Blackbird (Technology)
+- [ ] The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis (Theory)
+- [ ] The "Collapsing Coverup" and Modern Disclosure (Policy/Government)
+- [ ] Biological and Psychological Impacts of NHI Contact (Biology/Technology)
+- [ ] The Role of "Technological/Cultural Mediums" in UAP Perception (Sociology/Culture)
 - [ ] SR-71 Blackbird (Technology)
 - [ ] U-2 (Technology)
 - [ ] RQ-170 Sentinel (Technology)
@@ -13,3 +16,6 @@ This file tracks topics that have been identified during research but have not y
 - [ ] F/A-18 Super Hornet (Technology)
 - [ ] The Hangar 18 Legend (Theories/Mythology)
 - [ ] Project Senior Trend (Technology)
+- [ ] Jacques Vallée (People)
+- [ ] John Keel (Primarily Studies)
+- [ ] The Ultraterrestrial Hypothesis (Theory)

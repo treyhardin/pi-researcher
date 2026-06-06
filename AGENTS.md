@@ -27,7 +27,7 @@ This file contains instructions on how the AI agent should behave, communicate, 
 - Adhere to the protocols defined in `research/RESEARCH_GUIDELINES.md` during all research-related tasks.
 
 ## Operational Lessons Learned
-- **Web Search Strategy:** For research-related tasks, always use the `queries` parameter (array of 2-4 varied angles) in `web_search` rather than a single `query` string to ensure broad and comprehensive coverage.
+- **Web Search Strategy:** For research-related tasks, always use the `queries` parameter (array of 2-4 varied angles) in `web_search` rather than a single `query` string to ensure broad and comprehensive coverage. **To prevent "search curation cancelled (stale)" errors, always set `workflow: "none"` in the initial `web_search` call.**
 - **Robust File Editing:** If an `edit` call fails due to an `oldText` mismatch (often caused by invisible whitespace or newlines), immediately pivot to using the `write` tool to overwrite the entire file with the correct content rather than attempting repeated, localized `edit` fixes.
 - **Data Integrity:** After performing a `write` operation, especially when replacing large blocks of text, always verify the integrity of the file (e._g., using `read`) to ensure no truncation or accidental corruption occurred.
 - **Immediate Synchronization:** Strictly adhere to the `CRITICAL` instruction to execute `git push origin main` immediately after committing research findings. Never assume the user will prompt for the push.
