@@ -2,7 +2,7 @@
 
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
-- [ ] Biological and Psychological Impacts of NHI Contact (Biology/Technology)
+
 - [ ] The Role of "Technological/Cultural Mediums" in UAP Perception (Sociology/Culture)
 - [ ] SR-71 Blackbird (Technology)
 - [ ] U-2 (Technology)
