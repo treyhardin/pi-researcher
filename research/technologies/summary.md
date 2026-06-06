@@ -31,7 +31,10 @@ Research into the use of advanced metamaterials and metasurfaces for electromagn
 ### [Bioelectric Signaling](bioelectric-signaling.md)
 The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
 
-### [Sentient AI Systems](sentient-ai-systems.md)
-The study of whether artificial intelligence (AI) can achieve consciousness or sentience, exploring theories like Global Workspace Theory and the development of Theory of Mind benchmarks.
+### [Project Have Blue](project-have-blue.md)
+The Lockheed Skunk Works technology demonstrator program that pioneered the use of faceted, radar-deflecting surfaces and radar-absorbent materials, directly leading to the development of the F-117 Nighthawk stealth fighter.
+
+### [F-117 Nighthawk](f-117-nighthawk.md)
+The world's first operational stealth aircraft, developed by Lockheed's Skunk Works division to penetrate advanced Soviet air defense systems through its unique faceted design and radar-absorbent materials.
 
 
