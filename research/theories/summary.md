@@ -16,7 +16,7 @@ Research into consciousness that extends beyond the brain and or body, involving
 ### [Alcubierre Drive & Metric Engineering](../theories/alcubierre-drive-metric-engineering.md)
 Research into the theoretical framework of the Alcubierre metric, its challenges, and recent breakthroughs in subluminal warp drive solutions.
 
-### [The Great Filter & The Fermi Paradox](../theories/the-great-filter-fermi-paradox.md)
+### [The Great Filter & The Fermi Paradox](../theories/the-great-filter.md)
 An investigation into the contradiction between the high probability of extraterrestrial life and the observed lack of evidence, specifically exploring the "Great Filter" as a potential evolutionary or technological barrier.
 
 ### [The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis](../theories/interdimensional-hypothesis.md)

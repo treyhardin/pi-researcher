@@ -32,11 +32,8 @@ Recent theoretical works, including "Introduction to Electrogravitational Theory
 
 
 
-## Related Topics
-### People
-- [Thomas Townsend Brown](../people/thomas-townsend-brown.md)
-### Technologies
-- [Biefeld-Brown Effect](biefeld-brown-effect.md)
+## Connection to Emerging Research
+- **Advanced Propulsion Convergence:** Research into the electrogravitational field is directly being integrated into the study of **plasma-based self-organization** and its potential as a driver for **bio-electronic propulsion** systems.
 ## Sources
 - **Introduction to Electrogravitational Theory** (2024) - [Zenodo](https://zenodo.org/records/12734877)
 - **Wikipedia: History of electromagnetic theory** - [Wikipedia](https://en.wikipedia.org/wiki/History_of_electromagnetic_theory)

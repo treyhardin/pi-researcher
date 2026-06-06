@@ -12,7 +12,7 @@ The most advanced approaches, notably the **Galileo Project**, utilize a heterog
     * **NIR (Near-Infrared) & Optical All-Sky Imagers:** Providing wide-field coverage of the celestial and aerial environment.
 * **Radar Technologies:**
     * **Passive Radar:** Utilizing existing ambient RF signals (e.g., FM radio) for non-cooperative detection.
-    * **Multistatic Radar (e.g., SkyWatch):** Provides 3D position and velocity estimates (range, location, kinematics) without emitting detectable signals.
+	* **Multistatic Radar (e.g., SkyWatch):** Provides 3D position and velocity estimates (range, location, kinematics) without emitting detectable signals.
 * **Acoustic & RF Sensing:**
     * **Acoustic Arrays:** For detecting low-frequency or non-visible aerial movements.
     * **RF Spectrum Analyzers:** Monitoring the electromagnetic environment for anomalous signals or command-and-control links.
@@ -27,18 +27,21 @@ A central challenge in UAP research is the verification of data. Modern sensor f
 * **GPS-Synchronized Timing:** Ensuring all sensors across a distributed network are precisely time-stamped for accurate triangulation.
 * **Data Provenance:** Maintaining a rigorous chain of custody for digital observations to prevent tampering and ensure scientific reproducibility.
 
+## Related Research
+- [Advanced Carbon-based Materiality](../technologies/advanced-carbon-based-materiality.md) (Potential relevance to sensor interaction)
+- [Electrohydrodynamics](../technologies/electrohydrodynamics.md) (Potential propulsion mechanism detectable via sensors)
+
+## Connection to Emerging Research
+- **Integrated Multi-Domain Detection Architectures:** This technology is the primary architectural foundation for the new research initiative investigating unified RF/EO/IR/Acoustic fusion to counteract transmedium and stealth-enabled UAPs.
+
 ## Key Entities/Facts
 * **The Galileo Project:** A major initiative led by Harvard-Smithsonian Center for Astrophysics researchers to conduct a multi-modal census of UAP.
 * **Edge Computing:** Essential for handling the high-throughput data streams from multi-modal sensors.
 * **Passive Detection:** A key strategy to detect "silent" or low-observable objects that do not emit active radar or RF signals.
 
-## Related Research
-* [Advanced Carbon-based Materiality](technologies/advanced-carbon-based-materiality.md) (Potential relevance to sensor interaction)
-* [Electrohydrodynamics](technologies/electrohydrodynamics.md) (Potential propulsion mechanism detectable via sensors)
-
 ## Sources
 * [Galileo Project Observatory Class System Architecture, Bridgham et al. 2025](https://ufotransparency.com/scholarly/papers/bridgham-galileo-architecture-2025)
 * [Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena, Cloete et al. 2023](https://ufotransparency.com/scholarly/papers/cloete-galileo-computing-platform-2023)
-* [Can Modern Sensors Solve the UAP Mystery? - New Space Economy](https://newspaceeconomy.ca/2025/12/04/can-modern-sensors-solve-the-uap-mystery-2/)
-* [The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories | The Galileo Project](https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal)
+* [Can Modern Sensors Solve the UAP Mystery? - New Space Economy](httpshttps://newspaceeconomy.ca/2025/12/04/can-modern-sensors-solve-the-uap-mystery-2/)
+* [The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories | The Galileo Project](httpshttps://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal)
 * [Evaluating Sensor Tech for Accurate UAP Detection - AZoSensors](httpshttps://www.azosensors.com/article.aspx?ArticleID=3156)
