@@ -3,10 +3,8 @@
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
 
-- [ ] SR-71 Blackbird (Technology)
 - [ ] U-2 (Technology)
 - [ ] RQ-170 Sentinel (Technology)
-- [ ] Starlink (Technology)
 - [ ] Rupert Sheldrake (People)
 - [ ] The Igili (Entities/Mythology)
 - [ ] USS Princeton (Organizations/Entities)
