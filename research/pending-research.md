@@ -2,7 +2,6 @@
 
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
-- [ ] The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis (Theory)
 - [ ] The "Collapsing Coverup" and Modern Disclosure (Policy/Government)
 - [ ] Biological and Psychological Impacts of NHI Contact (Biology/Technology)
 - [ ] The Role of "Technological/Cultural Mediums" in UAP Perception (Sociology/Culture)
@@ -17,6 +16,4 @@ This file tracks topics that have been identified during research but have not y
 - [ ] The Hangar 18 Legend (Theories/Mythology)
 - [ ] Project Senior Trend (Technology)
 - [ ] John Keel (Primarily Studies)
-- [ ] Interdimensional Hypothesis (IH) vs. Extraterrestrial Hypothesis (ETH) (Theory)
-- [ ] The Role of "Technological/Cultural Mediums" in UAP Perception (Sociology/Culture)
 - [ ] John Keel and the Mothman Prophecies (People/Studies)

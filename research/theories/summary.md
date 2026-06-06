@@ -19,5 +19,5 @@ Research into the theoretical framework of the Alcubierre metric, its challenges
 ### [The Great Filter & The Fermi Paradox](../theories/the-great-filter-fermi-paradox.md)
 An investigation into the contradiction between the high probability of extraterrestrial life and the observed lack of evidence, specifically exploring the "Great Filter" as a potential evolutionary or technological barrier.
 
-### [The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis](../the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis.md)
-A comparison of the two primary hypotheses regarding the origin and nature of Unidentified Aerial Phenomena (UAP): the Extraterrestrial Hypothesis (ETH) and the Interdimensional Hypothesis (IUH).
+### [The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis](../theories/interdimensional-hypothesis.md)
+A comparison of the two primary hypotheses regarding the origin and nature of Unidentified Aerial Phenomena (UAP): the Extraterrestrial Hypothesis (ETH) and the Interdimensional Hypothesis (IDH).
