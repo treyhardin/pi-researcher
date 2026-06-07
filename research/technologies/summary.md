@@ -81,3 +81,15 @@ Research into the low-observable capabilities and strategic ISR role of the Lock
 ### [Aegis Combat System](aegis-combat-system.md)
 A highly integrated, centralized, and automated naval weapons system for defense against air, surface, and subsurface threats, featuring advanced multi-function phased-array radar technology.
 
+### [Vertical Launch System (VLS)](vls.md)
+A modular, canister-based missile launching system providing rapid-fire capability and mission versatility for modern naval combatants.
+
+### [AN/SPY-1 Radar](spay-1.md)
+The advanced, multi-function phased-array radar at the heart of the Aegis Combat System, capable of simultaneous search, track, and guidance.
+
+### [Arleigh Burke-class Destroyer](arleigh-burke.md)
+The primary U.S. Navy destroyer class, featuring the Aegis Combat System and Vertical Launching System.
+
+### [Ticonderoga-class Cruiser](ticonderoga.md)
+Heavily armed Aegis-equipped cruisers designed for air defense and command and control.
+
