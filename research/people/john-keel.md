@@ -29,8 +29,8 @@ Keel's writing style, blending investigative journalism with a sense of cosmic d
 - **Connection to Others:** Jacques Vallée (fellow researcher), J. Allen Hynek (connection via the broader UFO community).
 
 ## Related Research
-- [Jacques Vallée](research/people/jacques_vallee.md)
-- [J. Allen Hynek](research/people/hynek_j_allen.md)
+- [Jacques Vallée](research/people/jacques-vallee.md)
+- [J. Allen Hynek](research/people/hynek-j-allen.md)
 - [The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis](research/theories/the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis.md)
 
 ## Sources

@@ -24,7 +24,7 @@ The encounters involved multiple "Anomalous Aerial Vehicles" (AAVs) or "Unprecen
 
 ### Sensor and Radar Evidence
 The encounter was not merely visual; it was supported by advanced military sensor data:
-* **SPY-1 Aegis Radar:** The USS Princeton, an Aegis-equipped cruiser, detected multiple unknown aerial contacts that could not be identified as known aircraft or even birds/debris.
+* **SPY-1 Aegis Radar:** The USS Princeton, an Aegis-equipped cruiser, detected multiple unknown aerial contacts that could not be identified as known aircraft or even birds/debris. See [AN/SPY-1 Radar Research](../technologies/an-spy-1-radar.md).
 * **FLIR/Infrared Cameras:** Pilots reported observing the objects on their aircraft's infrared targeting systems, noting the distinct thermal signatures and movement patterns.
 
 ## Key Entities/Facts

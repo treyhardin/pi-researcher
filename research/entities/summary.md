@@ -3,4 +3,5 @@
 This directory contains research related to various known or hypothesized entities.
 
 ## Recently Documented
-- [[The Igili]]
+- [The Igigi](../mythology/igigi.md)
+- [Annunaki](../entities/annunaki.md)

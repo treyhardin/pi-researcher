@@ -11,14 +11,14 @@ The 2024 National Defense Authorization Act (NDAA) has since included language t
 Despite these significant allegations and legislative developments, much of the evidence remains classified, and official bodies like the All-domain Anomaly Resolution Office (AARO) continue to investigate the historical record, though they have also faced scrutiny regarding the transparency of such investigations.
 
 ## Key Entities/Facts
-- **David Grusch:** Former U.S. intelligence official and whistleblower who testified to the existence of recovered non-human biologics.
-- **2024 NDAA (National Defense Authorization Act):** Legislation containing provisions regarding the protection and management of recovered UAP technologies and biological evidence.
-- **AARO (All-domain Anomaly Resolution Office):** The Department of Defense office responsible for investigating UAP reports, which is central to the official investigation of these claims.
-- **Non-human Biologics:** The alleged biological remains of non-human intelligence recovered from UAP sites.
+- [David Grusch](../people/david-grusch.md)
+- [AARO](../organizations/aaro.md)
+- [2024 NDAA](../government-and-policy/legislative-disclosure-and-the-ndaa.md)
 
 ## Related Research
-- [David Grusch](research/people/david-grusch.md)
-- [AARO (All-domain Anomaly Anomaly Resolution Office)](../organizations/aaro.md)
+- [David Grusch](../people/david-grusch.md)
+- [AARO](../organizations/ $\text{aaro.md}$)](../organizations/aaro.md)
+- [2024 NDAA](../government-and-policy/legislative-disclosure-and-the-ndaa.md)
 
 ## Sources
 - [Whistleblower testifies U.S. salvaged 'non-human biologics' from UFO crash sites : NPR](https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps)

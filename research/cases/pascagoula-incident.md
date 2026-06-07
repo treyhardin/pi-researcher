@@ -22,14 +22,15 @@ The encounter involved an unidentified aerial phenomenon (UAP) and a close encou
     * **Movement:** Described as descending from above and hovering just a few feet (possibly 2-3 feet) above the ground/bayou.
 * **The Entities:** Reports on the entities' appearance vary, but more detailed accounts describe:
     * **Type:** Three robot-mutable/humanoid beings, approximately 5 feet (1.5 m) tall.
+    
     * **Appearance:** Silver or rough gray, mummy-like skin; no visible neck; slit mouths; pointed noses and ears; eyes that were not prominent (possibly slits).
     * **Limbs:** Unusually long arms with clawlike hands and elephant-like feet.
 * **The Abduction/Examination:** The men claimed to be immobilized by the craft, taken aboard, and subjected to physical examinations/probes by the entities before being returned to the riverbank.
 
 ### Key Witnesses and Witnesses' Accounts
-* **Charles Hickson:** One of the primary witnesses; his later lifetime of interviews and his involvement in the original statements provided much of the case's narrative depth.
-* **Calvin Parker:** The second primary witness; his account complemented Hickson's, detailing the terror and the physical sensation of the encounter.
-* **The "Hickson Tapes":** A crucial, albeit controversial, element of the case. This refers to the covertly recorded conversation by local authorities (including Sheriff Fred Diamond and Detective Tom Huntley) where the witnesses expressed extreme distress and fear.
+* **[Charles Hickson](../people/charles-hickson.md):** One of the primary witnesses; his later lifetime of interviews and his involvement in the original statements provided much of the case's narrative depth.
+* **[Calvin Parker](../people/calvin-parker.md):** The second primary witness; his account complemented Hickson's, detailing the terror and the physical sensation of the encounter.
+* **The \"Hickson Tapes\":** A crucial, albeit controversial, element of the case. This refers to the covertly recorded conversation by local authorities (including Sheriff Fred Diamond and Detective Tom Huntley) where the witnesses expressed extreme distress and fear. See [The Hickson Tapes](../evidence/the-hickson-tapes.md).
 
 ### Investigations and Aftermath
 * **Law Enforcement Involvement:** Local officers, including Sheriff Fred Diamond and Detective Tom Huntley, were central to the initial documentation of the event.
@@ -50,12 +51,12 @@ The encounter involved an unidentified aerial phenomenon (UAP) and a close encou
 ### Organizations
 - [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
 ## Sources
-* [The Pascagoula Abduction Case, 1973: An Investigative Synthesis - UAPedia](https://www.uapedia.ai/wiki/the-pascagoula-abduction-case-1973-an-investigative-synthesis/)
+* [The Pascagoula Abduction Case, 1973: An Investigative Synthesis - UAPedia](httpshttps://www.uapedia.ai/wiki/the-pascagoula-abduction-case-1973-an-investigative-synthesis/)
 * [Pascagula Abduction - Wikipedia](httpshttps://en.m.wikipedia.org/wiki/Pascagoula_Abduction)
 * [The Hickson Tapes - The Pascagoula Incident - NICAP](https://nicap.org/reports/731011pascagoula_hicksontape.htm)
 * [The Hickson Tapes - The Pascagoula Incident, (Interview) - KB42](httpshttps://kb42.info/index.php?title=Hickson-Parker_interview_%28transcript%29)
 * [The Hickson Tapes - The Pascagoula Incident, (Interview) - ufocasebook.com](httpshttps://ufocasebook.com/pascagoulainterview.html)
-* [UFO Report - Coast Guard involvement/Amber beam](https://nicap.org/reports/731106pascagoula_report.htm)
+* [UFO Report - Coast Guard involvement/Amber beam](httpshttps://nicap.org/reports/731106pascagoula_report.htm)
 * [Pascagoula incident - WikiDisc](httpshttps://www.wikidisc.org/wiki/Pascagoula_incident)
 * [The Pascagoula Incident - NICAP Report (detailed entity description)](http://www.nicap.org/reports/731011pascagoula_report.htm)
 * [UFO in Pascagoula, Mississippi: More witnesses come forward - News-Leader](httpshttps://www.news-leader.com/story/magnolia/2019/03/14/ufo-pascagoula-mississippi-calvin-parker-charles-hickson-other-witnesses/3129121002/)

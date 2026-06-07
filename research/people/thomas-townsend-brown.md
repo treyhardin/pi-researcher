@@ -24,7 +24,7 @@ A critical distinction exists between Brown's interpretation and the modern scie
 - **Born:** March 18, 1905, Zanesville, Ohio
 - **Died:** October 27, 1985
 - **Core Technology:** Asymmetric capacitors, High-voltage electrodes
-- **Key Terms:** Bief_feld-Brown effect, Electrogravitics, Electrohydrodynamics (EHD), Ion Propulsion, NICAP
+- **Key Terms:** Biefeld-Brown effect, Electrogravitics, Electrohydrodynamics (EHD), Ion Propulsion, NICAP
 - **Notable Organizations:** Denison University (early experiments), Office of Naval Research (investigations)
 
 

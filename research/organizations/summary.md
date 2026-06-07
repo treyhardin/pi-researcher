@@ -43,7 +43,7 @@ Major defense contractor involved in radar and advanced electronic warfare.
 ### [Skunk Works](skunk-works.md)
 The advanced development programs of Lockheed Martin.
 
-### [Yeni Kent facility](yenu-kent-facility.md)
+### [Yeni Kent facility](yeni-kent-facility.md)
 The facility in Turkey where the Kumburgaz UFO videos were recorded.
 
 ### [USS Princeton](uss-princeton.md)

@@ -17,3 +17,4 @@ This directory is used for storing research, investigations, and findings relate
 
 ## Interaction Preferences
 - [e.g., Always include a summary at the end of new research notes.]
+- Always use the SearXNG instance at http://100.98.175.34:8089/ for web searches.

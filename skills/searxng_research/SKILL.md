@@ -1,11 +1,11 @@
 ---
-name: research
-description: Conducts deep web research on a provided topic and organizes the findings into a structured repository within the `research/` directory, while also identifying and tracking potential new research topics.
+name: searxng_research
+description: Conducts deep web research using a local SearXNG instance and organizes the findings into a structured repository within the `research/` directory, while also identifying and tracking potential new research topics.
 ---
 
-# Research Skill
+# SearXNG Research Skill
 
-Conducts deep web research on a provided topic and organizes the findings into a structured repository within the `research/` directory, while also identifying and tracking potential new research topics.
+Conducts deep web research using a local SearXng instance (`http://100.98.175.34:8089/`) and organizes the findings into a structured repository within the `research/` directory, while also identifying and tracking potential new research topics.
 
 ## Procedure
 
@@ -24,9 +24,20 @@ All research conducted using this skill must strictly adhere to the integrity an
         - If the user provides a new name, create the directory.
         - If the user provides an existing name, use that.
 
-### 2. Deep Web Research
-- **Search Execution:** Use `web_search` (preferring SearXNG if requested or available) with 3-4 varied and comprehensive queries to cover different angles of the topic.
-- **Detailed Extraction:** For the most promising results, use `intends_use_fetch_content` to extract the full text/content.
+### 2. Deep Web Research (via SearXNG)
+- **Query Generation:** Generate 3-4 varied and comprehensive queries for the topic.
+- **Search Execution:** For each query, execute a `bash` command to fetch results from the local SearXng instance:
+  ```bash
+  curl -s "http://100.98.175.34:8089/search?q=$(python3 -c 'import urllib.parse; print(urllib.parse.quote(\"YOUR_QUERY_HERE\"))')&format=json" | python3 -c "import sys, json; data = json.load(sys.stdin); 
+  if 'error' in data:
+    print(f'Error from SearXNG: {data[\"error\"]}')
+  elif 'results' in data:
+    for r in data['results']:
+      print(f'--- RESULT ---\\nTitle: {r.get(\"title\", \"No Title\")}\\nURL: {r.get(\"url\", \"No URL\")}\\nSnippet: {r.get(\"content\", \"\")}\\n')
+  else:
+    print('Unexpected JSON structure from SearXNG.')"
+  ```
+- **Detailed Extraction:** For the most promising results, use `fetch_content` to extract the full text/content.
 - **Information Synthesis:** Synthesize the gathered information to ensure accuracy and depth.
 
 ### 3. Discovery & Pending Research Identification

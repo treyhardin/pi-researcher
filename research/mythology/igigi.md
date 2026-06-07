@@ -19,7 +19,7 @@ The Igigi are a group of mythological figures in Mesopotamian mythology, primari
 - **Creation of Humans:** The rebellion of the Igigi is a key mythological catalyst for the creation of human beings to perform the gods' labor.
 
 ## Related Research
-- [Anunnaki-Igigi Relationship](research/mythology-entities/anunnaki-igigi-relationship.md) <!-- To be created if I decide to research it now -->
+- [Anunnaki-Igigi Relationship](../anunnaki-igigi-relationship.md)
 
 ## Sources
 - [Igigi - Wikipedia](https://en.wikipedia.org/wiki/Igigi)

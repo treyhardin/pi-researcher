@@ -4,5 +4,5 @@ This directory contains research reports and technical studies related to specif
 
 ## Research Entries
 
-### [John Keel](studies/john-keel.md)
+### [John Keel](john-keel.md)
 An influential journalist and ufologist who proposed the Ultraterrestrial Hypothesis, connecting UFOs, cryptids, and paranormal phenomena.

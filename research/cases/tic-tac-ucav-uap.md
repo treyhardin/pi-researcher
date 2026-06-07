@@ -32,11 +32,10 @@ The USS Princeton's AN/SPY-1 radar system detected multiple anomalous returns. T
 - **Transmedium Flight:** The ability of the objects to move between the ocean and the atmosphere.
 
 ## Related Research
-- [[nimitz-encounter]]
-- [[david-fravor]]
-- [[aaro]]
-- [[electrogravitics]]
-- [[advanced-propulsion-convergence]]
+- [Commander David Fravor](../people/david-fravor.md)
+- [AARO](../organizations/aaro.md)
+- [Electrogravitics](../technologies/electrogravitics.md)
+- [Advanced Propulsion Convergence](../theories/advanced-propulsion-convergence.md)
 
 ## Sources
 - [The Black Vault: The “Tic-Tac” Incident, November 14, 2004](https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/)

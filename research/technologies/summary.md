@@ -10,7 +10,6 @@ Research into unidentified objects exhibiting extreme flight characteristics, in
 ### [Digital & Cyber-Phenomena](digital-and-cyber-phenomena.md)
 Exploration of how UAP/NHI interact with, influence, and emerge within digital, cybernetic, and information-based systems.
 
-### [Project Convergence and Senior Officials' ODNI Report](project-convergence-and-senior-officials-report.md)
 ### [Advanced Carbon-Based Materiality](advanced-carbon-based-materiality.md)
 Research into the properties and implications of advanced carbon-based materials in aerospace contexts.
 
@@ -18,7 +17,7 @@ Research into the properties and implications of advanced carbon-based materials
 An electrical phenomenon where an asymmetric capacitor produces thrust under high voltage, historically linked to electrogravitics and modernly to ionic wind.
 
 ### [Bioelectric Signaling](bioelectric-signaling.md)
-The use of endogenous electrical potentials to regulate morphogenesis, regeneration, and cellular coordination.
+The use of endogenous electrical potentials to \...
 
 ### [Bio-Electronic Propulsion](bio-electronic-propulsion.md)
 Research into the intersection of biological electrical processes and propulsion mechanisms.
@@ -56,7 +55,7 @@ Investigating methods for detecting phenomena that do not rely on standard elect
 ### [Project Have Blue](project-have-blue.md)
 The Lockheed Skunk Works technology demonstrator program that pioneered the use of faceted, radar-deflecting surfaces and radar-absorbent materials, directly leading to the development of the F-117 Nighthawk stealth fighter.
 
-### [Radar Data Research](radar_data_research.md)
+### [Radar Data Research](radar-data-research.md)
 Analysis of radar signatures and anomalies detected in various reconnaissance and surveillance data.
 
 ### [Multi-Domain Sensor Fusion Architectures](multi-domain-sensor-fusion-architectures.md)
@@ -64,7 +63,6 @@ Research into the integration of heterogeneous sensor arrays (EO, IR, Radar, RF)
 
 ### [Propulsion Systems Overview](propulsion-systems-overview.md)
 Research into various propulsion methodologies, ranging from established chemical and electric systems to theoretical/anomalous concepts like electrogravitics and warp propulsion.
-Exploring the potential for advanced, autonomous, or sentient AI systems in managing complex reconnaissance and detection tasks.
 
 ### [Starlink](starlink.md)
 Research into the impact of large-scale satellite constellations on UAP detection and the potential for improved pervasive monitoring.
@@ -92,4 +90,3 @@ The primary U.S. Navy destroyer class, featuring the Aegis Combat System and Ver
 
 ### [Ticonderoga-class Cruiser](ticonderoga.md)
 Heavily armed Aegis-equipped cruisers designed for air defense and command and control.
-
