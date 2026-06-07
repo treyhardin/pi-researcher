@@ -78,4 +78,6 @@ Research into the historical connection between high-altitude reconnaissance ope
 ### [RQ-170 Sentinel (Stealth UAS)](rq-170-sentinel.md)
 Research into the low-observable capabilities and strategic ISR role of the Lockheed Martin stealth drone.
 
-### [Advanced Carbon-Based Materiality](advanced-carbon-based-materiality.md)
+### [Aegis Combat System](aegis-combat-system.md)
+A highly integrated, centralized, and automated naval weapons system for defense against air, surface, and subsurface threats, featuring advanced multi-function phased-array radar technology.
+
