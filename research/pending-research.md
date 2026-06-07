@@ -19,5 +19,5 @@ This file tracks topics that have been identified during research but have not y
 - [ ] Propulsion Systems Overview (technologies)
 - [ ] Notable Figures Overview (people)
 - [ ] Sociology and Cultural Impact Studies (sociology_culture)
-- [ ] ### Igigi (Mesopotamian Mythology) (Mythology/Entities)
 - [ ] ### Anunnaki-Igigi Relationship (History/Mythology)
+- [ ] ### Igigi (Mesopotamian Mythology) (Mythology/Entities)
