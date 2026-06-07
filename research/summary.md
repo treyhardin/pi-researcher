@@ -20,7 +20,7 @@ The research highlights a profound connection between private aerospace innovati
 
 ## 3. The Intelligence-Industrial Industrial Complex and UAP Infrastructure
 
-As documented in [The Intelligence-Industrial Industrial Complex and UAP Infrastructure](../intelligence-industrial-complex.md), this ecosystem utilizes private-sector proprietary rights and Unacknowledged Special Access Programs (USAPs) to manage sensitive UAP/NHI information, effectively shielding it from traditional Congressional oversight and FOIA-driven transparency.
+As documented in [The Intelligence-Industrial Industrial Complex and UAP Infrastructure](./government-and-policy/intelligence-industrial-complex.md), this ecosystem utilizes private-sector proprietary rights and Unacknowledged Special Access Programs (USAPs) to manage sensitive UAP/NHI information, effectively shielding it from traditional Congressional oversight and FOIA-driven transparency.
 
 ## 4. Radar-Based Detection and Anomalous Signatures
 
@@ -40,7 +40,7 @@ The detection of UAPs relies on identifying patterns in electromagnetic and rada
 
 The Ultraterrestrial Hypothesis proposes that Unidentified Anomalous Phenomena (UAP) and encounters with non-human intelligence (NHI) are not caused by extraterrestrial visitors from distant star systems, but by entities that inhabit a parallel or "ultraterrestrial" realm that exists alongside, or is interwoven with, our own reality.
 
-* **The Mothman and John Keel:** Research into [**John Keel**](research/people/john-keel.md) and the [**Mothman Prophecies**](research/people/john-keel.md) examines the 1966–1967 sightings in Point Pleasant, West Virginia. This work highlights the **Interdimensional Hypothesis**, suggesting that the Mothman and other phenomena are manifestations from overlapping dimensions, and explores the connection between these sightings and the tragic **Silver Bridge collapse**.
+* **The Mothman and John Keel:** Research into [**John Keel**](research/people/john-keel.md) and the [**Mothman Prophecies**](research/cases/mothman-prophecies.md) examines the 1966–1967 sightings in Point Pleasant, West Virginia. This work highlights the **Interdimensional Hypothesis**, suggesting that the Mothman and other phenomena are manifestations from overlapping dimensions, and explores the connection between these sightings and the tragic **Silver Bridge collapse**.
 * **Core Tenets:**
     * **Coexistence, Not Visitation:** Entities are residents of a reality that overlaps with ours, rather than travelers from afar.
     
