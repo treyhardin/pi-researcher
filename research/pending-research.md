@@ -1,14 +1,8 @@
 # Pending Research Topics
 
-This file tracks topics that have been identified during research but have not yet been formally documented.
+This file tracks topics that are identified during research but have not yet been formally documented.
 
-
-
-- [x] Advanced Propulsion Convergence (Plasma/Bio-Electronic) (Technology/Biology)
-- [x] Multi-Domain Sensor Fusion Architectures (Technology/CA/Detection)
-- [x] Propulsion Systems Overview (technologies)
 - [ ] Sociology and Cultural Impact Studies (sociintology_culture)
-- [ ] Christopher Mellon (people)
 - [ ] Leslie Kean (people)
 - [ ] Karl E. Nell (people)
 - [ ] Danny Sheehan (people)
@@ -21,3 +15,5 @@ This file tracks topics that have been identified during research but have not y
 - [ ] Operation Desert Storm (events)
 - [ ] The Mothman (cases)
 - [ ] UAP and Cybersecurity/AI (technologies)
+- [ ] FLIR/Gimbal Videos (cases)
+- [ ] US Special Operations Command (organizations)
