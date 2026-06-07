@@ -3,8 +3,8 @@
 This file tracks topics that are identified during research but have not yet been formally documented.
 
 - [ ] Sociology and Cultural Impact Studies (sociintology_culture)
-- [ ] Leslie Kean (people)
 - [ ] Danny Sheehan (people)
+- [ ] Ralph Blumenthal (people)
 - [ ] Commander David Fravor (people)
 - [ ] AARO (organizations)
 - [ ] Tic Tac UCAV/UAP (cases)

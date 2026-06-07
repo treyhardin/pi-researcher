@@ -9,6 +9,7 @@ Individuals who have provided testimony or leaked information regarding governme
 - [David Grusch](david-grusch.md)
 - [Luis Elizondo](luis-elizondo.md)
 - [Sean Kirkpatrick](sean-kirkpatrick.md)
+- [Ralph Blumenthal](ralph-blumenthal.md)
 
 
 ## Military Pilots & Witnesses
@@ -26,3 +27,4 @@ Scientists investigating the physical, biological, or theoretical aspects of the
 Researchers and authors who have documented the phenomenon over decades.
 - [John Keel](john-keel.md)
 - [Hynek](hynek-j-allen.md)
+- [Leslie Kean](leslie-kean.md)
