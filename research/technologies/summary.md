@@ -57,9 +57,10 @@ The Lockheed Skunk Works technology demonstrator program that pioneered the use 
 Analysis of radar signatures and anomalies detected in various reconnaissance and surveillance data.
 
 ### [Multi-Domain Sensor Fusion Architectures](multi-domain-sensor-fusion-architectures.md)
-Research into the integration of heterogeneous sensor arrays (EO, IR, Radar, RF) within multi-domain operations (MDO) to create a unified, resilient, real-time operational picture.
+Research into the integration of heterogeneous sensor arrays (EO, IR, Radar, RF) within multi-domain operations (M/DO) to create a unified, resilient, real-time operational picture.
 
-### [Sentient AI Systems](sentient-ai-systems.md)
+### [Propulsion Systems Overview](propulsion-systems-overview.md)
+Research into various propulsion methodologies, ranging from established chemical and electric systems to theoretical/anomalous concepts like electrogravitics and warp propulsion.
 Exploring the potential for advanced, autonomous, or sentient AI systems in managing complex reconnaissance and detection tasks.
 
 ### [Starlink](starlink.md)
