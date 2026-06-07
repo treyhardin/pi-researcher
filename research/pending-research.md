@@ -4,7 +4,7 @@ This file tracks topics that have been identified during research but have not y
 
 
 
-- [ ] Digital & Cyber-Phenomena
+- [ ] The Enerintics of the Universe (Zero-Point/Vacuum Energy)
 - [ ] The Enerintics of the Universe (Zero-Point/Vacuum Energy)
 - [ ] Paleo-UAP & Anomalous Archaeology
 - [ ] Advanced Propulsion Convergence (Plasma/Bio-Electronic) (Technology/Biology)
@@ -20,3 +20,4 @@ This file tracks topics that have been identified during research but have not y
 - [ ] Aegis Combat System (technologies)
 - [ ] Operation Desert Storm (events)
 - [ ] The Mothman (cases)
+- [ ] UAP and Cybersecurity/AI (technologies)

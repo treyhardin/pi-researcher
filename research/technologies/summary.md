@@ -4,6 +4,9 @@ This directory contains research on various technologies and physical phenomena,
 
 ## Research Entries
 
+### [Digital & Cyber-Phenomena](digital-and-cyber-phenomena.md)
+Exploration of how UAP/NHI interact with, influence, and emerge within digital, cybernetic, and information-based systems.
+
 ### [Project Convergence and Senior Officials' ODNI Report](project-convergence-and-senior-officials-report.md)
 ### [Advanced Carbon-Based Materiality](advanced-carbon-based-materiality.md)
 Research into the properties and implications of advanced carbon-based materials in aerospace contexts.

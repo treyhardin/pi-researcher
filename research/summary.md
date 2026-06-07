@@ -40,7 +40,7 @@ The detection of UAPs relies on identifying patterns in electromagnetic and rada
 
 The Ultraterrestrial Hypothesis proposes that Unidentified Anomalous Phenomena (UAP) and encounters with non-human intelligence (NHI) are not caused by extraterrestrial visitors from distant star systems, but by entities that inhabit a parallel or "ultraterrestrial" realm that exists alongside, or is interwoven with, our own reality.
 
-* **Key Proponents:** The term "ultraterrestrial" was coined by journalist and author **John Keel**, who investigated various paranormal phenomena and the concept of entities that manipulate human perception. Other prominent figures include **Jacques Vallée**, whose work on the **Interdimensional Hypothesis (IH)** provides much of the conceptual groundwork for UHT.
+* **The Mothman and John Keel:** Research into **John Keel** and the **Mothman Prophecies** examines the 1966–1967 sightings in Point Pleasant, West Virginia. This work highlights the **Interdimensional Hypothesis**, suggesting that the Mothman and other phenomena are manifestations from overlapping dimensions, and explores the connection between these sightings and the tragic **Silver Bridge collapse**.
 * **Core Tenets:**
     * **Coexistence, Not Visitation:** Entities are residents of a reality that overlaps with ours, rather than travelers from afar.
     

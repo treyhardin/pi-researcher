@@ -20,7 +20,7 @@ This file contains instructions on how the AI agent should behave, communicate, 
 - This directory is a research tool for topics related to the matter of UAPs, UFOs, and non-human intelligence (NHI).
 
 ## Available Skills
-The following skills are available for specialized tasks. When creating new skills, ensure they are added to this list.
+Detailed skill implementations can be found in the `skills/` directory. The following skills are available for specialized tasks. When creating new skills, ensure they are added to this list.
 - `lint`: For auditing the `research/` directory for organization and completeness.
 - `research`: For conducting broad web-based research.
 - `research-executor`: For executing structured research tasks.
