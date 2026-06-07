@@ -4,7 +4,6 @@ This file tracks topics that are identified during research but have not yet bee
 
 - [ ] Sociology and Cultural Impact Studies (sociintology_culture)
 - [ ] Leslie Kean (people)
-- [ ] Karl E. Nell (people)
 - [ ] Danny Sheehan (people)
 - [ ] Commander David Fravor (people)
 - [ ] AARO (organizations)
