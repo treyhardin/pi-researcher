@@ -4,7 +4,6 @@ This file tracks topics that are identified during research but have not yet bee
 
 - [Commander David Fravor](david-fravor.md)
 - [AARO](aaro.md)
-- [ ] Tic Tac UCAV/UAP (cases)
 - [ ] Anomalous Aerial Vehicles (technologies)
 - [ ] USS Nimitz (cases)
 - [ ] Aegis Combat System (technologies)

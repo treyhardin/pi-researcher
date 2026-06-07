@@ -4,8 +4,8 @@ This file provides a brief overview of documented UFO/UAP cases.
 
 ## Recent Research
 
-### Nimitz Encounter (2004)
-A landmark series of UAP sightings by the USS Nimitz Carrier Strike Group, involving "Tic-Tac" shaped objects with extreme maneuverability.
+### Tic Tac UCAV/UAP (2004 Nimitz Encounter)
+A landmark series of UAP sightings involving "Tic-Tac" shaped objects exhibiting extreme maneuver/transmedium flight and rapid acceleration, documented by the USS Nimitz and USS Princeton.
 
 ### David Fravor (people)
 Former Navy TOPGUN pilot and key eyewitness to the 2004 Nimitz encounter.
