@@ -4,8 +4,6 @@ This file tracks topics that have been identified during research but have not y
 
 
 
-- [ ] The Enerintics of the Universe (Zero-Point/Vacuum Energy)
-- [ ] The Enerintics of the Universe (Zero-Point/Vacuum Energy)
 - [ ] Paleo-UAP & Anomalous Archaeology
 - [ ] Advanced Propulsion Convergence (Plasma/Bio-Electronic) (Technology/Biology)
 - [ ] Multi-Domain Sensor Fusion Architectures (Technology/CA/Detection)
