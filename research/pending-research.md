@@ -4,7 +4,7 @@ This file tracks topics that have been identified during research but have not y
 
 
 
-- [ ] Advanced Propulsion Convergence (Plasma/Bio-Electronic) (Technology/Biology)
+- [x] Advanced Propulsion Convergence (Plasma/Bio-Electronic) (Technology/Biology)
 - [ ] Multi-Domain Sensor Fusion Architectures (Technology/CA/Detection)
 - [ ] Propulsion Systems Overview (technologies)
 - [ ] Notable Figures Overview (public)
