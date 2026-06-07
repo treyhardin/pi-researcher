@@ -2,10 +2,9 @@
 
 This file tracks topics that are identified during research but have not yet been formally documented.
 
-- [ ] Danny Sheehan (people)
-- [ ] Ralph Blumenthal (people)
-- [ ] Commander David Fravor (people)
-- [ ] AARO (organizations)
+- [Ralph Blumenthal](ralph-blumenthal.md)
+- [Commander David Fravor](david-fravor.md)
+- [AARO](aaro.md)
 - [ ] Tic Tac UCAV/UAP (cases)
 - [ ] Anomalous Aerial Vehicles (technologies)
 - [ ] USS Nimitz (cases)
