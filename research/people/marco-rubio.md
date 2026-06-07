@@ -27,7 +27,7 @@ Rubio has actively sought the declassification of government records related to 
 - **Key Allies:** Senator Kirsten Gillibrand (D-NY), Senator Chuck Schumer (D-NY), Senator Mike Rounds (R-SD), and Congressman Ruben Gallego (D-AZ).
 
 ## Related Research
-- [AARO (All-domain Anomaly Resolution Office)](research/organizations/aaro.md) (if exists)
+- [AARO (All-domain Anomaly Resolution Office)](../organizations/aaro.md)
 - [Senator Mike Rounds](research/people/mike-rounds.md) (if exists)
 - [Senator Kirsten Gillibrand](research/people/kirsten-gillibrand.md) (if exists)
 

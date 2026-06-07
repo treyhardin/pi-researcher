@@ -18,7 +18,7 @@ Despite these significant allegations and legislative developments, much of the 
 
 ## Related Research
 - [David Grusch](research/people/david-grusch.md)
-- [AARO (All-domain Anomaly Resolution Office)](research/organizations/aaro.md)
+- [AARO (All-domain Anomaly Anomaly Resolution Office)](../organizations/aaro.md)
 
 ## Sources
 - [Whistleblower testifies U.S. salvaged 'non-human biologics' from UFO crash sites : NPR](https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps)

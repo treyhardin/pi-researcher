@@ -64,5 +64,10 @@ Research into the impact of large-scale satellite constellations on UAP detectio
 ### [Synthetic Biology](synthetic-biology.md)
 An interdisciplinary field using the Design-Build-Test-Learn (DBTL) cycle to redesign organisms and biological systems for useful applications.
 
-### [Xenobot](xenobot.md)
-Synthetic living machines created from frog cells and designed using evolutionary algorithms, representing a new paradigm in soft robotics.
+### [U-2 Spy Plane and UAP Sightings](u-2.md)
+Research into the historical connection between high-altitude reconnaissance operations and the pulse of reported UAP phenomena.
+
+### [RQ-170 Sentinel (Stealth UAS)](rq-170-sentinel.md)
+Research into the low-observable capabilities and strategic ISR role of the Lockheed Martin stealth drone.
+
+### [Advanced Carbon-Based Materiality](advanced-carbon-based-materiality.md)

@@ -4,5 +4,5 @@ This directory contains research into various historical, religious, and mytholo
 
 ## Research Entries
 
-### [The Book of Enoch](../books/book-of-enoch.md)
+### [The Book of Enoch](book-of-enoch.md)
 Research into the ancient apocalyptic text, focusing on the Watchers, Nephilim, and themes of non-human interference.

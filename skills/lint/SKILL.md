@@ -1,15 +1,15 @@
 ---
 name: lint
-description: Audits the existing research repository to identify miscategorized documents, proposes structural reorganizations, identifies topics for deeper investigation, and flags gaps in the research.
+description: Audits the `research/` directory to identify miscategorized documents, proposes structural reorganizations, identifies topics for deeper investigation, and flags gaps in the research.
 ---
 
 # Lint Skill
 
-Audits the existing research repository to identify miscategorized documents, proposes structural reorganizations, identifies topics for deeper investigation, and flags gaps in the research.
+Audits the `research/` directory to identify miscategorized documents, proposes structural reorganizations, identifies topics for deeper investigation, and flags gaps in the research.
 
 ## Procedure
 
-The `lint` skill is a meta-analytical tool used to ensure the integrity, organization, and comprehensiveness of the research repository.
+The `lint` skill is a meta-analytical tool used to ensure the integrity, organization, and comprehensiveness of the `research/` directory.
 
 ### 1. Repository Audit
 - **Scan Documents:** Traverse the entire `research/` directory, reading all `.md` files.

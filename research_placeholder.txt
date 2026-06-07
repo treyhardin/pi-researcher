@@ -1,0 +1,17 @@
+# Organizations Research Summary
+
+This directory contains research on various organizations, research facilities, and legislative components involved in the study, investigation, and management of aerial phenomena and related interests.
+
+## Research Entries
+
+### [AARO](aaro.md)
+The All-domain Anomaly Resolution Office (AARO), the U.S.
+
+### [Advanced Aerospace Intelligence Integration](advanced-aerospace-intelligence-integration.md)
+The intersection of military intelligence, specialized task forces (like AARO), and classified aerospace technology development in the study of UAP.
+
+### [Condon Committee](condon-committee.md)
+The University of Colorado UFO project (1966-1968)
+
+### [Lockheed](lockheed_placeholder)
+...

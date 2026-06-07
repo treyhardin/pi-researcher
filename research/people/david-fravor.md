@@ -6,7 +6,7 @@ Retired US Navy Commander and former Commanding Officer of Strike Fighter Squadr
 ## Detailed Findings
 In November 2004, while operating as part of the USS Nimitz (CVN-68) Carrier Strike Group off the coast of San Diego, Commander David Fravor and Lt. Cmdr. Jim Slaight encountered an unidentified object. The object was described as white, oval, and smooth, resembling a "Tic Tac" candy. The craft exhibited extraordinary flight characteristics, including the ability to descend rapidly from approximately 60,000 feet to 50 feet in a matter of seconds without apparent aerodynamic control surfaces or visible propulsion.
 
-Fravor's account has been a cornerstone of the modern UAP disclosure movement, particularly following his 2023 testimony before the House Oversight Committee. His experiences were also subject to investigation under the Pentagon's Advanced Aerospace Threat Identification Program (AATIP) and the Unidentified Aerial Phenomena Task Force/All-domain Anomaly Resolution Office (AARO) precursors.
+Fravor's account has been a cornerstone of the modern UAP disclosure movement, particularly following his 2023 testimony before the House Oversight Committee. His experiences were also subject to investigation under the Pentagon's [Advanced Aerospace Threat Identification Program (AATIP)](../programs/aatip.md) and the [Unidentified Aerial Phenomena Task Force/All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md) precursors.
 
 ## Key Entities/Facts
 * **VFA-41 (Black Aces):** The U.S. Navy Strike Fighter Squadron commanded by Fravor during the 2004 incident.
