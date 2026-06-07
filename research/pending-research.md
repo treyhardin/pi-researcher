@@ -14,8 +14,3 @@ This file tracks topics that are identified during research but have not yet bee
 - ### David Grusch (people) - Intelligence whistleblower regarding UAP programs.
 - ### USS Nimitz 2004 Encounter (cases) - Detailed investigation of the 2004 incident.
 - ### VFA-41 Black Aces (organizations) - The squadron involved in the 2004 encounter.
-- ### Ryan Graves (people) - Pilot witness to the 2004 Nimitz encounter.
-- ### David Grusch (people) - Intelligence whistleblower regarding UAP programs.
-- ### USS Nimitz 2004 Encounter (cases) - Detailed investigation of the 2004 incident.
-- ### VFA-41 Black Aces (organizations) - The squadron involved in the 2004 encounter.
-
