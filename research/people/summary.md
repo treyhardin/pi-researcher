@@ -13,6 +13,8 @@ Individuals who have provided testimony or leaked information regarding governme
 - [Danny Sheehan](danny-sheehan.md)
 - [Jason Sands](jason-sands.md)
 - [Tim Gallaudet](tim-gallaudet.md)
+- [James T. Lacatski](james-t-lacatski.md)
+- [Tim Gallaudet](tim-gallaudet.md)
 
 
 ## Military Pilots & Witnesses
