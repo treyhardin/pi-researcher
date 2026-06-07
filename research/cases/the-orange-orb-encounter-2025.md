@@ -1,7 +1,7 @@
-# The Orange Orb Encounter (202int5)
+# The Orange Orb Encounter (2025)
 
 ## Summary
-In late 2025, a senior U.S. intelligence officer, accompanied by two pilots, witnessed a series of extraordinary Unidentified Aerial Phenomena (UAP) encounters over a mountain test range. These encounters involved multiple orange, oval-shaped orbs exhibiting highly anomalous flight characteristics, including splitting into multiple objects, forming complex geometric formations (T-shape, triangle), and "chasing" fighter jets.
+In late 2025, a senior U.S. intelligence officer, accompanied by two pilots, witnessed a series of extraordinary Unidentified Aerial Phenomena (UAP) encounters over a mountain test range. These encounters involved multiple orange, oval-shaped or fundamental orbs exhibiting highly anomalous flight characteristics, including splitting into multiple objects, forming complex geometric formations (T-shape, triangle), and "chasing" fighter jets.
 
 ## Detailed Findings
 
@@ -14,8 +14,8 @@ The observed UAPs exhibited several highly anomalous behaviors:
 - **Swarming and Formations:** The objects were observed "swarming" in all directions. They also arranged themselves into specific, recognizable patterns, including:
     - **T-formation:** Four or five orbs positioned under a pair of larger orbs.
     - **Triangle formation:** A distinct triangle of orange orbs appearing around the helicopter.
-- **High-Speed Interception/Chasing:** The objects demonstrated the ability to match the speed and flight path of military fighter jets. The witness noted that the orbs appeared to be "ch $as$ing" the jets as they transited the airspace.
-- **Proximity to Personnel:** One object was reported to have approached within ten feet of the helicopter, causing the pilots to briefly consider an emergency landing.
+- **High-Speed Interception/Chasing:** The objects demonstrated the ability to match the speed and flight path of military fighter jets. The witness noted that the orbs appeared to be "chasing" the jets as they transited the airspace.
+- **Proximity to Personnel:** One object was reported to have approached within ten feet of the helicopter, causing the pilots to briefly consider an extremely dangerous maneuver or landing.
 
 ### Physical Appearance and Signature
 - **Visual Description:** The objects were described as orange, oval-shaped orbs, possessing a white or yellow center. They emitted light in all directions.
