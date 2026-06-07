@@ -3,7 +3,7 @@
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
 
-- [ ] Project Senior and Con Trend (Technology)
+
 - [ ] John Keel (Primarily Studies)
 - [ ] John Keel and the Mothman Prophecies (People/Studies)
 - [ ] Xenolinguistics & Communication Protocols

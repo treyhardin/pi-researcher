@@ -4,6 +4,7 @@ This directory contains research on various technologies and physical phenomena,
 
 ## Research Entries
 
+### [Project Convergence and Senior Officials' ODNI Report](project-convergence-and-senior-officials-report.md)
 ### [Advanced Carbon-Based Materiality](advanced-carbon-based-materiality.md)
 Research into the properties and implications of advanced carbon-based materials in aerospace contexts.
 
