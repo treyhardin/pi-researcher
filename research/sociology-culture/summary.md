@@ -10,4 +10,5 @@ This document outlines the ongoing research into how Unidentified Anomalous Phen
 - **Societal Trauma & Paradigm Shifts:** The broader implications of a confirmed paradigm shift in our understanding of life and intelligence in the universe.
 
 ## Current Documentation
-- [The Role of Technological-Cultural Mediums in UAP Perception](../sociology_culture/the-role-of-technological-cultural-mediums-in-uap-perception.md)
+- [The Role of Technological-Cultural Mediums in UAP Perception](../the-role-of-technological-cultural-mediums-in-uap-perception.md)
+- [Sociology and Cultural Impact Studies](../sociology-and-cultural-impact-studies.md)

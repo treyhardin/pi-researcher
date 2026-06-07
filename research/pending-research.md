@@ -2,7 +2,6 @@
 
 This file tracks topics that are identified during research but have not yet been formally documented.
 
-- [ ] Sociology and Cultural Impact Studies (sociintology_culture)
 - [ ] Danny Sheehan (people)
 - [ ] Ralph Blumenthal (people)
 - [ ] Commander David Fravor (people)
