@@ -4,6 +4,9 @@ This directory contains research on various technologies and physical phenomena,
 
 ## Research Entries
 
+### [Anomalous Aerial Vehicles (AAVs)](anomalous-aerial-vehicles.md)
+Research into unidentified objects exhibiting extreme flight characteristics, including rapid acceleration, high-G maneuvers, and transmedium capabilities (air/water/space transitions).
+
 ### [Digital & Cyber-Phenomena](digital-and-cyber-phenomena.md)
 Exploration of how UAP/NHI interact with, influence, and emerge within digital, cybernetic, and information-based systems.
 

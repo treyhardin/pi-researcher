@@ -1,28 +1,35 @@
-# David Fravor
+# Commander David Fravor
 
 ## Summary
-Retired US Navy Commander and former Commanding Officer of Strike Fighter Squadron Forty-One (VFA-41 "Black Aces"). He is widely known for his firsthand account of a highly anomalous "Tic Tac" shaped Unidentified Anomalous Phenomenon (UAP) encounter in November 2004.
+Commander David Fravor is a retired United States Navy commander and former commanding officer of the Strike Fighter Squadron 41 (VFA-41), known as the "Black Aces." He is a prominent figure in the study of Unidentified Anomalous Phenomena (UAP) due to his direct involvement in the famous 2004 "Tic Tac" encounter involving the USS Nimitz (CVCT-68). Fravor's testimony and accounts of the encounter, characterized by the rapid descent and anomalous maneuvers of unidentified objects, have become a cornerstone of modern UAP discourse and congressional investigations.
 
 ## Detailed Findings
-In November 2004, while operating as part of the USS Nimitz (CVN-68) Carrier Strike Group off the coast of San Diego, Commander David Fravor and Lt. Cmdr. Jim Slaight encountered an unidentified object. The object was described as white, oval, and smooth, resembling a "Tic Tac" candy. The craft exhibited extraordinary flight characteristics, including the ability to descend rapidly from approximately 60,000 feet to 50 feet in a matter of seconds without apparent aerodynamic control surfaces or visible propulsion.
+### The 2004 USS Nimitz Encounter
+In November 2004, while serving as the Commanding Officer of VFA-41, Commander Fravor and his wingman encountered an unidentified object off the coast of San Diego. The object, often described as having a "Tic Tac" shape, exhibited extreme flight capabilities, including the ability to descend from 60,000 feet to approximately 50 feet in a matter of seconds. This encounter is one of the most well-documented and credible UAP incidents, supported by pilot testimony and radar data from the USS Nimitz and the USS Princeton.
 
-Fravor's account has been a cornerstone of the modern UAP disclosure movement, particularly following his 2023 testimony before the House Oversight Committee. His experiences were also subject to investigation under the Pentagon's [Advanced Aerospace Threat Identification Program (AATIP)](../programs/aatip.md) and the [Unidentified Aerial Phenomena Task Force/All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md) precursors.
+### Military Career and Background
+Fravor has a distinguished military career spanning 24 years, with 18 years spent as a naval aviator. After enlisting in the U.S. Marine Corps at age 17, he attended the U.S. Naval Academy. His experience includes five combat tours, including deployments during Operation Desert Storm and subsequent operations in the Persian Gulf. He was a graduate of the prestigious Navy Fighter Weapons School (TOPGUN).
+
+### Congressional Testimony and Public Advocacy
+On July 26, 2023, Fravor provided written and oral testimony before the House Oversight Committee during a hearing titled "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency." His testimony emphasized the-scale of the phenomenon and the need for increased transparency and investigation into the capabilities of these anomalous aerial vehicles (AAVs). His accounts have been widely shared through media such as the *Joe Rogan Experience* with Jeremy Corbell and various documentaries.
 
 ## Key Entities/Facts
-* **VFA-41 (Black Aces):** The U.S. Navy Strike Fighter Squadron commanded by Fravor during the 2004 incident.
-* **USS Nimitz (CVN-68):** The aircraft carrier that was part of the Carrier Strike Group during the encounter.
-* **USS Princeton:** Another carrier in the strike group that reportedly detected multiple Anomalous Aerial Vehicles (AAVs) during the same period.
-* **Jim Slaight:** The Navy pilot who was flying alongside Fravor during the encounter.
-* **AATIP/AAWSAP:** The Pentagon programs that investigated these and other UAP incidents.
-* **Luis Elizondo:** Former official in the AATIP/AAWSAP programs who has worked to bring these incidents to public light.
+- **VFA-41 (Black Aces):** The elite strike fighter squadron commanded by Fravor during the 2004 encounter.
+- **USS Nimitz (CVN-68):** The aircraft carrier where the 2004 encounter took place.
+- **USS Princeton:** A vessel that also detected AAVs during the same period.
+- **"Tic Tac" UFO:** The shape characteristic of the unidentified object encountered.
+- **AAV (Anomalous Aerial Vehicle):** The term used to describe the unidentified objects.
+- **House Oversight Committee:** The congressional body where Fravor provided testimony in 202 \[2023\].
 
 ## Related Research
-* [Luis Elizondo](luis-elizondo.md)
-* [AATIP](../programs/aatip.md)
-* [David Grusch](david-grusch.md)
+- [[USS Nimitz (CVN-68) UAP Incident (2004)|USS Nimitz 2004 Encounter]] (Planned/Pending)
+- [[Ryan Graves|Ryan Graves]] (Pending)
+- [[David Grusch|David Grusch]] (Pending)
+- [[VFA-41 (Black Aces)|VFA-41 "Black Aces"]] (Potential topic)
 
 ## Sources
-* [Statement to House Oversight Committee (2023)](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Wstate-FravorD-20230726.pdf)
-* [The Seattle Times: ‘Pretty weirded out’: Pilot recalls close encounter](https://www.seattletimes.com/nation-world/pretty-weirded-out-pilot-recalls-close-encounter-with-strange-aircraft/)
-* [The Black Vault: Tic Tac Case Files](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)
-* [Joe Rogan Experience #1361 - Cmdr. David Fravor & Jeremy Corbell](https://www.youtube.com/watch?v=Eco2s3-0zsQ)
+- [David Fravor Statement for House Oversight Committee (Official PDF)](https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf)
+- [House Oversight Committee Hearing Transcript (2023)](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf)
+- [Joe Rogan Experience #1361 - Cmdr. David Fravor & Jeremy Corbel (YouTube)](https://www.youtube.com/watch?v=Eco2s3-0zsQ)
+- [UAPedia: Commander David Fravor](https://www.uapedia.ai/wiki/commander-david-fravor-the-top-gun-pilot-who-chased-the-tic-tac/)
+- [The Black Vault: Tic Tac UFO Case Files](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)
