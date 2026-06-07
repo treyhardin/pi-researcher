@@ -3,7 +3,6 @@
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
 
-- [ ] USS Princeton (Organizations/Entities)
 - [ ] The Hangar 18 Legend (Mythology)
 - [ ] Project Senior and Con Trend (Technology)
 - [ ] John Keel (Primarily Studies)
@@ -21,4 +20,7 @@ This file tracks topics that have been identified during research but have not y
 - [ ] AARO (organizations)
 - [ ] Tic Tac UCAV/UAP (cases)
 - [ ] Anomalous Aerial Vehicles (technologies)
+- [ ] USS Nimitz (cases)
+- [ ] Aegis Combat System (technologies)
+- [ ] Operation Desert Storm (events)
 

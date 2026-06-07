@@ -1,32 +1,38 @@
-# USS Princeton (CG 59)
+# USS Princeton (CG-59)
 
 ## Summary
-The USS Princeton (CG 59), an Aegis-class guided-missile cruiser, played a pivotal role in detecting and tracking Anomalous Aerial Vehicles (AAVs) during the infamous November 2004 UAP incident involving the USS Nimitz Carrier Strike Group. The ship's radar systems, including the AN/SPY-1, recorded high-velocity objects demonstrating extreme maneuverability, such as rapid descents from high altitudes to near sea level.
+The USS Princeton (CG-5  5) is a Ticonderoga-class guided-missile cruiser of the United States Navy. It is primarily known in the context of UAP research for its role in the 2004 Nimitz Carrier Strike Group encounters, where its Aegis radar systems detected multiple Anomalous Aerial Vehicles (AAVs) exhibiting extreme maneuvering capabilities. Additionally, the vessel is noted for sustaining significant damage after striking a mine during the 1991 Gulf War.
 
 ## Detailed Findings
-In November 2004, while operating off the coast of Southern California, the USS Princeton was part of the air warfare command for the USS Nimit Carrier Strike Group (CSG). During this period, the cruiser's radar operators detected multiple Anomalous Aerial Vehicles (AAVs).
 
-### Key Characteristics of the Observed AAVs:
-- **Extreme Velocity & Maneuverability:** The objects were observed descending "very rapidly" from approximately 60,000 feet to as low as 50 feet in a matter of seconds.
-- **Flight Patterns:** The AAVs exhibited the ability to hover or remain stationary on radar for brief periods before departing at extremely high velocities and with incredible turn rates.
-- **Radar Signature:** The objects were tracked by the AN/SPY-1 radar systems on the USS Princeton, providing a continuous radar track for several days during the encounter.
+### 2004 UAP Encounters
+In November 2004, while operating as part of the Nimitz Carrier Strike Group (CSG) off the coast of the United States, the USS Princeton was a key platform for detecting Unidentified Anomalous Phenomena (UAP).
+- **Radar Detection:** The ship's Aegis combat system detected several "Anomalous Aerial Vehicles" (AAVs) in the vicinity of the strike group.
+- **Flight Characteristics:** The detected objects exhibited highly anomalous flight characteristics, including rapid descents from altitudes of approximately 60,000 to 80,000 feet down to sea level in mere seconds, as well as extreme acceleration, deceleration, and high-velocity turns.
+- **Connection to Nimitz Incident:** The activity on the USS Princeton was closely linked to the famous "Tic-Tac" encounter involving pilots Commander David Fravor and Lieutenant Commander Alex Dietrich from the USS Nimitz.
+- **Witness Testimony:** Personnel stationed on the USS Princeton, including radar technicians like Senior Chief Kevin Day, have provided accounts of "ghost tracks" and radar clutter that preceded the visual encounters.
 
-The incident is closely linked to the "Tic Tac" UAP encounter reported by pilots from the USS Nimitz, where a wingless, white, oval-shaped object was visually and radar-confirmed by multiple crew members.
+### 1991 Gulf War Incident
+The USS Princeton played a significant role during Operation Desert Storm.
+- **Mine Strike:** On February 18, 1991, while patrolling the Persian Gulf, the USS Princeton struck a naval mine.
+- **Damage:** The explosion caused substantial damage to the ship's rudder and the aft starboard hull. The vessel's propulsion was significantly affected, necessitating a tow by the USS Tripoli.
+- **Operational Context:** The incident occurred during a period of intense naval operations in the Middle East, highlighting the hazards of mine warfare in the region.
 
 ## Key Entities/Facts
-- **USS Princeton (CG 59):** An Aegis-class guided-missile cruiser that served as the air warfare command ship during the 2004 encounter.
-- **USS Nimitz (CVN 68):** The carrier at the center of the 2004 UAP incident.
-- **Anomalous Aerial Vehicles (AAS/AAVs):** The unidentified objects detected by radar.
-- **AN/SPY-1 Radar:** The advanced radar system used to track the phenomena.
-- **November 2004:** The timeframe of the primary documented encounter.
+- **USS Princeton (CG-59):** A Ticonderoga-class guided-missile cruiser.
+- **Aegis Combat System:** The advanced radar and weapon system used to track and identify the AAVs.
+- **Anomalous Aerial Vehicles (AAVs):** The term used to describe the unidentified objects detected by the ship's radar.
+- **Commander David Fravor & Lt. Cmdr. Alex Dietrich:** Navy pilots whose encounters are inextricably linked to the radar data from the USS Princeton.
+- **1991 Mine Strike:** A significant historical event involving the vessel during the Gulf War.
 
 ## Related Research
-- [Commander David Fravor](research/people/david-fravor.md) (if exists)
-- [Tic Tac UAP](research/cases/tic-tac-uap.md) (if exists)
-- [AARO](research/organizations/aaro.md) (if exists)
+- [USS Nimitz (CVN-68)](research/cases/uss-nimitz.md) (If exists)
+- [Tic Tac UCAV/UAP](research/cases/tic-tac-uap.md) (If exists)
+- [Aegis Combat System](research/technologies/aegis-combat-system.md) (If exists)
 
 ## Sources
-- [USS Princeton CG-59 — Radar Tracking of Nimitz Tic-Tac — DoD Declassified UAP File](https://www.nowdeclassified.com/incidents/uss-princeton-tictac-2004)
-- [The Vault Files: The “Tic-Tac” Incident, November 14, 2004 - The Black Vault Case Files](https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/)
-- [Executive Summary (Nimitz UAP Incident)](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)
-- [USS Princeton (1843) - Wikipedia](https://en.wikipedia.org/wiki/USS_Princeton_(1843))
+- [Executive Summary - The Black Vault](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)
+- [USS Princeton CG-59 - Radar Tracking of Nimitz Tic-Tac - Now Declassified](https://www.nowdeclassified.com/incidents/uss-princeton-tictac-2004)
+- [The Truth About the Navy's Nimitz Encounter - Popular Mechanics](https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/)
+- [Princeton Leaves the War - USNI Proceedings](https://www.usni.org/magazines/proceedings/1991/july/princeton-leaves-war)
+- [UFO Report - NICAP](http://www.nicap.org/20041114USS_Nimitz_dir.htm)
