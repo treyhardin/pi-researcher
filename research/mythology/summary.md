@@ -1,7 +1,27 @@
-# Summary of Mythology Research
+---
+type: MOC
+domain: mythology
+description: A map of content for research into ancient myths, legends, and their potential relation to anomalous phenomena.
+---
 
-## Anunnaki-Igigi Relationship
-Research into the relationship between the Anunnaki and Igigi highlights a hierarchical structure of Mesopotamian divinity, where the superior Anunnaki imposed heavy labor upon the subordinate Igigi. The resulting rebellion of the Igigi, documented in the *Atrahasis* epic, led to the creation of humanity to take over the gods' burdensome tasks.
+# Mythology Map of Content (Mag)
 
-## Paleo-UAP & Anomalous Archaeology
-Research into the potential connection between ancient archaeological sites/artifacts and unidentified anomalous phenomena.
+This MOC serves as a central hub for research into how ancient mythologies, legends, and religious texts provide a symbolic and historical framework for understanding anomalous phenomena. It connects ancient narratives of celestial beings and powerful deities to modern-day UAP/NHI observations.
+
+## 📜 Mesopotamian & Near Eastern Narratives
+Exploring the hierarchies, conflicts, and creation stories that involve high-level divinity and human intervention.
+- [[entities/annunaki]]
+- [[mythology/igigi]]
+
+## 🏛️ Paleo-UAP & Anomalous Archaeology
+Investigating the potential intersection between unidentified anomalous phenomena and significant archaeological sites or artifacts.
+*(Placeholder for future research)*
+
+## 🐉 Global Mythologies & Archetypes
+Research into common themes across various cultures regarding "sky gods," "dragon" motifs, and celestial visitors.
+- [[mythology/global-mythologies-archetypes]]
+
+## 🔗 Related Domains
+- [[entities/summary]]
+- [[books/summary]]
+- [[sociology-culture/summary]]
