@@ -2,7 +2,8 @@
 
 This file tracks topics that are identified during research but have not yet been formally documented.
 
-- [AN/SPY-1 Radar](spay-1.md)
-- [Arleigh Burke-class Destroyer](arleigh-burke.md)
-- [Ticonderoga-class Cruiser](ticonderoga.md)
+### Arleigh Burke-class Destroyer (technologies)
+- Key component of modern naval defense.
 
+### Ticonderoga-class Cruiser (technologies)
+- Significant naval vessel class.

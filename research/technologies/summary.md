@@ -84,7 +84,7 @@ A highly integrated, centralized, and automated naval weapons system for defense
 ### [Vertical Launch System (VLS)](vls.md)
 A modular, canister-based missile launching system providing rapid-fire capability and mission versatility for modern naval combatants.
 
-### [AN/SPY-1 Radar](spay-1.md)
+### [AN/SPY-1 Radar](an-spy-1-radar.md)
 The advanced, multi-function phased-array radar at the heart of the Aegis Combat System, capable of simultaneous search, track, and guidance.
 
 ### [Arleigh Burke-class Destroyer](arleigh-burke.md)
