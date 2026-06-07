@@ -22,6 +22,9 @@ A famous 1973 alleged abduction and encounter near the Pascagoula River, involvi
 ### The Roswell Incident (1947)
 The foundational event in modern UAP lore involving the alleged recovery of a  spacecraft and debris in New Mexico, leading to decades of debate between 'weather balloon' and 'extraterrestrial' theories.
 
+### The Phoenix Lights (1997)
+A massive, multi-witness event involving a large V-shaped craft and stationary lights over Arizona, one of the most documented mass UAP sightings in history.
+
 ### Apollo Mission Sightings
 Investigation into reported aircraft and unidentified light sources during NASA's Apollo missions, including recent 2026 declassified documentation.
 
