@@ -45,3 +45,7 @@ The advanced development programs of Lockheed Martin.
 
 ### [Yeni Kent facility](yenu-kent-facility.md)
 The facility in Turkey where the Kumburgaz UFO videos were recorded.
+
+### [USS Princeton](uss-princeton.md)
+Key role in detecting AAVs during the 2004 Nimitz UAP encounter.
+
