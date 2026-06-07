@@ -3,7 +3,6 @@
 This file tracks topics that have been identified during research but have not yet been formally documented.
 
 
-- [ ] The Hangar 18 Legend (Mythology)
 - [ ] Project Senior and Con Trend (Technology)
 - [ ] John Keel (Primarily Studies)
 - [ ] John Keel and the Mothman Prophecies (People/Studies)
