@@ -26,9 +26,9 @@ The USS Princeton played a significant role during Operation Desert Storm.
 - **1991 Mine Strike:** A significant historical event involving the vessel during the Gulf War.
 
 ## Related Research
-- [USS Nimitz (CVN-68)](research/cases/uss-nimitz.md) (If exists)
-- [Tic Tac UCAV/UAP](research/cases/tic-tac-uap.md) (If exists)
-- [Aegis Combat System](research/technologies/aegis-combat-system.md) (If exists)
+- [USS Nimitz (CVN-68)](uss-nimitz.md) (If exists)
+- [Tic Tac UCAV/UAP](tic-tac-uap.md) (If exists)
+- [Aegis Combat System](../technologies/aegis-combat-system.md) (If exists)
 
 ## Sources
 - [Executive Summary - The Black Vault](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)

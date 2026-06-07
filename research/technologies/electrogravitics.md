@@ -6,7 +6,7 @@ Electrogravitics refers to a theoretical field of study and a set of proposed te
 ## Detailed Findings
 
 ### Historical Context and the Biefeld-Brown Effect
-The concept of electrogravitics is deeply rooted in early 20th-century experiments involving high-voltage electric fields. The most prominent phenomenon associated with this field is the **Biefeld-Brown effect**, where a capacitor-like structure (an asymmetric capacitor) appears to experience a thrust when subjected to high voltage. This effect was extensively studied by **Thomas Townsend Brown**. While often dismissed by mainstream physics, it remains a cornerstone of electrogravitics research.
+The concept of electrogravitics is deeply rooted in early 20th-century experiments involving high-voltage electric fields. The most prominent phenomenon associated with this field is the [**Biefeld-Brown effect**](../biefeld-brown-effect.md), where a capacitor-like structure (an asymmetric capacitor) appears to experience a thrust when subjected to high voltage. This effect was extensively studied by [**Thomas Townsend Brown**](../people/thomas-townsend-brown.md). While often dismissed by mainstream physics, it remains a cornerstone of electrogravitics research.
 
 ### Modern Theoretical Frameworks: Electrogravitational Theory
 Recent theoretical works, including "Introduction to Electrogravitational Theory" (2024), propose a more rigorous mathematical foundation for these phenomena. Key assertions include:

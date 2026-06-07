@@ -4,8 +4,10 @@ This file provides a brief overview of documented UFO/UAP cases.
 
 ## Recent Research
 
+### The Orange Orb Encounter (2025)
+A series of high-intensity encounters involving orange, oval-shaped UAPs that exhibited complex swarm behavior and formation flying, documented by a senior U.S. intelligence official.
+
 ### Tic Tac UCAV/UAP (2004 Nimitz Encounter)
-A landmark series of UAP sightings involving "Tic-Tac" shaped objects exhibiting extreme maneuver/transmedium flight and rapid acceleration, documented by the USS Nimitz and USS Princeton.
 
 ### David Fravor ([people](../people/david-fravor.md))
 Former Navy TOPGUN pilot and key eyewitness to the 2004 Nimitz encounter.
