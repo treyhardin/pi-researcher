@@ -5,10 +5,10 @@ This file tracks topics that have been identified during research but have not y
 
 
 - [x] Advanced Propulsion Convergence (Plasma/Bio-Electronic) (Technology/Biology)
-- [ ] Multi-Domain Sensor Fusion Architectures (Technology/CA/Detection)
+- [x] Multi-Domain Sensor Fusion Architectures (Technology/CA/Detection)
 - [ ] Propulsion Systems Overview (technologies)
 - [ ] Notable Figures Overview (public)
-- [ ] Sociology and Cultural Impact Studies (sociology_culture)
+- [ ] Sociology and Cultural Impact Studies (sociintology_culture)
 - [ ] Commander David Fravor (people)
 - [ ] AARO (organizations)
 - [ ] Tic Tac UCAV/UAP (cases)

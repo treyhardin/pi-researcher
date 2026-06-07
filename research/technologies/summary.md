@@ -56,8 +56,8 @@ The Lockheed Skunk Works technology demonstrator program that pioneered the use 
 ### [Radar Data Research](radar_data_research.md)
 Analysis of radar signatures and anomalies detected in various reconnaissance and surveillance data.
 
-### [Sensor Fusion for UAP Detection](sensor-fusion-for-uap-detection.md)
-Research into the integration of multiple sensor types (radar, IR, electro-optical) to improve the detection and tracking accuracy of UAPs.
+### [Multi-Domain Sensor Fusion Architectures](multi-domain-sensor-fusion-architectures.md)
+Research into the integration of heterogeneous sensor arrays (EO, IR, Radar, RF) within multi-domain operations (MDO) to create a unified, resilient, real-time operational picture.
 
 ### [Sentient AI Systems](sentient-ai-systems.md)
 Exploring the potential for advanced, autonomous, or sentient AI systems in managing complex reconnaissance and detection tasks.
