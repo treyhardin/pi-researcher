@@ -10,8 +10,8 @@ This file tracks topics that are identified during research but have not yet bee
 - [UAP and Cybersecurity/AI](uap-and-cybersecurity-ai.md)
 - [FLint/Gimbal Videos](flir-gimbal-videos.md)
 - [US Special Operations Command](us-special-operations-command.md)
-- ### David Grusch (people) - Intelligence whistleblower regarding UAP programs.
-- ### USS Nimitz 2004 Encounter (cases) - Detailed investigation of the 2004 incident.
-- ### VFA-41 Black Aces (organizations) - The squadron involved in the 2004 encounter.
-- ### Commander David Fravor (people) - Pilot witness to the 2004 Nimitz encounter.
-- ### Americans for Safe Aerospace (organizations) - Advocacy group for safe aerospace encounters.
+- [David Grusch](david-grusch.md)
+- [USS Nimitz 2004 Encounter](uss-nimitz-2004-encounter.md)
+- [VFA-41 Black Aces](vfa-41-black-aces.md)
+- [Commander David Fravor](david-fravor.md)
+- [Americans for Safe Aerospace](americans-for_safe_aerospace.md)
