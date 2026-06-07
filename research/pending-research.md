@@ -4,7 +4,6 @@ This file tracks topics that have been identified during research but have not y
 
 
 
-- [ ] John Keel (Primarily Studies)
 - [ ] John Keel and the Mothman Prophecies (People/Studies)
 - [ ] Xenolinguistics & Communication Protocols
 - [ ] Digital & Cyber-Phenomena
@@ -22,4 +21,5 @@ This file tracks topics that have been identified during research but have not y
 - [ ] USS Nimitz (cases)
 - [ ] Aegis Combat System (technologies)
 - [ ] Operation Desert Storm (events)
+- [ ] The Mothman (cases)
 

@@ -4,5 +4,5 @@ This directory contains research reports and technical studies related to specif
 
 ## Research Entries
 
-### [Project Have Blue Technology](studies/Project_Have_blue_Technology.md)
-...
+### [John Keel](studies/john-keel.md)
+An influential journalist and ufologist who proposed the Ultraterrestrial Hypothesis, connecting UFOs, cryptids, and paranormal phenomena.
