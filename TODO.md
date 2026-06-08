@@ -10,7 +10,7 @@ This document tracks the transformation of the research folder from a hierarchic
 - [x] Investigate "Biological-Interface Technologies and Neural Links" as a critical intersection between biological evolution and advanced technology.
 - [x] Research "Spacetime Metric Engineering and Warp Theory" to examine the physics of high-speed/non-Newtonian propulsion.
 - [x] Research "Torsion Fields and Vacuum Fluctuations" to explore anomalous energy sources and propulsion mechanisms.
-- [ ] Research "Quantum Radar and Low-Observable Detection Vulnerabilities" to understand the future of UAP detection capabilities.
+- [x] Research "Quantum Radar and Low-Observable Detection Vulnerabilities" to understand the future of UAP detection capabilities.
 - [ ] Investigate "Autonomous Drone Swarms as UAP Proxies" to differentiate between adversarial UAS and true UAP.
 - [ ] Develop "Interstellar Legal Frameworks and Sovereignty" to explore the jurisdictional implications of NHI contact.
 - [ ] Research "The Role of Private Aerospace Companies in UAP Retention" as a study of information/technology containment.
