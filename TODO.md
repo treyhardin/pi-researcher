@@ -4,18 +4,4 @@ This document tracks the transformation of the research folder from a hierarchic
 
 ## ⚪ Pending Tasks
 
-- [x] Perform a structured deep-dive/synthesis into "Plasma-Based Life" theories, integrating findings from plasma physics and biological signatures.
-- [x] Formalize "Propulsion & Advanced Physics" in the physics domain: Integrate theoretical propulsion research (e.g., Electrogravitics, Vacuum Energy) into the physics MOC to bridge theory and technology.
-- [x] Research and document "Xenobiology: Extremophiles and Non-Carbon-Based Life" to expand the scope of            potential biological signatures.
-- [x] Investigate "Biological-Interface Technologies and Neural Links" as a critical intersection between biological evolution and advanced technology.
-- [x] Research "Spacetime Metric Engineering and Warp Theory" to examine the physics of high-speed/non-Newtonian propulsion.
-- [x] Research "Torsion Fields and Vacuum Fluctuations" to explore anomalous energy sources and propulsion mechanisms.
-- [x] Research "Quantum Radar and Low-Observable Detection Vulnerabilities" to understand the future of UAP detection capabilities.
-- [x] Investigate "Autonomous Drone Swarms as UAP Proxies" to differentiate between adversarial UAS and true UAP.
-- [x] Research "Vulnerabilities of Remote ID and RF-based Identification to Adversarial Spoofing"
-- [x] Develop "Interstellar Legal Frameworks and Sovereignty" to explore the jurisdictional implications of NHI contact.
-- [x] Research "The Role of Private Aerospace Companies in UAP Retention" as a study of information/technology containment.
-- [x] Research "Transmedium Phenomena and Aquatic-to-Aerial Transitions" to understand anomalous medium-transitioning capabilities.
-- [x] Investigate "Unexplained Sensor Data Anomalies in Satellite Constellations" to examine potential UAP-related signal or tracking interference.
-- [x] Research "The Battle of Los Angeles (1942)" to understand its historical significance in UAP sightings.
 - [ ] Research "The Arecibo Message & SETI Communications" and its connection to crop circle formations.

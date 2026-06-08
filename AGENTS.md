@@ -10,7 +10,7 @@ This file contains instructions on how the AI agent should behave, communicate, 
 ## Workflow & Task Execution
 - Always run tests before committing changes.
 - Prefer using `npm test` for verification.
-- **CRITICAL:** After performing any research-related task and committing changes (including updates to `pending-research.md` and `summary.md`), you **MUST** execute `git push origin main` to ensure the remote repository is synchronized with the local changes.
+- **TODO Management:** Once a task in `TODO.md` is completed, it must be entirely removed from the document, leaving only pending `[ ]` tasks.
 
 ## Coding Standards & Practices
 - [e.g., Use TypeScript for all new files.]
