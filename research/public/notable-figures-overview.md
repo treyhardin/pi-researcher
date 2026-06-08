@@ -34,10 +34,10 @@ Legal experts use the judicial system and constitutional law to advocate for the
 *   **National Security Pivot**: The framing of UAP as a "national security issue" (championed by Mellon) has shifted political discourse.
 
 ## Related Research
-*   [AARO (All-domain Anomaly Resolution Office)](research/organizations/aaro.md)
-*   [Luis Elizondo](research/people/luis-elizondo.md)
-*   [Christopher Mellon](research/public/christopher-mellon.md) (To be created)
-*   [Leslie Kean](research/people/leslie-kean.md) (To be created)
+*   [[organizations/aaro]]
+*   [[people/luis-elizondo]]
+*   [[people/christopher-mellon]] (To be created)
+*   [[people/leslie-kean]] (To be created)
 
 ## Sources
 1. [Christopher Mellon: The Insider Who Turned UAP Into a National Security Story - UAPedia](https://uapedia.ai/wiki/christopher-mellon-the-insider-who-turned-uap-into-a-national-security-story/)

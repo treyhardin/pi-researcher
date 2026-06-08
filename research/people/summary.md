@@ -1,37 +1,46 @@
-# Notable Figures in UAP Research and Whistleblowing
+---
+type: MOC
+domain: people
+description: A map of content for research into notable figures, whistleblowers, and researchers related to the phenomenon.
+---
 
-## Summary
-This document serves as an index to the primary figures, researchers, and whistleblowers documented within this repository. It categorizes individuals by their primary role in the phenomenon (e.g., intelligence whistleblowers, academic researchers, military pilots).
+# People Map of Content (MOC)
 
-## Whistleblowers & Intelligence Officials
-Individuals who have provided testimony or leaked information regarding government programs related to UAP/NHI.
-- [Christopher Mellon](christopher-mellon.md)
-- [David Grusch](david-grusch.md)
-- [Luis Elizondo](luis-elizondo.md)
-- [Sean Kirkpatrick](sean-kirkpatrick.md)
-- [Ralph Blumenthal](ralph-blumenthal.md)
-- [Danny Sheehan](danny-sheehan.md)
-- [Jason Sands](jason-sands.md)
-- [Tim Gallaudet](tim-gallaudet.md)
-- [Dylan Borland](dylan-borland.md)
-- [James T. Lacatski](james-t-lacatski.md)
-- [Tim Gallaudet](tim-gallaudet.md)
+This MOC serves as a central hub for all primary figures, researchers, and whistleblowers documented within this repository. It organizes individuals based on their roles, ranging from military pilots and eyewitnesses to intelligence officials and academic researchers.
 
+## 🛡️ Whistleblowers & Intelligence Officials
+Individuals who have provided testimony, leaked information, or shared insights regarding government programs and the management of UAP/NHI information.
+- [[people/christopher-mellon]]
+- [[people/david-grusch]]
+- [[people/luis-elizondo]]
+- [[people/sean-kirkpatrick]]
+- [[people/ralph-blumenthal]]
+- [[people/danny-sheehan]]
+- [[people/jason-sands]]
+- [[people/tim-gallaudet]]
+- [[people/dylan-borland]]
+- [[people/james-t-lacatski]]
 
-## Military Pilots & Witnesses
-Personnel who have personally encountered anomalous objects during flight operations.
-- [David Fravor](david-fravor.md)
-- [Ryan Graves](ryan-graves.md)
+## 👨‍✈️ Military Pilots & Eyewitnesses
+Service members and personnel who have personally encountered anomalous objects or experienced phenomena during flight operations.
+- [[people/david-fravor]]
+- [[people/ryan-graves]]
 
-## Academic & Scientific Researchers
-Scientists investigating the physical, biological, or theoretical aspects of the phenomenon.
-- [Michael Levin](michael-levin.md)
-- [Hal Puthoff](hal-puthoff.md)
-- [Jacques Vallée](jacques-vallee.md)
-- [Rupert Sheldrake](rupert-sheldrake.md)
+## 🔬 Academic & Scientific Researchers
+Scientists and researchers investigating the physical, biological, or theoretical implications of the phenomenon.
+- [[people/michael-levin]]
+- [[people/hal-puthoff]]
+- [[people/jacques-vallee]]
+- [[people/rupert-sheldrake]]
 
-## Historical & Investigative Figures
-Researchers and authors who have documented the phenomenon over decades.
-- [John Keel](john-keel.md)
-- [Hynek](hynek-j-allen.md)
-- [Leslie Kean](leslie-kean.md)
+## 📜 Historical & Investigative Figures
+Researchers, authors, and investigators who have documented and analyzed the phenomenon over the decades.
+- [[people/john-keel]]
+- [[people/hynek-j-allen]]
+- [[people/leslie-kean]]
+
+## 🔗 Related Domains
+- [[cases/summary]]
+- [[entities/summary]]
+- [[technologies/summary]]
+- [[government-and-policy/summary]]

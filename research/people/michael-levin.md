@@ -1,3 +1,9 @@
+---
+type: person
+tags: [biologist, synthetic-biology, bioelectricity, xenobots]
+related_cases: []
+related_entities: [[xenobot], [synthetic-biology], [electrogravitics]]
+---
 # Michael Levin
 
 ## Summary
@@ -29,9 +35,9 @@ Levin proposes a framework for understanding "diverse intelligence," which posit
 - **Collective Intelligence:** The intelligence emerging from groups of cells or organisms.
 
 ## Related Research
-- [[xenobot]] (referencing existing technology research)
-- [[synthetic-biology]] (referencing existing technology research)
-- [[electrogravitics]] (potential connection to advanced propulsion theories discussed in his research on bioelectric-driven movement)
+- [[technologies/xenobot]] (referencing existing technology research)
+- [[technologies/synthetic-biology]] (referencing existing technology research)
+- [[technologies/electrogravitics]] (potential connection to advanced propulsion theories discussed in his research on bioelectric-driven movement)
 
 ## Sources
 1. [Endogenous Bioelectric Signaling Networks: Exploiting Voltage Gradients for Control of Growth and Form - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10478168/)

@@ -20,9 +20,9 @@ The project's tenure was relatively short-lived, ending in mid-1949 when the Air
 - **Fate:** Replaced by Project Grudge following a change in Air Force policy to downplay the phenomenon.
 
 ## Related Research
-- [Project Grudge](research/programs/project-grudge.md) (if exists)
-- [Project Blue Book](research/programs/project-improper-blue-book.md) (if exists)
-- [Wright-Patterson Air Force Base](research/places/wright-patterson-air-force-base.md) (if exists)
+- [[project-grudge]] (if exists)
+- [[project-improper-blue-book]] (if exists)
+- [[wright-patterson-air-force-base]] (if exists)
 
 ## Sources
 - [Project Sign - Wikipedia](https://en.wikipedia.org/wiki/Project_Sign)

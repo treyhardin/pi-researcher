@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Bioelectric Signaling
 
 ## Summary
@@ -30,9 +35,9 @@ The ability to manipulate bioelectric signals offers transformative potential fo
 - **Bioelectric Patterning:** The process of using electricity to define anatomical structure.
 
 ## Related Research
-- [[xenobot]] (The use of bioelectric-like control in synthetic organisms)
-- [[synthetic-biology]] (Engineering biological systems)
-- [[morphogenesis]] (The overarching process being regulated)
+- [[technologies/xenobot]] (The use of bioelectric-like control in synthetic organisms)
+- [[technologies/synthetic-biology]] (Engineering biological systems)
+- [[theories/morphogenesis]] (The overarching process being regulated)
 
 ## Sources
 - *Nature Reviews Molecular Cell Biology* (General principles of bioelectric signaling)

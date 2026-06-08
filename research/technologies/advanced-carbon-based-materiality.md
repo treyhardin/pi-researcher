@@ -1,3 +1,9 @@
+---
+type: technology
+tags: [advanced_materials, carbon_nanocode, graphene, aerospace, stealth]
+related_technologies: [[metamaterials-low-observable-stealth-cloaking], [synthetic-biology], [non-electromagnetic-detection]],
+related_theories: [[theories/biological-technological-convergence]]
+---
 # Advanced Carbon-based Materiality
 
 ## Summary
@@ -34,9 +40,9 @@ Carbon-based materials are at the forefront of "low-observable" (stealth) techno
 - **Radar Absorbing Materials (RAM):** Utilizing carbon-based structures for stealth and low-observability.
 
 ## Related Research
-- [[research/technologies/metamaterials-low-observable-stealth-cloaking.md]]
-- [[research/technologies/synthetic-biology.md]] (related to the "living" or "self-healing" paradigm)
-- [[research/technologies/non-electromagnetic-detection.md]] (related to the detection of stealthy objects)
+- [[technologies/metamaterials-low-observable-stealth-cloaking]]
+- [[technologies/synthetic-biology]] (related to the "living" or "self-healing" paradigm)
+- [[technologies/non-electromagnetic-detection]] (related to the detection of stealthy objects)
 
 ## Sources
 - [Advancements in Design and Manufacture of High-Performance Modified Carbon/Carbon Composites for Extreme Aerospace Environments](https://www.mdpi.com/2079-6439/14/5/55)

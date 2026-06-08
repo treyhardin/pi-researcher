@@ -1,7 +1,13 @@
+---
+type: person
+tags: [astronomer, ufologist, blue_book, close_encounters]
+related_cases: []
+related_entities: [[programs/project-blue-book]]
+---
 # Dr. J. Allen Hynek
 
 ## Biography
-J. Allen Hynek (1919–1980) was an American astronomer and ufologist. He is most famous for his work as the scientific advisor to the United States Air Force's **Project Blue Book**.
+J. Allen Hynek (1919–1980) was an American astronomer and ufologist. He is most famous for his work as the scientific advisor to the United States Air Force's **[[programs/project-blue-book]]**.
 
 ## Role in UFO Studies
 Initially a skeptic, Hynek's investigations into unidentified flying objects led him to a more nuanced and serious view of the phenomenon. His scientific approach helped transition UFO studies from mere speculation to a more structured investigation of anomalous aerial phenomena.
@@ -11,7 +17,7 @@ Initially a skeptic, Hynek's investigations into unidentified flying objects led
     - **Close Encounters of the First Kind:** Visual sightings of objects.
     - **Close Encounters of the Second Kind:** Physical effects (e.g., landing marks, radiation, electromagnetic interference).
     - **Close Encounters of the Third Kind:** Sightings of entities (humanoid or otherwise) accompanying the objects.
-- **Project Blue Book:** He served as a key scientific advisor, providing credibility to the investigations into unidentified flying objects during the mid-20th century.
+- **[[programs/project-blue-book]]**: He served as a key scientific advisor, providing credibility to the investigations into unidentified flying/aerial objects during the mid-20th century.
 - **Scientific Methodology:** He advocated for a more rigorous, scientific approach to studying UAPs, moving away from the sensationalism common in the era.
 
 ## Legacy

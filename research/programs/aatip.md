@@ -24,9 +24,9 @@ The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified
     - [Advanced Aerospace Weapons System Applications Program (AAWSAP)](https://sfl.media/government-program-aawsap-the-pentagons-secret-skinwalker-ranch-investigation/)
     - [All-domain Anomaly Resolution Office (AARO)](https://www.washingtonpost.com/documents/ec60ea36-7763-4f1b-9b6a-86c86dabff98.pdf?itid=lk_interstitial_manual_11)
 - **People**:
-    - [Luis Elizondo](research/people/luis-elizondo.md)
+    - [[people/luis-elizondo]]
 - **Related Programs**:
-    - [AAWSAP](research/programs/aawsap.md) (If exists)
+    - [[aawsap]] (If exists)
     - [UAP Task Force]
 
 ## Sources

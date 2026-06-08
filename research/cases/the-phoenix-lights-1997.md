@@ -1,3 +1,10 @@
+---
+type: case
+tags: [uap, phoenix-lights, 1997, mass-sighting, arizona]
+related_cases: []
+related_technologies: []
+related_people: [[fife-symington]]
+---
 # The Phoenix Lights (1997)
 
 ## Summary
@@ -39,8 +46,8 @@ The reported characteristics of the V-shaped craft challenge conventional aviati
 - **Primary Shape:** V-shaped, boomerang, or "carpenter's square."
 
 ## Related Research
-- [The Battle of Los Angeles (1942)](research/cases/the-battle-of-los-angeles-1942.md)
-- [The Orange Orb Encounter (2025)](research/cases/the-orange-orb-encounter-2025.md)
+- [[the-battle-of-los-angeles-1942]]
+- [[cases/the-orange-orb-encounter-2025]]
 
 ## Sources
 - [The Phoenix Lights: A Deep Dive into the 1997 Mystery (Basement of the Bizarre)](https://basementofthebizarre.com/2026/03/05/phoenix-lights-ufo-incident-1997/)

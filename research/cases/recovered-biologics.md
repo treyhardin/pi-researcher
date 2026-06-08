@@ -1,3 +1,10 @@
+---
+type: case
+tags: [uap, biologics, nhis, david-grusch, ndaa, whistleblower]
+related_people: [[people/david-grusch]]
+related_cases: []
+related_technologies: []
+---
 # Recovered Biologics
 
 ## Summary
@@ -8,20 +15,20 @@ In July 2023, during a House Oversight Committee hearing, former U.S. Air Force 
 
 The 2024 National Defense Authorization Act (NDAA) has since included language that appears to address these claims. Specifically, provisions within the act mandate the exercise of eminent domain over "recovered technologies of unknown origin and biological evidence of non-human intelligence" held by private entities. Furthermore, the act requires federal agencies to review and organize UAP records for public disclosure through the National Archives.
 
-Despite these significant allegations and legislative developments, much of the evidence remains classified, and official bodies like the All-domain Anomaly Resolution Office (AARO) continue to investigate the historical record, though they have also faced scrutiny regarding the transparency of such investigations.
+Despite these significant allegations and legislative developments, much of the evidence remains classified, and official bodies like the All-domain Anomaly Resolution Office (AARO) continue to করিতেছে investigate the historical record, though they have also faced scrutiny regarding the transparency of such investigations.
 
 ## Key Entities/Facts
-- [David Grusch](../people/david-grusch.md)
-- [AARO](../organizations/aaro.md)
-- [2024 NDAA](../government-and-policy/legislative-disclosure-and-the-ndaa.md)
+- [[people/david-grusch]]
+- [[organizations/aaro]]
+- [[government-and-policy/legislative-disclosure-and-the-ndaa]]
 
 ## Related Research
-- [David Grusch](../people/david-grusch.md)
-- [AARO](../organizations/ $\text{aaro.md}$)](../organizations/aaro.md)
-- [2024 NDAA](../government-and-policy/legislative-disclosure-and-the-ndaa.md)
+- [[people/david-grusch]]
+- [[organizations/aaro]]
+- [[government-and-policy/legislative-disclosure-and-the-ndaa]]
 
 ## Sources
 - [Whistleblower testifies U.S. salvaged 'non-human biologics' from UFO crash sites : NPR](https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps)
 - [Unclassified Final DSD AARO Historical Report](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)
 - [Implications of the UAP Amendment in the 2024 NDAA | Inside Government Contracts](https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/)
-- [Whistleblower: Feds recovered ‘non-human’ biological material from UFO crash site | Courthouse News Service](https://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/)
+- [Whistleblower: Feds recovered ‘non-human’ biological material from UFO crash site | Courthouse News Service](httpshttps://www.courthousenews.com/whistleblower-feds-recovered-non-human-biological-material-from-ufo-crash-site/)

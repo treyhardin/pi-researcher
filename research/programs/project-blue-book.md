@@ -22,9 +22,9 @@ The project's termination in 1969 was prompted by the findings of a scientific s
 - **Mariana UFO Incident (1950):** An early investigation involving witnesses in the Mariana area.
   
 ## Related Research
-- [Project Sign](research/programs/project-sign.md) (if exists)
-- [Project Grudge](research/programs/project-grudge.md) (if exists)
-- [Dr. J. Allen Hynek](research/people/j-allen-hynek.md) (if exists)
+- [[programs/project-sign]] (if exists)
+- [[project-grudge]] (if exists)
+- [[people/j-allen-hynek]] (if exists)
 
 ## Sources
 - [Saucers Over Washington: the History of Project Blue Book – Pieces of History](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)

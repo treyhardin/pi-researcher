@@ -1,14 +1,28 @@
-# Biology Research Summary
+---
+type: MOC
+domain: biology
+description: A map of content for biological and physiological aspects of the phenomenon.
+---
 
-This directory contains research into the biological and physiological aspects of the phenomenon, including the potential impacts of encounters on human biology.
+# Biology Map of Content (MOC)
 
-## Research Entries
+This MOC serves as a central hub for research related to the biological, physiological, and theoretical biological implications of the phenomenon. It connects findings on human physiological impacts, plasma-based life theories, and the intersection of quantum mechanics and biology.
 
-### [Biological & Psychological Impacts of NHI](biological-psychological-impacts-nhi.md)
-Research into the physical and psychological effects observed in individuals following encounters with Unidentified Anomalous Phenomena.
+## 🧬 Physiological & Psychological Impacts
+Research focusing on the physical and cognitive effects observed in witnesses and individuals following encounters with UAP/NHI.
+- [[biology/biological-psychological-impacts-nhi]]
 
-### [Plasma-Based Life](plasma-based-life.md)
-Research into the theoretical existence of life forms based on plasma dynamics and non-biological structures.
+## 🔬 Theoretical Biological Frameworks
+Exploring non-traditional biological models and the potential for non-carbon-based life.
+- [[biology/plasma-based-life]]
+- [[biology/quantum-biology-research]]
 
-### [Quantum Biology Research](quantum-biology-research.md)
-Exploring the role of quantum mechanical effects in biological processes and their potential relation to anomalous phenomena.
+## 🔗 Convergence & Intersection
+The intersection of biological and technological domains, focusing on bio-electronic and plasma-based interfaces.
+- [[technologies/advanced-propulsion-convergence-plasma-bio-electronic]]
+- [[technologies/bio-electronic-propulsion]]
+
+## 🔗 Related Domains
+- [[physics/summary]]
+- [[theories/summary]]
+- [[technologies/summary]]

@@ -27,8 +27,8 @@ The search for technosignatures (evidence of technology, such as Dyson spheres o
 - **Artificial Superintelligence (ASI):** A potential "technological filter" that might destabilize civilizations.
 
 ## Related Research
-- [[Electrogravitics & Plasma-Based Propulsion](../technologies/electrogravitics-plasma-based-propulsion.md)] - Investigates the physical mechanisms that could enable the very technology that would bypass such filters.
-- [[Post-Biological Intelligence & Synthetic NHI](../thes/post-biological-intelligence-synthetic-nhi.md)] - Explores the nature of the intelligence that might exist on the other side of the filter.
+- [[technologies/electrogravitics-plasma-based-propulsion]]] - Investigates the physical mechanisms that could enable the very technology that would bypass such filters.
+- [[post-biological-intelligence-synthetic-nhi]]] - Explores the nature of the intelligence that might exist on the other side of the filter.
 
 ## Sources
 - [The extraterrestrial hypothesis: an epistemological case for removing the taboo | Springer Nature](httpshttps://link.springer.com/article/10.1007/s13194-025-0634-8)

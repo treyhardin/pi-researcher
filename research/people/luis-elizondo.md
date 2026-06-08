@@ -1,3 +1,9 @@
+---
+type: person
+tags: [whistleblower, army, aatip, aa_wasp]
+related_cases: []
+related_entities: [[programs/aatip]]
+---
 # Luis Elizondo
 
 ## Summary

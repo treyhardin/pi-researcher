@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Metamaterials & Low-Observable (Stealth) Cloaking
 
 ## Summary
@@ -29,9 +34,9 @@ Empirical evidence such as "edge vapor cones," "oscillatory motion blur," and "p
 - **Plasma Solitons:** Theoretical entities in plasma physics that may describe UAP-like movement through field manipulation.
 
 ## Related Research
-- [[Electrogravitics & Plasma-Based Propulsion](../technologies/electrogravitics-plasma-based-propulsion.md)] - Explores the intersection of plasma physics and trans-medium capabilities.
-- [[The Great Filter & The Fermi Paradox](../theories/the-great-filter-fermi-paradox.md)] - Contextualizes the significance of discovering advanced technology.
-- [[Post-Biological Intelligence & Synthetic NHI](../theories/post-biological-intelligence-synthetic-nhi.md)] - Relates to the potential origin of such advanced technology.
+- [[technologies/electrogravitics-plasma-based-propulsion]]] - Explores the intersection of plasma physics and trans-medium capabilities.
+- [[the-great-filter-fermi-paradox]]] - Contextualizes the significance of discovering advanced technology.
+- [[post-biological-intelligence-synthetic-nhi]]] - Relates to the potential origin of such advanced technology.
 
 ## Sources
 - [The Secret Science Behind UFO Shapes — Liberation Times](https://www.libulence.com/home/the-secret-science-behind-ufo-shapes)

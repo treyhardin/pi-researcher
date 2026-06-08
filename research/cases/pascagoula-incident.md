@@ -1,3 +1,9 @@
+---
+type: case
+tags: [uap, abduction, eyewitness, 1973]
+related_people: [[charles-hickson], [calvin-parker]]
+related_entities: [[evidence/the-hickson-tapes]]
+---
 # Pascagoula Incident (1973)
 
 ## Summary
@@ -28,17 +34,17 @@ The encounter involved an unidentified aerial phenomenon (UAP) and a close encou
 * **The Abduction/Examination:** The men claimed to be immobilized by the craft, taken aboard, and subjected to physical examinations/probes by the entities before being returned to the riverbank.
 
 ### Key Witnesses and Witnesses' Accounts
-* **[Charles Hickson](../people/charles-hickson.md):** One of the primary witnesses; his later lifetime of interviews and his involvement in the original statements provided much of the case's narrative depth.
-* **[Calvin Parker](../people/calvin-parker.md):** The second primary witness; his account complemented Hickson's, detailing the terror and the physical sensation of the encounter.
-* **The \"Hickson Tapes\":** A crucial, albeit controversial, element of the case. This refers to the covertly recorded conversation by local authorities (including Sheriff Fred Diamond and Detective Tom Huntley) where the witnesses expressed extreme distress and fear. See [The Hickson Tapes](../evidence/the-hickson-tapes.md).
+* **[[people/charles-hickson]]:** One of the primary witnesses; his later lifetime of interviews and his involvement in the original statements provided much of the case's narrative depth.
+* **[[people/calvin-parker]]:** The second primary witness; his account complemented Hickson's, detailing the terror and the physical sensation of the encounter.
+* **The "Hickson Tapes":** A crucial, albeit controversial, element of the case. This refers to the covertly recorded conversation by local authorities (including Sheriff Fred Diamond and Detective Tom Huntley) where the witnesses expressed extreme distress and fear. See [[evidence/the-hickson-tapes]].
 
 ### Investigations and Aftermath
 * **Law Enforcement Involvement:** Local officers, including Sheriff Fred Diamond and Detective Tom Huntley, were central to the initial documentation of the event.
 * **Media Frenzy:** The incident became a national sensation, covered by major news agencies like UPI and causing significant public interest and debate.
-* **Scientific/Ufological Interest:** Prominent UFO researchers, including J. Allen Hynek and Dr. Harder, investigated the case. The case is often studied for its influence on the "abduction" archetype in popular culture.
+* **Scientific/Ufological Interest:** Promint UFO researchers, including J. Allen Hynek and Dr. Harder, investigated the case. The case is often studied for its influence on the "abduction" archetype in popular culture.
 
 ## Key Entities/Facts
-* **Primary Witnesses:** Charles Hickson, Calvin Parker.
+* **Primary Witnesses:** [[people/charles-hickson]], [[people/calvin-parker]].
 * **Primary Vessel/Craft:** Egg-shaped/Football-shaped craft (varying size estimates: 10ft to 100ft).
 * **Associated Program/Evidence:** The "Hickson Tapes" (police recordings); Coast Guard reports of an amber beam.
 * **Core Phenomenon:** Alien Abduction / Close Encounter of the Third Kind.
@@ -49,14 +55,14 @@ The encounter involved an unidentified aerial phenomenon (UAP) and a close encou
 
 ## Related Topics
 ### Organizations
-- [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
+- [[organizations/nicap]]
 ## Sources
 * [The Pascagoula Abduction Case, 1973: An Investigative Synthesis - UAPedia](httpshttps://www.uapedia.ai/wiki/the-pascagoula-abduction-case-1973-an-investigative-synthesis/)
 * [Pascagula Abduction - Wikipedia](httpshttps://en.m.wikipedia.org/wiki/Pascagoula_Abduction)
 * [The Hickson Tapes - The Pascagoula Incident - NICAP](https://nicap.org/reports/731011pascagoula_hicksontape.htm)
 * [The Hickson Tapes - The Pascagoula Incident, (Interview) - KB42](httpshttps://kb42.info/index.php?title=Hickson-Parker_interview_%28transcript%29)
-* [The Hickson Tapes - The Pascagoula Incident, (Interview) - ufocasebook.com](httpshttps://ufocasebook.com/pascagoulainterview.html)
-* [UFO Report - Coast Guard involvement/Amber beam](httpshttps://nicap.org/reports/731106pascagoula_report.htm)
-* [Pascagoula incident - WikiDisc](httpshttps://www.wikidisc.org/wiki/Pascagoula_incident)
+* [The Hickson Tapes - The Pascagoula Incident, (Interview) - ufocasebook.com](https://ufocasebook.com/pascagoulainterview.html)
+* [UFO Report - Coast Guard involvement/Amber beam](httpssinghttps://nicap.org/reports/731106pascagoula_report.htm)
+* [Pascagoula incident - WikiDisc](https://www.wikidisc.org/wiki/Pascagoula_incident)
 * [The Pascagoula Incident - NICAP Report (detailed entity description)](http://www.nicap.org/reports/731011pascagoula_report.htm)
 * [UFO in Pascagoula, Mississippi: More witnesses come forward - News-Leader](httpshttps://www.news-leader.com/story/magnolia/2019/03/14/ufo-pascagoula-mississippi-calvin-parker-charles-hickson-other-witnesses/3129121002/)

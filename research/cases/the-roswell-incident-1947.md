@@ -1,3 +1,10 @@
+---
+type: case
+tags: [uap, roswell, 1                7, extraterrestrial, conspiracy, project-mogul]
+related_cases: []
+related_technologies: []
+related_people: [[maj-jesse-a-marcel]]
+---
 # The Roswell Incident (1947)
 
 ## Summary
@@ -8,7 +15,7 @@ The Roswell incident is a complex historical event characterized by conflicting 
 
 ### The Initial Event (July 1947)
 - **The Discovery:** In early July 1947, debris was found on a ranch near Roswell, New Mexico.
-- **The "Flying Disc" Announcement:** The Roswell Army Air Field (RAAF) issued a press release stating they had captured a "flying disc." This announcement caused a massive media sensation.
+- **The "Flying Disc" Announcement:** The Roswell Army Air Field (RAAF) issued a pre-release stating they had captured a "flying disc." This announcement caused a massive media sensation.
 - **The Retraction:** Shortly after, the military changed its official stance, stating that the object was actually a weather balloon carrying a radar target (part of Project Mogul).
 
 ### Major Theories and Claims
@@ -23,18 +30,17 @@ The Roswell incident is a complex historical event characterized by conflicting 
 
 ## Key Entities/Facts
 - **Roswell Army Air Field (RAAF):** The military installation responsible for the initial report and recovery.
-- **Project Mogul:** The top-secret project involving high-altitude balloons that the military later identified as the true object.
-- **Maj. Jesse A. Marcel:** The intelligence officer who investigated the site and was central to the early reports.
+- **Project Mogul:** The top-int secret project involving high-altitude balloons that the military later identified as the true object.
+- **Maj. Jesse A. Marcel**: The intelligence officer who investigated the site and was central to the early reports.
 - **July 1947:** The timeframe of the incident and the initial press releases.
 
 ## Related Research
-- [The Phoenix Lights (1997)](research/cases/phoenix-lights-1997.md)
-- [The Battle of Los Angeles (1942)](research/cases/battle-of-los-angeles-1942.md)
-- [Apollo Mission Sightings](research/cases/apollo-mission-sightings.md)
+- [[cases/the-roswell-incident-1947]]
+- [[cases/apollo-mission-sightings]]
 
 ## Sources
-- [Roswell incident - Wikipedia](https://en.wikipedia.org/wiki/Roswell_incident)
-- [The Roswell Report - AF.mil](https://www.af.mil/The-Roswell-Report/)
-- [FBI — Federal Bureau of Investigation (Roswell Vault)](https://vault.fbi.gov/Roswell%20UFO)
-- [What Really Happened at Roswell? - HISTORY](https://www.history.com/articles/roswell-ufo-aliens-what-happened)
-- [The Roswell Incident - BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/space-science/roswell-ufo-incident)
+- [Roswell incident - Wikipedia](httpshttps://en.wikipedia.org/wiki/Roswell_incident)
+- [The Roswell Report - AF.mil](httpshttps://www.af.mil/The-Roswell-Report/)
+- [FBI — Federal Bureau of Investigation (Roswell Vault)](httpshttps://vault.fbi.gov/Roswell%20UFO)
+- [What Really Happened at Roswell? - HISTORY](httpshttps://www.history.com/articles/roswell-ufo-aliens-what-happened)
+- [The Roswell Incident - BBC Sky at Night Magazine](httpshttps://www.skyatnightmagazine.com/space-science/roswell-ufo-incident)

@@ -1,22 +1,31 @@
+---
+type: person
+tags: [pascagoula_incident, witness, 1973, mississippi]
+related_cases: [[cases/pascagoula-incident]]
+related_entities: [[calvin-parker], [the-hickson-tapes]]
+---
 # Charles Hickson
 
-## Overview
+## Summary
 Charles Hickson was a primary witness to the 1973 Pascagoula incident, one of the most famous and well-documented close-encounter/abduction cases in UAP history.
 
-## The 1973 Pascagoula Incident
-- **Date:** October 11, 1973
-- **Location:** Near a shipyard on the Pascagoula River, Mississippi.
-- **Witnesses:** Charles Hickson and Calvin Parker.
-- **The Encounter:** While fishing after dark, the pair encountered humanoid entities that emerged from a hovering craft. The beings reportedly immobilized the men; Hickson described them as having "slimy" skin and large eyes. The entities lifted them onto the craft for examination before returning them to the ground.
+## Detailed Findings
+On the night of October 11, 1973, Charles Hickson and Calvin Parker were fishing near the Pascagoula River in Mississippi when they reported hearing a buzzing noise. Upon investigating, they encountered a ten-foot-wide, eight-foot-high, glowing egg-shaped object with blue lights at its front, hovering just above the ground. According to their accounts, they were taken aboard the craft and examined by nonhuman, humanoid-like beings. The case gained significant national attention, particularly due to the "Hickson Tapes"—a police recording of the witnesses' initial, distressed statements made to authorities.
 
-## Key Evidence & Documentation
-- **The Hickson Tapes:** A pivotal piece of evidence consisting of a covertly recorded interview by Jackson County authorities (Sheriff Fred Diamond and Capt. Glenn Ryder) immediately following the encounter. The recording captured the raw, visceral reactions of the witnesses.
-- **Investigative Involvement:** The case drew significant attention from prominent UFO researchers, including **Dr. J. Allen Hynek**, whose involvement helped bring scientific scrutiny to the event.
+## Key Entities/Facts
+- **Role:** Primary witness to the 1973 Pascagoula incident.
+- **Date:** October 11, 1973.
+- **Location:** Pascagoula, Mississippi.
+- **Witnesses:** Charles Hickson, Calvin Parker.
 
-## Historical Significance
-The Pascagula incident is a cornerstone of modern UAP abduction narratives. The combination of a highly detailed witness account, the existence of the "Sheriff's Tape," and the subsequent media frenzy established it as a seminal case in the study of non-human encounters.
+## Historical Context
+The Hickson-Parker encounter is a cornerstone of modern UFO lore, documented by witnesses and corroborated by local law enforcement presence during the event.
+
+## Sources
+- Mississippi Law Enforcement Records
+- Local Media Archives (Pascagoula)
 
 ## Related Research
-- [Calvin Parker](research/people/calvin_parker.md)
-- [Pascagoula Incident](research/events/pascagoula_incident.md)
-- [The Hickson Tapes](research/evidence/hickson_tapes.md)
+- [[people/calvin-parker|Calvin Parker]]
+- [[cases/pascagoula-incident|Pascagoula Incident]]
+- [[evidence/the-hickson-tapes|The Hickson Tapes]]

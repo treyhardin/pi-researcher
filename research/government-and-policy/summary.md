@@ -1,12 +1,26 @@
-# Policy and Warfare Research
+---
+type: MOC
+domain: government-and-policy
+description: A map of content for research into national security, aerospace warfare, and UAP policy frameworks.
+---
 
-This directory contains research regarding the intersection of national security, advanced aerospace warfare, and the policy frameworks surrounding Unidentified Anomalous Phenomena (UAP).
+# Government and Policy Map of Content (MOC)
 
-## Research Entries
+This MOC serves as a central hub for research into the intersection of national security, advanced aerospace warfare, and the evolving policy landscapes surrounding Unidentified Anomal                ous Phenomena (UAP). It explores how technological advances and legislative mandates are reshaping disclosure and identification.
 
-### [The Evolution of 'Anomaly' in the Age of UAS/EW](the-evolution-of-anomaly-in-the-age-of-uas-ew.md)
-An analysis of how the proliferation of Unmanned Aircraft Systems (UAS) and Electronic Warfare (EW) capabilities has changed the identification, reporting, and definition of anomalous aerial phenomena.
+## 🛡️ National Security & Aerospace Warfare
+Research into the impact of UAS/EW on identification and the military implications of anomalous flight characteristics.
+- [[government-and-policy/the-evolution-of-anomaly-in-the-age-of-uas-ew]]
 
-### [The "Collapsing Coverup" and Modern Disclosure](collapsing-coverup-modern-disclosure.md)
-An investigation into the structural breakdown of UAP secrecy, driven by legislative mandates, executive directives, and the technological "transparency effect."
+## ⚖️ Policy, Legislation, and Disclosure
+Investigating the structural shifts in secrecy, including legislative actions, executive directives, and the "transparency effect."
+- [[government-and-policy/collapsing-coverup-modern-disclosure]]
 
+## 📂 Declassification & Transparency
+*(Placeholder for future research into declassified intelligence and public reporting mandates)*
+
+## 🔗 Related Domains
+- [[cases/summary]]
+- [[technologies/summary]]
+- [[government-and-policy/summary]]
+- [[organizations/summary]]

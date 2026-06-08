@@ -1,10 +1,16 @@
+---
+type: person
+tags: [electrical_engineer, astronomer, educator, biefeld-brown_effect]
+related_cases: []
+related_entities: [[thomas-townsend-brown], [biefeld-brown-effect]]
+---
 # Paul Biefeld
 
 ## Summary
 Dr. Paul Alfred Biefeld (1867–1943) was a prominent German-American electrical engineer, astronomer, and educator. He is most widely recognized in the context of unusual propulsion research due to his association with the Biefeld-Brown effect, an electrical phenomenon involving asymmetric capacitors.
 
 ## Detailed Findings
-While Biefeld had a distinguished career in electrical engineering and astronomy, his name is inextricably linked to the discovery of the Biefeld-Brown effect alongside Thomas Townsend Brown.
+While Biefel had a distinguished career in electrical engineering and astronomy, his name is inextricably linked to the discovery of the Biefeld-Brown effect alongside Thomas Townsend Brown.
 
 ### Biography and Career
 - **Early Life and Education:** Born in Jöhstadt, Saxony, Germany, Biefeld moved to the United States in 1881. He achieved significant academic success, earning a B.S. in Electrical Engineering from the University of Wisconsin–Madison in 1894 and a Ph.D. from the University of Zurich in 1900.
@@ -23,11 +29,11 @@ The "Brown-Biefeld effect" (or Biefeld-Brown effect) refers to an observed pheno
 - **Ionic Wind:** The scientifically accepted primary driver of the observed force in atmospheric conditions.
 
 ## Related Research
-- [Thomas Townsend Brown](research/people/thomas-townsend-brown.md) (if existing)
-- [Biefeld-Brown effect](research/technologies/biefeld-brown-effect.md) (if existing)
+- [[people/thomas-townsend-brown|Thomas Townsend Brown]]
+- [[technologies/biefeld-brown-effect]]
 
 ## Sources
 - [Paul Alfred Biefeld - Wikipedia](https://en.wikipedia.org/wiki/Paul_Alfred_Biefeld)
 - [Biefeld-Brown effect - Wikipedia](https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect)
 - [An analysis of the Brown–Biefeld effect (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S0304388611001367)
-- [Biography: Paul Alfred Biefeld - HandWiki](https://handwiki.org/wiki/Biography:Paul_Alfred_Biefeld)
+- [Biography: Paul Alfred Biefeld - HandWiki](httpshttps://handwiki.org/wiki/Biography:Paul_Alfred_Biefeld)

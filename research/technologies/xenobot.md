@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Xenobot
 
 ## Summary
@@ -19,8 +24,8 @@ The debate over their classification (robot vs. organism) stems from their hybri
 - **Kinematic Self-Replication:** An observed behavior where Xenobots can gather loose cells to form new, smaller Xenobots.
 
 ## Related Research
-- [Synthetic Biology](research/technologies/synthetic-biology.md) (if it exists, otherwise I'll leave it)
-- [Advanced Robotics](research/technologies/advanced-robotics.md) (if it exists)
+- [[technologies/synthetic-biology]] (if it exists, otherwise I'll leave it)
+- [[advanced-robotics]] (if it exists)
 
 ## Sources
 - [Xenobot - Wikipedia](https://en'wikipedia.org/wiki/Xenobot)

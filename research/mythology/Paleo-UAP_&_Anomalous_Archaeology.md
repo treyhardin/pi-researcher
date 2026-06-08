@@ -1,4 +1,9 @@
-# Paleo-UAP & Anomalous Archaeology
+---
+type: mythology
+tags: [paleo-uap, anomalous-archaeology, cryptoterrestrial, ancient-astronauts]
+related_theories: [[interdimensional-hypothesis], [the-ultraterrestrial-hypothesis]]
+---
+# Paleo-UAP & Anomalont Archaeology
 
 ## Overview
 The study of Paleo-UAP and Anomalous Archaeology explores the intersection of Unidentified Anomalous Phenomena (UAP) and historical/archaeological records. It examines claims that intelligent beings (often categorized as "ancient astronauts," "ultraterrestrials," or "cryptoterrestrials") have interacted with human civilizations throughout history, leaving traces in mythology, religious texts, and physical artifacts.

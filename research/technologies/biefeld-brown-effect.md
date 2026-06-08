@@ -1,3 +1,9 @@
+---
+type: technology
+tags: [biefeld-brown-effect, electrohydrodynamics, propulsion, thomas-townsend-brown]
+related_technologies: [[electrogravitics], [electrohydrodynamics], [bio-electronic-propulsion]]
+related_people: [[people/thomas-townsend-brown]]
+---
 # Biefeld-Brown Effect
 
 ## Summary
@@ -36,10 +42,10 @@ Despite the controversy surrounding its fundamental nature, the principles of th
 
 ## Related Topics
 ### People
-- [Thomas Townsend Brown](../people/thomas-townsend-brown.md)
+- [[people/thomas-townsend-brown]]
 ### Technologies
-- [Electrogravitics](electrogravitics.md)
-- [Electrohydrodynamics](electrohydrodynamics.md)
+- [[technologies/electrogravitics]]
+- [[technologies/electrohydrodynamics]]
 ## Sources
 - [Bief-Brown effect - Wikipedia](httpshttps://en.wikipedia.org/wiki/Biefeld-Brown_effect)
 - [Force on an Asymmetric Capacitor - DTIC](httpshttps://apps.dtic.mil/sti/tr/pdf/ADA416740.pdf)

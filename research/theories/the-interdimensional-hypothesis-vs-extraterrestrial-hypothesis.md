@@ -26,7 +26,7 @@ The IUH proposes that UAPs represent incursions or "leakages" from other dimensi
 - **The "Ultraterrestrial" Hypothesis:** A related concept suggesting entities exist on Earth but in a way that is inaccessible to standard human technology (e.g., different frequency or dimension).
 
 ## Related Research
-- [J. Allen Hynek](research/people/hynek_j_allen.md)
+- [[people/j-allen-hynek]]
 
 ## Sources
 - [Interdimensional UFO hypothesis (Wikipedia)](https://en.wikipedia.org/wiki/Interdimensional_UFO_hypothesis)

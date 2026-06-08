@@ -1,3 +1,9 @@
+---
+type: person
+tags: [abduction, close_encounter, 1961, new_hampshire]
+related_cases: []
+related_entities: [[organizations/nicap]]
+---
 # Betty and Barney Hill
 
 ## Summary
@@ -7,7 +13,7 @@ Betty and Barney Hill were an American couple whose 1961 encounter in New Hampsh
 The "Hill Case" is a cornerstone of modern UFO mythology.
 
 ### The Encounter
-On the night of September 19-20, 1961, Betty and Barney Hill were driving home to Portsmouth, New Hampshire, after a vacation in Canada. During the drive along U.S. Route 3, they observed a bright, star-like object moving in an erratic pattern. Barney Hill used binoculars to observe the object, noting a disk-like shape.
+On the night of September 19-20, 1961, Betty and Barney Hill were driving home to Portsmouth, New Hampshire, after a vacation in Canada. During the drive along U.S. Prime 3, they observed a bright, star-like object moving in an erratic pattern. Barney Hill used binoculars to observe the object, noting a disk-like shape.
 
 ### The Abduction Account
 While the initial sighting was a visual observation, subsequent information emerged through hypnotic regression. Under hypnosis, the Hills described:
@@ -22,16 +28,12 @@ The Hill case is significant because it was the first account to move from a sim
 ## Key Entities/Facts
 - **Date:** September 19-20, 1961
 - **Location:** U.S. Route 3, New Hampshire, USA
-- **Individuals:** Betty Hill, Barney Hill
 - **Key Elements:** UFO sighting, time loss, hypnotic regression, humanoid beings, medical examination.
 
-
-
-
-
-## Related Topics
+## Related Research
 ### Organizations
-- [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
+- [[organizations/nicap|National Investigations Committee on Prime Aerial Phenomena (NICAP)]]
+
 ## Sources
 - [NICAP Report: Hill Case (PDF)](https://nicap.org/reports/610919hill_report1.pdf)
 - [The Hill Case (NICAP)](http://www.nicap.org/reports/hill.htm)

@@ -1,3 +1,11 @@
+---
+type: case
+tags: [uap, tic-tac, naval-encounter, 2004]
+related_people: [[people/david-fravor]]
+related_organizations: [[organizations/aaro]]
+related_technologies: [[technologies/electrogravitics]]
+related_theories: [[theories/advanced-propulsion-convergence]]
+---
 # Tic Tac UCAV/UAP (2004 Nimitz Encounter)
 
 ## Summary
@@ -32,10 +40,10 @@ The USS Princeton's AN/SPY-1 radar system detected multiple anomalous returns. T
 - **Transmedium Flight:** The ability of the objects to move between the ocean and the atmosphere.
 
 ## Related Research
-- [Commander David Fravor](../people/david-fravor.md)
-- [AARO](../organizations/aaro.md)
-- [Electrogravitics](../technologies/electrogravitics.md)
-- [Advanced Propulsion Convergence](../theories/advanced-propulsion-convergence.md)
+- [[people/david-fravor]]
+- [[organizations/aaro]]
+- [[technologies/electrogravitics]]
+- [[theories/advanced-propulsion-convergence]]
 
 ## Sources
 - [The Black Vault: The “Tic-Tac” Incident, November 14, 2004](https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/)

@@ -1,4 +1,11 @@
+---
+type: evidence
+tags: [electronic-warfare, sensor-spoofing, nemesis-system, uap-detection]
+related_technologies: [arleigh-burke, aegis-combat-system, radar-data-research]
+related_biology: []
+---
 # Electronic Warfare (EW) vs. UAP
+
 
 ## Summary
 A significant challenge in the study of Unidentified Anomalous Phenomena (UAP) is the difficulty in distinguishing between actual physical craft and signatures created by advanced Electronic Warfare (EW) techniques. Advanced systems like the Navy's NEMESIS are designed to spoof sensors, creating "phantom" targets that mimic the anomalous flight characteristics often attributed to UAP.
@@ -31,7 +38,7 @@ To combat this ambiguity, researchers are developing structured analytic techniq
 - **Domain Awareness Gap:** The gap between the capabilities of current surveillance infrastructure and the need for specialized UAP detection.
 
 ## Related Research
-- [Non-local consciousness](research/theories/non-local-consciousness.md) (Related to theoretical implications of advanced phenomena)
+- [[theories/non-local-consciousness]] (Related to theoretical implications of advanced phenomena)
 
 ## Sources
 - [Electronic warfare or physical craft? How the military proves the May 22 UFOs are real](https://www.wionews.com/photos/electronic-warfare-physical-craft-how-military-proves-may-22-uaps-real-1779719841318)

@@ -1,3 +1,7 @@
+---
+type: technology
+tags: [radar, aegis, naval]
+---
 # AN/SPY-1 Radar
 
 ## Summary
@@ -20,10 +24,10 @@ The AN/SPY-1 is a multi-function, phased-array, 3D air search radar that serves 
 - **PESA (Passive Electronically Scanned Array):** The underlying radar technology used.
 
 ## Related Research
-- [[aegis-combat-system.md]]
-- [[arleigh-burke.md]]
-- [[ticonderoga.md]]
-- [[propulsion-systems-overview.md]]
+- [[technologies/aegis-combat-system]]
+- [[technologies/arleigh-burke]]
+- [[technologies/ticonderoga-class-cruiser]]
+- [[technologies/propulsion-systems-overview]]
 
 ## Sources
 - [AN/SPY-1 Radar (Global Security)](https://www.globalsecurity.org/military/systems/ship/systems/an-spy-1.htm)
@@ -32,4 +36,4 @@ The AN/SPY-1 is a multi-function, phased-array, 3D air search radar that serves 
 - [AN/SPY-1 Radar | Missile Threat (CSIS)](https://missilethreat.csis.org/defsys/an-spy-1-radar/)
 - [AN/SPY-1D(V) 3-D Radar (Global Security)](https://premium.globalsecurity.org/military/systems/ship/systems/an-spy-1dv.htm)
 - [Bringing Aegis to the Littorals (USNI Proceedings)](https://www.usni.org/magazines/proceedings/1998/january/bringing-aegis-littorals)
-- [Ballistic Missile Defense: The Aegis SPY-1 Radar (mostlymissiledefense)](https://mostlymissiledefense.com/2012/08/03/ballistic-missile-defense-the-aegis-spy-1-radar-august-3-2012/)
+- [Ballistic Missile Defense: The Aegis SPY-1 Radar (mostlymissiledefense)](https://mostlymissiledefense.com/2012/08/03/ballistic-mid-missile-defense-the-aegis-spy-1-radar-august-3-2012/)

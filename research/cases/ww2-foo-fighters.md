@@ -1,3 +1,10 @@
+---
+type: case
+tags: [uap, ww2, foo-fighters, aerial-phenomena, historical]
+related_cases: []
+related_technologies: []
+related_people: []
+---
 # WWII Foo Fighters (Aerial Phenomena) Research
 
 ## Overview
@@ -24,4 +31,4 @@ The "Foo Fighters" refers to unidentified aerial phenomena (UAP/UFO) reported by
 
 ## Research Log
 - 2026-06-07: Started research focusing on the WWII aerial phenomenon.
-- 2026-06-07: Conducted research using the user's specified SearXNG instance (http://100.98.175.34:8089/). Gathered data on descriptions, behaviors, locations, and historical explanations.
+- 20‌‌6-06-07: Conducted research using the user's specified SearXNG instance (http://100.98.175.34:8089/). Gathered data on descriptions, behaviors, locations, and historical explanations.

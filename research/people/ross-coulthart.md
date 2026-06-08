@@ -1,3 +1,9 @@
+---
+type: person
+tags: [journalist, uap_disclosure, whistleblower_advint, investigative_journalism]
+related_cases: []
+related_entities: [[david-grusch], [luis-elizondo], [aaro]]
+---
 # Ross Coulthart
 
 ## Overview
@@ -15,6 +21,6 @@ Ross Coulthart is an award-winning Australian investigative journalist known for
 - **Imminent Disclosure**: Has frequently discussed the idea that a significant disclosure event regarding UAP technology and origin is approaching.
 
 ## Related Research
-- [David Grusch](research/people/david-grusch.md)
-- [Luis Elizondo](research/people/luis-elizondo.md)
-- [AARO](research/organizations/aaro.md)
+- [[people/david-grusch|David Grusch]]
+- [[people/luis-elizondo|Luis Elizondo]]
+- [[organizations/aaro|AARO]]

@@ -1,3 +1,9 @@
+---
+type: person
+tags: [senator, intelligence, legislation, uap_disclosure]
+related_cases: []
+related_entities: [[people/marco-rubio]]
+---
 # Senator Mike Rounds
 
 ## Summary

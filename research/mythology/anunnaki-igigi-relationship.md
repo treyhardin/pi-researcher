@@ -1,4 +1,11 @@
+---
+type: mythology
+tags: [anunnaki-igigi, mesopotamia, atrahsis, mythology-hierarchy]
+related_entities: [[igigi], [anunnaki-igigi-relationship]]
+related_epics: [[atrahasis-epic]]
+---
 # Anunnaki-Igigi Relationship
+
 
 ## Summary
 The relationship between the Anunnaki and the Igigi is a central theme in Mesopotamian mythology, characterized by a hierarchical structure of divinity and a significant rebellion. The Anunnaki are traditionally viewed as the superior, major deities, while the Igigi are the subordinate, younger deities tasked with heavy labor. This tension, most notably documented in the *Atrahasis* epic, eventually led to the Igigi's revolt against their workload, prompting the creation of humanity as a means to relieve the gods of their toil.
@@ -27,7 +34,7 @@ The *Atrahasis* epic provides the most detailed account of the tension between t
 - **Humanity as a Replacement:** The fundamental mythological outcome of the conflict between these two divine classes.
 
 ## Related Research
-- [Igigi (Mesopotamian Mythology)](research/mythology-entities/igigi.md)
+- [[mythology/igigi]]
 
 ## Sources
 - [The Epic of Atraḥasis - Livius](https://www.livius.org/sources/content/anet/104-106-the-epic-of-atrahasis/)

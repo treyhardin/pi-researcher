@@ -1,3 +1,9 @@
+---
+type: person
+tags: [journalist, reporter, uap_disclosure, nyt]
+related_cases: []
+related_entities: [[leslie-kean], [aatip]]
+---
 # Ralph Blumenthal
 
 ## Summary
@@ -17,7 +23,7 @@ American investigative journalist and author, formerly a long-time staff reporte
 *   **Profound Impact:** His reporting is credited with one of the most significant shifts in public and governmental awareness regarding UAP.
 
 ## Related Research
-*   [Leslie Kean](research/people/leslie-kean.md)
+*   [[people/leslie-kean]]
 
 ## Sources
 *   [Ralph Blumenthal: Biography](https://www.ralphblumenthal.com/2/bio.html)

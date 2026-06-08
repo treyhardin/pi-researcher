@@ -1,9 +1,15 @@
+---
+type: organization
+tags: [intelligence, sigint, nsa, uap]
+related_cases: []
+related_entities: [[aaro], [nro-research]]
+---
 # National Security Agency (NSA) and UAP/UFO Intelligence
 
-## Overview
+## Summary
 The National Security Agency (NSA) plays a critical role in the collection, analysis, and preservation of signals intelligence (SIGINT) that may pertain to Unidentified Anomalous Phenomena (UAP) or Unidentified Flying Objects (UFO). Recent disclosures have revealed that the NSA has held significant, highly classified records related to UAP-related message traffic and sightings.
 
-## Key Findings
+## Detailed Findings
 
 ### 1. FOIA Disclosures and the "UMBRA" Classification
 Following a Freedom of Information Act (FOIA) appeal by the Disclosure Foundation, the NSA released hundreds of pages of historical UAP-related records. 
@@ -18,11 +24,11 @@ The intelligence held by the NSA focuses on the interception and analysis of ele
 
 ### 3. Role in the National Intelligence Community
 The NSA's capabilities are integral to the broader UAP intelligence framework, working alongside agencies such as:
-- **AARO (All-Domain Anomaly Resolution Office):** The NSA provides SIGINT-related data that assists AARO in its mission to resolve and attribute UAP anomalies.
-- **NRO (National Reconnaissance Office):** Coordination in analyzing geospatial and signal-based detection capabilities.
+- **[[organizations/aaro|AARO (All-Domain Anomaly Resolution Office)]]:** The NSA provides SIGINT-related data that assists AARO in its mission to resolve and attribute UAP anomalies.
+- **[[nro|NRO (National Reconnaissance Office)]]:** Coordination in analyzing geospatial and signal-based detection capabilities.
 
 ## Notable Documents & Sources
-- **NSA UAP/UFO COMINT Records (via Disclosure Foundation):** A 334-page production of formerly TOP SECRET UMBRA records.
+- **NSA UAP/UFO COMINT Records (via Disclosure Foundation):** A 3gsub 34-page production of formerly TOP SECRET UMBRA records.
 - **AARO Consolidated Annual Reports:** Documents detailing the integration of SIGINT, GEOINT, and HUMINT in UAP reporting.
 - **Probed/UFO Transparency:** Platforms that have archived and analyzed the OCR-generated content from recent NSA releases.
 

@@ -1,3 +1,9 @@
+---
+type: person
+tags: [ufologist, nicap, researcher]
+related_cases: []
+related_entities: [[donald-e-keyhoe], [nicap]]
+---
 # Richard Hall
 
 ## Summary
@@ -20,9 +26,9 @@ Richard H. Hall (1930–2009) was a prominent American ufologist and a key figur
 - **Extraterrestrial Hypothesis (ETH):** The primary framework he supported for explaining credible sightings.
 
 ## Related Research
-- [Donald E. Keyhoe](../people/donald-e-keyhoe.md)
-- [NICAP](../organizations/nicap.md)
-- [Condon Committee](../organizations/condon-committee.md)
+- [[people/donald-e-keyhoe]]
+- [[organizations/nicap]]
+- [[organizations/condon-committee]]
 
 ## Sources
 - [Richard H. Hall - Wikipedia](https://en.wikipedia.org/wiki/Richard_H._Hall)
@@ -30,3 +36,4 @@ Richard H. Hall (1930–2009) was a prominent American ufologist and a key figur
 - [Richard Hall | The UFO Database](https://theufodatabase.com/people/richard-hall)
 - [Remembering Dick Hall (NICAP)](https://www.nicap.org/articles/dickhall.pdf)
 - [Hall_R - NICAP Bios](http://www.nicap.org/bios/NICAP-Bios/Hall_Richard.htm)
+ (Note: Some links archived or redirected via NICAP)

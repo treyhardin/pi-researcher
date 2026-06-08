@@ -36,6 +36,6 @@ Unlike the traditional **Extraterrestrial Hypothesis (ETH)**, which assumes phys
 - **Psychosocial Explanations:** Like all UFO hypotheses, it faces the critique that the phenomenon may be a product of human psychology, folklore, or social contagion.
 
 ## Related Research Topics
-- [ ] [Interdimensional Hypothesis (IH) vs. Extraterrestrial Hypothesis (ETH)](research/the_interdimensional_vs_extraterrestrial_hypotheses.md)
-- [ ] [The Role of "Technological/Cultural Mediums" in UAP Perception](research/technological_cultural_mediums.md)
-- [ ] [John Keel and the Mothman Prophecies](research/john_keel.md)
+- [ ] [[theories/the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis]]
+- [ ] [[sociology-culture/the-role-of-technological-cultural-mediums-in-uap-perception]]
+- [ ] [[people/john-keel]]

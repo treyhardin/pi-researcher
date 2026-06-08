@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Legislative Disclosure & The NDAA
 
 ## Summary

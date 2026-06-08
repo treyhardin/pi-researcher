@@ -31,8 +31,8 @@ Northrop Grumman is central to the US military's strategic capabilities. Its inv
 - **Advanced Electronic Warfare:** A core competency for modern battlefield dominance.
 
 ## Related Research
-- [Advanced Aerospace Technologies](research/technologies/advanced-aerospace.md) (if existing)
-- [US Government Defense Programs](research/us-gov/programs.md) (if existing)
+- [[advanced-aerospace]] (if existing)
+- [[programs]] (if existing)
 
 ## Sources
 - [Northrop Grumman Official Website](https://www.northropgrumman.com)

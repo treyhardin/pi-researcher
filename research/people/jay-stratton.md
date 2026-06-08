@@ -1,3 +1,9 @@
+---
+type: person
+tags: [intelligence, aa_wasp, aatip, uap_task_force]
+related_cases: [[cases/uss-nimitz-2004-encounter]]
+related_entities: [[david-fravor], [luis-elizondo], [aatip]]
+---
 # Jay Stratton
 
 ## Summary
@@ -21,9 +27,9 @@ A career intelligence officer with over 32 years of service, Stratton worked acr
 * **Engineering Background:** His specialized knowledge in radar and electronic-warfare systems was a cornerstone of his approach to UAP assessment.
 
 ## Related Research
-* [David Fravor](david-fravor.md)
-* [Luis Elizondo](luis-elizondo.md)
-* [AATIP](../programs/aatip.md)
+* [[people/david-fravor]]
+* [[people/luis-elizondo]]
+* [[programs/aatip]]
 
 ## Sources
 * [WEAPONIZED : EPISODE #3 — WEAPONIZED](https://www.weaponizedpodcast.com/episodes-1/episode-number-3)

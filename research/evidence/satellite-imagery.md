@@ -1,4 +1,11 @@
+---
+type: evidence
+tags: [satellite-imagery, remote-sensing, hyperspectral, space-domain-awareness]
+related_technologies: [[technologies/starlink]]
+related_organizations: [[government-and-policy/nro-research]]
+---
 # Satellite Imagery and UAP Detection
+
 
 ## Overview
 Satellite imagery plays a pivotal role in the global effort to monitor and identify Unidentified Anomalous Phenomena (UAP). By leveraging orbital platforms, researchers and intelligence agencies can observe aerial and space-based anomalies that are otherwise difficult to track from the ground. This capability spans from highly classified intelligence systems to modern commercial and scientific Earth-observation fleets.

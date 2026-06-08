@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # The "Collapsing Coverup" and Modern Disclosure
 
 ## Summary
@@ -30,8 +35,8 @@ Significant developments in early 2026 have pointed toward an active attempt to 
 - **The Transparency Effect:** The phenomenon where technological advancement (sensors, AI, internet) renders traditional secrecy models obsolete.
 
 ## Related Research
-- [The Intelligence-Industrial Complex](research/intelligence-industrial-complex.md) (if exists)
-- [UAP Disclosure Timeline](research/policy_and_warfare/uap-disclosure-timeline.md) (hypothetical)
+- [[government-and-policy/intelligence-industrial-complex]] (if exists)
+- [[uap-disclosure-timeline]] (hypothetical)
 
 ## Sources
 - [President Trump Told the Pentagon to Release UAP Files. Here's the Architecture Built to Stop Him.](https://asirpjournal.substack.com/p/president-trump-told-the-pentagon)

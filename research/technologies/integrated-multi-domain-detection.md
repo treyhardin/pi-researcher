@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Research Draft: Integrated Multi-Domain Detection Architectures
 ## Sensor Fusion for Advanced UAP Identification
 

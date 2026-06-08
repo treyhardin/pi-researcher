@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Electrogravitic Propulsion History
 
 ## Summary
@@ -39,10 +44,10 @@ Today, the legacy of Brown's work lives on in the development of **ion propulsio
 - **Technological Lineage**: Electrogravitics $\rightarrow$ Electrokinetics $\rightarrow$ Ion Propulsion/EHD.
 
 ## Related Research
-- [Thomas Townsend Brown](research/people/thomas-townsend-brown.md)
-- [Biefeld-Brown Effect](research/technologies/biefeld-brown-effect.md)
-- [Electrogravitics](research/technologies/electrogravitics.md)
-- [Electrokinetics Propulsion](research/technologies/electrokinetics-propulsion.md)
+- [[people/thomas-townsend-brown]]
+- [[technologies/biefeld-brown-effect]]
+- [[technologies/electrogravitics]]
+- [[technologies/electrokinetics-propulsion]]
 
 ## Sources
 - **Rexresearch**: [Thomas Townsend Brown: British Patent # 300,311](https://rexresearch.com/gravitor/gravitor.htm)

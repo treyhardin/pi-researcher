@@ -1,3 +1,10 @@
+---
+type: entity
+tags: [annunaki, mesopotamia, sumer, sitchin, nibiru, ancient-astronauts]
+related_technologies: []
+related_biology: []
+related_mythology: [[books/book-of-enoch]]
+---
 # Annunaki
 
 ## Summary

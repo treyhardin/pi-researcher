@@ -41,8 +41,8 @@ Evidence often cited includes phenomena such as telepathy, clairvoyance, precogn
 - **The Observer as Participant:** Consciousness is not a passive witness but an active part of the measurement system.
 
 ## Related Research
-- [Theory of Psychic Quanta](research/theories/theory-of-psychic-quanta.md)
-- [Topological Geometrodynamics](research/theories/tgd.md)
+- [[theories/theory-of-psychic-quanta]]
+- [[tgd]]
 
 ## Sources
 - [The Institute of Noetic Sciences - The arcane nexus](httpshttps://noetic.org/wp-content/uploads/2024/11/Nahm_2024_The-arcane-nexus_Corrected-version.pdf)

@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Vertical Launch System (VLS)
 
 ## Summary
@@ -30,10 +35,10 @@ The Vertical Launching System (VLS), most notably the **Mk 41 VLS**, is a highly
 - **Core Technology:** Modular canister-based launch cells.
 
 ## Related Research
-- [Aegis Combat System](../technologies/aegis-combat-system.md)
-- [AN/SPY-1 Radar](../spay-1.md)
-- [Arleigh Burke-class Destroyer](../arleigh-burke.md)
-- [Ticonderoga-class Cruiser](../ticonderoga.md)
+- [[technologies/aegis-combat-system]]
+- [[technologies/an-spy-1-radar]]
+- [[technologies/arleigh-burke]]
+- [[technologies/ticonderoga-class-cruiser]]
 
 ## Sources
 - [MK 41 - VLS | United States Navy](https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2167856&ModuleId=724&PortalId=1)

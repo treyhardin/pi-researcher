@@ -14,9 +14,9 @@ The Sea of Marmara serves as the primary setting for the "Kumburgaz UFO" case. B
 - **Visual Characteristics:** Metallic appearance, sometimes accompanied by red/orange lights.
 
 ## Related Research
-- [Murat Yalcin Yalman](research/people/murat-yalcin-yalman.md)
-- [Kumburgaz UFO Case](research/cases/kumburgaz-ufo.md)
-- [Yeni Kent Facility](research/organizations/yeni-kent-facility.md)
+- [[people/murat-yalcin-yalman]]
+- [[cases/kumburgaz-ufo]]
+- [[places/yeni-kent-facility]]
 
 ## Sources
 - [Kumburgaz, Turkey (2007-2009) - UAPedia](https://www.uapedia.ai/wiki/kumburgaz-turkey-2007-2009/)

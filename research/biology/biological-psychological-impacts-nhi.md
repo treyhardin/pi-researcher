@@ -1,3 +1,10 @@
+---
+type: research-article
+tags: [biology, nhi, psychological-impacts, physiological-impacts]
+related_cases: []
+related_entities: []
+related_technologies: []
+---
 # Biological and Psychological Impacts of NHI Contact
 
 ## Summary
@@ -11,7 +18,7 @@ The psychological profile of individuals reporting "alien abduction" or "encount
 * **Dissociation and Absorption:** Studies indicate that experiencers exhibit higher levels of dissociation, absorption, and paranormal belief. This suggests that the "contact" may involve a state of altered consciousness or a profound shift in cognitive perception.
 * **The Role of Sleep Paralysis:** Neuropsychological research suggests that many "abduction" narratives can be linked to the phenomenon of sleep paralysis, providing a biological/neurological framework for understanding the sensation of a presence in the room.
 * **Susceptibility to False Memories:** There is documented evidence that individuals in this group may be more susceptible to the creation of false memories through suggestibility, a critical consideration for the validity of historical accounts.
-* **Existential and Social Impact:** The potential for mass disclosure of NHI contact poses a risk of widespread "existential questioning" and psychological distress, as fundamental human assumptions about reality and biology are challenged.
+* **Existential and Social Impact:** The potential for mass disclosure of NHH contact poses a risk of widespread "existential questioning" and psychological distress, as fundamental human assumptions about reality and biology are challenged.
 
 ### 2. Physiological and Biological Effects
 There is credible, evidenced-backed reporting of physical harm following UAP encounters, often categorized as "unidentified aerial phenomena-related human injuries."
@@ -20,18 +27,18 @@ There is credible, evidenced-backed reporting of physical harm following UAP enc
 * **Acute Physical Symptoms:** Documented symptoms following encounters include:
     * **Erythema:** Redness and heat on the skin (often at the site of exposure).
     * **Thermophysical Effects:** Fever and acute/subtle physiological changes in the body.
-    * **Subacute Field Effects:** Ongoing biological's inflammation or irritation following an event.
-* **Defense Intelligence Agency (DIA) Investigations:** Investigations into "anomalous acute and subacute field effects" on human biological systems have been noted in the context of highly classified research into UAP-related injuries.
+    * **Subacute Field Effects:** Ongoing biological inflammation or irritation following an event.
+* **Defense Intelligence Agency (DIA) Investigations:** Investigations into "anomalous acute and subpi subacute field effects" on human biological systems have been noted in the context of highly classified research into UAP-related injuries.
 
 ### 3. The Intersection of Biology and Technology
-The boundary between biological alteration and technological interaction is blurred in NHI research. The use of EM-driven physiological changes suggests that NHI "contact" may be a form of "biological programming" or "bio-electronic" interaction using advanced electromagnetic tools to influence human neurobiology and cellular processes.
+The boundary between biological alteration and technological interaction is blurred in NHH research. The use of EM-driven physiological changes suggests that NHI "contact" may be a form of "biological programming" or "bio-electronic" interaction using advanced electromagnetic tools to influence human neurobiology and cellular processes.
 
 ## Key Entities/Facts
 
 * **Key Mechanisms:** Electromagnetic Radiation (EMR); Sleep Paralysis; Dissociation.
 * **Key Symptoms:** Erythema (redness/heat), Fever, Acute/Subacute field effects.
 * **Key Researchers/Orgs:** Dr. J. Allen Hynek (taxonomy); DIA (investigating physical effects); various neuropsychological studies on dissociative profiles.
-* **Core Concept:** The "impact" of NHI is both an intrusion into human consciousness (psychological) and a physical, bio-electronic alteration of human tissue (biological).
+* **Core Concept:** The "impact" of NHI is both an intrusion into human consciousness (psychintological) and a physical, bio-electronic alteration of human tissue (biological).
 
 ## Sources
 * [Brief Report: PTSD, Suggestibility, and Dissociation in Alleged Alien Abductions](https://www.sciencedirect.com/article/pii/S1550830721002184)

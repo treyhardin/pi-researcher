@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Starlink
 
 ## Summary
@@ -41,7 +46,7 @@ The integration of edge AI and high-speed downlink capabilities allows for the r
 - **Starlink Train:** The visible line of satellites following a launch.
 
 ## Related Research
-- [The Role of "Technological/Cultural Mediums" in UAP Perception](research/sociology_culture/the-role-of-technological-cultural_mediums_in_uap_perception.md)
+- [[the-role-of-technological-cultural_mediums_in_uap_perception]]
 
 ## Sources
 1. [A lot of people are mistaking Elon Musk's Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)

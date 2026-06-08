@@ -1,3 +1,9 @@
+---
+type: person
+tags: [journalist, author, uap_disclosure]
+related_cases: []
+related_entities: [[david-grusch], [ralph-blumenthal]]
+---
 # Leslie Kean
 
 ## Summary
@@ -16,7 +22,7 @@ American investigative journalist and author who played a pivotal role in bringi
 *   **Major Publications:** *The New Yorker*, *The<em>Guardian</em>*, *Columbia Journalism Review*.
 
 ## Related Research
-*   [David Grusch](research/people/david-grusch.md)
+*   [[people/david-grusch]]
 
 ## Sources
 *   [Official Website - Leslie Kean](httpshttps://www.lesliekean.com/)

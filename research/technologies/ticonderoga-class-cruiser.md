@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Ticonderoga-class Cruiser
 
 ## Summary
@@ -38,10 +43,10 @@ The Ticonderoga-class of guided-missile cruisers is a class of warships for the 
 - **United States Navy:** The sole operator of the class.
 
 ## Related Research
-- [[arleigh-burke.md]]
-- [[aegis-combat-system.md]]
-- [[an-spy-1-radar.md]]
-- [[vls.md]]
+- [[technologies/arleigh-burke]]
+- [[technologies/aegis-combat-system]]
+- [[technologies/an-spy-1-radar]]
+- [[technologies/vls]]
 
 ## Sources
 - [Ticonderoga-class cruiser (Wikipedia)](https://en.wikipedia.org/wiki/Ticonderoga-class_cruiser)

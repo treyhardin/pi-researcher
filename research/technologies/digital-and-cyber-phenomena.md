@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Digital & Cyber-Phenomena
 
 ## Summary
@@ -16,9 +21,9 @@ Exploration of how Unidentified Anomalous Phenomena (UAP/NHI) interact with, inf
 - **Informational Skyrmions:** A theoretical model of UAP as high-dimensional, recursively stabilized information structures.
 
 ## Related Research
-- [[research/theories/interdimensional-hypothesis.md]] (Directly related to Vallée's work)
-- [[research/evidence/electronic-warfare-vs-uap.md]] (Direct connection to EW interference)
-- [[research/technologies/sentient-ai-systems.md]] (Potential connection to AI-based control)
+- [[theories/interdimensional-hypothesis]] (Directly related to Vallée's work)
+- [[evidence/electronic-warfare-vs-uap]] (Direct connection to EW interference)
+- [[technologies/sentient-ai-systems]] (Potential connection to AI-based control)
 
 ## Sources
 - [Non-Human Intelligence (NHI): Lifting the Veil - UAPedia](https://uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/)

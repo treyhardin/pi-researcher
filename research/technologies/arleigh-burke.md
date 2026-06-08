@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Arleigh Burke-class Destroyer
 
 ## Summary
@@ -33,10 +38,10 @@ The Arleigh Burke-class (DDG 51) guided-missile destroyers are a primary class o
 - **Arleigh Burke:** The namesake of the class, a renowned US Navy Admiral.
 
 ## Related Research
-- [[an-spy-1-radar.md]]
-- [[aegis-combat-system.md]]
-- [[ticonderoga.md]]
-- [[vls.md]]
+- [[technologies/an-spy-1-radar]]
+- [[technologies/aegis-combat-system]]
+- [[technologies/ticonderoga-class-cruiser]]
+- [[technologies/vls]]
 
 ## Sources
 - [DDG 51 Fact Sheet (Naval Sea Systems Command)](httpshttps://www.navsea.navy.mil/Home/Team-Ships/PEO-Ships/DDG-51/Fact-Sheet/)

@@ -28,7 +28,7 @@ The project was part of a broader period of intense interest in UFOs during the 
 - **Project Blue Book:** The Air Force investigation program that was terminated following the report's conclusions.
 
 ## Related Research
-- [Condon Committee](../organizations/condon-committee.md)
+- [[organizations/condon-committee]]
 
 ## Sources
 - [Condon Committee - Wikipedia](httpss://en.wikipedia.org/wiki/Condon_Committee)

@@ -1,12 +1,18 @@
-# Research Report: John Keel and the Mothman Prophecies
+---
+type: case
+tags: [mothman, cryptid, abduction, west-virginia, john-keel]
+related_people: [[people/john-keel]]
+related_cases: []
+related_technologies: []
+---
+# Research Report: [[people/john-keel|John Keel]] and the Mothman Prophecies
 
 ## Overview
-This report documents the life, work, and theories of American journalist and UFOlogist John Keel, specifically focusing on his investigation into the Mothman sightings in Point Pleasant, West Virginia, and his broader "Interdimensional Hypothesis."
+This report documents the life, work, and theories of American journalist and UFOlogist [[people/john-keel|John Keel]], specifically focusing on his investigation into the Mothman sightings in Point Pleasant, West Virginia, and his broader "Interdimensional Hypothesis."
 
-## 1. Biography: John Alva Keel (1930–2009)
+## 1. Biography: [[people/john-keel|John Alva Keele]] (1930–2009)
 - **Early Life:** Born Alva John Kiehle in Hornell, New York. Raised by grandparents in Perry, NY.
 - **Career:** Started as a journalist. His interest in the paranormal was fueled by an early passion for magic and science.
-ging.
 - **Work Style:** Known for a hands-on, investigative approach, traveling extensively (claiming to have visited 20 states and interviewed thousands of witnesses) to document phenomena that challenged the then-dominant Extraterrestrial Hypothesis (ETH).
 
 ## 2. The Mothman Prophecies (1966–1967)
@@ -20,7 +26,7 @@ ging.
 One of Keel's most significant contributions to ufology was the rejection of the idea that UFOs are merely spacecraft from other planets. Instead, he proposed:
 - **Dimensional Portals:** UFOs and paranormal entities are manifestations from parallel dimensions or "layers" of reality that coexist with our own.
 - **Interdimensional Entities:** These beings are not "aliens" in the traditional sense but entities that become visible when the boundary between dimensions thins.
-- **Influence on Others:** His ideas were a precursor to and heavily shared with other notable researchers like Jacques Vallée and J. Allen Hynek (though Hynek's views evolved differently).
+- **Influence on Others:** His ideas were a precursor to and heavily shared with other notable researchers like [[people/jacques-vallee|Jacques Vallée]] and [[people/hynek-j-allen|J. Allen Hynek]] (though Hyneks views evolved differently).
 
 ### The "Secret War" / "Grand Deception"
 Keel often wrote about a "secret war" or a sense of manipulation by unseen forces, suggesting that the phenomena being investigated were part of a larger, more complex, and potentially deceptive cosmic struggle.
@@ -31,14 +37,14 @@ Keel often wrote about a "secret war" or a sense of manipulation by unseen force
 - **Scientific/Paranormal Bridge:** Keel's work bridged the gap between traditional journalism and the study of parapsychology, though his conclusions remain highly controversial and outside the scientific mainstream.
 
 ## 5. Related Research Topics Identified
-- **Interdimensional Hypothesis (IUH) & Jacques Vallée:** Deep dive into the comparison of Keel's and Vallée's theories.
-- **The TNT Area & Point Pleasant Paranormal Geography:** Investigating the specific locations in West Virginia associated with these sightings.
+- **Interdimensional Hypothesis (IUH) & [[people/jacques-vallee|Jacques Vallée]]:** Deep dive into the comparison of Keel's and Vallée's theories.
+- **The TNT Area & Point Pleasant Paranological Geography:** Investigating the specific locations in West Virginia associated with these sightings.
 - **Psychological Impact of Omens in Folklore:** Studying how the "harbinger" narrative affects community identity and trauma processing.
 
 ---
 **Sources:**
-- Wikipedia: John Keel
-- John Keel's Personal Website (johnkeel.com)
-- *The Mothman Prophecies* by John Keel
+- Wikipedia: [[people/john-keel|John Keel]]
+- [[people/john-keel|John Keel]]'s Personal Website (johnkeel.com)
+- *The Mothman Prophecies* by [[people/john-keel|John Keel]]
 - *Skeptical Inquirer* reports on the Mothman case
 - *FringeFile Investigation* - Mothman Profile

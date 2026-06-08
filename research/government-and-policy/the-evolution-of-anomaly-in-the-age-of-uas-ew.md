@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # The Evolution of 'Anomaly' in the Age of UAS/EW
 
 ## Summary
@@ -33,9 +38,9 @@ We are currently in an era of "maximum observation, minimum clarity."
 - **Electronic Warfare (EW):** The primary mechanism for creating "artificial" anomalies through electromagnetic manipulation.
 
 ## Related Research
-- [[research/technologies/non-electromagnetic-detection.md]] (The solution to EW-driven anomalies)
-- [[research/technologies/metamaterials-low-observable-stealth-cloaking.md]] (The technology behind EW-driven "cloaking")
-- [[research/organizations/ndaa-biological-evidence.md]] (The legislative context)
+- [[technologies/non-electromagnetic-detection]] (The solution to EW-driven anomalies)
+- [[technologies/metamaterials-low-observable-stealth-cloaking]] (The technology behind EW-driven "cloaking")
+- [[government-and-policy/ndaa-biological-evidence]] (The legislative context)
 
 ## Sources
 - [The Unidentified Anomalous Phenomena (UAP) Assessment: A Comprehensive Review of Nomenclature, Observables, Institutional Frameworks, and Strategic Implications](https://newspaceeconomy.ca/2026/01/14/the-unidentified-anomalous-phenomena-uap-assessment-a-comprehensive-review-of-nomenclature-observables-institutional-frameworks-and-strategic-implications/)

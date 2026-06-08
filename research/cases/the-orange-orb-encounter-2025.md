@@ -1,3 +1,10 @@
+---
+type: case
+tags: [uap, orange-orb, 2025, swarm, formation, intelligence-witness]
+related_cases: [[cases/uss-princeton]]
+related_technologies: []
+related_people: []
+---
 # The Orange Orb Encounter (2025)
 
 ## Summary
@@ -29,7 +36,7 @@ The observed UAPs exhibited several highly anomalous behaviors:
 - **Document Source:** `ODNI-UAP-D001-USPER-Narrative-Senior-USIC-Official` (Released May 2026).
 
 ## Related Research
-- [USS Princeton (CG-59)](../cases/uss-princeton.md) - Another significant naval encounter involving AAVs.
+- [[cases/uss-princeton]]
 
 ## Sources
 - [ODNI-UAP-D001-USPER-Narrative-Senior-USIC-Official (PDF via war.gov)](https://www.war.gov/medialink/ufo/052226/release_02/documents/ODNI-UAP-D001_USPER_Narrative_Senior_USIC.pdf)

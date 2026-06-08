@@ -1,3 +1,9 @@
+---
+type: person
+tags: [army, intelligence, whistleblower_support, uap_disclosure]
+related_cases: []
+related_entities: [[david-grusch], [aaro]]
+---
 # Karl E. Nell
 
 ## Overview

@@ -1,4 +1,11 @@
+---
+type: technology
+tags: []
+related_theories: [[theories/advanced-propulsion-physics]]
+---
+
 # Ion propulsion
+
 
 ## Summary
 Ion propulsion is a type of electric propulsion technology that uses electric or magnetic fields to accelerate ions (charged particles) to extremely high speeds to create thrust. Because of their high specific impulse, they are highly efficient for long-duration space missions, although they typically produce much lower thrust than chemical rockets.

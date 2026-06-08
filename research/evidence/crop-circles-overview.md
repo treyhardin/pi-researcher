@@ -1,4 +1,12 @@
+---
+type: evidence
+tags: [crop-circles, anomalous-geometry, communication, xenolinguistics]
+related_technologies: []
+related_biology: []
+related_protocols: [[protocols/xenolinguistics-communication-protocols]]
+---
 # Crop Circles: Origins, Theories, and Anomalies
+
 
 ## Summary
 Crop circles (or crop formations) are intricate geometric patterns created by flattening crops in agricultural fields. While often attributed to human pranksters or artists, the complexity and precision of some formations have led to persistent theories involving advanced intelligence, atmospheric phenomena, or even extraterrestrial communication.

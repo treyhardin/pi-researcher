@@ -1,4 +1,11 @@
+---
+type: mythology
+tags: [igigi, mesopotamia, atrahsis, subordinate-deities]
+related_entities: [[mythology/anunnaki-igigi-relationship]]
+related_epics: [[atrahasis-epic]]
+---
 # Igigi
+
 
 ## Summary
 The Igigi are a group of mythological figures in Mesopotamian mythology, primarily associated with the heavens. They are often described as the younger or subordinate deities in relation to the Anunnaki. In some traditions, such as the *Atrahasis* epic, the Igigi were tasked with heavy labor (like digging watercourses) by the more senior Anunnaki, eventually leading to a rebellion that resulted in the creation of humans to relieve the gods of their toil.
@@ -19,7 +26,7 @@ The Igigi are a group of mythological figures in Mesopotamian mythology, primari
 - **Creation of Humans:** The rebellion of the Igigi is a key mythological catalyst for the creation of human beings to perform the gods' labor.
 
 ## Related Research
-- [Anunnaki-Igigi Relationship](../anunnaki-igigi-relationship.md)
+- [[mythology/anunnaki-igigi-relationship]]
 
 ## Sources
 - [Igigi - Wikipedia](https://en.wikipedia.org/wiki/Igigi)

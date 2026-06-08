@@ -1,7 +1,14 @@
+---
+type: case
+tags: [uap, tic-tac, navy, 2004, nimitz, fravor]
+related_people: [[people/david-fravor]]
+related_cases: []
+related_technologies: [[technologies/an-spy-1-radar]]
+---
 # Nimitz Encounter (2004)
 
 ## Summary
-The "Nimitz encounter" refers to a series of highly significant and well-documented Unidentified Aerial Phenomena (UAP) sightings that took place in November 2004. During this period, the USS Nimitz Carrier Strike Group (CSG-11), operating off the coast of Southern California, encountered multiple unidentified objects with extraordinary flight characteristics. The incident is often referred to as the "Tic-Tac" encounter due to the shape of the observed objects. This event has become a cornerstone of the modern UAP disclosure movement, involving high-ranking Navy pilots and leading to investigations by programs like AATIP.
+The "Nimitz encounter" refers to a series of highly significant and well-documented Unidentified Aerial Phenomena (UAP) sightings that took place in November 2004. During this period, the USS Nimitz Carrier Strike Group (CSG-11), operating off the coast of Southern California, encountered multiple unidentified objects with extraordinary flight characteristics. The incident is often referred to as the "Tic-Tac" encounter due to the shape of the observed objects. This event has become a cornerstone of the modern UAP disclosure movement, involving high-ranking Navy pilots and leading to investigations by programs like [[programs/aatip]].
 
 ## Detailed Findings
 
@@ -18,25 +25,25 @@ The encounters involved multiple "Anomalous Aerial Vehicles" (AAVs) or "Unprecen
 * **Transmedium Capability:** Some reports suggested the objects were capable of emerging from the ocean surface and re-entering it (transmedium flight).
 
 ### Key Witnesses and Personnel
-* **Commander David Fravor:** A highly experienced Navy pilot (former TOPGUN instructor) and commanding officer of Strike Fighter Squadron 41 (VFA-41). He was one of the primary eyewitnesses who physically encountered the object in his F/A-18.
+* **Commander [[people/david-fravor]]:** A highly experienced Navy pilot (former TOPGUN instructor) and commanding officer of Strike Fighter Squadron 41 (VFA-41). He was one of the primary eyewitnesses who physically encountered the object in his F/A-18.
 * **Kevin Day:** A Senior Chief Operations Specialist aboard the USS Princeton, who provided critical radar data and observations from the Combat Information Center (CIC).
 * **Other Navy Personnel:** Numerous other pilots and sensor operators involved in the Nimitz Carrier Strike Group reported observing or tracking the anomalous objects.
 
 ### Sensor and Radar Evidence
 The encounter was not merely visual; it was supported by advanced military sensor data:
-* **SPY-1 Aegis Radar:** The USS Princeton, an Aegis-equipped cruiser, detected multiple unknown aerial contacts that could not be identified as known aircraft or even birds/debris. See [AN/SPY-1 Radar Research](../technologies/an-spy-1-radar.md).
+* **SPY-1 Aegis Radar:** The USS Princeton, an Aegis-equipped cruiser, detected multiple unknown aerial contacts that could not be identified as known aircraft or even birds/debris. See [[technologies/an-spy-1-radar]].
 * **FLIR/Infrared Cameras:** Pilots reported observing the objects on their aircraft's infrared targeting systems, noting the distinct thermal signatures and movement patterns.
 
 ## Key Entities/Facts
 * **Primary Vessel:** USS Nimitz (CVN-68).
 * **Supporting Vessel:** USS Princeton (CG-59).
-* **Associated Program:** AATIP (Advanced Aerospace Threat Identification Program).
+* **Associated Program:** [[programs/aatip]] (Advanced Aerospace Threat Identification Program).
 * **Key Aircraft:** F/A-18 Super Hornet, E-2C Hawkeye.
 * **Core Phenomenon:** "Tic-Tac" UAP/UAV.
 
 ## Related Research
-- [Commander David Fravor](people/david-fravor.md)
-- [AATIP Program](programs/aatip.md)
+- [[people/david-fravor]]
+- [[programs/aatip]]
 
 ## Sources
 * [The Vault Files: The “Tic-Tac” Incident, November 14, 2004 - The Black Vault Case Files](https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/)

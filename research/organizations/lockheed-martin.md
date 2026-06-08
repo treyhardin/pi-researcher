@@ -34,9 +34,9 @@ Lockheed Martin is a global, security-focused aerospace and defense technology c
 
 ## Related Topics
 ### Organizations
-- [Lockheed Corporation](lockheed-corporation.md)
-- [Martin Marietta](martin-marietta.md)
-- [Skunk Works](skunk-works.md)
+- [[organizations/lockheed-corporation]]
+- [[organizations/martin-marietta]]
+- [[organizations/skunk-works]]
 ## Sources
 - [80 Years of Lockheed Martin Skunk Works® Innovation | Lockheed Martin](https://www.lockheedmartin.com/en-us/news/features/2023/80-years-of-skunk-works-innovation.html)
 - [Lockheed Martin - Wikipedia](https://en.wikipedia.org/wiki/Lockheed_Martin)

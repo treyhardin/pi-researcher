@@ -39,9 +39,9 @@ The tension between the ETH and IDH represents a paradigm shift in UAP research.
     - **Transmedium Travel:** The ability of UAPs to move seamlessly between air, space, and water.
 
 ## Related Research
-- [[the_ultraterrestrial_hypothesis]] (Found in theories/concepts)
-- [[john-keel]] (See `research/people/john-keel.md` if exists)
-- [[jacques-vallee]] (See `research/people/jacques-vallee.md` if exists)
+- [[theories/the-ultraterrestrial-hypothesis]] (Found in theories/concepts)
+- [[people/john-keel]] (See `research/people/john-keel.md` if exists)
+- [[people/jacques-vallee]] (See `research/people/jacques-vallee.md` if exists)
 
 ## Sources
 - [UAP Interdimensional Theories: Beyond the Extraterrestrial Hypothesis - New Space Economy](https://newspaceeconomy.ca/2025/07/24/uap-interdimensional-theories-beyond-the-extraterrestrial-hypothesis/)

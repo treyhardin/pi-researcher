@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # The Intelligence-Industrial Industrial Complex and UAP Infrastructure
 
 ## Overview

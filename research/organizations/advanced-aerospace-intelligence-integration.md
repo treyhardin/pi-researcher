@@ -35,9 +35,9 @@ The integration also involves the intersection with:
 - **NDAA:** The legislative driver for UAP research mandates.
 
 ## Related Research
-- [AARO](research/organizations/aaro.md)
-- [NICAP](research/organizations/nicap.md)
-- [Lockheed Martin](research/organizations/lockheed-martin.md)
+- [[organizations/aaro]]
+- [[organizations/nicap]]
+- [[organizations/lockheed-martin]]
 
 ## Sources
 - [AARO Home](https://www.aaro.mil/)

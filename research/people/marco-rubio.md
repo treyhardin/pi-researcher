@@ -1,3 +1,9 @@
+---
+type: person
+tags: [senator, intelligence, legislation, uap_disclosure]
+related_cases: []
+related_entities: [[aaro], [mike-rounds]]
+---
 # Senator Marco Rubio
 
 ## Summary
@@ -27,9 +33,9 @@ Rubio has actively sought the declassification of government records related to 
 - **Key Allies:** Senator Kirsten Gillibrand (D-NY), Senator Chuck Schumer (D-NY), Senator Mike Rounds (R-SD), and Congressman Ruben Gallego (D-AZ).
 
 ## Related Research
-- [AARO (All-domain Anomaly Resolution Office)](../organizations/aaro.md)
-- [Senator Mike Rounds](research/people/mike-rounds.md) (if exists)
-- [Senator Kirsten Gillibrand](research/people/kirsten-gillibrand.md) (if exists)
+- [[organizations/aaro]]
+- [[people/mike-rounds]] (if exists)
+- [[kirsten-gillibrand]] (if exists)
 
 ## Sources
 1. [TITLE I—UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE](https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf) - Senate Democratic Caucus

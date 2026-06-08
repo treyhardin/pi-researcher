@@ -1,3 +1,9 @@
+---
+type: person
+tags: [physicist, aaro, uap_investigation]
+related_cases: []
+related_entities: [[aaro], [david-grusch]]
+---
 # Sean Kirkpatrick
 
 ## Overview
@@ -13,13 +19,8 @@ Sean Michael Kirkpatrick is an American laser and materials physicist who served
     - Represented the U.S. government in public media roundtables regarding UAP investigations.
 - **Significance:** His leadership was a pivotal moment in the Pentagon's formal, structural approach to investigating UAP, transitioning from previous task forces (like UAPTF) to a permanent office (AARO).
 
-
-
-
-
-
 ## Related Topics
 ### Organizations
-- [All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md)
+- [[organizations/aaro]]
 ### People
-- [David Grusch](david-grusch.md)
+- [[people/david-grusch]]

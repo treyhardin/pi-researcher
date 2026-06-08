@@ -8,4 +8,4 @@ The **Disclosure Project** is a non-profit organization founded by **Dr. Steven 
 - **Public Awareness:** Educating the public about the potential implications of UAP and non-human intelligence.
 
 ## Key Figures
-- **[Dr. Steven Greer](../people/steven-greer.md)**: Founder and primary spokesperson.
+- **[[people/steven-greer]]**: Founder and primary spokesperson.

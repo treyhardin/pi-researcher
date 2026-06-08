@@ -35,8 +35,8 @@ One of the most promising avenues for fulfilling the energy requirements is the 
 - **Weak Energy Condition (WEC):** The physical principle that the original Alcubierre metric violates.
 
 ## Related Research
-- [Metamaterials & Low-Observable (Stealth) Cloaking](../technologies/metamaterials-low-observable-stealth-cloaking.md) (Related to the manipulation of waves and spacetime)
-- [Electrogravitics & Plasma-Based Propulsion](../technologies/electrogravitics-plasma-based-propulsion.md) (Related to the use of high-energy physics for propulsion)
+- [[technologies/metamaterials-low-observable-stealth-cloaking]] (Related to the manipulation of waves and spacetime)
+- [[technologies/electrogravitics-plasma-based-propulsion]] (Related to the use of high-energy physics for propulsion)
 
 ## Sources
 - [The warp drive: hyper-fast travel within general relativity - IOPscience](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001/meta)

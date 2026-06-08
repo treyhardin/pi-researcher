@@ -1,3 +1,9 @@
+---
+type: theory
+tags: [plasma-based-life, astrobiology, morphogenesis, plasma-physics, exobiology]
+related_technologies: [[technologies/advanced-propulsion-convergence-plasma-bio-electronic]]
+related_biology: []
+---
 # Plasma-Based Life and Extreme Environment Biology (Technical Frontiers)
 
 ## Overview

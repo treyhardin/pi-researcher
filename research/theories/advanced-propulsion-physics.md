@@ -39,8 +39,8 @@ Advanced propulsion physics encompasses a wide range of theoretical and experime
 - **Specific Impulse ($I_{sp}$):** The primary metric for propulsion efficiency.
 
 ## Related Research
-- [Propulsion Systems Overview](research/theories/propulsion-systems-overview.md) <!-- To be created -->
-- [Quantum Vacuum Physics](research/theories/quantum-vacuum-physics.md) <!-- To be created -->
+- [[technologies/propulsion-systems-overview]] <!-- To be created -->
+- [[quantum-vacuum-physics]] <!-- To be created -->
 
 ## Sources
 - [NASA Brief: Q-Thruster Physics](https://ntrs.nasa.gov/api/citations/20140000067/downloads/20140000067.pdf)

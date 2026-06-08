@@ -1,4 +1,11 @@
+---
+type: person
+tags: [aawsap, dia, whistleblower, uap]
+related_cases: []
+related_entities: [[david-grusch], [luis-elizondo], [ryan-graves], [aaro]]
+---
 # Dr. James T. Lacatski
+
 
 ## Summary
 Dr. James T. Lacatski is a retired Defense Intelligence Agency (DIA) engineer, analyst, and nuclear engineer by training. He is most recognized for his role as the Program Manager of the Advanced Aerospace Weapon Systems Applications Program (AAWSAP), which was one of the largest and most ambitious U.S. government-funded investigations into Unidentified Aerial Phenomena (UAP) and anomalous aerospace technologies. Through his work and subsequent books, he has brought significant visibility to the existence of secret government investigations and the potential possession of advanced technology of unknown origin.
@@ -27,10 +34,10 @@ Dr. Lacatski's career and disclosures have fundamentally altered the landscape o
 - **Nuclear Engineering:** His technical foundation which informed his approach to investigating advanced propulsion and energy.
 
 ## Related Research
-- [David Grusch](research/people/david-grusch.md)
-- [Luis Elizondo](research/people/luis-elizondo.md)
-- [Ryan Graves](research/people/ryan-graves.md)
-- [AARO](research/organizations/aaro.md)
+- [[people/david-grusch]]
+- [[people/luis-elizondo]]
+- [[people/ryan-graves]]
+- [[organizations/aaro]]
 
 ## Sources
 - [Inside the U.S. Government's Covert UFO Program - Amazon](https://www.amazon.com/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC)

@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Dielectric Pumps
 
 ## Summary
@@ -28,8 +33,8 @@ Dielectric pumps are part of a broader category of electrohydrodynamic (EHD) dev
 - **Biefeld-Brown Effect:** An asymmetric force on a capacitor under high voltage, related to the physics of EHD pumps.
 
 ## Related Research
-- [Biefeld-Brown effect](research/technologies/biefeld-brown-effect.md)
-- [Electrohydrodynamics](research/technologies/electrohydrodynamics.md)
+- [[technologies/biefeld-brown-effect]]
+- [[technologies/electrohydrodynamics]]
 
 ## Sources
 - [Force on an Asymmetric Capacitor (DTIC)](https://apps.dtic.mil/sti/tr/pdf/ADA416740.pdf)

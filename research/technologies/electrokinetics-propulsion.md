@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Electrokinetics Propulsion
 
 ## Summary
@@ -33,8 +38,8 @@ The term "electrokinetics" is often used interchangeably or in close relation to
 
 ## Related Topics
 ### Technologies
-- [Biefeld-Brown Effect](biefeld-brown-effect.md)
-- [Electrogravitics](electrogravitics.md)
+- [[technologies/biefeld-brown-effect]]
+- [[technologies/electrogravitics]]
 ## Sources
 - **On the capabilities of nano electrokinetic thrusters for space propulsion** - [ScienceDirect](https://www.scimdirect.com/science/article/abs/pii/S0094576512003773)
 - **Electrokinetic Propulsion for Electronically Integrated Microscopic Robots** - [arXiv](https://arxiv.org/html/2409.07293v1)

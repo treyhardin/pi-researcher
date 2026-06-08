@@ -29,8 +29,8 @@ Topological Geometrodynamics (TGD) is a theoretical framework that unifies funda
 - **Quantum Criticality:** The idea that the TGD universe operates at a quantum critical state.
 
 ## Related Research
-- [Non-local consciousness](research/theories/non-local-consciousness.md) (Related to the consciousness implications of TGD)
-- [Theory of Psychic Quanta](research/pending-research.md) (Potential intersection with TGD's quantum models)
+- [[theories/non-local-consciousness]] (Related to the consciousness implications of TGD)
+- [[pending-research]] (Potential intersection with TGD's quantum models)
 
 ## Sources
 - [Topological Geometrodynamics (Summary)](http://tgdtheory.fi/public_html/articles/tgdarticle.pdf)

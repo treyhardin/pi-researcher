@@ -34,7 +34,7 @@ Despite the official conclusion of it being a balloon cluster, the Al Taqaddum f
 
 ## Related Topics
 ### Organizations
-- [All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md)
+- [[organizations/aaro]]
 ## Sources
 - **UAP Imagery - AARO** - [AARO Official Site](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)
 - **AARO UAP Case Resolution Reports** - [AARO Official Site](https://www.aaro.mil/UAP-Cases/UAP-Case-判Resolution-Reports/)

@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Aegis Combat System
 
 ## Summary
@@ -24,10 +29,10 @@ The Aegis Combat System is more than just a set of weapons; it is a "total weapo
 - **First Commissioned Ship:** USS Ticonderoga (CG-47) in 1983.
 
 ## Related Research
-- [Vertical Launch System (VLS)](../vls.md)
-- [AN/SPY-1 Radar](../spay-1.md)
-- [Arleigh Burke-class Destroyer](../arleigh-burke.md)
-- [Ticonderoga-class Cruiser](../ticonderoga.md)
+- [[technologies/vls]]
+- [[technologies/an-spy-1-radar]]
+- [[technologies/arleigh-burke]]
+- [[technologies/ticonderoga-class-cruiser]]
 
 ## Sources
 - [AEGIS Weapon System | United States Navy](https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2166739/aegis-weapon-system/)

@@ -1,3 +1,9 @@
+---
+type: person
+tags: [biologist, morphic_resonance, morphic_fields]
+related_cases: []
+related_entities: []
+---
 # Rupert Sheldrake
 
 ## Overview
@@ -24,5 +30,5 @@ While his theories are considered controversial and outside the scientific mains
 ## Sources
 - [Morphic Resonance and Morphic Fields - an Introduction](https://www.sheldrake.org/research/morphic-resonance/introduction)
 - [The Evolution of Telepathy - Rupert Sheldrake](https://rupertsheldrake.substack.com/p/the-evolution-of-telepathy)
-- [Are Psychic Phenomena Illusory? - Rupert Sheldrake](https://rupertsheldrake.substack.com/p/are-psychic-phenomena-illusory)
-- [Rupert Sheldrake – Psi Encyclopedia](https://psi-encyclopedia.spr.ac.uk/articles/rupert-sheldrake/)
+- [Are Psychic Phenomena Illusively? - Rupert Sheldrake](https://rupertsheldrake.substack.com/p/are-psychic-phenomena-illusory)
+- [Rupert Sheldrake – Psi Encyclopedia](httpshttps://psi-encyclopedia.spr.ac.uk/articles/rupert-sheldrake/)

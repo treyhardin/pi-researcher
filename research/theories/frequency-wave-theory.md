@@ -32,8 +32,8 @@ The extraction of energy from the vacuum is a potential byproduct of these propu
 - **Quantum Substrate Dynamics (QSD):** A relativistic field model that links mass, gravity, and inertia to fluctuations in a physical substrate.
 
 ## Related Research
-- [[Electrogravitics & Plasma-Based Propulsion](../technologies/electrogravitics-plasma-based-propulsion.md)] - Explores the application of high-voltage fields in propulsion.
-- [[Alcubierre Drive & Metric Engineering](../theories/alcubierre-drive-metric-engineering.md)] - Related to the theoretical frameworks of spacetime warping and metric manipulation.
+- [[technologies/electrogravitics-plasma-based-propulsion]]] - Explores the application of high-voltage fields in propulsion.
+- [[theories/alcubierre-drive-metric-engineering]]] - Related to the theoretical frameworks of spacetime warping and metric manipulation.
 
 ## Sources
 - [Reverse Engineering UFO Plasma Propulsion Through Frequency Wave Theory | Substack](httpshttps://frequencywavetheory.substack.com/p/reverse-engineering-ufo-plasma-propulsion)

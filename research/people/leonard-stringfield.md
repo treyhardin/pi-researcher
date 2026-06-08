@@ -1,3 +1,9 @@
+---
+type: person
+tags: [ufologist, crashed_saucers, retrieval_of_craft]
+related_cases: []
+related_entities: [[nicap], [donald-e-keyhoe]]
+---
 # Leonard H. Stringfield (1920–1994)
 
 ## Overview

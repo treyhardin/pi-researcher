@@ -26,10 +26,10 @@ Key aspects of AARO's work include:
 
 ## Related Topics
 ### People
-- [Jon Kosloski](../people/jon-kosloski.md)
-- [Sean Kirkpatrick](../people/sean-kirkpatrick.md)
+- [[people/jon-kosloski]]
+- [[people/sean-kirkpatrick]]
 ### Places
-- [Al Taqaddum Air Base](../places/al-taqaddum-air-base.md)
+- [[places/al-taqaddum-air-base]]
 ## Sources
 - [AARO Home](https://www.aaro.mil/)
 - [AARO Mission Brief (PDF)](https://www.aaro.mil/Portals/136/PDFs/AARO%20Mission%20Brief_DOPSR%20Reviewed%2007-2023.pdf?ver=Az1ksH5lqv4ORzVm5rI6Mw%3D%3D)

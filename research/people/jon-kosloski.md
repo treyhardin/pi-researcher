@@ -1,3 +1,9 @@
+---
+type: person
+tags: [aaro, dod, uap_investigation]
+related_cases: []
+related_entities: [[organizations/aaro]]
+---
 # Jon Kosloski
 
 ## Summary
@@ -32,7 +38,7 @@ On November 19, 2024, Dr. Kosloski testified before the Senate Armed Services Su
 
 ## Related Topics
 ### Organizations
-- [All-domain Anomaly Resolution Office (AARO)](../organizations/aaro.md)
+- [[organizations/aaro]]
 ## Sources
 - [Senate Testimony Transcript (November 19, 2024)](https://www.armed-services.senate.gov/download/11-19-24_-sub---transcript?download=1)
 - [UAP Hearing 20241119 – SASC Hearing on the Activities of AARO | Anomaly Archives](https://anomalyarchives.org/collections/file/uap-hearing-20241119-senate-armed-services-subcommittee-hearing-on-the-activities-of-aaro/)

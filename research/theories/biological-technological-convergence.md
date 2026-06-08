@@ -33,10 +33,10 @@ The convergence of biology and technology fundamentally alters the search for in
 - **Technological Drivers**: Synthetic biology, AI-driven biological design, xenobiology.
 
 ## Related Research
-- [Unidentified Anomalous Phenomena (UAP)](research/cases/uap-encounters.md)
-- [Non-Human Intelligence (NHI)](research/people/non-human-intelligence.md)
-- [Advanced Aerospace Technologies](research/technologies/advanced-aerospace.md)
-- [Synthetic Biology and Xenobotics](research/technologies/synthetic-biology.md)
+- [[uap-encounters]]
+- [[non-human-intelligence]]
+- [[advanced-aerospace]]
+- [[technologies/synthetic-biology]]
 
 ## Sources
 - **New Space Economy**: [The Biotechnological Hypothesis: Are UAPs Biological or Semi-Biological Entities?](https://newspaceeconomy.ca/2025/07/22/the-biotechnological-hypothesis-are-uaps-biological-or-semi-biological-entities/)

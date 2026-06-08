@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Electrogravitics & Plasma-Based Propulsion
 
 ## Summary
@@ -33,9 +38,9 @@ Significant historical investigations into these phenomena have been conducted b
 - **Spacetime Manipulation:** The ultimate goal of advanced electrogravitic propulsion—altering the local metric of space to facilitate motion.
 
 ## Related Research
-- [[Metamaterials & Low-Observable (Steclth) Cloaking](../technologies/metamaterials-low-observable-stealth-cloaking.md)] - Relates to the use of advanced materials for field-shaping.
-- [[Biefeld-Brown Effect](../technologies/biefeld-brown-effect.md)] - The fundamental physical phenomenon underpinning electrogravitics.
-- [[Electrogravitics](../technologies/electrogravitics.md)] - Broader exploration of the field of electrogravitics.
+- [[technologies/metamaterials-low-observable-stealth-cloaking]]] - Relates to the use of advanced materials for field-shaping.
+- [[technologies/biefeld-brown-effect]]] - The fundamental physical phenomenon underpinning electrogravitics.
+- [[technologies/electrogravitics]]] - Broader exploration of the field of electrogravitics.
 
 ## Sources
 - [Electromagnetic / Electrogravitics Propulsion | Murdering UAP Experts](https://uapmurders.com/physics/Details/Electromagnetic_Propulsion/)

@@ -1,4 +1,11 @@
+---
+type: technology
+tags: []
+related_theories: [[theories/biological-technological-convergence]]
+---
+
 # Synthetic Biology
+
 
 ## Summary
 Synthetic biology is an interdisciplinary field that combines principles from biology, engineering, and computer science to redesign organisms and biological systems for useful applications. Unlike traditional genetic engineering, which often involves single-gene modifications, synthetic biology employs an engineering approach—utilizing the **Design-Build-Test-Learn (DBTL)** cycle—to create novel biological parts, devices, and even entire genomes.
@@ -35,7 +42,7 @@ Synthetic biology focuses on the creation of "bio-parts" (such as promoters, enh
 - **Metabolic Engineering:** A key sub-discipline focused on optimizing cellular pathways.
 
 ## Related Research
-- [Xenobot](research/technologies/xenobot.md) (As an application of synthetic biology and soft robotics)
+- [[technologies/xenobot]] (As an application of synthetic biology and soft robotics)
 
 ## Sources
 - [Enabling technology and core theory of synthetic biology (PubMed Central)](httpshttps://pmc.ncbi.nlm.nih.gov/articles/PMC9907219/)

@@ -1,3 +1,9 @@
+---
+type: theory
+tags: [quantum-biology, photosynthesis, enzyme, tunneling, magnetoreception, DNA]
+related_technologies: []
+related_biology: []
+---
 # Quantum Biology: The Quantum Mechanical Foundation of Life
 
 ## Overview

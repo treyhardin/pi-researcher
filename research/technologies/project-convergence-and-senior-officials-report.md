@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Project Convergence and the Senior USIC Official's ODNI Report
 
 ## Summary
@@ -33,7 +38,7 @@ The intersection of these two domains lies in the capability of the Army's emerg
 - **Karl E. Nell:** A key figure in Army modernization whose public statements link NHI existence to modern warfare capabilities.
 
 ## Related Research
-- [Research on the Five UAP Observables](research/technologies/five-observables-framework.md) (Placeholder)
+- [[five-observables-framework]] (Placeholder)
 
 ## Sources
 - [ODNI-UAP-D001, USPER Narrative, Senior USIC Official | Probed](https://probed.space/documents/94a4b883-db3f-4ccb-bffc-926376a640af)

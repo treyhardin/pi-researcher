@@ -1,8 +1,22 @@
-# Protocols Research Summary
+---
+type: MOC
+domain: protocols
+description: A map of content for research into methodologies, communication protocols, and encounter-facilitation techniques.
+---
 
-This directory contains research on various protocols and methodologies used in the study of UAPs and unconventional phenomena.
+# Protocols Map of Content (MOC)
 
-## Research Entries
+This MOC serves as a central hub for research into the various methodologies, communication protocols, and encounter-facilitation techniques used in the study of and interaction with UAPs and Non-Human Intelligence (NHI).
 
-### [CE5 Protocol](ce5-protocol.md)
-A consciousness-based methodology designed to facilitate encounters with non-human intelligence (NHI) through the use of intention, light, and sound.
+## 🛸 Encounter Facilitation
+Methods and intentional practices designed to stimulate or initiate contact with anomalous phenomena.
+- [[protocols/ce5-protocol]]
+
+## 🗣️ Communication & Xenolinguistics
+Research into the structures, patterns, and potential methodologies for understanding the communication of non-human entities.
+- [[protocols/xenolinguistics-communication-protocols]]
+
+## 🔗 Related Domains
+- [[entities/summary]]
+- [[biology/summary]]
+- [[technologies/summary]]

@@ -1,3 +1,8 @@
+---
+type: technology
+tags: [plasma_propulsion, bio_electronics, convergence, propulsion_advancements]
+related_technologies: [[bio-electronic-propulsion], [electrogravitics-plasma-based-propulsion], [bioelectric-signaling], [advanced-carbon-based-materiality]]
+---
 # Advanced Propulsion Convergence (Plasma/Bio-Electronic)
 
 ## Overview
@@ -28,9 +33,9 @@ The intersection of these fields presents several transformative possibilities:
 - **Non-Human Intelligence (NHI) Context:** The development of bio-hybrid/plasma technology aligns with theories of advanced technology that blurs the line between biological organism and engineered vehicle.
 
 ## Related Files & Topics
-- [[bio-electronic-propulsion]]
-- [[electrogravitics-plasma-based-propulsion]]
-- [[bioelectric-signaling]]
+- [[technologies/bio-electronic-propulsion]]
+- [[technologies/electrogravitics-plasma-based-propulsion]]
+- [[technologies/bioelectric-signaling]]
 
 ## References
 - *Current progress in the development of an ECR plasma source for atmosphere-breathing electric propulsion system* | CEAS Space Journal.

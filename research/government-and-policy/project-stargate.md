@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Project Stargate
 
 ## Summary
@@ -30,8 +35,8 @@ Project Stargate was not a single program but an umbrella term for various initi
 - **Intelligence Community (IC) Involvement**: Oversight by CIA, DIA, and INSCOM.
 
 ## Related Research
-- [CIA (us-gov)](./cia.md)
-- [Hal Puthoff](research/people/hal-puthoff.md) (if exists)
+- [[government-and-policy/cia]]
+- [[people/hal-puthoff]] (if exists)
 
 ## Sources
 - [STAR GATE [Controlled Remote Viewing] (FAS)](https://irp.fas.org/program/collect/stargate.htm)

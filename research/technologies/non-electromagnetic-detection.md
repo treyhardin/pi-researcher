@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Non-Electromagnetic Detection
 
 ## Summary
@@ -31,8 +36,8 @@ A burgeoning field of research investigates the "footprint" left by UAPs on biol
 - **UAPx:** Collaborative field expeditions for data collection.
 
 ## Related Research
-- [[research/technologies/electrogravitics.md]]
-- [[research/technologies/synthetic-biology.md]]
+- [[technologies/electrogravitics]]
+- [[technologies/synthetic-biology]]
 
 ## Sources
 - [The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories](https://ui.adsabs.harvard.edu/abs/2023arXiv230518566A/abstract)

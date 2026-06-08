@@ -1,14 +1,28 @@
-# Places Research Summary
+---
+type: MOC
+domain: places
+description: A map of content for research into specific locations and sites associated with UAP sightings and incidents.
+---
 
-This directory contains research on various locations associated with UAP sightings, incidents, and investigations.
+# Places Map of Content (MOC)
 
-## Research Entries
+This MOC serves as a central hub for researching specific geographical locations, facilities, and sites that have been significant in the study of UAP/UFO phenomena. This includes military air bases, documented sighting locations, and specialized research facilities.
 
-### [Al Taqaddum Air Base](al-taqaddum-air-base.md)
-Site of a 2017 IR sensor detection of an object later assessed as a balloon cluster.
+## 🛰️ Military & Aerospace Sites
+Locations categorized by their role in air defense, surveillance, or as significant witness environments.
+- [[places/al-taqaddum-air-base]]
+- [[places/wright-patterson-afb]]
 
-### [Yeni Kent facility](yeni-kent-facility.md)
-The facility where the witness was working during the Kumburgaz sightings.
+## 🌊 Maritime & Coastal Sightings
+Research into phenomena observed over bodies of water or coastal regions.
+- [[places/sea-of-marmara]]
 
-### [Sea of Marmara](sea-of-marmara.md)
-The location for the documented 2007-2009 Kumburgaz UFO videos.
+## 🌲 Land-Based & Special Interest Sites
+Important locations such as ranchlands, specialized facilities, or historically significant sites.
+- [[places/skinwalker-ranch]]
+- [[places/yeni-kent-facility]]
+
+## 🔗 Related Domains
+- [[cases/summary]]
+- [[organizations/summary]]
+- [[technologies/summary]]

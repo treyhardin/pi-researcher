@@ -33,7 +33,7 @@ Raytheon is a leader in managing the "invisible battlespace" through advanced el
 
 ## Related Topics
 ### Organizations
-- [Lockheed Martin](lockheed-martin.md)
+- [[organizations/lockheed-martin]]
 ## Sources
 * [The Go Fast Incident: A Detailed Analysis of the 2015 Navy UAP Encounter - New Space Economy](https://newspaceeconomy.ca/2025/12/07/the-go-fast-incident-a-detailed-analysis-of-the-2015-navy-uap-encounter/)
 * [The UFO spotter – Aviation News](httpshttps://aviationnews.eu/news/2017/12/the-ufo-spotter/)

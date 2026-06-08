@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Sensor Fusion for UAP Detection
 
 ## Summary
@@ -28,8 +33,8 @@ A central challenge in UAP research is the verification of data. Modern sensor f
 * **Data Provenance:** Maintaining a rigorous chain of custody for digital observations to prevent tampering and ensure scientific reproducibility.
 
 ## Related Research
-- [Advanced Carbon-based Materiality](../technologies/advanced-carbon-based-materiality.md) (Potential relevance to sensor interaction)
-- [Electrohydrodynamics](../technologies/electrohydrodynamics.md) (Potential propulsion mechanism detectable via sensors)
+- [[technologies/advanced-carbon-based-materiality]] (Potential relevance to sensor interaction)
+- [[technologies/electrohydrodynamics]] (Potential propulsion mechanism detectable via sensors)
 
 ## Connection to Emerging Research
 - **Integrated Multi-Domain Detection Architectures:** This technology is the primary architectural foundation for the new research initiative investigating unified RF/EO/IR/Acoustic fusion to counteract transmedium and stealth-enabled UAPs.

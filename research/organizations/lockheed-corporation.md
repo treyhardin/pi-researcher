@@ -32,9 +32,9 @@ The Lockheed Corporation name is frequently associated with discussions regardin
 
 ## Related Topics
 ### Organizations
-- [Lockheed Martin](lockheed-martin.md)
-- [Martin Marietta](martin-marietta.md)
-- [National Investigations Committee on Aerial Phenomena (NICAP)](nicap.md)
+- [[organizations/lockheed-martin]]
+- [[organizations/martin-marietta]]
+- [[organizations/nicap]]
 ## Sources
 - [Lockheed Corporation - Wikipedia](httpshttps://en.wikipedia.org/wiki/Lockheed_Corporation)
 - [Lockheed Martin: Our History | Lockheed Martin](httpshttps://www.lockheedmartin.com/en-us/news/features/history.html)

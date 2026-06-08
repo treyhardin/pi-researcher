@@ -1,7 +1,13 @@
+---
+type: person
+tags: [whistleblower, geospatial_intelligence, usaf, uap_encounter]
+related_cases: []
+related_entities: []
+---
 # Dylan Borland
 
 ## Summary
-Dylan Borland is a former U.S. Air Force (USAF) geospatial intelligence specialist and a prominent federal whistleblower. He gained national attention following his September 2025 testimony before the House of Representatives Task Force regarding his encounter with Unidentified Aerial Phenomena (UAP) and the subsequent retaliation he faced from government agencies.
+Dylan Borland is a former U.S. Air Force (USAF) geospatial intelligence specialist and a prominent federal whistleblower. He gained national attention following his September 202            25 testimony before the House of Representatives Task Force regarding his encounter with Unidentified Aerial Phenomena (UAP) and the subsequent retaliation he faced from government agencies.
 
 ## Detailed Findings
 Borland's testimony highlights the critical issue of whistleblower protection and the potential existence of suppressed information regarding advanced aerospace technologies.
@@ -12,7 +18,7 @@ Borland's testimony highlights the critical issue of whistleblower protection an
 - **Characteristics:** He described the craft as silent and noted that its material appeared "fluid" or "dynamic." Crucially, he reported that the craft interfered with his telephone during the encounter.
 - **Timeline:** The event occurred while he was serving in an active-duty enlisted capacity (part of his service from 2010 to 2013).
 
-### Whistleblowing and Retaliation
+### Whistleblowing and Retaliability
 - **Nature of Disclosure:** Borland came forward as a whistleblower regarding both the specific UAP encounter and his knowledge of "legacy UAP programs" within the military and intelligence community.
 - **Alleged Retaliation:** He testified that his career was effectively destroyed by sustained retaliation from government agencies. This included:
     - Professional obstruction and workplace harassment.

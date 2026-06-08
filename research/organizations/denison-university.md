@@ -22,8 +22,8 @@ Denison University's historical connection to the study of electrogravitics and 
 - **Biefeld-Brown Effect:** The phenomenon discovered/investigated during this period.
 
 ## Related Research
-- [Paul Biefeld](research/people/paul-biefeld.md)
-- [Thomas Townsend Brown](research/people/thomas-townsend-brown.md) (if existing)
+- [[people/paul-biefeld]]
+- [[people/thomas-townsend-brown]] (if existing)
 
 ## Sources
 - [Brown, Thomas Townsend (subject files) | Denison Archives](https://denisonarchives.libraryhost.com/?id=28&p=digitallibrary%2Fdigitalcontent)

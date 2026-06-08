@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # F-117 Nighthawk
 
 ## Summary
@@ -26,8 +31,8 @@ The F-117 Nighthawk was the world's first operational stealth aircraft, develope
 - **Senior Trend**: The subsequent highly classified development program.
 
 ## Related Research
-- [[research/organizations/skunk-works.md|Skunk Works]]
-- [[research/organizations/lockheed-martin.md|Lockheed Martin]]
+- [[organizations/skunk-works|Skunk Works]]
+- [[organizations/lockheed-martin|Lockheed Martin]]
 
 ## Sources
 1. [F-117 Nighthawk | Lockheed Martin](https://www.lockheedmartin.com/en-us/news/features/history/f-117.html)

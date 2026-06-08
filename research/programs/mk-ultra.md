@@ -20,7 +20,7 @@ Key aspects of the program include:
 - **Church Committee/Rockefeller Commission:** The investigative bodies that exposed the program.
 
 ## Related Research
-- [CIA Experiments](../programs/mk-ultra.md) (as this is the primary subject)
+- [[programs/mk-ultra]] (as this is the primary subject)
 
 ## Sources
 - [MKUltra - Wikipedia](https://en.wikipedia.org/wiki/MK_Ultra)

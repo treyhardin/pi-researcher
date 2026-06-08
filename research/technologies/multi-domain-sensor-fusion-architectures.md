@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Multi-Domain Sensor Fusion Architectures
 
 ## Summary

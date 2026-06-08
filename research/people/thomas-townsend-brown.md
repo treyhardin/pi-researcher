@@ -1,3 +1,9 @@
+---
+type: person
+tags: [physicist, inventor, biefeld-brown-effect, electrogravitics, nicap]
+related_cases: []
+related_entities: [[nicap], [biefeld-brown-effect], [electrogravitics], [electrohydrodynamics], [ion-propulsion]]
+---
 # Thomas Townsend Brown
 
 ## Summary
@@ -33,12 +39,12 @@ A critical distinction exists between Brown's interpretation and the modern scie
 
 ## Related Topics
 ### Organizations
-- [National Investigations Committee on Aerial Phenomena (NICAP)](../organizations/nicap.md)
+- [[organizations/nicap|National Investigations Committee on Aerial Phenomena (NICAP)]]
 ### Technologies
-- [Biefeld-Brown Effect](../technologies/biefeld-brown-effect.md)
-- [Electrogravitics](../technologies/electrogravitics.md)
-- [Electrohydrodynamics](../technologies/electrohydrodynamics.md)
-- [Ion propulsion](../technologies/ion-propulsion.md)
+- [[technologies/biefeld-brown-effect|Biefeld-Brown Effect]]
+- [[technologies/electrogravitics|Electrogravitics]]
+- [[technologies/electrohydrodynamics|Electrohydrodynamics]]
+- [[technologies/ion-propulsion|Ion propulsion]]
 ## Sources
 - [Thomas Townsend Brown - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)
 - [Thomas Townsend Brown | Stephen M. Walker II](https://smw.ai/research/townsend-brown)

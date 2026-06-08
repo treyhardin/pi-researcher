@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Electrohydrodynamics
 
 ## Summary
@@ -37,7 +42,7 @@ EHD is a highly interdisciplinary field, requiring expertise in:
 
 ## Related Topics
 ### Technologies
-- [Biefeld-Brown Effect](biefeld-brown-effect.md)
+- [[technologies/biefeld-brown-effect]]
 ## Sources
 - **Electrohydrodynamics - IOPscience** - [IOPscience](https://iopscience.iop.org/article/10.3367/UFNe.0182.201205b.0495)
 - **Mechanisms and modeling of electrohydrodynamic phenomena** - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC7415859/)

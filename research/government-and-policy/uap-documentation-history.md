@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Declassified Documents and the Paper Trail of UAP Research
 
 ## Overview

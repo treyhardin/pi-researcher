@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # Arleigh Burke-class Destroyer (DDG 51)
 
 ## Summary

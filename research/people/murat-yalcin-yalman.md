@@ -1,3 +1,9 @@
+---
+type: person
+tags: [witness, turkey, kumburgaz, uap_footage]
+related_cases: [[cases/kumburgaz-ufo]]
+related_entities: [[places/yeni-kent-facility]]
+---
 # Murat Yalcin Yalman
 
 ## Summary
@@ -14,8 +20,8 @@ Murat Yalcin Yalman worked the night shift near the Yeni Kent facility in the co
 - **Quantity of Footage:** Over 25 separate videos.
 
 ## Related Research
-- [Yeni Kent Facility](research/organizations/yeni-kent-facility.md)
-- [Sea of Marmara](research/cases/kumburgaz-ufo.md)
+- [[places/yeni-kent-facility]]
+- [[cases/kumburgaz-ufo]]
 
 ## Sources
 - [Kumburgaz, Turkey UFO Sightings | The UFO Database](https://theufodatabase.com/incidents/kumburgaz-turkey-ufo-sightings)

@@ -1,44 +1,42 @@
-# Summary of Theories Research
+---
+type: MOC
+domain: theories
+description: A map of content for research into the physical, biological, and cosmological theories explaining the phenomenon.
+---
 
-This directory contains research into various physical, biological, and cosmological theories that attempt to explain the nature and mechanism of Unidentified Anomalous Phenomena (UAP).
+# Theories Map of Content (MOC)
 
-## Research Entries
+This MOC serves as a central hub for researching the various scientific, philosophical, and speculative theories that attempt to explain the nature, origin, and mechanism of Unidentified Anomalous Phenomena (UAP) and Non-Human Intelligence (NHI). It categorizes theories into cosmological, physical, and biological/consciousness-based frameworks.
 
-### [Advanced Propulsion Physics](advanced-propulsion-physics.md)
-Research into advanced propulsion explores the transition from chemical rockets to high-efficiency systems like Nuclear Thermal and Electric Propulsion, as well as speculative "breakthrough" concepts like Q-thrusters and space-time manipulation (warp drives) which aim to utilize the quantum vacuum or zero-point energy.
+## 🌌 Cosmological & Probabilistic Theories
+Investigating the large-scale implications of the presence of advanced intelligence in the universe.
+- [[theories/fermi-paradox]]
+- [[theories/the-great-filter]]
+- [[theories/the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis]]
 
-### [Alcubierre Drive Metric Engineering](alcubierre-drive-metric-engineering.md)
-Research into the theoretical warp drive metric and its practical/physical implications.
+## ⚛️ Physical & Propulsion-Based Theories
+Exploring advanced physics, space-time manipulation, and the mechanics of anomalous flight.
+- [[theories/advanced-propulsion-physics]]
+- [[theories/alcubierre-drive-metric-engineering]]
+- [[theories/frequency-wave-theory]]
+- [[theories/topological-geometrodynamics]]
+- [[technologies/advanced-propulsion-convergence-plasma-bio-electronic]]
 
-### [Biological-Technological Convergence](biological-technological-convergence.md)
-Exploring how biological systems and advanced technology might merge or influence each other.
+## 🧬 Biological, Consciousness, & Interdimensional Hypotheses
+Exploring the intersection of consciousness, biology, and other dimensions or realms of existence.
+- [[theories/interdimensional-hypothesis]]
+- [[theories/the-ultraterrestrial-hypothesis]]
+- [[theories/biological-technological-convergence]]
+- [[theories/non-local-consciousness]]
+- [[theory-of-psychic-implications]]
+- [[theories/morphogenesis]]
 
-### [Fermi Paradox](fermi-paradox.md)
-Investigation into the contradiction between the high probability of extraterrestrial life and the lack of evidence for it.
+## 📊 Classification & Frameworks
+Standardized systems for identifying and categorizing phenomena and encounters.
+- [[theories/hynek-classification-system]]
 
-### [Frequency Wave Theory](frequency-wave-theory.md)
-Research into the potential for waveform-based communication or detection.
-
-### [Hynek Classification System](hynek-classification-im-system.md)
-Research into the astronomical/UFO classification system developed by J. Allen Hynek.
-
-### [Interdimensional Hypothesis](interdimensional-hypothesis.md)
-Exploring the idea that UAP originate from other dimensions or parallel realities.
-
-### [Morphogenesis](morphogenesis.md)
-The study of how biological organisms develop and their potential connection to anomalous engineering or structures.
-
-### [Non-local Consciousness](non-local-consciousness.md)
-Investigation into the role of consciousness, quantum non-locality, and its possible connection to UAP/NHI.
-
-### [Theory of Psychic Quanta](theory-of-psychic-quanta.md)
-Exploring the intersection of consciousness and physical reality.
-
-### [The Great Filter](the-great-filter.md)
-An analysis of the cosmological hurdles that might prevent civilizations from becoming interstellar.
-
-### [The Interdimensional Hypothesis vs. Extraterrestrial Hypothesis](the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis.md)
-A comparative study of the two primary competing hypotheses for the origin of UAP.
-
-### [The Ultraterrestrial Hypothesis](the-ultraterrestrial-hypothesis.md)
-Research into the idea of entities residing in our world but in a different, often less perceptible, manner.
+## 🔗 Related Domains
+- [[cases/summary]]
+- [[physics/summary]]
+- [[technologies/summary]]
+- [[entities/summary]]

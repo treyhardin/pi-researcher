@@ -27,8 +27,8 @@ The ranch has a long history of reported anomalous activity, much of which has b
 - **Poltergeist Activity**: A recurring and significant phenomenon reported at the ranch.
 
 ## Related Research
-- [Hal Puthoff (people)](../people/hal-puthoff.md)
-- [Robert Bigelow (people)](../people/robert-bigelow.md) (if exists)
+- [[people/hal-puthoff]]
+- [[robert-bigelow]] (if exists)
 
 ## Sources
 - [Skinwalker Ranch - Official Site/Information](https://example.com) (Placeholder)

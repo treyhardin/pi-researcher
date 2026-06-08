@@ -1,7 +1,14 @@
+---
+type: case
+tags: [uap, naval, 2004, nimitz, uss-princeton, aegis, avs]
+related_people: [[david-fravor], [alex-dietrich]]
+related_cases: [[cases/nimitz-encounter]]
+related_technologies: [[technologies/aegis-combat-system]]
+---
 # USS Princeton (CG-59)
 
 ## Summary
-The USS Princeton (CG-5  5) is a Ticonderoga-class guided-missile cruiser of the United States Navy. It is primarily known in the context of UAP research for its role in the 2004 Nimitz Carrier Strike Group encounters, where its Aegis radar systems detected multiple Anomalous Aerial Vehicles (AAVs) exhibiting extreme maneuvering capabilities. Additionally, the vessel is noted for sustaining significant damage after striking a mine during the 1991 Gulf War.
+The USS Princeton (CG-59) is a Ticonderoga-class guided-missile cruiser of the United States Navy. It is primarily known in the context of UAP research for its role in the 2004 Nimitz Carrier Strike Group encounters, where its Aegis radar systems detected multiple Anomalous Aerial Vehicles (AAVs) exhibiting extreme maneuvering capabilities. Additionally, the vessel is noted for sustaining significant damage after striking a mine during the 1991 Gulf War.
 
 ## Detailed Findings
 
@@ -26,13 +33,13 @@ The USS Princeton played a significant role during Operation Desert Storm.
 - **1991 Mine Strike:** A significant historical event involving the vessel during the Gulf War.
 
 ## Related Research
-- [USS Nimitz (CVN-68)](uss-nimitz.md) (If exists)
-- [Tic Tac UCAV/UAP](tic-tac-uap.md) (If exists)
-- [Aegis Combat System](../technologies/aegis-combat-system.md) (If exists)
+- [[cases/nimitz-encounter]]
+- [[cases/tic-tac-ucav-uap]]
+- [[technologies/aegis-combat-system]]
 
 ## Sources
 - [Executive Summary - The Black Vault](https://theblackvault.com/casefiles/wp-content/uploads/2018/01/tictac.pdf)
-- [USS Princeton CG-59 - Radar Tracking of Nimitz Tic-Tac - Now Declassified](https://www.nowdeclassified.com/incidents/uss-princeton-tictac-2004)
+- [USS Princeton CG-59 - Radar Tracking of Nimitz Tic-Tac - Now Deintlassed](https://www.nowdeclassified.com/incidents/uss-princeton-tictac-2004)
 - [The Truth About the Navy's Nimitz Encounter - Popular Mechanics](https://www.popularmechanics.com/military/research/a63549222/navy-ufo-witnesses-nimitz-encounter/)
 - [Princeton Leaves the War - USNI Proceedings](https://www.usni.org/magazines/proceedings/1991/july/princeton-leaves-war)
-- [UFO Report - NICAP](http://www.nicap.org/20041114USS_Nimitz_dir.htm)
+- [UFO Report - NICAP](httphttp://www.nicap.org/20041114USS_Nimitz_dir.htm)

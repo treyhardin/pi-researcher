@@ -1,3 +1,9 @@
+---
+type: person
+tags: [whistleblower, usaf, uap_encounter, uap_programs]
+related_cases: []
+related_entities: [[people/david-grusch]]
+---
 # Jason Sands
 
 ## Summary
@@ -12,7 +18,7 @@ Jason Sands is a retired U.S. Air Force Master Sergeant and whistleblower who ha
 
 ## Key Entities/Facts
 * **Affiliations:** U.S. Air Force (Retired), The Firsthand Fund.
-* **Related Personnel:** [David Grusch](david-grusch.md) (Sands has reportedly discussed his experiences with Grusch).
+* **Related Personnel:** [[people/david-grusch]] (Sands has reportedly discussed his experiences with Grusch).
 * **Key Events:** Alleged encounter at a crash site involving a "blue" entity; involvement in a 20-year black budget program.
 
 ## Sources

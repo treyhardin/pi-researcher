@@ -22,5 +22,5 @@ Morphogenesis is the biological process that causes an organism to develop its s
 - **Biomimetic Technology:** Analyzing UAP flight characteristics for evidence of "organic" or morphogenetic-inspired maneuvers that defy traditional aerodynamic models.
 
 ## Related Research Topics
-- [Morphogenetic Fields](research/theories/morphogenetic_fields.md)
-- [Biomimetic Advanced Technology](research/technologies/biomimetic_tech.md)
+- [[morphogenetic_fields]]
+- [[biomimetic_tech]]

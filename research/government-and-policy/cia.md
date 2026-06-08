@@ -1,3 +1,9 @@
+---
+type: organization
+tags: [intelligence, disclosure, us_government, cia]
+related_cases: []
+related_entities: [[aaro], [nsa]]
+---
 # CIA
 
 ## Summary
@@ -9,7 +15,7 @@ The CIA's interest in UFOs spans decades, with documented efforts to analyze the
 ### Historical Context and Investigations
 - **Post-WWII Era**: Following the wave of sightings in 1947, the CIA began evaluating the phenomenon. A study group was formed within the Office of Scientific Intelligence (OSI) and the Office of Current Intelligence (OCI) to review sightings, with officials like Edward Tauss reporting that most could be explained, yet recommending continued monitoring.
 - **1993 Review**: DCI R. James Woolsey ordered a comprehensive review of all Agency files on UFOs in 1993, following pressure from UFO enthusiasts and investigators. This review traced the Agency's involvement from the late 1940s through 1990.
-- **AARO Involvement**: The All-domain Anomaly Resolution Office (AARO) has reviewed the historical record of USG efforts, including those by the CIA, as part of its mission to investigate UAP.
+- **AARO Involvement**: The All-domain Anomaly Resolution Office (AARO) has reviewed the historical record of USG efforts, including those by the CIA, as a part of its mission to investigate UAP.
 
 ### Allegations of Cover-up and Obstruction
 - **Testimony of James Erdman III**: In May 2024, former CIA operations officer James Erdman III testified before the Senate Homeland Security Committee, alleging that the CIA obstructed federal investigations into UFOs, illegally monitored personnel, and withheld critical documents from public release.
@@ -22,13 +28,17 @@ The CIA's interest in UFOs spans decades, with documented efforts to analyze the
 - **R. James Woolsey**: Director of Central Intelligence (DCI) who ordered the 1993 review of UFO files.
 - **Edward Tauss**: Official within the CIA's Weapons and Equipment Division involved in early UFO investigations.
 - **James Erdman III**: Former CIA operations officer who testified regarding UAP-related misconduct and obstruction.
-- **AARO (All-domain Anomaly Resolution Office)**: The current US government body responsible for investigating UAP, reviewing historical CIA/DoD records.
+- **[[organizations/aaro|AARO (All-domain Anomaly Resolution Office)]]**: The current US government body responsible for investigating UAP, reviewing historical CIA/DoD records.
 - **OSI (Office of Scientific Intelligence)**: CIA office involved in early UFO scientific assessments.
 - **OCI (Office of Current Intelligence)**: CIA office involved in monitoring UFO reports.
 
 ## Related Research
-- [AARO](../organizations/aaro.md)
-- [Project Stargate](research/us-gov/project-stargate.md) (if exists)
+### Organizations
+- [[organizations/aaro|AAR0]]
+- [[government-and-policy/nsa|NSA]]
+
+### Programs/Projects
+- [[government-and-policy/project-stargate|Project Stargate]]
 
 ## Sources
 - [CIA's Role in the Study of UFOs, 1947-90](https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf)

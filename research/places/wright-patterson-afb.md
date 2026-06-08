@@ -25,7 +25,7 @@ WPAFB is central to one of the most enduring myths in Ufology: the existence of 
 Beyond UFO lore, WPAFB is a major military installation essential to Air Force logistics, research, and intelligence. Its role in aeronautics technology and its involvement in early Cold War-era intelligence gathering contributed to its reputation as a site of significant, and potentially secretive, importance.
 
 ## Related Topics
-- [Project Blue Book](../programs/project-blue-book.md)
-- [Project Sign](../programs/project-sign.md)
-- [J. Allen Hynek](../people/hynek_j_allen.md)
-- [NICAP](../organizations/nicap.md)
+- [[programs/project-blue-book]]
+- [[programs/project-sign]]
+- [[people/j-allen-hynek]]
+- [[organizations/nicap]]

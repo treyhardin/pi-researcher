@@ -1,3 +1,8 @@
+---
+type: technology
+tags: []
+---
+
 # NDAA Biological Evidence
 
 ## Summary
@@ -25,7 +30,7 @@ The 2024 and 2025 NDAA cycles have been instrumental in bringing these topics in
 - **Key Senators:** Chuck Schumer, Mike Rounds, Kirsten Gillibrand, Marco Rubio.
 
 ## Related Research
-- [Advanced Aerospace Intelligence Integration](../organizations/advanced-aerospace-intelligence-integration.md) - The intersection of intelligence and advanced technology development.
+- [[organizations/advanced-aerospace-intelligence-integration]] - The intersection of intelligence and advanced technology development.
 
 ## Sources
 - [S.Amdt.797 to S.2226 - 118th Congress (2023-2024) | Congress.gov](https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text)

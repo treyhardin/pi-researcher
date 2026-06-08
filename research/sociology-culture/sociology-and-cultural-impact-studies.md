@@ -21,7 +21,7 @@ This research explores the complex sociological and cultural implications of Uni
 *   **Mediatization:** The influence of media processes on the formation of social reality regarding UAP.
 
 ## Related Research
-*   [The Role of Technological-Cultural Mediums in UAP Perception](../the-role-of-technological-cultural-mediums-in-uap-perception.md)
+*   [[sociology-culture/the-role-of-technological-cultural-mediums-in-uap-perception]]
 
 ## Sources
 *   [Evolution, Apocalypse, and Flying Saucers - World Futures](https://www.tandfonline.com/doi/abs/10.1080/02604027.2025.2592185)

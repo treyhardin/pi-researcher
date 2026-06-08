@@ -1,3 +1,10 @@
+---
+type: book
+tags: [1-enoch, mythology, nephilim, watchers, ancient-texts, apocalypse]
+related_technologies: []
+related_entities: [[entities/annunaki]]
+related_biology: [[biology/biological-psychological-impacts-nhi]]
+---
 # The Book of Enoch (1 Enoch)
 
 ## Summary

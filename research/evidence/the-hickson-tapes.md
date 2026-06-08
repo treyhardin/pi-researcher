@@ -1,4 +1,11 @@
+---
+type: evidence
+tags: [hickson-tapes, audio-evidence, abduction-recorded, 1973-encounter]
+related_people: [[charles-hickson], [calvin-parker]]
+related_cases: [[cases/pascagoula-incident]]
+---
 # The Hickson Tapes
+
 
 ## Summary
 An audio recording of the distressed statements made by Charles Hickson and Calvin Parker following the 1973 Pascagula UFO incident.
@@ -20,7 +27,7 @@ The incident gained significant media attention, involving prominent UFO researc
 - **Date**: October 11, 1973.
 
 ## Related Research
-- [Pascagoula Incident](../cases/pascagoula-incident.md)
+- [[cases/pascagoula-incident]]
 
 ## Sources
 - [The Hickson Tapes - The Pascagoula Incident (NICAP)](https://nicap.org/reports/7310_pascagoula_hicksontape.htm)

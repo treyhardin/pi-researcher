@@ -1,4 +1,11 @@
+---
+type: mythology
+tags: [hangar-18, conspiracy-theory, wppa-base, rock-lore]
+related_cases: [[cases/the-roswell-incident-1947]]
+related_programs: [[programs/project-blue-book]]
+---
 # The Hangar 18 Legend
+
 
 ## Summary
 The Hangar 18 legend is a prominent UFO conspiracy theory alleging that a secret facility within Wright-Patterson Air Force Base (WPAFB) in Ohio houses extraterrestrial spacecraft debris, alien bodies, and other evidence recovered from unidentified flying object (UFO) crashes, most notably the 1947 Roswell incident. Although the legend has become a cornerstone of UFO lore and pop culture, the U.S. Air Force has denied the existence of a hangar used for such purposes.
@@ -31,9 +38,8 @@ The U.S. Air Force has repeatedly stated that no such "Hangar 18" exists for the
 - **Roswell Incident (1947):** The primary event from which the alleged debris and bodies were supposedly recovered and transported.
 
 ## Related Research
-- [[roswell-incident]] (if available)
-- [[project-blue-book]] (if available)
-- [[area-51]] (if available)
+- [[cases/the-roswell-incident-1947]]
+- [[programs/project-blue-book]]
 
 ## Sources
 - [Hangar 18 (conspiracy theory) - Wikipedia](https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29)
