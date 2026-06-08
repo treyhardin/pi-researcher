@@ -17,3 +17,5 @@ This document tracks the transformation of the research folder from a hierarchic
 - [x] Research "The Role of Private Aerospace Companies in UAP Retention" as a study of information/technology containment.
 - [x] Research "Transmedium Phenomena and Aquatic-to-Aerial Transitions" to understand anomalous medium-transitioning capabilities.
 - [x] Investigate "Unexplained Sensor Data Anomalies in Satellite Constellations" to examine potential UAP-related signal or tracking interference.
+- [x] Research "The Battle of Los Angeles (1942)" to understand its historical significance in UAP sightings.
+- [ ] Research "The Arecibo Message & SETI Communications" and its connection to crop circle formations.
