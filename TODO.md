@@ -13,7 +13,7 @@ This document tracks the transformation of the research folder from a hierarchic
 - [x] Research "Quantum Radar and Low-Observable Detection Vulnerabilities" to understand the future of UAP detection capabilities.
 - [x] Investigate "Autonomous Drone Swarms as UAP Proxies" to differentiate between adversarial UAS and true UAP.
 - [x] Research "Vulnerabilities of Remote ID and RF-based Identification to Adversarial Spoofing"
-- [ ] Develop "Interstellar Legal Frameworks and Sovereignty" to explore the jurisdictional implications of NHI contact.
-- [ ] Research "The Role of Private Aerospace Companies in UAP Retention" as a study of information/technology containment.
-- [ ] Research "Transmedium Phenomena and Aquatic-to-Aerial Transitions" to understand anomalous medium-transitioning capabilities.
+- [x] Develop "Interstellar Legal Frameworks and Sovereignty" to explore the jurisdictional implications of NHI contact.
+- [x] Research "The Role of Private Aerospace Companies in UAP Retention" as a study of information/technology containment.
+- [x] Research "Transmedium Phenomena and Aquatic-to-Aerial Transitions" to understand anomalous medium-transitioning capabilities.
 - [ ] Investigate "Unexplained Sensor Data Anomalies in Satellite Constellations" to examine potential UAP-related signal or tracking interference.
