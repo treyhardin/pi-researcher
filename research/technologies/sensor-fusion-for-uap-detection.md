@@ -35,6 +35,7 @@ A central challenge in UAP research is the verification of data. Modern sensor f
 ## Related Research
 - [[technologies/advanced-carbon-based-materiality]] (Potential relevance to sensor interaction)
 - [[technologies/electrohydrodynamics]] (Potential propulsion mechanism detectable via sensors)
+- [[technologies/satellite-constellation-anomalies]]
 
 ## Connection to Emerging Research
 - **Integrated Multi-Domain Detection Architectures:** This technology is the primary architectural foundation for the new research initiative investigating unified RF/EO/IR/Acoustic fusion to counteract transmedium and stealth-enabled UAPs.
