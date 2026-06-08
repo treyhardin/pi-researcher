@@ -6,7 +6,7 @@ This document tracks the transformation of the research folder from a hierarchic
 
 - [x] Perform a structured deep-dive/synthesis into "Plasma-Based Life" theories, integrating findings from plasma physics and biological signatures.
 - [ ] Formalize "Propulsion & Advanced Physics" in the physics domain: Integrate theoretical propulsion research (e.g., Electrogravitics, Vacuum Energy) into the physics MOC to bridge theory and technology.
-- [ ] Research and document "Xenobiology: Extremophiles and Non-Carbon-Based Life" to expand the scope of            potential biological signatures.
+- [x] Research and document "Xenobiology: Extremophiles and Non-Carbon-Based Life" to expand the scope of            potential biological signatures.
 - [ ] Investigate "Biological-Interface Technologies and Neural Links" as a critical intersection between biological evolution and advanced technology.
 - [ ] Research "Spacetime Metric Engineering and Warp Theory" to examine the physics of high-speed/non-Newtonian propulsion.
 - [ ] Research "Torsion Fields and Vacuum Fluctuations" to explore anomalous energy sources and propulsion mechanisms.
