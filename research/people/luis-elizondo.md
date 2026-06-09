@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [whistleblower, army, aatip, aa_wasp]
-related_cases: []
-related_entities: [[programs/aatip]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Luis Elizondo
 ---
-# Luis Elizondo
+
+---title: luis elizondo
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- aa_wasp
+- aatip
+- army
+- whistleblower
+summary: ''
+---# Luis Elizondo
 
 ## Summary
 Luis Elizondo (often known as "Lue" Elizondo) is a prominent American author, media personality, and UAP whistleblower. A former U.S. Army counterintelligence officer, he is widely recognized for his role in bringing public attention to Unidentified Anomalous Phenomena (UAP) and his involvement in various Department of Defense (DoD) programs related to UAP investigation.

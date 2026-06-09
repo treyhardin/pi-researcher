@@ -1,11 +1,28 @@
 ---
-type: book
-tags: [1-enoch, mythology, nephilim, watchers, ancient-texts, apocalypse]
-related_technologies: []
-related_entities: [[entities/annunaki]]
-related_biology: [[biology/biological-psychological-impacts-nhi]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Book Of Enoch
 ---
-# The Book of Enoch (1 Enoch)
+
+---title: book of enoch
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- book
+tags:
+- 1-enoch
+- ancient-texts
+- apocalypse
+- mythology
+- nephilim
+- watchers
+summary: ''
+---# The Book of Enoch (1 Enoch)
 
 ## Summary
 The Book of 1 Enoch is an ancient Jewish apocalyptic text, likely composed in several stages between the 3rd and 1st centuries BCE. It is a foundational work for understanding Second Temple Jewish eschatology, angelology, and the origins of the "Watchers" and "Nephilim" narratives. While not part of the standard Hebrew Bible or the Christian New Testament (except for the Ethiopian Orthodox canon), its influence is profound, particularly in its detailed descriptions of celestial hierarchies and the consequences of divine and non-human interference with humanity.

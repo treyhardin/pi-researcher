@@ -1,10 +1,27 @@
 ---
-type: case
-tags: [uap, turkey, kumburgaz, footage]
-related_people: [[people/murat-yalcin-yalman]]
-related_organizations: [[places/yeni-kent-facility]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Kumburgaz Ufo
 ---
-# Kumburgaz UFO
+
+---title: kumburgaz ufo
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '[''people/murat-yalcin-yalman'']'
+- footage
+- kumburgaz
+- turkey
+- uap
+summary: ''
+---# Kumburgaz UFO
 
 ## Summary
 The Kumburgaz UFO phenomenon refers to a series of unidentified aerial phenomena (UAP) filmed between 2007 and 2009 off the coast of Kumburgaz, Turkey, in the Sea of Marmara. The footage was captured by [[people/murat-yalcin-yalman|Murat Yalcin Yalman]], a night security guard. The objects appeared as metallic, disc-shaped or oval-shaped craft, sometimes accompanied by red and orange lights.

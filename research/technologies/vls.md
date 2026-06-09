@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Vls
 ---
 
-# Vertical Launch System (VLS)
+---title: vls
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Vertical Launch System (VLS)
 
 ## Summary
 The Vertical Launching System (VLS), most notably the **Mk 41 VLS**, is a highly advanced, modular, and combat-proven missile launching system used primarily by the U.S. Navy and its allies. It consists of multiple cells installed below the ship's deck, each housing a missile canister. The system replaced older, single-purpose launchers (like the Mk 26) with a much more flexible and powerful architecture, capable of launching a variety of missiles including Standard Missile (SM) variants, Tomahawk cruise missiles, and anti-submarine rockets.

@@ -1,11 +1,28 @@
 ---
-type: case
-tags: [uap, orange-orb, 2025, swarm, formation, intelligence-witness]
-related_cases: [[cases/uss-princeton]]
-related_technologies: []
-related_people: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: The Orange Orb Encounter 2025
 ---
-# The Orange Orb Encounter (2025)
+
+---title: the orange orb encounter 2025
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '2025'
+- formation
+- intelligence-witness
+- orange-orb
+- swarm
+- uap
+summary: ''
+---# The Orange Orb Encounter (2025)
 
 ## Summary
 In late 2025, a senior U.S. intelligence officer, accompanied by two pilots, witnessed a series of extraordinary Unidentified Aerial Phenomena (UAP) encounters over a mountain test range. These encounters involved multiple orange, oval-shaped or fundamental orbs exhibiting highly anomalous flight characteristics, including splitting into multiple objects, forming complex geometric formations (T-shape, triangle), and "chasing" fighter jets.

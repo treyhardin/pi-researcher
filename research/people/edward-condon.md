@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [physicist, quantum_mechanics, condon_committee, nuclear_physics]
-related_cases: []
-related_entities: [[project-blue-book|Project Blue Book], [university-colorado-ufo-project|University of Colorado UFO Project]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Edward Condon
 ---
-# Edward Condon
+
+---title: edward condon
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- condon_committee
+- nuclear_physics
+- physicist
+- quantum_mechanics
+summary: ''
+---# Edward Condon
 
 ## Overview
 Edward Uhler Condon (1902–1974) was a distinguished American nuclear physicist, a pioneer in quantum mechanics, and the director of the University of Colorado UFO Project, commonly known as the Condon Committee.

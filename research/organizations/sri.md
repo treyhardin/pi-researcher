@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: sri
+---
+
 # Stanford Research Institute (SRI)
 
 Stanford Research Institute (SRI), now SRI International, is a research institute that focuses on the development of advanced scientific and technological solutions.

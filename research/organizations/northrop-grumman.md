@@ -1,4 +1,21 @@
-# Northrop Grumman
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Northrop Grumman
+---
+
+---title: northrop grumman
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Northrop Grumman
 
 ## Summary
 Northrop Grumman is a premier global aerospace and defense technology company. It is a major contractor for the United States Department of Defense (DoD) and various intelligence agencies, specializing in advanced technology development, space systems, mission systems, and aeronautics. The company is a key player in the development of next-generation stealth aircraft, satellite systems, and advanced electronic warfare capabilities.

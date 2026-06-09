@@ -1,11 +1,29 @@
 ---
-type: case
-tags: [uap, biologics, nhis, david-grusch, ndaa, whistleblower]
-related_people: [[people/david-grusch]]
-related_cases: []
-related_technologies: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Recovered Biologics
 ---
-# Recovered Biologics
+
+---title: recovered biologics
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '[''people/david-grusch'']'
+- biologics
+- david-grusch
+- ndaa
+- nhis
+- uap
+- whistleblower
+summary: ''
+---# Recovered Biologics
 
 ## Summary
 This report investigates claims and legislative actions regarding the recovery of "non-human biologics" or biological evidence of non-human intelligence (NHI) from Unidentified Anomalous Phenomena (UAP) crash sites. The primary driver for this topic is the highly publicized testimony of former intelligence official David Grusch, who alleged that the United States government possesses biological remains from non-human sources.

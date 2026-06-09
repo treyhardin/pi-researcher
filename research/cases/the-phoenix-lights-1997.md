@@ -1,11 +1,28 @@
 ---
-type: case
-tags: [uap, phoenix-lights, 1997, mass-sighting, arizona]
-related_cases: []
-related_technologies: []
-related_people: [[fife-symington]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: The Phoenix Lights 1997
 ---
-# The Phoenix Lights (1997)
+
+---title: the phoenix lights 1997
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '1997'
+- '[''fife-symington'']'
+- arizona
+- mass-sighting
+- phoenix-lights
+- uap
+summary: ''
+---# The Phoenix Lights (1997)
 
 ## Summary
 The "Phoenix Lights" refers to a massive, highly documented mass sighting of Unidentified Aerial Phenomena (UAP) that occurred over Arizona, Nevada, and Mexico on the night of March 13, 1997. The event is characterized by two distinct phases: a large, silent, V-shaped craft moving across the sky, and a second event involving a row of bright, hovering lights. The scale of the sighting, involving an estimated 5,000 to 10,000 witnesses, makes it one of the most significant mass UAP encounters in history.

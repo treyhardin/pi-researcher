@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: RESEARCH GUIDELINES
+---
+
 # Research Operations Guidelines
 
 These guidelines are designed to ensure the integrity, accessibility, and reliability of all research findings and documentation within the Phenomenon Project.
@@ -24,6 +34,26 @@ To maintain a high standard of evidence-backed research where all cited sources 
 ### 3. Documentation Standards
 - All new research files must follow the established structure: `Summary`, `Detailed Findings`, `Key Entities/Facts`, and `Sources`.
 - The `Sources` section must be clearly demarcated and use standard Markdown link syntax.
+
+#### Frontmatter Schema
+All research files MUST follow a standardized YAML frontmatter structure to ensure consistency and compatibility with automated parsing/indexing tools.
+
+```yaml
+---
+title: <string>               # Descriptive title of the document (kebab-case or clean text)
+date: <YYYY-MM-DD>           # Date of research completion or last major update
+status: <draft|review|published> # Current stage of the research piece
+source: <string|null>        # Primary source URL or name, use null if unknown/not applicable
+categories: [<list>]         # High-level taxonomical categories (e.g., 'people', 'technology')
+tags: [<list>]               # Granular, kebab-case tags for fine-grained search
+summary: <string>            # A brief one or two sentence overview of the document's 
+---
+```
+
+**Schema Implementation Notes:**
+- **Atomicity**: Every file must have exactly ONE YAML frontmatter block at the very top of the file.
+- **No Duplication**: Do not append new blocks; update existing ones.
+- **Null values**: Use `null` for empty string/unknown fields where appropriate (especially `source`).
 
 ### 4. Continuous Audit
 - Periodically run the `validate_links.py` script to identify and remediate any newly introduced broken links.

@@ -1,10 +1,26 @@
 ---
-type: evidence
-tags: [electronic-warfare, sensor-spoofing, nemesis-system, uap-detection]
-related_technologies: [arleigh-burke, aegis-combat-system, radar-data-research]
-related_biology: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Electronic Warfare Vs Uap
 ---
-# Electronic Warfare (EW) vs. UAP
+
+---title: electronic warfare vs uap
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- evidence
+tags:
+- electronic-warfare
+- nemesis-system
+- sensor-spoofing
+- uap-detection
+summary: ''
+---# Electronic Warfare (EW) vs. UAP
 
 
 ## Summary

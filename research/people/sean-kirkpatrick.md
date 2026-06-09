@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [physicist, aaro, uap_investigation]
-related_cases: []
-related_entities: [[aaro], [david-grusch]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Sean Kirkpatrick
 ---
-# Sean Kirkpatrick
+
+---title: sean kirkpatrick
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- aaro
+- physicist
+- uap_investigation
+summary: ''
+---# Sean Kirkpatrick
 
 ## Overview
 Sean Michael Kirkpatrick is an American laser and materials physicist who served as the first director of the United States Department of Defense's All-domain Anomaly Resolution Office (AARO).

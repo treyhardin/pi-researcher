@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [whistleblower, disclosure, noaa, uap_transparency]
-related_cases: []
-related_entities: [[organizations/aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Tim Gallaudet
 ---
-# Dr. Tim Gallaudet
+
+---title: tim gallaudet
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- disclosure
+- noaa
+- uap_transparency
+- whistleblower
+summary: ''
+---# Dr. Tim Gallaudet
 
 ## Summary
 Dr. Tim Gallault is a Retired U.S. Navy Rear Admiral and former official at the National Oceanic and Atmospheric Administration (NOAA) who has become a prominent figure in the movement for UAP (Unidentified Aerial Phenomena) transparency. In November 2024, he provided critical testimony to Congress, acting as a whistleblower to expose alleged government non-disclosure and disinformation campaigns regarding UAP phenomena.

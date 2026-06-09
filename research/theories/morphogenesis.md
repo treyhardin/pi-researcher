@@ -1,4 +1,27 @@
-# Morphogenesis
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Morphogenesis
+---
+
+---title: morphogenesis
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- theory
+tags:
+- biology
+- biomimetic-tech
+- morphic-resonance
+- morphogenesis
+- pattern-formation
+summary: ''
+---# Morphogenesis
 
 ## Overview
 Morphogenesis is the biological process that causes an organism to develop its shape. It is a complex orchestration of cell division, cell migration, cell differentiation, and apoptosis (programmed cell death) that leads to the formation of complex biological structures.
@@ -22,5 +45,5 @@ Morphogenesis is the biological process that causes an organism to develop its s
 - **Biomimetic Technology:** Analyzing UAP flight characteristics for evidence of "organic" or morphogenetic-inspired maneuvers that defy traditional aerodynamic models.
 
 ## Related Research Topics
-- [[morphogenetic_fields]]
-- [[biomimetic_tech]]
+- [[theories/morphogenetic_fields]]
+- [[technologies/biomimetic_tech]]

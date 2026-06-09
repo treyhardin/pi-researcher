@@ -1,11 +1,29 @@
 ---
-type: case
-tags: [uap, roswell, 1                7, extraterrestrial, conspiracy, project-mogul]
-related_cases: []
-related_technologies: []
-related_people: [[maj-jesse-a-marcel]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: The Roswell Incident 1947
 ---
-# The Roswell Incident (1947)
+
+---title: the roswell incident 1947
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- 1                7
+- '[''maj-jesse-a-marcel'']'
+- conspiracy
+- extraterrestrial
+- project-mogul
+- roswell
+- uap
+summary: ''
+---# The Roswell Incident (1947)
 
 ## Summary
 The Roswell incident refers to the recovery of unidentified debris near Roswell, New Mexico, in July 1947. While initially reported by the U.S. Army Air Forces as the recovery of a "flying disc," it later became the foundational event for modern UFO conspiracy theories, with claims ranging from the crash of an extraterrestrial spacecraft to the recovery of alien bodies. The U.S. military eventually clarified that the debris was part of a top-secret project involving high-altitude balloons.

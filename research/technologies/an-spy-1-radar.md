@@ -1,8 +1,25 @@
 ---
-type: technology
-tags: [radar, aegis, naval]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: An Spy 1 Radar
 ---
-# AN/SPY-1 Radar
+
+---title: an spy 1 radar
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags:
+- aegis
+- naval
+- radar
+summary: ''
+---# AN/SPY-1 Radar
 
 ## Summary
 The AN/SPY-1 is a multi-function, phased-array, 3D air search radar that serves as the primary radar for the Aegis Combat System. It is a key component of the Aegis Weapon System used on Ticonderoga-class cruisers and Arleigh Burke-class destroyers, as well as Aegis Ashore sites. The radar is capable of simultaneous search, track, and missile guidance functions for over 100 targets.

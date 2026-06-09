@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Rq 170 Sentinel
 ---
 
-# RQ-170 Sentinel (Stealth UAS)
+---title: rq 170 sentinel
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# RQ-170 Sentinel (Stealth UAS)
 
 ## Overview
 The RQ-170 Sentinel is a highly classified, low-observable (stealth) unmanned aerial system (UAS) developed by Lockheed Martin’s Skunk Works division for the United States Air Force (USAF). It is designed to provide Intelligence, Surveillance, and Reconnaissance (ISR) capabilities within highly contested and denied airspaces.

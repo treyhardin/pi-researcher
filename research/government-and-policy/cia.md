@@ -1,10 +1,26 @@
 ---
-type: organization
-tags: [intelligence, disclosure, us_government, cia]
-related_cases: []
-related_entities: [[aaro], [nsa]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Cia
 ---
-# CIA
+
+---title: cia
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- organization
+tags:
+- cia
+- disclosure
+- intelligence
+- us_government
+summary: ''
+---# CIA
 
 ## Summary
 The Central Intelligence Agency (CIA) has played a significant role in the investigation and monitoring of Unidentified Anomalous Phenomena (UAP), formerly known as UFOs, since the late 1940s. While official records show efforts to study the phenomenon, there are significant allegations of obstruction of justice and concealment regarding UAP-related investigations.

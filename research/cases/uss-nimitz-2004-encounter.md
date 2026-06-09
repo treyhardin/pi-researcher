@@ -1,11 +1,30 @@
 ---
-type: case
-tags: [uap, tic-tac, naval_encounter, 2    004]
-related_people: [[david-fravor], [ryan-graves]]
-related_platforms: [[uss-nimitz], [uss-princeton]]
-related_technologies: [[aav], [atflir]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Uss Nimitz 2004 Encounter
 ---
-# USS Nimitz 2004 Encounter
+
+---title: uss nimitz 2004 encounter
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- 2    004
+- '[''david-fravor'']'
+- '[''ryan-graves'']'
+- '[''uss-nimitz'']'
+- '[''uss-princeton'']'
+- naval_encounter
+- tic-tac
+- uap
+summary: ''
+---# USS Nimitz 2004 Encounter
 
 ## Summary
 The USS Nimitz 2004 encounter, often referred to as the "Tic Tac" incident, is one of the most significant and well-documented modern UAP (Unidentified Anomalous Phenomena) cases. In November 2004, the USS Nimitz Carrier Strike Group (CSG) encountered multiple unidentified aerial vehicles (UAVs/AAVs) off the coast of Southern California. The encounter involved radar detections on the USS Princeton and visual/sensor observations by F/A-18F pilots, including Commander David Fravor. The objects exhibited extraordinary flight characteristics, such as rapid altitude changes and high-speed maneuvers, which have since become central to discussions regarding advanced technology and national security.

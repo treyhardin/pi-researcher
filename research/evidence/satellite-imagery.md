@@ -1,10 +1,25 @@
 ---
-type: evidence
-tags: [satellite-imagery, remote-sensing, hyperspectral, space-domain-awareness]
-related_technologies: [[technologies/starlink]]
-related_organizations: [[government-and-policy/nro-research]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Satellite Imagery
 ---
-# Satellite Imagery and UAP Detection
+
+---title: satellite imagery
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- evidence
+tags:
+- remote-sensing
+- satellite-imagery
+- space-domain-awareness
+summary: ''
+---# Satellite Imagery and UAP Detection
 
 
 ## Overview

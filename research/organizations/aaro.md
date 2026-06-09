@@ -1,4 +1,21 @@
-# All-domain Anomaly Resolution Office (AARO)
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Aaro
+---
+
+---title: aaro
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# All-domain Anomaly Resolution Office (AARO)
 
 ## Summary
 The All-domain Anomaly Resolutionized Office (AARO) is the United States government's lead office for addressing Unidentified Anomally Phenomena (UAP). AARO uses a rigorous scientific framework and a data-driven approach to investigate, analyze, and resolve reports of unidentified airborne, transmedium, and submerged objects.

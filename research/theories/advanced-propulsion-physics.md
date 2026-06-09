@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: advanced propulsion physics
+---
+
 # Advanced Propulsion Physics
 
 ## Summary
@@ -40,7 +50,7 @@ Advanced propulsion physics encompasses a wide range of theoretical and experime
 
 ## Related Research
 - [[technologies/propulsion-systems-overview]] <!-- To be created -->
-- [[quantum-vacuum-physics]] <!-- To be created -->
+- [[theories/quantum-vacuum-physics]] <!-- To be created -->
 
 ## Sources
 - [NASA Brief: Q-Thruster Physics](https://ntrs.nasa.gov/api/citations/20140000067/downloads/20140000067.pdf)

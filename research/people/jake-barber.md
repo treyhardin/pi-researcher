@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [whistleblower, usaf, pilot, skywatcher]
-related_cases: []
-related_entities: [[people/ross-coulthart]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Jake Barber
 ---
-# Jake Barber
+
+---title: jake barber
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- pilot
+- skywatcher
+- usaf
+- whistleblower
+summary: ''
+---# Jake Barber
 
 ## Overview
 Jake Barber is a U.S. Air Force veteran and former helicopter pilot who has emerged as a whistleblower regarding Unidentified Aerial Phenomena (UAP) and government retrieval programs.

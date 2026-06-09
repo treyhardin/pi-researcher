@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Starlink
 ---
 
-# Starlink
+---title: starlink
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Starlink
 
 ## Summary
 SpaceX's Starlink satellite constellation is a major contributor to the increase in reported Unidentified Anomalous Phenomena (UAP) sightings. The presence of highly visible, moving lights in the sky—often in "trains" shortly after launch, or as "effective flares" caused by sunlight reflecting off the satellite chassis—frequently leads to misidentifications by both the public and commercial airline pilots. This phenomenon creates significant challenges for UAP identification, aviation safety, and astronomical observations.

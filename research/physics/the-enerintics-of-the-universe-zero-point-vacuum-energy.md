@@ -1,11 +1,23 @@
 ---
-type: research-note
-domain: physics
-subject: zero-point-energy
-description: Exploration of vacuum energy (ZPE) and its implications for propulsion and inertia.
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: The Enerintics Of The Universe Zero Point Vacuum Energy
 ---
 
-# The Enerintics of the Universe (Zero-Point/Vacuum Energy)
+---title: the enerintics of the universe zero point vacuum energy
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- physics
+- research-note
+tags: []
+summary: ''
+---# The Enerintics of the Universe (Zero-Point/Vacuum Energy)
 
 ## Summary
 The universe is permeated by a fundamental background energy known as **vacuum energy** or **zero-point energy (ZPE)**. This energy arises from quantum field fluctuations that persist even at absolute zero temperature. While foundational to modern quantum field theory and explaining phenomena like the Casimir effect and the Lamb shift, it also serves as a theoretical cornerstone for highly advanced—and often controversial—hypotheses regarding propulsion physics and the manipulation of spacetime.

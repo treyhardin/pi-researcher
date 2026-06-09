@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [intelligence, aa_wasp, aatip, uap_task_force]
-related_cases: [[cases/uss-nimitz-2004-encounter]]
-related_entities: [[david-fravor], [luis-elizondo], [aatip]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Jay Stratton
 ---
-# Jay Stratton
+
+---title: jay stratton
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- aa_wasp
+- aatip
+- intelligence
+- uap_task_force
+summary: ''
+---# Jay Stratton
 
 ## Summary
 Jay Stratton is a retired high-ranking U.S. intelligence officer who played a pivotal role in the creation and leadership of three major government programs investigating Unidentified Anomalous Phenomena (UAP/UFOs): AAWSAP, AATIP, and the UAP Task Force (UAPTF). He is known for his engineering background and his leadership in bringing UAP investigations into a structured national security framework.

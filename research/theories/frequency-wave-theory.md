@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: frequency wave theory
+---
+
 # Frequency Wave Theory (FWT)
 
 ## Summary
@@ -32,7 +42,7 @@ The extraction of energy from the vacuum is a potential byproduct of these propu
 - **Quantum Substrate Dynamics (QSD):** A relativistic field model that links mass, gravity, and inertia to fluctuations in a physical substrate.
 
 ## Related Research
-- [[technologies/electrogravitics-plasma-based-propulsion]]] - Explores the application of high-voltage fields in propulsion.
+- [[technologies/electrogravitics]] - Explores the application of high-voltage fields in propulsion.
 - [[theories/alcubierre-drive-metric-engineering]]] - Related to the theoretical frameworks of spacetime warping and metric manipulation.
 
 ## Sources

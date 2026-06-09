@@ -1,12 +1,27 @@
 ---
-type: case
-tags: [uap, tic-tac, naval-encounter, 2004]
-related_people: [[people/david-fravor]]
-related_organizations: [[organizations/aaro]]
-related_technologies: [[technologies/electrogravitics]]
-related_theories: [[theories/advanced-propulsion-convergence]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Tic Tac Ucav Uap
 ---
-# Tic Tac UCAV/UAP (2004 Nimitz Encounter)
+
+---title: tic tac ucav uap
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '2004'
+- '[''people/david-fravor'']'
+- naval-encounter
+- tic-tac
+- uap
+summary: ''
+---# Tic Tac UCAV/UAP (2004 Nimitz Encounter)
 
 ## Summary
 The "Tic Tac" incident refers to a series of Unidentified Anomalous Phenomena (UAP) encounters in November 2004 involving the U.S. Navy's Carrier Strike Group 11, specifically the USS Nimitz and the USS Princeton. The encounter is characterized by the observation of smooth, white, pill-shaped objects (resembling a Tic Tac) exhibiting extreme maneuverability, high speeds, and transmedium capabilities (moving from the ocean to the air) without visible propulsion or control surfaces.

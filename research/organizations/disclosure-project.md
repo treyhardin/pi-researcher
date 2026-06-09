@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: disclosure project
+---
+
 # The Disclosure Project
 
 The **Disclosure Project** is a non-profit organization founded by **Dr. Steven Greer**. Its mission is to promote the disclosure of information regarding Unidentified Aerial Phenomena (UAP), extraterrestrial life, and advanced technologies that have been withheld from the public by various government agencies.

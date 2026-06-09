@@ -1,38 +1,48 @@
-# Research Nexus: The Phenomenon Project
+---
+title: index
+date: '2026-06-08'
+status: draft
+source: null
+categories: []
+tags: []
+summary: Summary pending.
+---
 
-Welcome to the central nervous system of the Phenomenon research repository. This index serves as a high-level Map of Content (MOC), connecting disparate domains of study into a unified knowledge graph.
+# 🌌 Research Syllabus: Unified Knowledge Graph
 
-## 🗺️ Primary Research Domains
+Welcome to the central navigation hub for the **Phenomenon Research Project**. This index serves as the entry point to a networked knowledge graph, organized into interconnected domains of study regarding Unidentified Anomalous Phenomena (UAP) and Non-Human Intelligence (NHI).
 
-### 🛸 Anomalous Phenomena & Observations
-*Focus: Direct encounters, physical traces, and documented sightings.*
-- [[cases/summary|Case Studies (The Incident Logs)]]
-- [[evidence/summary|Physical & Electronic Evidence]]
-- [[technologies/summary|Advanced Technologies & Propulsion]]
+## 🧭 Navigation Hubs
 
-### 👤 Human & Organizational Elements
-*Focus: The actors, investigators, and institutions involved.*
-- [[people/summary|Key Figures & Witnesses]]
-- [[organizations/summary|Agencies & Corporations]]
-- [[government-and-policy/summary|Policy, Intelligence & Disclosure]]
+### 🧬 Scientific Foundations
+*   [[research/physics|**Physics**]] - Fundamental forces, propulsion physics, and quantum vacuum dynamics.
+*   [[research/biology|**Biology**]] - Plasma-based life, xenobiology, and bio-electronic interfaces.
+*   [[research/theories|**Theories**]] - Theoretical frameworks (Interdimensional, Extraterrestrial, etc.).
+*   [[research/technologies|**Technologies**]] - Advanced propulsion systems, sensor fusion, and signature detection.
 
-### 🧬 Scientific & Theoretical Frameworks
-*Focus: The underlying physics, biology, and hypothesized mechanisms.*
-- [[physics/summary|Physics & Energetics]]
-- [[biology/summary|Biological & Xeno-biological Impacts]]
-- [[theories/summary|Hypotheses & Theoretical Models]]
-- [[technologies/summary|Technological Convergence]]
+### 👁️ Evidence & Phenomena
+*   [[research/cases|**Case Studies**]] - Detailed investigations of specific encounter events.
+*   [[research/evidence|**Evidence Types**]] - Analysis of sensor data, imagery, acoustic, and radar signatures.
+  * [[research/evidence/summary|Evidence Overview]]
+*   [[research/entities|**Entities**]] - Characteristics and observations of anomalous entities.
 
-### 🏛️ Cultural & Historical Context
-*Focus: The long-term human perspective and societal impact.*
-- [[mythology/summary|Mythology & Ancient Anomalies]]
-- [[sociology-culture/summary|Sociological & Cultural Impact]]
-- [[books/summary|Literature & Primary Texts]]
+### 🏛️ Human & Societal Context
+*   [[research/people|**Key Figures**]] - Biographies of researchers, whistleblowers, and historical actors.
+*   [[research/organizations|**Organizations**]] - Intelligence agencies, aerospace corporations, and research bodies.
+*   [[research/government-and-policy|**Policy & Disclosure**]] - Legislation, government programs, and the politics of disclosure.
+*   [[research/sociology-culture|**Societal Impact**]] - The sociological and cultural perception of UAP.
 
-## 🛠️ Research Protocols
-- **Guidelines:** [[RESEARCH-GUIDELINES|Research Guidelines]]
-- **Pending Tasks:** [[pending-research|Pending Research Tasks]]
-- **Agent Instructions:** [[AGENTS|Agent Operational Instructions]]
+### 📜 Historical & Cultural Context
+*   [[research/mythology|**Mythology & Folklore**]] - Connections to ancient astronaut theories and archetypal legends.
+*   [[research/books|**Literature Review**]] - Key texts and foundational academic research.
+*   [[research/places|**Anomalous Locations**]] - Analysis of geographically significant sites (e.g., Skinwalker Ranch).
+*   	[[research/programs|**Historical Programs**]] - Studies on legacy investigations (e.g., Project Blue Book).
+
+### 🛠️ Operational Frameworks
+*   [[research/protocols|**Protocols**]] - Communication, detection, and interaction procedures.
+*   [[research/notes|**Research Notes**]] - Chronological logs and transient observations.
+*   [[research/pending-research|**Pending Research**]] - Active investigations and future research objectives.
 
 ---
-*Last Updated: 2026-06-07*
+**Last Updated:** 2026-06-08  
+**Status:** [[research/index|Active Navigation Hub]]

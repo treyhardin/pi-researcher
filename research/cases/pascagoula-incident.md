@@ -1,10 +1,28 @@
 ---
-type: case
-tags: [uap, abduction, eyewitness, 1973]
-related_people: [[charles-hickson], [calvin-parker]]
-related_entities: [[evidence/the-hickson-tapes]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Pascagoula Incident
 ---
-# Pascagoula Incident (1973)
+
+---title: pascagoula incident
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '1973'
+- '[''calvin-parker'']'
+- '[''charles-hickson'']'
+- abduction
+- eyewitness
+- uap
+summary: ''
+---# Pascagoula Incident (1973)
 
 ## Summary
 The "Pascagoula incident" refers to a highly documented and famous alleged UFO/UAP encounter and abduction that took place on October 11, 1973, near Pascagoula, Mississippi. Two shipyard workers, Charles Hickson and Calvin Parker, claimed they were intercepted by an unidentified, glowing craft and subsequently abducted by humanoid, silvery-prime (or gray/mummy-like) beings. The incident gained national fame due to the "Hickson Tapes"—a covert police recording of the witnesses' initial, distressed statements. The case is characterized by significant variations in witness and official reports regarding the craft's size, the nature of the entities, and the exact timeline of events.

@@ -1,22 +1,34 @@
 ---
-type: MOC
-domain: protocols
-description: A map of content for research into methodologies, communication protocols, and encounter-facilitation techniques.
+title: Protocols & Procedures
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- protocols
+- uap
+tags:
+- ce5
+- xenolinguistics
+- detection
+- interaction
+summary: Research into established and theoretical protocols for detecting, communicating
+  with, and interacting with UAP/NHI.
 ---
 
-# Protocols Map of Content (MOC)
+# 🛠️ Protocols & Procedures (MOC)
 
-This MOC serves as a central hub for research into the various methodologies, communication protocols, and encounter-facilitation techniques used in the study of and interaction with UAPs and Non-Human Intelligence (NHI).
+This Map of 
+Content (MOC) organizes research on systematic approaches to interacting with or observing anomalous phenomena.
 
-## 🛸 Encounter Facilitation
-Methods and intentional practices designed to stimulate or initiate contact with anomalous phenomena.
-- [[protocols/ce5-protocol]]
+## 📡 Detection & Observation Protocols
+Methods and technological procedures for identifying and tracking UAP signatures.
+* [[research/xenolinguistics-communication-protocols|**Xenolinguistics Communication Protocols**]] - Research into linguistic frameworks for potential NHI communication.
 
-## 🗣️ Communication & Xenolinguistics
-Research into the structures, patterns, and potential methodologies for understanding the communication of non-human entities.
-- [[protocols/xenolinguistics-communication-protocols]]
+## 🤝 Interaction & Contact Protocols
+Frameworks regarding engagement with or contact from unidentified entities.
+* [[research/ce5-protocol|**CE5 Protocol**]] (Close Encounters of the Fifth Kind) - Methodologies for attempting contact through light and intention.
 
 ## 🔗 Related Domains
-- [[entities/summary]]
-- [[biology/summary]]
-- [[technologies/summary]]
+* [[research/index|**Main Index**]]
+* [[research/technologies|**Technologies**]]
+* [[research/biology|**Biology**]]

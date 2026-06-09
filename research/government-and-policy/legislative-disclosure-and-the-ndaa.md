@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Legislative Disclosure And The Ndaa
 ---
 
-# Legislative Disclosure & The NDAA
+---title: legislative disclosure and the ndaa
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Legislative Disclosure & The NDAA
 
 ## Summary
 The Unidentified Anomalous Phenomena (UAP) landscape is increasingly shaped by legislative maneuvers within the United States' National Defense Authorization Act (NDAA). Over recent fiscal years (2021–2024), Congress has used the NDAA to mandate investigations, establish reporting requirements, and direct the investigation of unidentified phenomena.

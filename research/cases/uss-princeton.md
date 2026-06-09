@@ -1,11 +1,31 @@
 ---
-type: case
-tags: [uap, naval, 2004, nimitz, uss-princeton, aegis, avs]
-related_people: [[david-fravor], [alex-dietrich]]
-related_cases: [[cases/nimitz-encounter]]
-related_technologies: [[technologies/aegis-combat-system]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Uss Princeton
 ---
-# USS Princeton (CG-59)
+
+---title: uss princeton
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '2004'
+- '[''alex-dietrich'']'
+- '[''david-fravor'']'
+- aegis
+- avs
+- naval
+- nimitz
+- uap
+- uss-princeton
+summary: ''
+---# USS Princeton (CG-59)
 
 ## Summary
 The USS Princeton (CG-59) is a Ticonderoga-class guided-missile cruiser of the United States Navy. It is primarily known in the context of UAP research for its role in the 2004 Nimitz Carrier Strike Group encounters, where its Aegis radar systems detected multiple Anomalous Aerial Vehicles (AAVs) exhibiting extreme maneuvering capabilities. Additionally, the vessel is noted for sustaining significant damage after striking a mine during the 1991 Gulf War.

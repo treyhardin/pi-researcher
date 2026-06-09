@@ -1,11 +1,28 @@
 ---
-type: case
-tags: [mothman, cryptid, abduction, west-virginia, john-keel]
-related_people: [[people/john-keel]]
-related_cases: []
-related_technologies: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Mothman Prophecies
 ---
-# Research Report: [[people/john-keel|John Keel]] and the Mothman Prophecies
+
+---title: mothman prophecies
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '[''people/john-keel'']'
+- abduction
+- cryptid
+- john-keel
+- mothman
+- west-virginia
+summary: ''
+---# Research Report: [[people/john-keel|John Keel]] and the Mothman Prophecies
 
 ## Overview
 This report documents the life, work, and theories of American journalist and UFOlogist [[people/john-keel|John Keel]], specifically focusing on his investigation into the Mothman sightings in Point Pleasant, West Virginia, and his broader "Interdimensional Hypothesis."

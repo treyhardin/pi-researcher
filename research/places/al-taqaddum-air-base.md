@@ -1,4 +1,21 @@
-# Al Taqaddum Air Base
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Al Taqaddum Air Base
+---
+
+---title: al taqaddum air base
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Al Taqaddum Air Base
 
 ## Summary
 Al Taqaddum Air Base in Iraq was the site of a notable Unidentified Aerial Phenomena (UAP) incident in October 2017. An infrared (IR) sensor on a force protection aerostat (blimp) captured footage of an unidentified object appearing to float above the ground. While the footage was widely circulated as a significant UAP encounter, the All-domain Anomaly Resolution Office (AARO) later assessed that the object was likely a cluster of partially and fully inflated balloons.

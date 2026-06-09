@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Non Electromagnetic Detection
 ---
 
-# Non-Electromagnetic Detection
+---title: non electromagnetic detection
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Non-Electromagnetic Detection
 
 ## Summary
 Research into Unidentified Aerial Phenomena (UAP) is increasingly moving beyond traditional radar and radio-frequency (RF) detection, which are susceptible to electronic warfare (EW) and "spoofing." This report explores the frontier of non-electromagnetic detection methods, including acoustic monitoring, magnetometry, quantum sensing, and even biological/biochemical indicators of anomalous activity.

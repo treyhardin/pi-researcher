@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Intelligence Industrial Complex
 ---
 
-# The Intelligence-Industrial Industrial Complex and UAP Infrastructure
+---title: intelligence industrial complex
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# The Intelligence-Industrial Industrial Complex and UAP Infrastructure
 
 ## Overview
 The "UAP Industrial Complex" refers to a deeply integrated, multi-layered ecosystem involving the Department of Defense (DoD), the Intelligence Community (IC), and private aerospace/defense contractors. This infrastructure is characterized by a "shadow network" of classified programs, proprietary technological research, and a "revolving door" of personnel that allows for the management of Unidentified Anomalous Phenomena (UAP) and potentially Non-Human Intelligence (NHI) information outside of traditional Congressional oversight and public transparency frameworks.

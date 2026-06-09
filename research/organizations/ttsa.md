@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: ttsa
+---
+
 # To The Stars Academy (TTSA)
 
 To The Stars Academy of Science & Technology (TTSA) is a non-profit organization focused on the scientific study of Unidentified Anomalous Phenomena (UAP) and anomalous technologies.
@@ -5,7 +15,7 @@ To The Stars Academy of Science & Technology (TTSA) is a non-profit organization
 ## Key Figures
 
 * [[people/hal-puthoff]]
-* [[people/louis-elizondo]] (if available)
+* [[people/luis-elizondo]] (if available)
 * [[people/patty-van-pan]] (if available)
 
 ## Focus Areas
@@ -17,5 +27,5 @@ To The Stars Academy of Science & Technology (TTSA) is a non-profit organization
 ## Notable Associations
 
 * **[[people/hal-puthoff]]**
-* **[[people/louis-elizondo]]**
+* **[[people/luis-elizondo]]**
 * **[[people/jacques-vallee]]** (if linked)

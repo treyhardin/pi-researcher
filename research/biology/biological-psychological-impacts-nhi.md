@@ -1,11 +1,28 @@
 ---
-type: research-article
-tags: [biology, nhi, psychological-impacts, physiological-impacts]
-related_cases: []
-related_entities: []
-related_technologies: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Biological Psychological Impacts Nhi
 ---
-# Biological and Psychological Impacts of NHI Contact
+
+---title: biological psychological impacts nhi
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- evidence
+tags:
+- biological-impacts
+- emr-exposure
+- erythema
+- neuropsychology
+- nhi
+- psychological-impacts
+summary: ''
+---# Biological and Psychological Impacts of NHI Contact
 
 ## Summary
 Research into the contact with Non-Human Intelligence (NHI) reveals a complex interplay of psychological and physiological disruption. Encounter experiences are characterized by profound psychological shifts—including increased dissociation and susceptibility to false memories—and significant documented physiological effects, such as erythema and fever, potentially driven by intense electromagnetic radiation (EMR) emissions from Unidentified Anomalous Phenomena (UAP).

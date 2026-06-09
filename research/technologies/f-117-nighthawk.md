@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: F 117 Nighthawk
 ---
 
-# F-117 Nighthawk
+---title: f 117 nighthawk
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# F-117 Nighthawk
 
 ## Summary
 The F-117 Nighthawk was the world's first operational stealth aircraft, developed by Lockheed's Skunk Works division to penetrate advanced Soviet air defense systems. Its unique faceted design and use of radar-absorbent materials significantly reduced its radar cross-section.

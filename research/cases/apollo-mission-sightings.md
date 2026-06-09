@@ -1,11 +1,26 @@
 ---
-type: case
-tags: [apollo_missions, nasa, lunar_encounters, space_ufo]
-related_people: []
-related_platforms: []
-related_technologies: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Apollo Mission Sightings
 ---
-# Apollo Mission Sightings
+
+---title: apollo mission sightings
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- apollo-missions
+- lunar-encounters
+- nasa
+- space-ufo
+summary: ''
+---# Apollo Mission Sightings
 
 ## Summary
 The Apollo program, NASA's series of lunar landing missions, has been the subject of numerous reports of Unidentified Aerial Phenomena (UAP) as seen by astronauts. While many sightings have been attributed to man-made debris or known celestial phenomena, recent declassified documents released in 2026 have brought renewed attention to specific encounters during the Apollo 12 and Apollo 17 missions.

@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Electrohydrodynamics
 ---
 
-# Electrohydrodynamics
+---title: electrohydrodynamics
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: The study of the motion and dynamics of electrically charged fluids under the influence of electric fields, specializing in phenomena like 'ionic wind' used in propulsion.
+---# Electrohydrodynamics
 
 ## Summary
 Electrohydrodynamics (EHD) is the study of the motion and dynamics of electrically charged fluids under the influence of electric fields. It represents a specialized intersection of electrodynamics and fluid mechanics, focusing on how electric forces can induce, manipulate, or control fluid flow, heat transfer, and mass transport. A key phenomenon within EHD is the generation of "ionic wind," which is the physical basis for certain types of electric propulsion.

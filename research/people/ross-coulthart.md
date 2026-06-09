@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [journalist, uap_disclosure, whistleblower_advint, investigative_journalism]
-related_cases: []
-related_entities: [[david-grusch], [luis-elizondo], [aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Ross Coulthart
 ---
-# Ross Coulthart
+
+---title: ross coulthart
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- investigative_journalism
+- journalist
+- uap_disclosure
+- whistleblower_advint
+summary: ''
+---# Ross Coulthart
 
 ## Overview
 Ross Coulthart is an award-winning Australian investigative journalist known for his deep and extensive reporting on Unidentified Anomalous Phenomena (UAP), whistleblowers, and the broader movement towards government disclosure.

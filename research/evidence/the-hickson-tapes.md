@@ -1,10 +1,26 @@
 ---
-type: evidence
-tags: [hickson-tapes, audio-evidence, abduction-recorded, 1973-encounter]
-related_people: [[charles-hickson], [calvin-parker]]
-related_cases: [[cases/pascagoula-incident]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: The Hickson Tapes
 ---
-# The Hickson Tapes
+
+---title: the hickson tapes
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- evidence
+tags:
+- abduction
+- audio-evidence
+- hickson-tapes
+- pascagoula
+summary: ''
+---# The Hickson Tapes
 
 
 ## Summary

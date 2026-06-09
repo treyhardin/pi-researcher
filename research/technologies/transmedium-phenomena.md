@@ -1,4 +1,21 @@
-# Transmedium Phenomena and Aquatic-to-Aerial Transitions
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Transmedium Phenomena
+---
+
+---title: transmedium phenomena
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Transmedium Phenomena and Aquatic-to-Aerial Transitions
 
 ## Overview
 Transmedium phenomena refer to the observed ability of Unidentified Anomalous Phenomena (UAP) to transition seamlessly between different physical media, most notably between the atmosphere and the ocean (and potentially between space and the atmosphere). This capability—moving between air and water without discernible deceleration, structural compromise, or a "splash"—is a defining characteristic of several well-documented UAP encounters.

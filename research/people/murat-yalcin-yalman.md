@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [witness, turkey, kumburgaz, uap_footage]
-related_cases: [[cases/kumburgaz-ufo]]
-related_entities: [[places/yeni-kent-facility]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Murat Yalcin Yalman
 ---
-# Murat Yalcin Yalman
+
+---title: murat yalcin yalman
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- kumburgaz
+- turkey
+- uap_footage
+- witness
+summary: ''
+---# Murat Yalcin Yalman
 
 ## Summary
 Murat Yalcin Yalman is a Turkish night security guard who documented a series of significant unidentified aerial phenomena (UAP) over the Sea of Marmara near Kumburgaz, Turkey, between 2007 and 2009. Using a telephoto lens, he captured over 25 videos of metallic, disc-shaped, and oval-shaped objects.

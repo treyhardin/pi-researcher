@@ -1,10 +1,27 @@
 ---
-type: person
-tags: [author, abduction, communion, interdimensional, ufology]
-related_cases: []
-related_entities: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Whitley Strieber
 ---
-# Whitley Strieber
+
+---title: whitley strieber
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- abduction
+- author
+- communion
+- interdimensional
+- ufology
+summary: ''
+---# Whitley Strieber
 
 ## Summary
 Whitley Strieber is an American author and a central figure in the modern alien abduction phenomenon. Best known for his 1987 book *Communion*, Strieber's accounts of "visitors" and the psychological/spiritual impact of these encounters helped move the UFO discourse from technological speculation to the exploration of consciousness and interdisciplinary/interdimensional entities.

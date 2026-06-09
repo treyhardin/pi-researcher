@@ -1,3 +1,34 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Non Local Consciousness
+---
+
+---title: non local consciousness
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- theory
+tags:
+- information-energy-field
+- interface-hypothesis
+- non-local-consciousness
+- orch-or
+- panpsychim
+- quantum-consciousness
+summary: ''
+------
+type: theory
+description: Exploration of consciousness as a non-local phenomenon, integrating advanced frameworks like the Interface Hypothesis and Quantum Consciousness (Orch-OR).
+tags: [non-local-consciousness, quantum-consciousness, interface-hypothesis, orch-or, panpsychism, information-energy-field]
+related: [[theories/theory-of-psychic-quanta], [tgd]]
+---
+
 # Non-local consciousness
 
 ## Summary

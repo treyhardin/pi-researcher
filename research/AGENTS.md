@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: AGENTS
+---
+
 # Agent Instructions for Research Directory
 
 This directory is used for storing research, investigations, and findings related to UAPs, UFOs, and NHI.

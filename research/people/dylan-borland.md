@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [whistleblower, geospatial_intelligence, usaf, uap_encounter]
-related_cases: []
-related_entities: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Dylan Borland
 ---
-# Dylan Borland
+
+---title: dylan borland
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- geospatial_intelligence
+- uap_encounter
+- usaf
+- whistleblower
+summary: ''
+---# Dylan Borland
 
 ## Summary
 Dylan Borland is a former U.S. Air Force (USAF) geospatial intelligence specialist and a prominent federal whistleblower. He gained national attention following his September 202            25 testimony before the House of Representatives Task Force regarding his encounter with Unidentified Aerial Phenomena (UAP) and the subsequent retaliation he faced from government agencies.

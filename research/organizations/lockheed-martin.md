@@ -1,4 +1,21 @@
-# Lockheed Martin
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Lockheed Martin
+---
+
+---title: lockheed martin
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Lockheed Martin
 
 ## Summary
 Lockheed Martin is a global, security-focused aerospace and defense technology company. Formed in 1995 through the merger of Lockheed Corporation and Martin Marietta, the company provides integrated solutions across all warfighting domains, including aeronautics, missiles and fire control, rotary and mission systems, and space. It is a cornerstone of the American defense industry, known for its advanced technology systems and significant role in national security and scientific exploration.

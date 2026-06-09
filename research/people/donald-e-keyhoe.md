@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [uscms, naval_aviator, nicap, ufology]
-related_cases: []
-related_entities: [[organizations/nicap|NICAP]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Donald E Keyhoe
 ---
-# Donald E. Keyhoe
+
+---title: donald e keyhoe
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- naval_aviator
+- nicap
+- ufology
+- uscms
+summary: ''
+---# Donald E. Keyhoe
 
 ## Summary
 Major Donald E. Keyhoe (1897–1988) was an American Marine Corps naval aviator, writer, and a leading figure in early UFO research. He is most famous for his leadership of the National Investigations Committee on Aerial Phenomena (NICAP) from 1956 through the early 1970s and for his advocacy for government transparency and disclosure regarding unidentified flying objects.

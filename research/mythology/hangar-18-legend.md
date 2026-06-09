@@ -1,10 +1,26 @@
 ---
-type: mythology
-tags: [hangar-18, conspiracy-theory, wppa-base, rock-lore]
-related_cases: [[cases/the-roswell-incident-1947]]
-related_programs: [[programs/project-blue-book]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Hangar 18 Legend
 ---
-# The Hangar 18 Legend
+
+---title: hangar 18 legend
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- mythology
+tags:
+- conspiracy-theory
+- hangar-18
+- rock-lore
+- wppa-base
+summary: ''
+---# The Hangar 18 Legend
 
 
 ## Summary

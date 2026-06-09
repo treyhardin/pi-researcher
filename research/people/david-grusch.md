@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [whistleblower, intelligence_officer, NGA, disclosure_movement]
-related_cases: []
-related_entities: [[aaro], [nga], [danny-sheehan]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: David Grusch
 ---
-# David Grusch
+
+---title: david grusch
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- NGA
+- disclosure_movement
+- intelligence_officer
+- whistleblower
+summary: ''
+---# David Grusch
 
 ## Summary
 David Grusch (often referred to as David Charles Grusch) is a prominent U.S. whistleblower and former intelligence officer who, in 2023, ignited a massive wave of public and congressional interest in Unidentified Anomalous Phenomena (UAP). A former Major in the U.S. Air Force and a senior civilian official at the National Geospatial-Intelligence Agency (NGA), Grusch provided sworn testimony to the U.S. House Oversight and Accountability Committee, alleging that the United States government is conducting highly secretive, unauthorized programs involving the recovery and reverse-engineering of "non-human" spacecraft and biological remains.

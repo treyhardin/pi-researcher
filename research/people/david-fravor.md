@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [navy, pilot, uap_witness, topgun]
-related_cases: [[cases/uss-nimitz-2004-encounter]]
-related_entities: [[vfa-41-black-aces], [uss-nimitz-2004-encounter]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: David Fravor
 ---
-# Commander David Fravor
+
+---title: david fravor
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- navy
+- pilot
+- topgun
+- uap_witness
+summary: ''
+---# Commander David Fravor
 
 ## Summary
 

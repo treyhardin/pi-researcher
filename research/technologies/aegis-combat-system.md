@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Aegis Combat System
 ---
 
-# Aegis Combat System
+---title: aegis combat system
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Aegis Combat System
 
 ## Summary
 The Aegis Combat System (ACS) is a highly integrated, centralized, and automated naval weapons system designed for comprehensive defense against air, surface, and subsurface threats. It serves as the primary combat system for the U.S. Navy's Ticonderoga-class cruisers and Arleigh Burke-class destroyers, as well as for several international allies. The system is renowned for its ability to detect, track, and engage a large number of targets simultaneously, providing robust Integrated Air and Missile Defense (IAMD) capabilities.

@@ -1,20 +1,28 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Arleigh Burke
 ---
 
-# Arleigh Burke-class Destroyer
+---title: arleigh burke
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Arleigh Burke-class Destroyer
 
 ## Summary
 The Arleigh Burke-class (DDG 51) guided-missile destroyers are a primary class of warships for the United States Navy, providing multi-mission offensive and defensive capabilities. They are characterized by their integration of the Aegis Combat System, specialized propulsion, and advanced sensor suites, making them capable of performing anti-air, anti-submarine, and anti-surface warfare.
 
 ## Detailed Findings
-- **Core Capabilities:** The class is designed for multi-mission warfare, including:
-    - **Anti-Air Warfare (AAW)**
-    - **Anti-Submarine Warfare (ASW)**
-    - **Anti-Surface Warfare (ASuW)**
-    - **Land Attack (NSFS)**
-- **Aegis Combat System Integration:** A defining feature of the class is the Aegis Combat System, which uses the SPY-1D multifunction passive electronically scanned array radar for detection and tracking. Modern iterations include "virtualized" combat systems to better connect ships and bring new capabilities to the fleet faster.
+- **Core Capabilities:** The class provides multi-mission warfare capabilities including Anti-Air (AAW), Anti-Submarine (ASW), and Anti-Surface (ASuW) warfare, primarily through its integration with the [[technologies/aegis-combat-system]].
 - **Propulsion and Machinery:**
     - **Engines:** Powered by four General Electric LM 2500-30 gas turbines driving twin controllable propellers.
     - **Power:** Produces approximately 100,000 total shaft horsepower.
@@ -23,11 +31,8 @@ The Arleigh Burke-class (DDG 51) guided-missile destroyers are a primary class o
     - **Dimensions:** Length of approximately 505–509 feet; Beam of 59 feet.
     - **Crew:** Approximately 314 personnel.
 - **Armament & Sensors:**
-    - **VLS:** Equipped with the MK 41 Vertical Launching System (VLS) for various missiles.
-    - **Radar:** SPY-1D multifunction array radar (part of Aegis).
-    - **Sonar:** AN/SQQ-89 Sonar system for anti-submarine warfare.
-    - **Gun Systems:** MK 45 5-inch gun, 25mm CIWS, and MK 38 self-defense guns.
-    - **Electronic Warfare:** SLQ-32 or SEWIP (Surface Electronic Warfare Improvement Program) systems.
+    - As part of the Aegis architecture, it utilizes the [[technologies/an-spy-1-radar]] and the MK 41 [[technologies/vls]].
+    - Equipped with various defensive systems including CIWS and electronic warfare suites.
 - **Fleet Status:** As of 2025, the class is the most numerous in the US Navy, with approximately 75 active ships and many more planned.
 
 ## Key Entities/Facts

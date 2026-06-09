@@ -1,0 +1,30 @@
+condon-report.md:* organizations/condon-committee
+condon-report.md:* programs/project-blue-book (if exists)
+index.md:- **Agent Instructions:** AGENTS|Agent Operational Instructions
+index.md:- biology/summary|Biological & Xeno-biological Impacts
+index.md:- books/summary|Literature & Primary Texts
+index.md:- cases/summary|Case Studies (The Incident Logs)
+index.md:- evidence/summary|Physical & Electronic Evidence
+index.md:- government-and-policy/summary|Policy, Intelligence & Disclosure
+index.md:- **Guidelines:** RESEARCH-GUIDELINES|Research Guidelines
+index.md:- mythology/summary|Mythology & Ancient Anomalies
+index.md:- organizations/summary|Agencies & Corporations
+index.md:- **Pending Tasks:** pending-research|Pending Research Tasks
+index.md:- people/summary|Key Figures & Witnesses
+index.md:- physics/summary|Physics & Energetics
+index.md:- sociology-culture/summary|Sociological & Cultural Impact
+index.md:- technologies/summary|Advanced Technologies & Propulsion
+index.md:- technologies/summary|Technological Convergence
+index.md:- theories/summary|Hypotheses & Theoretical Models
+summary.md:As documented in government-and-policy/intelligence-industrial-complex, this ecosystem utilizes private-sector proprietary rights and Unacknowledged Special Access Programs (USAPs) to manage sensitive UAP/NHI information, effectively shielding it from traditional Congressional oversight and FOIA-driven transparency.
+summary.md:* **Electrogravitics and the B'B Effect:** Research into people/thomas-townsend-brown reveals a foundational interest in the [[technologies/biefeld-brown-effect]]-the production of thrust via high voltage in asymmetric capacitors. This phenomenon, while linked to modern [[technologies/ion-propulsion]], was historically theorized by Brown as [[technologies/electrogravitics]], a method for manipulating gravity via electric fields.
+summary.md:* **Morphogenetic Fields and Non-locality:** Investigating the intersection of biological development with the hypothesis of **morphogenetic fields** (as proposed by researchers like people/rupert-sheldrake). This explores whether the "shaping" of biological organisms could be influenced by non-local, collective memory or information transfer, a concept that may have implications for understanding anomalous signal detection and the nature of consciousness.
+summary.md:* **Satellite-Based Detection and Surveillance:** New research highlights the critical role of orbital assets in monitoring the phenomenon. This includes the use of **multimultispectral and hyperspectral imaging** to identify chemical signatures, and the emergence of **AI-driven systems like "Sentient"** (attributed to the NRO) for autonomous anomaly detection. The integration of **commercial satellite constellations** also provides a decentralized layer of persistent surveillance, despite the challenges posed by "signal noise" from objects like technologies/starlink.
+summary.md:* **Scientific Investigation and Figures:** The legacy of individuals like people/hynek-j-allen is central to the history of UAP research. As a scientific advisor for [[programs/project-blue-book]], his development of the **"Close Encounters" classification system** provided a framework for studying the phenomenon, moving it from mere speculation toward a more structured investigation.
+summary.md:* **Specialized Defense and Intelligence Contractors:** Companies like organizations/keylogic (now part of the System One/GAP Solutions ecosystem) provide critical back-end support, including data analytics, cybersecurity, and mission management for the defense and federal civilian sectors, playing a vital role in the infrastructure of high-stakes intelligence and defense operations.
+summary.md:* **The Mothman and John Keel:** Research into people/john-keel and the [[cases/mothman-prophecies]] examines the 1966–1967 sightings in Point Pleasant, West Virginia. This work highlights the **Interdimensional Hypothesis**, suggesting that the Mothman and other phenomena are manifestations from overlapping dimensions, and explores the connection between these sightings and the tragic **Silver Bridge collapse**.
+summary.md:* **The Role of Skunk Works and Lockheed Martin:** organizations/lockheed-martin, through its legendary [[organizations/skunk-works]] division, serves as a primary driver of advanced aeronautics. The development of stealth technologies (e.g., [[technologies/f-117-nighthawk]], **SR-71 Blackbird**) and highly classified platforms (e.g., [[technologies/u-2]], [[technologies/rq-170-sentinel]]) exemplifies the cutting edge of aerospace R&D. The origins of this technology can be traced back to pioneering programs like [[technologies/project-have-blue]], which introduced the era of low-observable (LO) design.
+summary.md:    * **Wright-Patterson Air Force Base (WPAFB):** As the headquarters for programs/project-blue-book, WPAFB is a cornerstone of UAP history. Its role in official investigations of thousands of sightings makes it a primary site for historical and scientific study.
+uap-disclosure-timeline.md:* organizations/defense-intelligence-agency (if available)
+uap-disclosure-timeline.md:* people/david-grusch (if available)
+uap-disclosure-timeline.md:* people/louis-elizondo

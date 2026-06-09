@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [journalist, reporter, uap_disclosure, nyt]
-related_cases: []
-related_entities: [[leslie-kean], [aatip]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Ralph Blumenthal
 ---
-# Ralph Blumenthal
+
+---title: ralph blumenthal
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- journalist
+- nyt
+- reporter
+- uap_disclosure
+summary: ''
+---# Ralph Blumenthal
 
 ## Summary
 American investigative journalist and author, formerly a long-time staff reporter for *The New York Times*. He is best known for his pivotal role in bringing the existence of secret U.S. government UAP (Unidentified Anomalous Phenomena) programs to public awareness through groundbreaking investigative reporting.

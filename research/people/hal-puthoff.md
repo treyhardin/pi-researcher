@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [physicist, psi_research, remote_viewing, bigelow_aerospace]
-related_cases: []
-related_entities: [[organizations/sri|Stanford Research Institute (SRI)], [bigelow-aerospace|Bigelow Aerospace], [organizations/ttsa|To The Stars Academy (TTSA)], [skinwalker-ranch|Skinwalker Ranch]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Hal Puthoff
 ---
-# Hal Puthoff
+
+---title: hal puthoff
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- bigelow_aerospace
+- physicist
+- psi_research
+- remote_viewing
+summary: ''
+---# Hal Puthoff
 
 ## Summary
 Dr. Harold "Hal" Puthoff is a prominent theoretical and experimental physicist whose career has been uniquely characterized by his involvement in both mainstream scientific research and the investigation of anomalous phenomena, including Unidentified Anomalably Phenomena (UAP) and "psi" phenomena (such as remote viewing). He was a key figure in the CIA-funded remote viewing programs at the Stanford Research Institute (SRI) during the 1970s and 1980s and has continued to influence the modern UAP/NHI discourse through his work with organizations like Bigelow Aerospace, EarthTech International, and To The Stars Academy.
@@ -18,7 +34,7 @@ Dr. Puthoff's career spans several decades and multiple high-profile scientific 
 
 ### Connection to UAP/NHI and Bigelow Aerospace
 - **Bigelow Aerospace and NIDS**: Putlyff served as the chief science advisor to Robert Bigelow, a key figure in the private aerospace industry. Through Bigelow's National Institute for Discovery Science (NIDS), Puthoff was involved in investigating high-profile anomalous sites, most notably **[[places/skinwalker-ranch|Skinwalker Ranch]]** in Utah, which is known for reports of UAP, poltergeist activity, and cattle mutilations.
-- **Modern UAP Discourse**: Puthoff has been a central scientific voice in the modern UAP disclosure era. He has been associated with the **[[ttsa|To The Stars Academy (TTSA)]]** as a cofounder and Vice President for Science and Technology, helping to bring UAP "observables" into the scientific and defense-related mainstream.
+- **Modern UAP Discourse**: Puthoff has been a central scientific voice in the modern UAP disclosure era. He has been associated with the **[[organizations/ttsa|To The Stars Academy (TTSA)]]** as a cofounder and Vice President for Science and Technology, helping to bring UAP "observables" into the scientific and defense-related mainstream.
 - **Theoretical Contributions**: His research often explores the intersection of quantum physics, consciousness, and advanced propulsion. This includes investigations into how "consciousness-driven control systems" might be used in the propulsion of unconventional craft.
 
 ### Professional Career and Organizations

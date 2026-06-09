@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [electrical_engineer, astronomer, educator, biefeld-brown_effect]
-related_cases: []
-related_entities: [[thomas-townsend-brown], [biefeld-brown-effect]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Paul Biefeld
 ---
-# Paul Biefeld
+
+---title: paul biefeld
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- astronomer
+- biefeld-brown_effect
+- educator
+- electrical_engineer
+summary: ''
+---# Paul Biefeld
 
 ## Summary
 Dr. Paul Alfred Biefeld (1867–1943) was a prominent German-American electrical engineer, astronomer, and educator. He is most widely recognized in the context of unusual propulsion research due to his association with the Biefeld-Brown effect, an electrical phenomenon involving asymmetric capacitors.

@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [ufologist, crashed_saucers, retrieval_of_craft]
-related_cases: []
-related_entities: [[nicap], [donald-e-keyhoe]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Leonard Stringfield
 ---
-# Leonard H. Stringfield (1920–1994)
+
+---title: leonard stringfield
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- crashed_saucers
+- retrieval_of_craft
+- ufologist
+summary: ''
+---# Leonard H. Stringfield (1920–1994)
 
 ## Overview
 Leonard H. Stringfield was a prominent American ufologist, best known for his extensive research into alleged UFO crashes and the recovery of extraterrestrial biological entities and spacecraft. His work focused heavily on the "crashed saucer" narrative and the implications of such recoveries for humanity.

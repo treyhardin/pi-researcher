@@ -1,0 +1,2803 @@
+[
+  {
+    "file": "research/xenobiology_extremophiles_research.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "xenobiology extremophiles research"
+    }
+  },
+  {
+    "file": "research/condon-report.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "condon report"
+    }
+  },
+  {
+    "file": "research/quantum_radar_uap_detection.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "quantum radar uap detection"
+    }
+  },
+  {
+    "file": "research/RESEARCH-GUIDELINES.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "RESEARCH GUIDELINES"
+    }
+  },
+  {
+    "file": "research/summary.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Summary"
+    }
+  },
+  {
+    "file": "research/torsion_fields_and_vacuum_fluctuations.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Torsion Fields And Vacuum Fluctuations"
+    }
+  },
+  {
+    "file": "research/index.md",
+    "status": "exists",
+    "data": {
+      "title": "index",
+      "date": "2026-06-08",
+      "status": "draft",
+      "source": null,
+      "categories": [],
+      "tags": [],
+      "summary": "Summary pending."
+    }
+  },
+  {
+    "file": "research/pending-research.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "pending research"
+    }
+  },
+  {
+    "file": "research/AGENTS.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "AGENTS"
+    }
+  },
+  {
+    "file": "research/spacetime_metric_engineering.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "spacetime metric engineering"
+    }
+  },
+  {
+    "file": "research/drone_swarms_vs_uap.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "drone swarms vs uap"
+    }
+  },
+  {
+    "file": "research/plasma_based_life_synthesis.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "plasma based life synthesis"
+    }
+  },
+  {
+    "file": "research/uap-disclosure-timeline.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "uap disclosure timeline"
+    }
+  },
+  {
+    "file": "research/evidence/the-hickson-tapes.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "The Hickson Tapes"
+    }
+  },
+  {
+    "file": "research/evidence/arecibo-message-and-crop-circles.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Arecibo Message And Crop Circles"
+    }
+  },
+  {
+    "file": "research/evidence/satellite-imagery.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Satellite Imagery"
+    }
+  },
+  {
+    "file": "research/evidence/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Evidence & Instrumentation",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "evidence",
+        "uap"
+      ],
+      "tags": [
+        "radar",
+        "imagery",
+        "acoustic",
+        "electronic-warfare"
+      ],
+      "summary": "Analysis of sensory data, imagery, and electronic signatures used to document UAP."
+    }
+  },
+  {
+    "file": "research/evidence/electronic-warfare-vs-uap.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Electronic Warfare Vs Uap"
+    }
+  },
+  {
+    "file": "research/evidence/crop-circles-overview.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Crop Circles Overview"
+    }
+  },
+  {
+    "file": "research/mythology/igigi.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Igigi"
+    }
+  },
+  {
+    "file": "research/mythology/Paleo-UAP_&_Anomalous_Archaeology.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Paleo Uap & Anomalous Archaeology"
+    }
+  },
+  {
+    "file": "research/mythology/hangar-18-legend.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Hangar 18 Legend"
+    }
+  },
+  {
+    "file": "research/mythology/anunnaki-igigi-relationship.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Anunnaki Igigi Relationship"
+    }
+  },
+  {
+    "file": "research/mythology/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Mythology & Ancient Astronaut Theory",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "mythology",
+        "uap"
+      ],
+      "tags": [
+        "ancient-astronauts",
+        "archeology",
+        "folklore",
+        "anunnaki"
+      ],
+      "summary": "Exploration of ancient myths, legends, and archaeological anomalies that suggest historical contact with non-human intelligences."
+    }
+  },
+  {
+    "file": "research/mythology/global-mythologies-archetypes.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Global Mythologies Archetypes"
+    }
+  },
+  {
+    "file": "research/mythology/atrahasis-epic.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Atrahasis Epic"
+    }
+  },
+  {
+    "file": "research/protocols/xenolinguistics-communication-protocols.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "xenolinguistics communication protocols"
+    }
+  },
+  {
+    "file": "research/protocols/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Protocols & Procedures",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "protocols",
+        "uap"
+      ],
+      "tags": [
+        "ce5",
+        "xenolinguistics",
+        "detection",
+        "interaction"
+      ],
+      "summary": "Research into established and theoretical protocols for detecting, communicating with, and interacting with UAP/NHI."
+    }
+  },
+  {
+    "file": "research/protocols/ce5-protocol.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "ce5 protocol"
+    }
+  },
+  {
+    "file": "research/sociology-culture/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Sociology & Cultural Impact of UAP",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "sociology-culture",
+        "uap"
+      ],
+      "tags": [
+        "sociology",
+        "cultural-impact",
+        "perception",
+        "media"
+      ],
+      "summary": "Investigation into the societal, cultural, and psychological impacts of UAP on human civilization and perception."
+    }
+  },
+  {
+    "file": "research/sociology-culture/the-role-of-technological-cultural-mediums-in-uap-perception.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "the role of technological cultural mediums in uap perception"
+    }
+  },
+  {
+    "file": "research/sociology-culture/sociology-and-cultural-impact-studies.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "sociology and cultural impact studies"
+    }
+  },
+  {
+    "file": "research/public/notable-figures-overview.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "notable figures overview"
+    }
+  },
+  {
+    "file": "research/public/summary.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Summary"
+    }
+  },
+  {
+    "file": "research/notes/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Research Notes & Logs",
+      "date": "2026-06-08",
+      "status": "draft",
+      "source": "Internal Synthesis",
+      "categories": [
+        "notes",
+        "uap"
+      ],
+      "tags": [
+        "logs",
+        "chronological",
+        "observations"
+      ],
+      "summary": "A repository for transient research observations, event logs, and chronological notes on UAP investigations."
+    }
+  },
+  {
+    "file": "research/notes/hickson_incident.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Hickson Incident"
+    }
+  },
+  {
+    "file": "research/people/luis-elizondo.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Luis Elizondo"
+    }
+  },
+  {
+    "file": "research/people/leonard-stringfield.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Leonard Stringfield"
+    }
+  },
+  {
+    "file": "research/people/dylan-borland.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Dylan Borland"
+    }
+  },
+  {
+    "file": "research/people/hynek-j-allen.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Hynek J Allen"
+    }
+  },
+  {
+    "file": "research/people/jay-stratton.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Jay Stratton"
+    }
+  },
+  {
+    "file": "research/people/karl_e_nell.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Karl E Nell"
+    }
+  },
+  {
+    "file": "research/people/john-keel.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "John Keel"
+    }
+  },
+  {
+    "file": "research/people/leslie-kean.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Leslie Kean"
+    }
+  },
+  {
+    "file": "research/people/thomas-townsend-brown.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Thomas Townsend Brown"
+    }
+  },
+  {
+    "file": "research/people/hal-puthoff.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Hal Puthoff"
+    }
+  },
+  {
+    "file": "research/people/ross-coulthart.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ross Coulthart"
+    }
+  },
+  {
+    "file": "research/people/edward-condon.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Edward Condon"
+    }
+  },
+  {
+    "file": "research/people/marco-rubio.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Marco Rubio"
+    }
+  },
+  {
+    "file": "research/people/whitley-strieber.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Whitley Strieber"
+    }
+  },
+  {
+    "file": "research/people/danny-sheehan.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Danny Sheehan"
+    }
+  },
+  {
+    "file": "research/people/james-t-lacatski.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "James T Lacatski"
+    }
+  },
+  {
+    "file": "research/people/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Key Figures in UAP Research",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "people",
+        "uap"
+      ],
+      "tags": [
+        "whistleblower",
+        "researcher",
+        "contactee",
+        "intelligence"
+      ],
+      "summary": "Biographical and research data on key individuals involved in the study, disclosure, and witnessing of UAP."
+    }
+  },
+  {
+    "file": "research/people/jacques-vallee.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Jacques Vallee"
+    }
+  },
+  {
+    "file": "research/people/ralph-blumenthal.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ralph Blumenthal"
+    }
+  },
+  {
+    "file": "research/people/rupert-sheldrake.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Rupert Sheldrake"
+    }
+  },
+  {
+    "file": "research/people/charles-hickson.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Charles Hickson"
+    }
+  },
+  {
+    "file": "research/people/paul-biefeld.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Paul Biefeld"
+    }
+  },
+  {
+    "file": "research/people/murat-yalcin-yalman.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Murat Yalcin Yalman"
+    }
+  },
+  {
+    "file": "research/people/steven-greer.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Steven Greer"
+    }
+  },
+  {
+    "file": "research/people/richard-hall.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Richard Hall"
+    }
+  },
+  {
+    "file": "research/people/mike-rounds.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Mike Rounds"
+    }
+  },
+  {
+    "file": "research/people/michael-levin.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Michael Levin"
+    }
+  },
+  {
+    "file": "research/people/donald-e-keyhoe.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Donald E Keyhoe"
+    }
+  },
+  {
+    "file": "research/people/david-grusch.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "David Grusch"
+    }
+  },
+  {
+    "file": "research/people/jake-barber.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Jake Barber"
+    }
+  },
+  {
+    "file": "research/people/betty-and-barney-hill.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Betty And Barney Hill"
+    }
+  },
+  {
+    "file": "research/people/david-fravor.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "David Fravor"
+    }
+  },
+  {
+    "file": "research/people/tim-gallaudet.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Tim Gallaudet"
+    }
+  },
+  {
+    "file": "research/people/sean-kirkpatrick.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Sean Kirkpatrick"
+    }
+  },
+  {
+    "file": "research/people/calvin-parker.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Calvin Parker"
+    }
+  },
+  {
+    "file": "research/people/jon-kosloski.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Jon Kosloski"
+    }
+  },
+  {
+    "file": "research/people/ryan-graves.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ryan Graves"
+    }
+  },
+  {
+    "file": "research/people/christopher-mellon.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Christopher Mellon"
+    }
+  },
+  {
+    "file": "research/people/jason-sands.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Jason Sands"
+    }
+  },
+  {
+    "file": "research/government-and-policy/uap-documentation-history.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Uap Documentation History"
+    }
+  },
+  {
+    "file": "research/government-and-policy/counter-uas-uap-integration.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Counter Uas Uap Integration"
+    }
+  },
+  {
+    "file": "research/government-and-policy/interstellar-legal-frameworks.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "interstellar legal frameworks"
+    }
+  },
+  {
+    "file": "research/government-and-policy/private-aerospace-uap-containment.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "private aerospace uap containment"
+    }
+  },
+  {
+    "file": "research/government-and-policy/nro-research.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Nro Research"
+    }
+  },
+  {
+    "file": "research/government-and-policy/the-evolution-of-anomaly-in-the-age-of-uas-ew.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "The Evolution Of Anomaly In The Age Of Uas Ew"
+    }
+  },
+  {
+    "file": "research/government-and-policy/intelligence-industrial-complex.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Intelligence Industrial Complex"
+    }
+  },
+  {
+    "file": "research/government-and-policy/cia.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Cia"
+    }
+  },
+  {
+    "file": "research/government-and-policy/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Government & Policy Landscape",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "government-and-policy",
+        "uap"
+      ],
+      "tags": [
+        "legislation",
+        "disclosure",
+        "intelligence",
+        "ndaa"
+      ],
+      "summary": "Research into the legislative, intelligence, and policy frameworks governing UAP investigations and disclosure."
+    }
+  },
+  {
+    "file": "research/government-and-policy/project-stargate.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Project Stargate"
+    }
+  },
+  {
+    "file": "research/government-and-policy/legislative-disclosure-and-the-ndaa.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Legislative Disclosure And The Ndaa"
+    }
+  },
+  {
+    "file": "research/government-and-policy/nga.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Nga"
+    }
+  },
+  {
+    "file": "research/government-and-policy/ndaa-biological-evidence.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ndaa Biological Evidence"
+    }
+  },
+  {
+    "file": "research/government-and-policy/nsa.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Nsa"
+    }
+  },
+  {
+    "file": "research/government-and-policy/collapsing-coverup-modern-disclosure.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Collapsing Coverup Modern Disclosure"
+    }
+  },
+  {
+    "file": "research/government-and-policy/advanced-intelligence.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Advanced Intelligence"
+    }
+  },
+  {
+    "file": "research/theories/alcubierre-drive-metric-engineering.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "alcubierre drive metric engineering"
+    }
+  },
+  {
+    "file": "research/theories/hynek-classification-system.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Hynek Classification System"
+    }
+  },
+  {
+    "file": "research/theories/theory-of-psychic-quanta.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "theory of psychic quanta"
+    }
+  },
+  {
+    "file": "research/theories/morphogenesis.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Morphogenesis"
+    }
+  },
+  {
+    "file": "research/theories/non-local-consciousness.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Non Local Consciousness"
+    }
+  },
+  {
+    "file": "research/theories/advanced-propulsion-physics.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "advanced propulsion physics"
+    }
+  },
+  {
+    "file": "research/theories/fermi-paradox.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "fermi paradox"
+    }
+  },
+  {
+    "file": "research/theories/frequency-wave-theory.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "frequency wave theory"
+    }
+  },
+  {
+    "file": "research/theories/interdimensional-hypothesis.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "interdimensional hypothesis"
+    }
+  },
+  {
+    "file": "research/theories/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Theoretical Frameworks for UAP/NHI",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "theories",
+        "uap"
+      ],
+      "tags": [
+        "interdimensional",
+        "fermi-paradron",
+        "quantum-gravity",
+        "morphogenesis"
+      ],
+      "summary": "A collection of theoretical models, paradoxes, and frameworks used to explain the nature, origin, and presence of UAP and NHI."
+    }
+  },
+  {
+    "file": "research/theories/topological-geometrodynamics.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "topological geometrodynamics"
+    }
+  },
+  {
+    "file": "research/theories/quantum-vacuum-physics.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "quantum vacuum physics"
+    }
+  },
+  {
+    "file": "research/theories/biological-technological-convergence.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "biological technological convergence"
+    }
+  },
+  {
+    "file": "research/theories/non-local_consciousness.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "non local consciousness"
+    }
+  },
+  {
+    "file": "research/theories/the-ultraterrestrial-hypothesis.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "the ultraterrestrial hypothesis"
+    }
+  },
+  {
+    "file": "research/theories/morphogenetic_fields.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "morphogenetic fields"
+    }
+  },
+  {
+    "file": "research/theories/advanced-propulsion-convergence.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "advanced propulsion convergence"
+    }
+  },
+  {
+    "file": "research/theories/the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "the interdimensional hypothesis vs extraterrestrial hypothesis"
+    }
+  },
+  {
+    "file": "research/theories/the-great-filter.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "the great filter"
+    }
+  },
+  {
+    "file": "research/organizations/ttsa.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "ttsa"
+    }
+  },
+  {
+    "file": "research/organizations/aaro.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Aaro"
+    }
+  },
+  {
+    "file": "research/organizations/sri.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "sri"
+    }
+  },
+  {
+    "file": "research/organizations/skunk-works.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "skunk works"
+    }
+  },
+  {
+    "file": "research/organizations/denison-university.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "denison university"
+    }
+  },
+  {
+    "file": "research/organizations/lockheed-corporation.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "lockheed corporation"
+    }
+  },
+  {
+    "file": "research/organizations/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Organizations & Agencies in UAP Research",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "organizations",
+        "uap"
+      ],
+      "tags": [
+        "intelligence",
+        "aerospace",
+        "defense",
+        "research"
+      ],
+      "summary": "An overview of intelligence agencies, aerospace corporations, and research bodies involved in UAP study or technology development."
+    }
+  },
+  {
+    "file": "research/organizations/advanced-aerospace-intelligence-integration.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Advanced Aerospace Intelligence Integration"
+    }
+  },
+  {
+    "file": "research/organizations/raytheon.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Raytheon"
+    }
+  },
+  {
+    "file": "research/organizations/martin-marietta.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "martin marietta"
+    }
+  },
+  {
+    "file": "research/organizations/northrop-grumman.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Northrop Grumman"
+    }
+  },
+  {
+    "file": "research/organizations/disclosure-project.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "disclosure project"
+    }
+  },
+  {
+    "file": "research/organizations/keylogic.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "keylogic"
+    }
+  },
+  {
+    "file": "research/organizations/condon-committee.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "condon committee"
+    }
+  },
+  {
+    "file": "research/organizations/lockheed-martin.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Lockheed Martin"
+    }
+  },
+  {
+    "file": "research/organizations/nicap.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "nicap"
+    }
+  },
+  {
+    "file": "research/physics/the-enerintics-of-the-universe-zero-point-vacuum-energy.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "The Enerintics Of The Universe Zero Point Vacuum Energy"
+    }
+  },
+  {
+    "file": "research/physics/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Physics of Anomalous Phenomena",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "physics",
+        "uap"
+      ],
+      "tags": [
+        "propulsion",
+        "vacuum-energy",
+        "electrogravitics"
+      ],
+      "summary": "Overview of physical principles, energetic frameworks, and propulsion theories related to UAP observations."
+    }
+  },
+  {
+    "file": "research/physics/propulsion_and_advanced_physics_research.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "propulsion and advanced physics research"
+    }
+  },
+  {
+    "file": "research/places/al-taqaddum-air-base.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Al Taqaddum Air Base"
+    }
+  },
+  {
+    "file": "research/places/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Anomalous Locations & Bases",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "places",
+        "uap"
+      ],
+      "tags": [
+        "bases",
+        "geography",
+        "skinwalker-ranch",
+        "military-sites"
+      ],
+      "summary": "A survey of geographically significant sites, known for high UAP activity, anomalous physical properties, or military interest."
+    }
+  },
+  {
+    "file": "research/places/skinwalker-ranch.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "skinwalker ranch"
+    }
+  },
+  {
+    "file": "research/places/wright-patterson-afb.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "wright patterson afb"
+    }
+  },
+  {
+    "file": "research/places/sea-of-marmara.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "sea of marmara"
+    }
+  },
+  {
+    "file": "research/places/yeni-kent-facility.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "yeni kent facility"
+    }
+  },
+  {
+    "file": "research/biology/quantum-biology-research.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Quantum Biology Research"
+    }
+  },
+  {
+    "file": "research/biology/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Biology of Anomalous Phenomena",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "biology",
+        "uap"
+      ],
+      "tags": [
+        "xenobiology",
+        "plasma-life",
+        "quantum-biology"
+      ],
+      "summary": "Research into biological implications, plasma-based lifeforms, and the intersection of quantum biology with anomalous phenomena."
+    }
+  },
+  {
+    "file": "research/biology/plasma-based-life.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Plasma Based Life"
+    }
+  },
+  {
+    "file": "research/biology/biological-psychological-impacts-nhi.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Biological Psychological Impacts Nhi"
+    }
+  },
+  {
+    "file": "research/technologies/biefeld-brown-effect.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Biefeld Brown Effect"
+    }
+  },
+  {
+    "file": "research/technologies/sentient-ai-systems.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Sentient Ai Systems"
+    }
+  },
+  {
+    "file": "research/technologies/arleigh-burke-class-destroyer.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Arleigh Burke Class Destroyer"
+    }
+  },
+  {
+    "file": "research/technologies/electrohydrodynamics.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Electrohydrodynamics"
+    }
+  },
+  {
+    "file": "research/technologies/starlink.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Starlink"
+    }
+  },
+  {
+    "file": "research/technologies/integrated-multi-domain-detection.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Integrated Multi Domain Detection"
+    }
+  },
+  {
+    "file": "research/technologies/electrogravitic-propulsion-history.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Electrogravitic Propulsion History"
+    }
+  },
+  {
+    "file": "research/technologies/electrogravitics-plasma-based-propulsion.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Electrogravitics Plasma Based Propulsion"
+    }
+  },
+  {
+    "file": "research/technologies/digital-and-cyber-phenomena.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Digital And Cyber Phenomena"
+    }
+  },
+  {
+    "file": "research/technologies/dielectric-pumps.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Dielectric Pumps"
+    }
+  },
+  {
+    "file": "research/technologies/advanced-propulsion-convergence-plasma-bio-electronic.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Advanced Propulsion Convergence Plasma Bio Electronic"
+    }
+  },
+  {
+    "file": "research/technologies/satellite-constellation-anomalies.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Satellite Constellation Anomalies"
+    }
+  },
+  {
+    "file": "research/technologies/propulsion-summary.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Propulsion Summary"
+    }
+  },
+  {
+    "file": "research/technologies/arleigh-burke.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Arleigh Burke"
+    }
+  },
+  {
+    "file": "research/technologies/anomalous-aerial-vehicles.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Anomalous Aerial Vehicles"
+    }
+  },
+  {
+    "file": "research/technologies/ion-propulsion.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ion Propulsion"
+    }
+  },
+  {
+    "file": "research/technologies/biological-interface-technologies.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "biological interface technologies"
+    }
+  },
+  {
+    "file": "research/technologies/xenobot.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Xenobot"
+    }
+  },
+  {
+    "file": "research/technologies/an-spy-1-radar.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "An Spy 1 Radar"
+    }
+  },
+  {
+    "file": "research/technologies/synthetic-biology.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Synthetic Biology"
+    }
+  },
+  {
+    "file": "research/technologies/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Advanced Technologies & Detection Systems",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "technologies",
+        "uap"
+      ],
+      "tags": [
+        "propulsion",
+        "sensor-fusion",
+        "stealth",
+        "electrogravitics"
+      ],
+      "summary": "Research into advanced propulsion, signature detection, sensor fusion, and the intersection of biology and technology in UAP contexts."
+    }
+  },
+  {
+    "file": "research/technologies/vls.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Vls"
+    }
+  },
+  {
+    "file": "research/technologies/propulsion-systems-overview.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Propulsion Systems Overview"
+    }
+  },
+  {
+    "file": "research/technologies/electrokinetics-propulsion.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Electrokinetics Propulsion"
+    }
+  },
+  {
+    "file": "research/technologies/electrogravitics.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Electrogravitics"
+    }
+  },
+  {
+    "file": "research/technologies/transmedium-phenomena.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Transmedium Phenomena"
+    }
+  },
+  {
+    "file": "research/technologies/multi-domain-sensor-fusion-architectures.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Multi Domain Sensor Fusion Architectures"
+    }
+  },
+  {
+    "file": "research/technologies/ticonderoga-class-cruiser.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ticonderoga Class Cruiser"
+    }
+  },
+  {
+    "file": "research/technologies/bio-electronic-propulsion.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Bio Electronic Propulsion"
+    }
+  },
+  {
+    "file": "research/technologies/project-have-blue.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Project Have Blue"
+    }
+  },
+  {
+    "file": "research/technologies/biomimetic_tech.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "biomimetic tech"
+    }
+  },
+  {
+    "file": "research/technologies/bioelectric-signaling.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Bioelectric Signaling"
+    }
+  },
+  {
+    "file": "research/technologies/radar-data-research.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Radar Data Research"
+    }
+  },
+  {
+    "file": "research/technologies/project-convergence-and-senior-officials-report.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Project Convergence And Senior Officials Report"
+    }
+  },
+  {
+    "file": "research/technologies/rq-170-sentinel.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Rq 170 Sentinel"
+    }
+  },
+  {
+    "file": "research/technologies/advanced-carbon-based-materiality.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Advanced Carbon Based Materiality"
+    }
+  },
+  {
+    "file": "research/technologies/aegis-combat-system.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Aegis Combat System"
+    }
+  },
+  {
+    "file": "research/technologies/sensor-fusion-for-uap-detection.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Sensor Fusion For Uap Detection"
+    }
+  },
+  {
+    "file": "research/technologies/non-electromagnetic-detection.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Non Electromagnetic Detection"
+    }
+  },
+  {
+    "file": "research/technologies/f-117-nighthawk.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "F 117 Nighthawk"
+    }
+  },
+  {
+    "file": "research/technologies/metamaterials-low-observable-stealth-cloaking.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Metamaterials Low Observable Stealth Cloaking"
+    }
+  },
+  {
+    "file": "research/technologies/u-2.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "U 2"
+    }
+  },
+  {
+    "file": "research/technologies/remote_id_vulnerabilities.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Remote Id Vulnerabilities"
+    }
+  },
+  {
+    "file": "research/entities/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Anomalous Entities & NHI",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "entities",
+        "uap"
+      ],
+      "tags": [
+        "annunaki",
+        "nhi",
+        "extraterrestrial"
+      ],
+      "summary": "Research into the characteristics, origins, and proposed identities of non-human entities."
+    }
+  },
+  {
+    "file": "research/entities/annunaki.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Annunaki"
+    }
+  },
+  {
+    "file": "research/cases/kumburgaz-ufo.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Kumburgaz Ufo"
+    }
+  },
+  {
+    "file": "research/cases/apollo-mission-sightings.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Apollo Mission Sightings"
+    }
+  },
+  {
+    "file": "research/cases/battle-of-los-angeles-1942.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Battle Of Los Angeles 1942"
+    }
+  },
+  {
+    "file": "research/cases/the-roswell-incident-1947.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "The Roswell Incident 1947"
+    }
+  },
+  {
+    "file": "research/cases/ww2-foo-fighters.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Ww2 Foo Fighters"
+    }
+  },
+  {
+    "file": "research/cases/uss-princeton.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Uss Princeton"
+    }
+  },
+  {
+    "file": "research/cases/nimitz-encounter.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Nimitz Encounter"
+    }
+  },
+  {
+    "file": "research/cases/the-orange-orb-encounter-2025.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "The Orange Orb Encounter 2025"
+    }
+  },
+  {
+    "file": "research/cases/uss-nimitz-2004-encounter.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Uss Nimitz 2004 Encounter"
+    }
+  },
+  {
+    "file": "research/cases/summary.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Summary"
+    }
+  },
+  {
+    "file": "research/cases/tic-tac-ucav-uap.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Tic Tac Ucav Uap"
+    }
+  },
+  {
+    "file": "research/cases/recovered-biologics.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Recovered Biologics"
+    }
+  },
+  {
+    "file": "research/cases/mothman-prophecies.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Mothman Prophecies"
+    }
+  },
+  {
+    "file": "research/cases/the-phoenix-lights-1997.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "The Phoenix Lights 1997"
+    }
+  },
+  {
+    "file": "research/cases/pascagoula-incident.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Pascagoula Incident"
+    }
+  },
+  {
+    "file": "research/books/book-of-enoch.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Book Of Enoch"
+    }
+  },
+  {
+    "file": "research/books/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Literature Review & Key Texts",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "books",
+        "uap"
+      ],
+      "tags": [
+        "literature",
+        "historical-texts",
+        "esoteric"
+      ],
+      "summary": "A curated collection of foundational texts, books, and manuscripts that provide historical or investigative context for the phenomenon."
+    }
+  },
+  {
+    "file": "research/programs/project-blue-book.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "project blue book"
+    }
+  },
+  {
+    "file": "research/programs/mk-ultra.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "mk ultra"
+    }
+  },
+  {
+    "file": "research/programs/summary.md",
+    "status": "exists",
+    "data": {
+      "title": "Historical UAP Programs",
+      "date": "2026-06-08",
+      "status": "review",
+      "source": "Internal Synthesis",
+      "categories": [
+        "programs",
+        "uap"
+      ],
+      "tags": [
+        "blue-book",
+        "aatip",
+        "mk-ultra",
+        "intelligence"
+      ],
+      "summary": "An overview of historical and contemporary government programs related to the investigation, study, and management of UAP."
+    }
+  },
+  {
+    "file": "research/programs/aatip.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "Aatip"
+    }
+  },
+  {
+    "file": "research/programs/project-sign.md",
+    "status": "exists",
+    "data": {
+      "categories": [],
+      "date": "2026-06-08",
+      "source": null,
+      "status": "draft",
+      "summary": "Summary pending.",
+      "tags": [],
+      "title": "project sign"
+    }
+  }
+]

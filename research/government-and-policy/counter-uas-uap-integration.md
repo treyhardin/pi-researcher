@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Counter Uas Uap Integration
 ---
 
-# Research Report: The Convergence of Counter-UAS and UAP Operations
+---title: counter uas uap integration
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Research Report: The Convergence of Counter-UAS and UAP Operations
 
 ## Abstract
 As the proliferation of Unmanned Aerial Systems (UAS) becomes a defining characteristic of modern conflict, the distinction between "drone" and "unidentified aerial phenomena" (UAP) is increasingly blurred. This report examines the operational convergence of Counter-Unmanned Aircraft Systems (C-UAS) and UAP identification, analyzing how the emergence of low-cost, autonomous, and low-observable aerial threats necessitates a unified approach to threat detection, tracking, and neutralization.

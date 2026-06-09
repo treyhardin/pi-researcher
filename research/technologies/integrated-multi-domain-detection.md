@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Integrated Multi Domain Detection
 ---
 
-# Research Draft: Integrated Multi-Domain Detection Architectures
+---title: integrated multi domain detection
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Research Draft: Integrated Multi-Domain Detection Architectures
 ## Sensor Fusion for Advanced UAP Identification
 
 ### Overview
@@ -21,7 +34,7 @@ UAPs often exhibit **transmedium capabilities** and **low-observable (stealth) s
 - **Reference:** `research/technologies/radar_data_research.md`
 
 #### 2. Sensor Fusion Algorithms
-- **Bayesian Inference & Machine Learning:** Utilizing AI-driven systems for real-time pattern recognition across sensor streams.
+- **Bayesian Inference & Machine Learning:** Utilizing AI-driven systems for real-time pattern recognition across sensor streams, leveraging foundations established in [[technologies/multi-domain-sensor-fusion-architectures]].
 - **Edge Processing:** Implementing low-latency detection at the sensor level to reduce "signal noise" from sources like **Starlink**.
 - **Reference:** `research/technologies/sensor-fusion-for-uap-detection.md`
 

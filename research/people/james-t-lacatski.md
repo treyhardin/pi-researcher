@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [aawsap, dia, whistleblower, uap]
-related_cases: []
-related_entities: [[david-grusch], [luis-elizondo], [ryan-graves], [aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: James T Lacatski
 ---
-# Dr. James T. Lacatski
+
+---title: james t lacatski
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- aawsap
+- dia
+- uap
+- whistleblower
+summary: ''
+---# Dr. James T. Lacatski
 
 
 ## Summary

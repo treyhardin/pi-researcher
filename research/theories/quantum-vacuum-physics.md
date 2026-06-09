@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: quantum vacuum physics
+---
+
 # Quantum Vacuum Physics
 
 Quantum vacuum physics explores the properties of the vacuum state in quantum field theory, where the vacuum is not empty but filled with fluctuations of energy and particles.

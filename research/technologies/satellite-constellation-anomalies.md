@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Satellite Constellation Anomalies
 ---
 
-# Satellite Constellation Anomalies
+---title: satellite constellation anomalies
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Satellite Constellation Anomalies
 
 ## Summary
 Recent observations have identified significant, uncharacterized anomalies within global satellite constellations, ranging from widespread Global Navigation Satellite System (GNSS) interference to mysterious signal emissions from classified networks. These anomalies represent a critical frontier in UAP research, as they suggest either unidentified technological interference (potentially from adversarial nation-states or advanced non-human intelligence) or a new class of space-based phenomena that directly impacts the efficacy of global positioning and communication systems.

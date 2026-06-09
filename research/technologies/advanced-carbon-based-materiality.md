@@ -1,9 +1,13 @@
 ---
-type: technology
-tags: [advanced_materials, carbon_nanocode, graphene, aerospace, stealth]
-related_technologies: [[metamaterials-low-observable-stealth-cloaking], [synthetic-biology], [non-electromagnetic-detection]],
-related_theories: [[theories/biological-technological-convergence]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Advanced Carbon Based Materiality
 ---
+
 # Advanced Carbon-based Materiality
 
 ## Summary

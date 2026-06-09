@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Ticonderoga Class Cruiser
 ---
 
-# Ticonderoga-class Cruiser
+---title: ticonderoga class cruiser
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Ticonderoga-class Cruiser
 
 ## Summary
 The Ticonderoga-class of guided-missile cruisers is a class of warships for the United States Navy, serving as a key component of the fleet's high-end air and missile defense capabilities. Originally planned as destroyers, they were reclassified as cruisers due to their increased combat capability provided by the Aegis Combat System and the AN/SPY-1 radar. These ships are designed for multi-mission warfare, including anti-air, anti-submarine, and anti-surface warfare, and are capable of operating as flagships for battle groups.

@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Bioelectric Signaling
 ---
 
-# Bioelectric Signaling
+---title: bioelectric signaling
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Bioelectric Signaling
 
 ## Summary
 Bioelectric signaling is the process by which cells use endogenous electrical potentials (voltage gradients) to communicate and regulate biological processes. Unlike traditional biochemical signaling (using hormones or neurotransmitters), bioelectric signaling involves the movement of ions across cell membranes, creating measurable electrical fields. This mechanism is fundamental to morphogenesis, tissue regeneration, and the coordination of multicellular organisms.

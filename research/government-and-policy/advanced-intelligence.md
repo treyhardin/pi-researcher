@@ -1,10 +1,27 @@
 ---
-type: intelligence
-tags: [aerospace_intelligence, reconnaissance, stealth, ISR, national_security]
-related_technologies: [[u-2], [f-117-nighthawk]]
-related_organizations: [[government-and-policy/nro-research]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Advanced Intelligence
 ---
-# Advanced Aerospace Intelligence Integration
+
+---title: advanced intelligence
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- intelligence
+tags:
+- ISR
+- aerospace_intelligence
+- national_security
+- reconnaissance
+- stealth
+summary: ''
+---# Advanced Aerospace Intelligence Integration
 
 ## Introduction
 The intersection of aerospace engineering and intelligence operations represents one of the most critical frontiers of national security. The development of advanced flight capabilities—ranging from high-scale reconnaissance to stealth-optimized air superiority—is inextricably linked to the capacity for effective Intelligence, Surveillance, and Reconnaissance (ISR). This report explores the evolution of this nexus, from the high-altitude era of the Cold War to the modern era of autonomous, space-integrated systems.

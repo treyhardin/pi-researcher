@@ -1,10 +1,23 @@
 ---
-type: MOC
-domain: public
-description: A map of content for research into the public dimension of the phenomenon, including media, societal impact, and public disclosure.
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Summary
 ---
 
-# Public Research Map of Content (MOC)
+---title: summary
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- MOC
+- public
+tags: []
+summary: ''
+---# Public Research Map of Content (MOC)
 
 This MOC serves as a central hub for researching the public-facing aspects of the phenomenon, including media coverage, societal impacts, and the process of public disclosure.
 

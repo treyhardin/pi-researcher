@@ -1,26 +1,34 @@
 ---
-type: MOC
-domain: physics
-description: A map of content for research into the physical, energetic, and quantum mechanical aspects of the phenomenon.
+title: Physics of Anomalous Phenomena
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- physics
+- uap
+tags:
+- propulsion
+- vacuum-energy
+- electrogravitics
+summary: Overview of physical principles, energetic frameworks, and propulsion theories
+  related to UAP observations.
 ---
 
-# Physics Map of Content (MOC)
+# ⚛️ Physics of Anomalous Phenomena (MOC)
 
-This MOC serves as a central hub for research into the physical, energetic, and quantum mechanical implications of the phenomenon. It explores theoretical frameworks such as zero-point energy, vacuum fluctuations, and the potential for advanced propulsion technologies.
+This Map of Content (MOC) serves as the central node for research into the physical foundations and theoretical frameworks surrounding Unintented Anomalous Phenomena (UAP). The focus is on non-classical mechanics, vacuum energy interaction, and advanced propulsion physics.
 
-## ⚛️ Quantum & Energetic Frameworks
-Research into the fundamental physical properties and energy states associated with anomalous phenomena.
-- [[physics/the-enerintics-of-the-universe-zero-point-vacuum-energy]]
-- [[theories/quantum-vacuum-physics]]
+## 🚀 Core Research Domains
 
-## 🚀 Propulsion & Advanced Physics
-Exploring the intersection of theoretical physics and advanced aerospace technologies, such as electrogravitics and vacuum-based propulsion.
-- [[physics/propulsion_and_advanced_physics_research]]
-- [[theories/advanced-propulsion-physics]]
-- [[theories/alcubierre-drive-metric-engineering]]
+### 1. Energetics & Vacuum Dynamics
+Exploration of the role of Zero-Point Energy (ZPE) and vacuum fluctuations in providing the energetic basis for anomalous phenomena.
+* [[research/the-enerintics-of-the-universe-zero-point-vacuum-energy|**Zero-Point Vacuum Energy**]] - Research into energy extraction and field interactions.
+
+### 2. Advanced Propulsion Systems
+Investigation into the mechanisms of motion that bypass or manipulate conventional aerodynamic and hydrodynamic constraints.
+* [[research/propulsion_and_advanced_physics_research|**Advanced Propulsion Research**]] - Overview of research into non-Newtonian propulsion models.
 
 ## 🔗 Related Domains
-- [[biology/summary]]
-- [[technologies/summary]]
-- [[theories/summary]]
-- [[cases/summary]]
+* [[research/index|**Main Index**]]
+* [[research/technologies|**Technologies**]]
+* [[research/theories|**Theories**]]

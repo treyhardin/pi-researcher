@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [biologist, synthetic-biology, bioelectricity, xenobots]
-related_cases: []
-related_entities: [[xenobot], [synthetic-biology], [electrogravitics]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Michael Levin
 ---
-# Michael Levin
+
+---title: michael levin
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- bioelectricity
+- biologist
+- synthetic-biology
+- xenobots
+summary: ''
+---# Michael Levin
 
 ## Summary
 Michael Levin is a prominent researcher in the fields of developmental bioelectricity, synthetic biology, and the study of collective intelligence. His work focuses on how cellular networks use bioelectric signaling to regulate pattern formation, morphogenesis, and the construction of complex living structures. He is particularly well-known for his pioneering work with **Xenobots**—synthetic, biological machines created from frog embryonic cells. His research explores the concept of "diverse intelligence" and how intelligence can emerge and operate across various biological scales, from single cells to multicellular organisms.

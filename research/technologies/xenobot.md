@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Xenobot
 ---
 
-# Xenobot
+---title: xenobot
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Xenobot
 
 ## Summary
 Xenobots are synthetic, living machines created by combining different types of cells from the clawed frog (*Xenopus laevis*). They are designed using computer-driven evolutionary algorithms and are capable of performing specific tasks, such as moving through a medium or collecting microplastics. They represent a convergence of synthetic biology and soft robotics.

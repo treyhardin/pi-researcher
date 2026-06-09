@@ -1,11 +1,29 @@
 ---
-type: case
-tags: [uap, tic-tac, navy, 2004, nimitz, fravor]
-related_people: [[people/david-fravor]]
-related_cases: []
-related_technologies: [[technologies/an-spy-1-radar]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Nimitz Encounter
 ---
-# Nimitz Encounter (2004)
+
+---title: nimitz encounter
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '2004'
+- '[''people/david-fravor'']'
+- fravor
+- navy
+- nimitz
+- tic-tac
+- uap
+summary: ''
+---# Nimitz Encounter (2004)
 
 ## Summary
 The "Nimitz encounter" refers to a series of highly significant and well-documented Unidentified Aerial Phenomena (UAP) sightings that took place in November 2004. During this period, the USS Nimitz Carrier Strike Group (CSG-11), operating off the coast of Southern California, encountered multiple unidentified objects with extraordinary flight characteristics. The incident is often referred to as the "Tic-Tac" encounter due to the shape of the observed objects. This event has become a cornerstone of the modern UAP disclosure movement, involving high-ranking Navy pilots and leading to investigations by programs like [[programs/aatip]].

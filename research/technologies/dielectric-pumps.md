@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Dielectric Pumps
 ---
 
-# Dielectric Pumps
+---title: dielectric pumps
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Dielectric Pumps
 
 ## Summary
 Dielectric pumps, specifically Electrohydrodynamic (EHD) pumps, are devices that utilize electric fields to move fluids or gases. They operate by converting electrical energy directly into kinetic energy through the movement of ions and neutral particles within a fluid, a process closely related to the Biefeld-Brown effect and the phenomena of ionic wind and electrohydrodynamics.

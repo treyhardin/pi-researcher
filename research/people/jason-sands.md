@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [whistleblower, usaf, uap_encounter, uap_programs]
-related_cases: []
-related_entities: [[people/david-grusch]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Jason Sands
 ---
-# Jason Sands
+
+---title: jason sands
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- uap_encounter
+- uap_programs
+- usaf
+- whistleblower
+summary: ''
+---# Jason Sands
 
 ## Summary
 Jason Sands is a retired U.S. Air Force Master Sergeant and whistleblower who has come forward with claims regarding his involvement in clandestine UAP/NHI programs and personal encounters with non-human intelligence.

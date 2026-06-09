@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: wright patterson afb
+---
+
 # Wright-Patterson Air Force Base (WPAFB)
 
 ## Overview

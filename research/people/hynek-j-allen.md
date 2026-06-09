@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [astronomer, ufologist, blue_book, close_encounters]
-related_cases: []
-related_entities: [[programs/project-blue-book]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Hynek J Allen
 ---
-# Dr. J. Allen Hynek
+
+---title: hynek j allen
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- astronomer
+- blue_book
+- close_encounters
+- ufologist
+summary: ''
+---# Dr. J. Allen Hynek
 
 ## Biography
 J. Allen Hynek (1919–1980) was an American astronomer and ufologist. He is most famous for his work as the scientific advisor to the United States Air Force's **[[programs/project-blue-book]]**.

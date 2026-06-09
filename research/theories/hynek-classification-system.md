@@ -1,4 +1,21 @@
-# Hynek Classification System
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Hynek Classification System
+---
+
+---title: hynek classification system
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Hynek Classification System
 
 ## Summary
 The Hynek Classification System is a foundational framework in UFOlogy used to categorize Unidentified Anomalous Phenomena (UAP) encounters based on the level of physical interaction, environmental impact, and the presence of animated entities. Developed by **Dr. J. Hall Allen Hynek** in 1972, it moved the field from vague descriptions to a structured taxonomy.

@@ -1,10 +1,23 @@
 ---
-type: MOC
-domain: cases
-description: A map of content for documented UAP/UFO encounters and historical cases.
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Summary
 ---
 
-# Cases Map of Content (MOC)
+---title: summary
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- MOC
+- cases
+tags: []
+summary: ''
+---# Cases Map of Content (MOC)
 
 This MOC serves as a centralized hub for all documented UAP/UFO encounters, ranging from historically significant events (like the Roswell Incident) to modern, high-profile military sightings (like the 2004 Nimitz encounter). It organizes cases by era, complexity, and the nature of the evidence provided.
 
@@ -21,10 +34,15 @@ Significant cases involving individual or group encounters, often including phys
 ## 🌌 Mass Sightings & Large-Scale Events
 Events characterized by multiple witnesses across wide geographic areas.
 - [[cases/the-phoenix-lights-1997]]
+- [[cases/ww2-foo-fighters]]
 
 ## 🚀 Space-Based & Orbital Observations
 Research into anomalous phenomena observed during extra-atmospheric missions.
 - [[cases/apollo-mission-sightings]]
+
+## 🕵️ Unidentified Craft & Anomalies
+- [[cases/kumburgaz-ufo]]
+- [[cases/the-orange-orb-encounter-2025]]
 
 ## 🔗 Related Domains
 - [[people/summary]]

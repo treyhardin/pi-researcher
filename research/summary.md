@@ -1,10 +1,23 @@
 ---
-type: MOC
-domain: overview
-description: A high-level, thematic synthesis of all research findings within the repository.
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Summary
 ---
 
-# Phenomenon Research Overview: Integrated Summary
+---title: summary
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- MOC
+- overview
+tags: []
+summary: ''
+---# Phenomenon Research Overview: Integrated Summary
 
 This document provides a high-level, thematic synthesis...
 

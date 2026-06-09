@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [pascagoula_incident, witness, 1973, mississippi]
-related_cases: [[cases/pascagoula-incident]]
-related_entities: [[calvin-parker], [the-hickson-tapes]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Hickson Incident
 ---
-# Charles Hickson
+
+---title: hickson incident
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- '1973'
+- mississippi
+- pascagoula_incident
+- witness
+summary: ''
+---# Charles Hickson
 
 ## Summary
 Charles Hickson was a primary witness to the 1973 Pascagoula incident, one of the most famous and well-documented close-encounter/abduction cases in UAP history.

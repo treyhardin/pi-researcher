@@ -1,9 +1,29 @@
 ---
-type: research
-tags: [mythology, archetypes, cross-cultural, vedic, mesoamerican, oceanic, sky-deity]
-related_cultures: [[Vedic], [Mesoamerican], [Oceanic]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Global Mythologies Archetypes
 ---
-# Global Mythologies & Archetypes: Sky Deities and Celestial Visitors
+
+---title: global mythologies archetypes
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- mythology
+tags:
+- archetypes
+- cross-cultural
+- mesoamerican
+- mythology
+- oceanic
+- sky-deity
+- vedic
+summary: ''
+---# Global Mythologies & Archetypes: Sky Deities and Celestial Visitors
 
 This research document explores the recurring motifs and archements found across different mythological traditions regarding sky deities and celestial phenomena.
 

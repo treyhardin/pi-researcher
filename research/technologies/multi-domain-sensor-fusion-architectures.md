@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Multi Domain Sensor Fusion Architectures
 ---
 
-# Multi-Domain Sensor Fusion Architectures
+---title: multi domain sensor fusion architectures
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Multi-Domain Sensor Fusion Architectures
 
 ## Summary
 This research explores the architecture, implementation, and significance of sensor fusion within multi-domain operations (MDO), with specific applications in aerospace, defense, UAP (Unidentified Anomalous Phenomena) detection, and electronic warfare. The core objective of these architectures is to integrate heterogeneous data streams (EO, IR, Radar, RF, GNSS, etc.) to create a unified, resilient, and real-time operational picture.

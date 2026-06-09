@@ -1,61 +1,52 @@
 ---
-type: MOC
-domain: technologies
-description: A map of content for research into advanced propulsion, materials, sensing, and electronic technologies related to the phenomenon.
+title: Advanced Technologies & Detection Systems
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- technologies
+- uap
+tags:
+- propulsion
+- sensor-fusion
+- stealth
+- electrogravitics
+summary: Research into advanced propulsion, signature detection, sensor fusion, and
+  the intersection of biology and technology in UAP contexts.
 ---
 
-# Technologies Map of Content (MOC)
+# 🛠️ Advanced Technologies & Detection Systems (MOC)
 
-This MOC serves as a central hub for research into the cutting-edge and theoretical technologies that define the phenomenon. It spans from established aerospace systems (Aegis, F-117) to highly theoretical propulsion concepts (Electrogravitics, Plasma-based propulsion) and the integration of multi-domain sensor fusion for UAP detection.
+This Map of Content (MOC) serves as a central repository for research into technologies used for both phenomena observation (detection/sensing) and theoretical phenomena manifestation (propulsion/materials).
 
 ## 🚀 Propulsion & Energetics
-Exploring the physics and mechanisms behind advanced propulsion, including electric, ion, and theoretical gravitational-manipulation technologies.
-- [[technologies/electrogravitics]]
-- [[technologies/electrogravitics-plasma-based-propulsion]]
-- [[technologies/electrohydrodynamics]]
-- [[technologies/electrokinetics-propulsion]]
-- [[technologies/ion-propulsion]]
-- [[technologies/biefeld-brown-effect]]
-- [[technologies/dielectric-pumps]]
+Investigation into non-Newtonian, electrodynamic, and high-energy propulsion mechanisms.
+* [[research/electrogravitics|**Electrogravitics**]] - Research into gravity-linked electromagnetic effects.
+* [[research/biefeld-brown-effect|**Biefeld-Brown Effect**]] - High-voltage electrostatic thrust phenomena.
+* [[research/electrohydrodynamics|**Electrohydrodynamics (EHD)**]] - Ion wind and plasma-based propulsion models.
+* [[research/ion-propulsion|**Ion Propulsion**]] - Advanced electric propulsion research.
 
-## 🛡️ Materials & Stealth (Low-Observable)
-Research into advanced materials, such as metamaterials and radar-absorbent coatings, that enable stealth and potentially anomalous flight characteristics.
-- [[technologies/metamaterials-low-observable-stealth-cloaking]]
-- [[technologies/f-117-nighthawk]]
-- [[technologies/project-have-blue]]
-- [[technologies/rq-170-sentinel]]
-- [[technologies/advanced-carbon-based-materiality]]
+## 📡 Detection & Sensor Fusion
+Research into the sensors, architectures, and signatures involved in UAP tracking and identification.
+* [[research/sensor-fusion-for-uap-detection|**Sensor Fusion for UAP Detection**]] - Integrating multi-domain sensor data (radar, EO/IR, acoustic).
+* [[research/aegis-combat-system|**Aegis Combat System**]] - Analysis of naval radar and tracking capabilities.
+* [[research/radar-data-research|**Radar Data Research**]] - Review of anomalous radar returns and signatures.
+* [[research/multi-domain-sensor-fusion-architectures|**Multi-Domain Sensor Fusion Architectures**]] - Structural approaches to wide-area surveillance.
 
-## 📡 Sensing, Detection & Radar
-Investigating the radar, sensor fusion, and electronic warfare (EW) technologies used for the detection and monitoring of anomalous phenomena.
-- [[technologies/anomalous-aerial-vehicles]]
-- [[technologies/aegis-combat-system]]
-- [[technologies/an-spy-1-radar]]
-- [[technologies/arleigh-burke]]
-- [[technologies/ticonderoga-class-cruiser]]
-- [[technologies/vls]]
-- [[technologies/multi-domain-sensor-fusion-architectures]]
-- [[technologies/sensor-fusion-for-uap-detection]]
-- [[technologies/radar-data-research]]
-- [[technologies/non-electromagnetic-detection]]
-- [[technologies/starlink]]
-- [[technologies/remote_id_vulnerabilities]]
+## 🧬 Advanced Materials & Bio-Tech
+The role of metamaterials, advanced carbon structures, and synthetic biology in anomalous phenomena.
+* [[research/metamaterials-low-observable-stealth-cloaking|**Metamaterials & Stealth**]] - Research into low-observable (LO) technologies and cloaking.
+* [[research/synthetic-biology|**Synthetic Biology**]] - The intersection of engineered biology and anomalous findings.
+* [[research/xenobot|**Xenobot Research**]] - Biological robotics and extreme bio-engineering.
 
-## 🧬 Biological & Cybernetic Integration
-Exploring the intersection of advanced biology, synthetic biology, and cybernetic systems with the phenomenon.
-- [[technologies/synthetic-biology]]
-- [[technologies/xenobot]]
-- [[technologies/bio-electronic-propulsion]]
-- [[technologies/bioelectric-signaling]]
-- [[technologies/digital-and-cyber-phenomena]]
-
-## 🔗 Convergence & Intersection
-The intersection of biological and technological domains, focusing on bio-electronic and plasma-based interfaces.
-- [[biology/plasma-based-life]]
-- [[biology/quantum-biology-research]]
+## ✈️ Platforms & Aerospace Assets
+Analysis of aircraft, vessels, and satellite constellations involved in or observing the phenomenon.
+* [[research/f-117-nighthawk|**F-117 Nighthawk**]] - Stealth technology and historical significance.
+* [[research/u-2|**U-2 Spy Plane**]] - High-altitude reconnaissance capabilities.
+* [[research/starlink|**Starlink & Satellite Constellations**]] - The role of mega-constellations in orbital monitoring.
 
 ## 🔗 Related Domains
-- [[cases/summary]]
-- [[physics/summary]]
-- [[theories/summary]]
-- [[government-and-policy/summary]]
+* [[research/index|**Main Index**]]
+* [[research/physics|**Physics**]]
+* [[research/theories|**Theories**]]
+* [[research/biology|**Biology**]]

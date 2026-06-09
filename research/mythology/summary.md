@@ -1,27 +1,40 @@
 ---
-type: MOC
-domain: mythology
-description: A map of content for research into ancient myths, legends, and their potential relation to anomalous phenomena.
+title: Mythology & Ancient Astronaut Theory
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- mythology
+- uap
+tags:
+- ancient-astronauts
+- archeology
+- folklore
+- anunnaki
+summary: Exploration of ancient myths, legends, and archaeological anomalies that
+  suggest historical contact with non-human intelligences.
 ---
 
-# Mythology Map of Content (Mag)
+# 🏺 Mythology & Ancient Astronaut Theory (MOC)
 
-This MOC serves as a central hub for research into how ancient mythologies, legends, and religious texts provide a symbolic and historical framework for understanding anomalous phenomena. It connects ancient narratives of celestial beings and powerful deities to modern-day UAP/NHI observations.
+This Map of Content (MOC) organizes research into the intersection of ancient human mythology and the potential historical presence of Non-Human Intelligence (NHI).
 
-## 📜 Mesopotamian & Near Eastern Narratives
-Exploring the hierarchies, conflicts, and creation stories that involve high-level divinity and human intervention.
-- [[entities/annunaki]]
-- [[mythology/igigi]]
+## 🔱 Sumerian & Mesopotamian Narratives
+Investigation into the accounts of powerful, non-human entities in early human civilizations.
+* [[research/anunnaki-igigi-relationship|**Anunnaki & Igigi Relationship**]] - The dynamics between ancient Mesopotamian deities and their roles.
+* [[research/igigi.md|**The Igigi**]] - Focus on the lesser gods/entities in Sumerian myth.
+* [[research/atrahasis-epic|**Atrahasis Epic**]] - Examining flood myths and divine intervention.
 
-## 🏛️ Paleo-UAP & Anomalous Archaeology
-Investigating the potential intersection between unidentified anomalous phenomena and significant archaeological sites or artifacts.
-*(Placeholder for future research)*
+## 🗿 Archaeological & Paleontological Anomalies
+Research into physical structures and archaeological findings that suggest advanced ancient capabilities.
+* [[research/Paleo-UAP_&_Anomalous_Archaeology.md|**Paleo-UAP & Anomalous Archaeology**]] - Studying artifacts and sites with unexplained precision or scale.
 
-## 🐉 Global Mythologies & Archetypes
-Research into common themes across various cultures regarding "sky gods," "dragon" motifs, and celestial visitors.
-- [[mythology/global-mythologies-archetypes]]
+## 🐉 Folklore & Global Archetypes
+Universal themes in human mythology that align with modern UAP descriptions.
+* [[research/global-mythologies-archetypes.md|**Global Mythology Archetypes**]] - Cross-cultural patterns of "sky gods" and "celestial visitors."
+* [[research/hangar-18-legend|**Hangar 18 Legend**]] - Modern folklore related to secret aerospace facilities.
 
 ## 🔗 Related Domains
-- [[entities/summary]]
-- [[books/summary]]
-- [[sociology-culture/summary]]
+* [[research/index|**Main Index**]]
+* [[research/entities|**Entities**]]
+* [[research/cases|**Case Studies**]]

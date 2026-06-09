@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [pascagoula_incident, witness, 1973, mississippi]
-related_cases: [[cases/pascagoula-incident]]
-related_entities: [[people/charles-hickson]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Calvin Parker
 ---
-# Calvin Parker
+
+---title: calvin parker
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- '1973'
+- mississippi
+- pascagoula_incident
+- witness
+summary: ''
+---# Calvin Parker
 
 ## Summary
 Calvin Parker was one of the two primary witnesses to the famous 1973 Pascagoula UFO incident. Alongside Charles Hickson, he claimed to have encountered a strange, glowing craft and was subsequently taken aboard by nonhuman entities while fishing near the Pascagula River in Mississippi.

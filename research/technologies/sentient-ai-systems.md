@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Sentient Ai Systems
 ---
 
-# Sentient AI Systems
+---title: sentient ai systems
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Sentient AI Systems
 
 The study of whether artificial intelligence (AI) can achieve consciousness or sentience. This research explores the intersection of neuroscientific theories (Global Workspace Theory, Integrated Information Theory), the development of benchmarks for Theory of Mind in LLMs, and the philosophical implications of AI as a "cognitive subject."
 

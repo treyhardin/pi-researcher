@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [astronomer, computer_scientist, interdimensional_hypothesis, control_system]
-related_cases: []
-related_entities: [[hynek-j-allen|J. Allen Hynek], [john-keel|John Keel], [organizations/sri|SRI]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Jacques Vallee
 ---
-# Jacques Vallée
+
+---title: jacques vallee
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- astronomer
+- computer_scientist
+- control_system
+- interdimensional_hypothesis
+summary: ''
+---# Jacques Vallée
 
 ## Summary
 Jacques Vallée is a French-born computer scientist, astronomer, venture capitalist, and a pioneering figure in the scientific study of Unidentified Anomalontous Phenomena (UAP). Originally trained in mathematics and astronomy, his career transitioned from professional observational astronomy and computer networking (including work on the ARPANET and the first computerized map of Mars for NASA) to becoming the most influential heterodox voice in the study of UFOs. He is known for moving the discourse from the Extraterrestrial Hypothesis (ETH) toward the Interdimensional Hypothesis (IUH) and the concept of a "control system."

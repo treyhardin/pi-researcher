@@ -1,10 +1,26 @@
 ---
-type: organization
-tags: [intelligence, sigint, nsa, uap]
-related_cases: []
-related_entities: [[aaro], [nro-research]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Nsa
 ---
-# National Security Agency (NSA) and UAP/UFO Intelligence
+
+---title: nsa
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- organization
+tags:
+- intelligence
+- nsa
+- sigint
+- uap
+summary: ''
+---# National Security Agency (NSA) and UAP/UFO Intelligence
 
 ## Summary
 The National Security Agency (NSA) plays a critical role in the collection, analysis, and preservation of signals intelligence (SIGINT) that may pertain to Unidentified Anomalous Phenomena (UAP) or Unidentified Flying Objects (UFO). Recent disclosures have revealed that the NSA has held significant, highly classified records related to UAP-related message traffic and sightings.
@@ -25,7 +41,7 @@ The intelligence held by the NSA focuses on the interception and analysis of ele
 ### 3. Role in the National Intelligence Community
 The NSA's capabilities are integral to the broader UAP intelligence framework, working alongside agencies such as:
 - **[[organizations/aaro|AARO (All-Domain Anomaly Resolution Office)]]:** The NSA provides SIGINT-related data that assists AARO in its mission to resolve and attribute UAP anomalies.
-- **[[nro|NRO (National Reconnaissance Office)]]:** Coordination in analyzing geospatial and signal-based detection capabilities.
+- **[[nro-research|NRO (National Reconnaissance Office)]]:** Coordination in analyzing geospatial and signal-based detection capabilities.
 
 ## Notable Documents & Sources
 - **NSA UAP/UFO COMINT Records (via Disclosure Foundation):** A 3gsub 34-page production of formerly TOP SECRET UMBRA records.

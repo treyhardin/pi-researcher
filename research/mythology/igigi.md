@@ -1,10 +1,26 @@
 ---
-type: mythology
-tags: [igigi, mesopotamia, atrahsis, subordinate-deities]
-related_entities: [[mythology/anunnaki-igigi-relationship]]
-related_epics: [[atrahasis-epic]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Igigi
 ---
-# Igigi
+
+---title: igigi
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- mythology
+tags:
+- atrahsis
+- igigi
+- mesopotamia
+- subordinate-deities
+summary: ''
+---# Igigi
 
 
 ## Summary

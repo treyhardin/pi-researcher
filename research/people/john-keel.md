@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [journalist, investigator, mothman, phenomenon]
-related_cases: []
-related_entities: [[jacques-vallee|Jacques Vallée], [hynek-j-allen|J. Allen Hynek]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: John Keel
 ---
-# John Keel
+
+---title: john keel
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- investigator
+- journalist
+- mothman
+- phenomenon
+summary: ''
+---# John Keel
 
 ## Summary
 John Keel was an American journalist and investigator renowned for his deep-dive investigations into the "phenomenon"—a complex web of UFO sightings, paranormal events, and supernatural occurrences. His work is characterized by a transition from traditional investigative journalism to a belief in a highly complex, seemingly purposeful, and potentially manipulative phenomenon that defies simple extraterrestrial or biological explanations.

@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [ufologist, nicap, researcher]
-related_cases: []
-related_entities: [[donald-e-keyhoe], [nicap]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Richard Hall
 ---
-# Richard Hall
+
+---title: richard hall
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- nicap
+- researcher
+- ufologist
+summary: ''
+---# Richard Hall
 
 ## Summary
 Richard H. Hall (1930–2009) was a prominent American ufologist and a key figure in the National Investigations Committee on Aerial Phenomena (NICAP). Known as "the dean of ufology," he was recognized for his scientific and skeptical approach to investigating UFO sightings. He served as the assistant director of NICAP and was a major contributor to the organization's documentation of the phenomenon, most notably through his work "The UFO Evidence."

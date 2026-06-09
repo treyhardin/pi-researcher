@@ -1,4 +1,21 @@
-# Raytheon (RTX)
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Raytheon
+---
+
+---title: raytheon
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Raytheon (RTX)
 
 ## Summary
 Raytheon (an RTX business) is a preeminent global aerospace and defense company that plays a pivotal role in the development of advanced sensing, radar, and electronic warfare (EW) technologies. Raytheon is significantly connected to the study and detection of Unidentified Anomalous Phenomena (UAP) due to its production of highly sensitive radar systems (such as the AN/APG-79 AESA) and advanced infrared sensors (such as the Advanced Targeting FLIR) which have been used by U.S. Navy pilots to detect and record anomalous aerial objects during notable encounters, including the 2004 Nimitz incident.

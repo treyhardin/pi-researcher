@@ -1,39 +1,43 @@
 ---
-type: MOC
-domain: organizations
-description: A map of content for research into organizations, research facilities, and legislative bodies involved in UAP study and management.
+title: Organizations & Agencies in UAP Research
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- organizations
+- uap
+tags:
+- intelligence
+- aerospace
+- defense
+- research
+summary: An overview of intelligence agencies, aerospace corporations, and research
+  bodies involved in UAP study or technology development.
 ---
 
-# Organizations Map of Content (MOC)
+# 🏢 Organizations & Agencies (MOC)
 
-This MOC serves as a central hub for research into the various organizations, research facilities, and legislative components involved in the investigation, management, and political landscape of the phenomenon. It tracks everything from government oversight offices (AARO) to private aerospace corporations (Lockheed Martin) and historical investigative committees.
+This Map of Content (MOC) organizes the various institutions that play a role in observing, researching, or developing technology related to the phenomenon.
 
-## 🏛️ Government & Oversight Bodies
-Official entities and legislative mandates tasked with investigating or regulating UAP and related technologies.
-- [[organizations/aaro]]
-- [[organizations/condon-committee]]
-- [[government-and-policy/ndaa-biological-evidence]]
+## 🏛️ Intelligence & Government Bodies
+Agencies and committees tasked with investigation, oversight, and intelligence collection.
+* [[research/aaro|**AARO**]] - All-domain Anomaly Resolution Office.
+* [[research/condon-committee|**Condon Committee**]] - Historical scientific investigation committee.
+* [[research/disclosure-project|**Disclosure Project**]] - Advocacy for transparency and public knowledge.
 
-## 🛸 Aerospace & Defense Corporations
-Major industrial players and advanced development programs involved in the aerospace, radar, and electronic warfare sectors.
-- [[organizations/lockheed-corporation]]
-- [[organizations/lockheed-martin]]
-- [[organizations/martin-marietta]]
-- [[organizations/northrop-grumman]]
-- [[organizations/raytheon]]
-- [[organizations/skunk-works]]
+## 🚀 Aerospace & Defense Corporations
+Major industrial players involved in advanced aerospace, platform development, and signature management.
+* [[research/lockheed-martin|**Lockheed Martin**]] - Major defense contractor with historically significant involvement.
+* [[research/northrop-grumman|**Northrop Grumman**]] - Aerospace leader in sensors and platforms.
+* [[research/skunk-works|**Skunk Works**]] - Advanced research and development division.
+* [[research/raytheon|**Raytheon**]] - Leader in radar, missiles, and electronic warfare systems.
 
-## 🔍 Private Research & Historical Organizations
-Private investigators, historical committees, and non-governmental research initiatives.
-- [[organizations/disclosure-project]]
-- [[organizations/nicap]]
-
-## 🔬 Research Facilities & Sites
-Specific locations and facilities where research, experiments, or significant encounters have been documented.
-- [[organizations/denison-university]]
-- [[places/yeni-kent-facility]]
+## 🔬 Research & Academia
+Institutions focused on the scientific study of anomalies and advanced physical properties.
+* [[research/sri|**SRI International**]] - Historical role in radar and signal research (e.g., Stargate).
+* [[research/denison-university|**Denison University**]] - Academic investigation into biological and environmental impacts.
 
 ## 🔗 Related Domains
-- [[cases/summary]]
-- [[government-and-policy/summary]]
-- [[technologies/summary]]
+* [[research/index|**Main Index**]]
+* [[research/people|**Key Figures**]]
+* [[research/government-and-policy|**Policy & Disclosure**]]

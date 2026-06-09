@@ -1,10 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
-related_theories: [[theories/advanced-propulsion-physics]]
+title: Ion Propulsion
 ---
 
-# Ion propulsion
+---title: ion propulsion
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Ion propulsion
 
 
 ## Summary

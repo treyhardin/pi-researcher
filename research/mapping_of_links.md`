@@ -1,0 +1,20 @@
+# Link Mapping & Resolution Table
+
+This file defines the mapping for fixing broken internal links within the `research/` directory and ensuring consistent nomenclature across the project.
+
+| Current/Broken Link | Standardized Target Path (File) | Reason / Note |
+| :--- | :--- | :--- |
+| `advanced-aerospace` | `organizations/advanced-aerospace_intelligence_integration.md` | Map common shorthand to formal organizational page. |
+| `theory_of_psychic_quanta` | `theories/theory-of-psychic-quanta.md` | Fix underscore usage in link; align with file system. |
+| `the_igigy` | `mythology/igigy.md` | Resolve prefix issue and correct character naming. |
+| `tgd` | `theories/topological-geometrodynamics.md` | Expand abbreviation to full, standard title. |
+| `j-allen-hynek` | `people/hynek-j-allen.md` | Standardize the "J. Allen Hynek" entry across all mentions. |
+| `project_grudge` | `programs/project-grudge.md` (or primary related file) | Verify content and map to appropriate program description (potentially requires new page or internal link). |
+| `dur_intelligence_agency` | `government-and-policy/intelligence-industrial-complex.md` | Likely typo for "defense-intelligence" or similar; resolving complex term. |
+| `the-role-of-technological_cultural_mediums_in_uap_perception` | `sociology-culture/the-role-of-technological-cultural-mediums-in-uap-perception.md` | Correct mix of hyphens and underscores in long link path. |
+| `sophisticated_biologics` | `theories/biological-technological-convergence.md` | Standardize search term for biological materials. |
+
+## Update Protocol:
+1. Identify links matching any "broken" entry above using a grep or script scan.
+2. Perform bulk replacements to the standard path defined in the right column. 
+3. Ensure all `[...]` anchor text is updated if appropriate, but preserve the core identification of the entity.

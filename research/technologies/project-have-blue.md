@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Project Have Blue
 ---
 
-# Project Have Blue
+---title: project have blue
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Project Have Blue
 
 The Lockheed Skunk Works technology demonstrator program that pioneered the use of faceted, radar-deflecting surfaces and radar-absorbent materials, directly leading to the development of the F-117 Nighthawk stealth fighter.
 

@@ -1,11 +1,26 @@
 ---
-type: evidence
-tags: [crop-circles, anomalous-geometry, communication, xenolinguistics]
-related_technologies: []
-related_biology: []
-related_protocols: [[protocols/xenolinguistics-communication-protocols]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Crop Circles Overview
 ---
-# Crop Circles: Origins, Theories, and Anomalies
+
+---title: crop circles overview
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- evidence
+tags:
+- anomalous-geometry
+- communication
+- crop-circles
+- xenolinguistics
+summary: ''
+---# Crop Circles: Origins, Theories, and Anomalies
 
 
 ## Summary

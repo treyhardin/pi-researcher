@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: the role of technological cultural mediums in uap perception
+---
+
 # The Role of "Technological/Cultural Mediums" in UAP Perception
 
 ## Summary

@@ -1,4 +1,21 @@
-# Vulnerabilities of Remote ID and RF-based Identification to Adversarial Spoofing
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Remote Id Vulnerabilities
+---
+
+---title: remote id vulnerabilities
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Vulnerabilities of Remote ID and RF-based Identification to Adversarial Spoofing
 
 ## Overview
 Remote Identification (RID) and Radio Frequency (RF) based identification systems are crucial for the safety and management of Unmanned Aerial Systems (UAS). However, these systems are highly vulnerable to adversarial manipulation, including spoofing, injection, and disruption, due to their reliance on unencrypted and unauthenticated broadcasting protocols.

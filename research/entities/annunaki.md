@@ -1,11 +1,28 @@
 ---
-type: entity
-tags: [annunaki, mesopotamia, sumer, sitchin, nibiru, ancient-astronauts]
-related_technologies: []
-related_biology: []
-related_mythology: [[books/book-of-enoch]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Annunaki
 ---
-# Annunaki
+
+---title: annunaki
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- entity
+tags:
+- ancient-astronauts
+- annunaki
+- mesopotamia
+- nibiru
+- sitchin
+- sumer
+summary: ''
+---# Annunaki
 
 ## Summary
 The Anunnaki are a group of deities from ancient Mesopotamian mythology (Sumerian, Akkadian, Assyrian, and Babylonian). While historically documented as powerful gods tasked with decreeing human fate, they have become the centerpiece of modern "ancient astronaut" theories, most notably promoted by Zecharia Sitchin, who claimed they were extraterrestrial beings from a planet named Nibiru.

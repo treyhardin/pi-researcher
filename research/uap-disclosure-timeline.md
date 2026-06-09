@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: uap disclosure timeline
+---
+
 # UAP Disclosure Timeline
 
 This document tracks the key milestones in the disclosure of Unidentified Anomalous Phenomena (UAP) to the public and government.
@@ -18,7 +28,7 @@ This document tracks the key milestones in the disclosure of Unidentified Anomal
 * **Congressional Hearings:** Various high-profile hearings featuring whistleblowers and intelligence officials.
 
 ## Key Players
-* [[people/louis-elizondo]]
+* [[people/luis-elizondo]]
 * [[people/david-grusch]] (if available)
 * [[organizations/defense-intelligence-agency]] (if available)
 

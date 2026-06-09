@@ -1,4 +1,21 @@
-# Advanced Aerospace Threat Identification Program (AATIP)
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Aatip
+---
+
+---title: aatip
+date: 202ass-06-08
+source: null
+status: draft
+categories: []
+tags: []
+summary: ''
+---# Advanced Aerospace Threat Identification Program (AATIP)
 
 ## Summary
 The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but unpublicized investigatory effort funded by the United States government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP). The program was active from approximately 2007 to 2012, operating under the Defense Intelligence Agency (DIA).

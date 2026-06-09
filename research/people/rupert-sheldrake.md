@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [biologist, morphic_resonance, morphic_fields]
-related_cases: []
-related_entities: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Rupert Sheldrake
 ---
-# Rupert Sheldrake
+
+---title: rupert sheldrake
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- biologist
+- morphic_fields
+- morphic_resonance
+summary: ''
+---# Rupert Sheldrake
 
 ## Overview
 Rupert Sheldrake is a British biologist known for his controversial hypothesis of **morphic resonance** and **morphic fields**. His work explores the idea that nature possesses a form of memory, and that the "laws of nature" are more akin to biological habits that are passed down through generations.

@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Arleigh Burke Class Destroyer
 ---
 
-# Arleigh Burke-class Destroyer (DDG 51)
+---title: arleigh burke class destroyer
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Arleigh Burke-class Destroyer (DDG 51)
 
 ## Summary
 The Arleigh Burke-class (DDG 51) is a series of guided-missile destroyers used by the United States Navy. Designed to provide multi-mission offensive and defensive capabilities in air, surface, and subsurface environments, the class is a cornerstone of modern naval warfare. It features the Aegis Combat System, advanced radar technologies, and a versatile armament capable of conducting anti-air, anti-surface, and anti-submarine warfare.

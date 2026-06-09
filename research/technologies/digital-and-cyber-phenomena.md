@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Digital And Cyber Phenomena
 ---
 
-# Digital & Cyber-Phenomena
+---title: digital and cyber phenomena
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Digital & Cyber-Phenomena
 
 ## Summary
 Exploration of how Unidentified Anomalous Phenomena (UAP/NHI) interact with, influence, and emerge within digital, cybernetic, and information-based systems. Key focus on Jacques Vallée's "control system" theory and the potential impact on electronic warfare (EW), cybersecurity, and artificial intelligence.

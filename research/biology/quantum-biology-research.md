@@ -1,10 +1,28 @@
 ---
-type: theory
-tags: [quantum-biology, photosynthesis, enzyme, tunneling, magnetoreception, DNA]
-related_technologies: []
-related_biology: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Quantum Biology Research
 ---
-# Quantum Biology: The Quantum Mechanical Foundation of Life
+
+---title: quantum biology research
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- theory
+tags:
+- DNA
+- enzyme
+- magnetoreception
+- photosynthesis
+- quantum-biology
+- tunneling
+summary: ''
+---# Quantum Biology: The Quantum Mechanical Foundation of Life
 
 ## Overview
 Quantum biology is an emerging field of study investigating whether previously dismissed quantum mechanical effects—such as tunneling, coherence, and entanglement—play functional roles in biological processes. While biological systems are traditionally viewed as "warm, wet, and noisy" environments that should trigger rapid decoherence, recent evidence suggests that evolution may have harnessed quantum phenomena to achieve remarkable efficiencies in energy transfer, sensing, and molecular stability.

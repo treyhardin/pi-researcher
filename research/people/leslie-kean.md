@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [journalist, author, uap_disclosure]
-related_cases: []
-related_entities: [[david-grusch], [ralph-blumenthal]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Leslie Kean
 ---
-# Leslie Kean
+
+---title: leslie kean
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- author
+- journalist
+- uap_disclosure
+summary: ''
+---# Leslie Kean
 
 ## Summary
 American investigative journalist and author who played a pivotal role in bringing UAP (Unidentified Aerial Phenomena) into the mainstream public and governmental discourse. Her investigative work, particularly her book *UFOs: Generals, Pilots, and Government Officials Go on the Record*, has been instrumental in the recent wave of UAP disclosure.

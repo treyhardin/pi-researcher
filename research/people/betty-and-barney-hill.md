@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [abduction, close_encounter, 1961, new_hampshire]
-related_cases: []
-related_entities: [[organizations/nicap]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Betty And Barney Hill
 ---
-# Betty and Barney Hill
+
+---title: betty and barney hill
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- '1961'
+- abduction
+- close_encounter
+- new_hampshire
+summary: ''
+---# Betty and Barney Hill
 
 ## Summary
 Betty and Barney Hill were an American couple whose 1961 encounter in New Hampshire became the first widely publicized account of an alien abduction. Their story, involving a close encounter with a UFO and a subsequent medical examination by humanoid beings, established the foundational template for modern UFO abduction lore.

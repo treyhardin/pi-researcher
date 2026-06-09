@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Uap Documentation History
 ---
 
-# Declassified Documents and the Paper Trail of UAP Research
+---title: uap documentation history
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Declassified Documents and the Paper Trail of UAP Research
 
 ## Overview
 The history of Unidentified Anomalous Phenomena (UAP) research is etched into the declassified archives of the United States Intelligence Community and Department of Defense. This document explores the evolution from early sightings to modern electronic detection.

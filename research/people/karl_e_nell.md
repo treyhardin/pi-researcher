@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [army, intelligence, whistleblower_support, uap_disclosure]
-related_cases: []
-related_entities: [[david-grusch], [aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Karl E Nell
 ---
-# Karl E. Nell
+
+---title: karl e nell
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- army
+- intelligence
+- uap_disclosure
+- whistleblower_support
+summary: ''
+---# Karl E. Nell
 
 ## Overview
 Colonel (Ret.) Karl E. Nell is a prominent figure in the discourse surrounding Unidentified Anomalous Phenomena (UAP) and Non-Human Intelligence (NHI). A retired U.S. Army Intelligence Officer and decorated veteran, Nell has leveraged his deep connections within the Pentagon and the aerospace industry to advocate for transparency and government disclosure regarding UAP.

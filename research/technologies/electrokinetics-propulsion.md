@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Use of electric fields to drive charged or polar particles in fluids, spanning micro-scale robotics to nano-thrusters for CubeSats.
 tags: []
+title: Electrokinetics Propulsion
 ---
 
-# Electrokinetics Propulsion
+---title: electrokinetics propulsion
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Electrokinetics Propulsion
 
 ## Summary
 Electrokinetics propulsion (EK propulsion) refers to a class of propulsion technologies that utilize the movement of charged or polar particles within a fluid (gas or liquid) driven by electric fields. It spans a vast range of scales, from the micro-scale propulsion of robotic systems in aqueous solutions to nano-scale thrusters used for the precise orbital corrections of small satellites (CubeSats) in space. It is closely associated with the historical development of electrogravitics and the work of T. Townsend Brown.

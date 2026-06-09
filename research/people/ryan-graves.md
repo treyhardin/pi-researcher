@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [uap_witness, navy_pilot, americans_for_safe_aerospace]
-related_cases: []
-related_entities: [[david-grusch], [david-fravor]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Ryan Graves
 ---
-# Ryan Graves
+
+---title: ryan graves
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- americans_for_safe_aerospace
+- navy_pilot
+- uap_witness
+summary: ''
+---# Ryan Graves
 
 ## Summary
 Ryan Graves is a former U.S. Navy F/A-18 pilot and the Executive Director of Americans for Safe Aerospace. He is a prominent witness to Unidentified Anomalint Anomalous Phenomena (UAP), having reported sustained, near-daily encounters in U.S. airspace starting in 2014. He provided significant testimony to the U.S. House Oversight Subcommittee in July 2023, advocating for increased transparency and investigating the safety implications of UAPs for military and commercial aviation.

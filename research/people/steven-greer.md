@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [ufologist, physician, disclosure_movement]
-related_cases: []
-related_entities: [[disclosure-project], [ce5-protocol]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Steven Greer
 ---
-# Steven Greer
+
+---title: steven greer
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- disclosure_movement
+- physician
+- ufologist
+summary: ''
+---# Steven Greer
 
 ## Summary
 Dr. Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He is a prominent figure in the UFO disclosure movement, known for founding several organizations dedicated to uncovering information about unidentified aerial phenomena (U_AP) and extraterrestrial intelligence.

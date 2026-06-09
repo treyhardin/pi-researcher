@@ -1,10 +1,26 @@
 ---
-type: mythology
-tags: [anunnaki-igigi, mesopotamia, atrahsis, mythology-hierarchy]
-related_entities: [[igigi], [anunnaki-igigi-relationship]]
-related_epics: [[atrahasis-epic]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Anunnaki Igigi Relationship
 ---
-# Anunnaki-Igigi Relationship
+
+---title: anunnaki igigi relationship
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- mythology
+tags:
+- anunnaki-igigi
+- atrahsis
+- mesopotamia
+- mythology-hierarchy
+summary: ''
+---# Anunnaki-Igigi Relationship
 
 
 ## Summary

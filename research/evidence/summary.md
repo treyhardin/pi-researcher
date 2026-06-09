@@ -1,26 +1,39 @@
 ---
-type: MOC
-domain: evidence
-description: A map of content for research into physical, electronic, and audio evidence of anomalous phenomena.
+title: Evidence & Instrumentation
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- evidence
+- uap
+tags:
+- radar
+- imagery
+- acoustic
+- electronic-warfare
+summary: Analysis of sensory data, imagery, and electronic signatures used to document
+  UAP.
 ---
 
-# Evidence Map of Content (MOC)
+# 👁️ Evidence & Instrumentation (MOC)
 
-This MOC serves as a central hub for researching various forms of evidence related to UAP/UFO encounters, specializing in audio recordings, sensor data, and the challenges of authenticating anomalous signals.
+This Map of Content (MOC) organizes the various types of physical evidence and sensor output captured during encounter events and broader monitoring.
 
-## 🎙️ Audio & Sensory Evidence
-Research into recordings, witness testimony, and other sensory data captured during incidents.
-- [[evidence/the-hickson-tapes]]
+## 📸 Visual & Imagery Evidence
+High-resolution imagery analysis, including satellite and ground-based photographic data.
+* [[research/satellite-imagery|**Satellite Imagery**]] - Analysis of orbital observation data.
+* [[research/arecibo-message-and-crop-circles|**Arecibo & Crop Circles**]] - Examining large-scale symbolic or anomalous land modifications.
 
-## 📡 Electronic & Sensor Signatures
-Investigating the technical challenges of detecting UAPs and distinguishing them from contemporary electronic warfare or sensor artifacts.
-- [[evidence/electronic-warfare-vs-uap]]
+## 📡 Electronic & Signal Intelligence (SIGINT)
+Analysis of electromagnetic, radio frequency, and electronic warfare signatures.
+* [[research/electronic-warfare-vs-uap|**Electronic Warfare vs UAP**]] - The intersection of EW techniques and anomaly detection.
+* [[research/the-hickson-tapes|**The Hickson Tapes**]] - Investigation into anomalous audio/signal recordings.
 
-## 🧬 Physical & Trace Evidence
-Research into biological, chemical, or debris-based evidence allegedly recovered from encounter sites.
-*(Placeholder for future research)*
+## 🌀 Phenomenological Artifacts
+Physical or patterned phenomena found in the environment.
+* [[research/crop-circles-overview|**Crop Circle Overview**]] - Systematic review of structural anomalies in agriculture.
 
 ## 🔗 Related Domains
-- [[cases/summary]]
-- [[technologies/summary]]
-- [[government-and-policy/summary]]
+* [[research/index|**Main Index**]]
+* [[research/cases|**Case Studies**]]
+* [[research/technologies|**Technologies**]]

@@ -1,11 +1,27 @@
 ---
-type: technology
-tags: [uap, aav, transmedium, five-observables, advanced-propulsion]
-related_cases: [[cases/uss-nimitz-2004-encounter]]
-related_technologies: [[electrogravitics], [advanced-propulsion-convergence-plasma-bio-electronic], [metamaterials-low-observable-stealth-cloaking]]
-related_biology: [[biology/plasma-based-life]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Anomalous Aerial Vehicles
 ---
-# Anomalous Aerial Vehicles (AAVs)
+
+---title: anomalous aerial vehicles
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags:
+- aav
+- advanced-propulsion
+- five-observables
+- transmedium
+- uap
+summary: ''
+---# Anomalous Aerial Vehicles (AAVs)
 
 ## Summary
 Anomalous Aerial Vehicles (AAVs) refer to unidentified objects, often categorized under Unidentified Anomalous Phenomena (UAP), that exhibit flight characteristics and technological signatures that are currently unexplainable by known conventional aerospace engineering. These vehicles are characterized by "impossible" maneuvers, such as extreme acceleration, sudden changes in direction, and transmedium capabilities (moving seamlessly between air, space, and water).

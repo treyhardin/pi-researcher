@@ -1,10 +1,25 @@
 ---
-type: agency
-tags: [intelligence, geospatial, uap_investigation]
-related_cases: []
-related_entities: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Nga
 ---
-# National Geospatial-Intelligence Agency (NGA)
+
+---title: nga
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- agency
+tags:
+- geospatial
+- intelligence
+- uap_investigation
+summary: ''
+---# National Geospatial-Intelligence Agency (NGA)
 
 The **National Geospatial-Intelligence Agency (NGA)** is a combat support agency within the United States Intelligence Community. It provides geospatial intelligence (GEOINT) to the Department of Defense and the Intelligence Community.
 

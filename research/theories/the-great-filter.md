@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: the great filter
+---
+
 # The Great Filter Hypothesis
 
 ## Summary
@@ -27,7 +37,7 @@ The search for technosignatures (evidence of technology, such as Dyson spheres o
 - **Artificial Superintelligence (ASI):** A potential "technological filter" that might destabilize civilizations.
 
 ## Related Research
-- [[technologies/electrogravitics-plasma-based-propulsion]]] - Investigates the physical mechanisms that could enable the very technology that would bypass such filters.
+- [[technologies/electrogravitics]] - Investigates the physical mechanisms that could enable the very technology that would bypass such filters.
 - [[post-biological-intelligence-synthetic-nhi]]] - Explores the nature of the intelligence that might exist on the other side of the filter.
 
 ## Sources

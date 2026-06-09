@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: private aerospace uap containment
+---
+
 # Private Aerospace Companies and UAP Information Containment
 
 ## Overview

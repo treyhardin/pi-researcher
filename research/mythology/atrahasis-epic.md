@@ -1,4 +1,26 @@
-# Atrahasis Epic
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Atrahasis Epic
+---
+
+---title: atrahasis epic
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- mythology
+tags:
+- akkadian-literature
+- atrahasis
+- flood-mythology
+- mesopotamia
+summary: ''
+---# Atrahasis Epic
 
 ## Overview
 The **Atrahasis Epic** is an ancient Mesopotamian epic poem that tells the story of the creation of humanity and the great flood. It is a significant piece of Akkadian literature, closely related to the *Epic of Gilgamesh* and the Biblical narrative of Noah.

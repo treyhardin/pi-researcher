@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Project Stargate
 ---
 
-# Project Stargate
+---title: project stargate
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Project Stargate
 
 ## Summary
 Project Stargate was a series of programs conducted by the United States intelligence community (including the CIA and DIA) to investigate the potential use of psychic phenomena, specifically "remote viewing," for intelligence collection. While the program's intelligence value was eventually deemed insufficient to justify continued standalone funding, its history is deeply intertwined with the study of anomalous phenomena and contemporary UAP research.

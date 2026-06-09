@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [intelligence, disclosure, defense, uap_advocate]
-related_cases: []
-related_entities: [[aaro], [disclosure-project]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Christopher Mellon
 ---
-# Christopher Mellon
+
+---title: christopher mellon
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- defense
+- disclosure
+- intelligence
+- uap_advocate
+summary: ''
+---# Christopher Mellon
 
 ## Summary
 Christopher Mellon is a prominent figure in the modern Uability of Unidentified Anomalous Phenomena (UAP) disclosure movement, leveraging his extensive background in the United States Intelligence Community to advocate for transparency regarding Unidentified Anomalous Phenomena (UAP). He served as the Deputy Assistant Secretary of Defense for Intelligence during the Clinton and George W. Bush administrations and was instrumental in bringing significant UAP footage, such as the "FLIR" and "Gimbal" videos, to public attention.

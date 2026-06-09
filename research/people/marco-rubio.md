@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [senator, intelligence, legislation, uap_disclosure]
-related_cases: []
-related_entities: [[aaro], [mike-rounds]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Marco Rubio
 ---
-# Senator Marco Rubio
+
+---title: marco rubio
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- intelligence
+- legislation
+- senator
+- uap_disclosure
+summary: ''
+---# Senator Marco Rubio
 
 ## Summary
 Senator Marco Rubio (R-FL) is a prominent figure in the legislative movement regarding Unidentified Anomalous Phenomena (UAP). Serving as the Vice Chairman of the Senate Select Committee on Intelligence, he has been a key architect of bipartisan efforts to increase transparency, strengthen oversight, and ensure the disclosure of significant UAP-related information within the U.S. government.

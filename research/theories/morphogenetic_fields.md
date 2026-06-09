@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: morphogenetic fields
+---
+
 # Morphogenetic Fields
 
 Morphogenetic fields are hypothesized non-local, collective memory or information transfer fields that influence the development and form of organisms.

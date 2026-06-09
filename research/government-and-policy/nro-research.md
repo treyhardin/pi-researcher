@@ -1,10 +1,26 @@
 ---
-type: organization
-tags: [intelligence, reconnaissance, space, nro]
-related_cases: []
-related_entities: [[cia], [nsa], [aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Nro Research
 ---
-# National Reconnaissance Office (NRO) and UAP Intelligence
+
+---title: nro research
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- organization
+tags:
+- intelligence
+- nro
+- reconnaissance
+- space
+summary: ''
+---# National Reconnaissance Office (NRO) and UAP Intelligence
 
 ## Summary
 The National Reconnaissance Office (NRO) plays a vital, though highly classified, role in the United States's ability to monitor and identify Unidentified Anomalous Phenomena (UAP). As the agency responsible for designing, building, launching, and operating the nation's reconnaissance satellites, the NRO provides the critical "eye in the sky" necessary for detecting phenomena across the atmosphere and space.

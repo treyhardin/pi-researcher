@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: biological interface technologies
+---
+
 # Biological-Interface Technologies and Neural Links: Evolutionary and Technological Intersection
 
 ## Overview

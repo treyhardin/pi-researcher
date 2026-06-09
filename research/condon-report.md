@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: condon report
+---
+
 # The Condon Report (1968)
 
 The **Condon Report**, officially titled *Scientific Study of Unidentified Flying Objects*, was the result of a large-scale scientific investigation into the nature of UFOs conducted by the **Condon Committee** between 1966 and 1968.

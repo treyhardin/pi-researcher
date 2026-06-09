@@ -1,42 +1,56 @@
 ---
-type: MOC
-domain: theories
-description: A map of content for research into the physical, biological, and cosmological theories explaining the phenomenon.
+title: Theoretical Frameworks for UAP/NHI
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- theories
+- uap
+tags:
+- interdimensional
+- fermi-paradron
+- quantum-gravity
+- morphogenesis
+summary: A collection of theoretical models, paradoxes, and frameworks used to explain
+  the nature, origin, and presence of UAP and NHI.
 ---
 
-# Theories Map of Content (MOC)
+# 🧠 Theoretical Frameworks (MOC)
 
-This MOC serves as a central hub for researching the various scientific, philosophical, and speculative theories that attempt to explain the nature, origin, and mechanism of Unidentified Anomalous Phenomena (UAP) and Non-Human Intelligence (NHI). It categorizes theories into cosmological, physical, and biological/consciousness-based frameworks.
+This Map of Content (MOC) organizes research into the various scientific, cosmological, and metaphysical frameworks proposed to explain the phenomenon of UAP and Non-Human Intelligence (NHI).
 
-## 🌌 Cosmological & Probabilistic Theories
-Investigating the large-scale implications of the presence of advanced intelligence in the universe.
-- [[theories/fermi-paradox]]
-- [[theories/the-great-filter]]
-- [[theories/the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis]]
+## 🌌 Cosmological & Evolutionary Paradoxes
+Research into the large-scale cosmic constraints on the presence of intelligent life.
+* [[research/fermi-paradox|**The Fermi Paradox**]] - The contradiction between high probability of life and lack of evidence.
+* [[research/the-great-filter.md|**The Great Filter**]] - Theoretical barriers to the development of advanced civilizations.
 
-## ⚛️ Physical & Propulsion-Based Theories
-Exploring advanced physics, space-time manipulation, and the mechanics of anomalous flight.
-- [[theories/advanced-propulsion-physics]]
-- [[theories/alcubierre-drive-metric-engineering]]
-- [[theories/frequency-wave-theory]]
-- [[theories/topological-geometrodynamics]]
-- [[technologies/advanced-propulsion-convergence-plasma-bio-electronic]]
+## 🛸 Hypotheses of Origin & Nature
+Core models describing the "where" and "what" of the phenomenon.
+* [[research/interdimensional-hypothesis|**Interdimensional Hypothesis (IH)**]] - The theory that UAP originate from alternate dimensions or branes.
+* [[research/the-ultraterrestrial-hypothesis|**The Ultraterrestrial Hypothesis**]] - Entities residing within Earth's biosphere but hidden from human perception.
+* [[research/the-interdimensional-hypothesis-vs-extraterrestrial-hypothesis|**IH vs ETH Comparison**]] - Comparative analysis of origin models.
 
-## 🧬 Biological, Consciousness, & Interdimensional Hypotheses
-Exploring the intersection of consciousness, biology, and other dimensions or realms of existence.
-- [[theories/interdimensional-hypothesis]]
-- [[theories/the-ultraterrestrial-hypothesis]]
-- [[theories/biological-technological-convergence]]
-- [[theories/non-local-consciousness]]
-- [[theory-of-psychic-implications]]
-- [[theories/morphogenesis]]
+## 🌊 Physical & Field-Based Theories
+Mathematical and physical models involving space-time manipulation, wave dynamics, and vacuum energy.
+* [[research/alcubierre-drive-metric-engineering|**Alcubierre Drive & Metric Engineering**]] - Warp drive mathematics and spacetime manipulation.
 
-## 📊 Classification & Frameworks
-Standardized systems for identifying and categorizing phenomena and encounters.
-- [[theories/hynek-classification-system]]
+* [[research/quantum-vacuum-physics|**Quantum Vacuum Physics**]] - Utilizing vacuum fluctuations for propulsion or energy.
+* [[research/frequency-wave-theory|**Frequency Wave Theory**]] - Models involving wave-based interaction with reality.
+* [[research/topological-geometrodynamics|**Topological Geometrodynamics (TGD)**]] - Advanced mathematical modeling of spacetime geometry.
+
+## 🧬 Biological & Consciousness Frameworks
+The intersection of life, consciousness, and field interactions.
+* [[research/morphogenesis|**Morphogenetic Fields**]] - The role of biological information fields.
+* [[research/non-local-consciousness|**Non-local Consciousness**]] - Exploring the link between consciousness and quantum entanglement in UAP context.
+* [[research/theory-of-psychic-quanta|**Theory of Psychic Quanta**]] - Exploring the informational qubit model within a non-local field.
+* [[research/biological-technological-convergence|**Biological-Technological Convergence**]] - The blurring lines between organic and synthetic life.
+
+## 📋 Classification & Methodology
+Systems for categorizing encounters and phenomena.
+* [[research/hynek-classification-system|**Hynek Classification System**]] - The foundational framework for categorized UAP sightings.
 
 ## 🔗 Related Domains
-- [[cases/summary]]
-- [[physics/summary]]
-- [[technologies/summary]]
-- [[entities/summary]]
+* [[research/index|**Main Index**]]
+* [[research/physics|**Physics**]]
+* [[research/biology|**Biology**]]
+* [[research/technologies|**Technologies**]]

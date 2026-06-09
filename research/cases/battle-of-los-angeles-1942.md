@@ -1,10 +1,26 @@
 ---
-type: case
-domain: cases
-description: A 1942 anti-aircraft barrage over Los Angeles targeting an unidentified object.
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Battle Of Los Angeles 1942
 ---
 
-# The Battle of Los Angeles (1942)
+---title: battle of los angeles 1942
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- '1942'
+- aa-barrage
+- battle-of-los-angeles
+- uap-observation
+summary: ''
+---# The Battle of Los Angeles (1942)
 
 ## Overview
 The "Battle of Los Angeles," also known as the **Great Los Angeles Air Raid**, occurred during the night of **February 24–25, 1942**, shortly after the United States entered World War II. It involved a massive barrage of anti-aircraft fire by U.S. Army batteries against an unidentified airborne object(s) over the city of Los Angeles.

@@ -1,10 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
-related_theories: [[theories/biological-technological-convergence]]
+title: Synthetic Biology
 ---
 
-# Synthetic Biology
+---title: synthetic biology
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# Synthetic Biology
 
 
 ## Summary

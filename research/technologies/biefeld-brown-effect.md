@@ -1,10 +1,27 @@
 ---
-type: technology
-tags: [biefeld-brown-effect, electrohydrodynamics, propulsion, thomas-townsend-brown]
-related_technologies: [[electrogravitics], [electrohydrodynamics], [bio-electronic-propulsion]]
-related_people: [[people/thomas-townsend-brown]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: The electrical phenomenon involving thrust generation via an asymmetric capacitor, historically linked to 'electrogravitics' and modernly understood as EHD.
+tags: []
+title: Biefeld Brown Effect
 ---
-# Biefeld-Brown Effect
+
+---title: biefeld brown effect
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags:
+- '[''people/thomas-townsend-brown'']'
+- biefeld-brown-effect
+- electrohydrodynamics
+- propulsion
+- thomas-townsend-brown
+summary: ''
+---# Biefeld-Brown Effect
 
 ## Summary
 The Biefeld-Brown effect is an electrical phenomenon discovered in the 1920s by Thomas Townsend Brown and Paul Alfred Biefeld. It involves a net propulsive force generated when high voltage is applied to the electrodes of an asymmetric capacitor, with the force acting toward the smaller electrode. While originally hypothesized as a form of "antigravity" or "electrogravitics," modern scientific consensus attributes much of the observed effect to electrohydrodynamics (EHD), specifically the "ionic wind" created by the movement of charged particles.
@@ -15,6 +32,11 @@ The effect occurs when an asymmetric capacitor (one electrode significantly smal
 ### Historical Context
 - **Discovery**: First noticed in the 1920s by Thomas Townsend Brown and Paul Alfred Biefeld.
 - **Electrogravitics**: Brown referred to the phenomenon as "electrogravitics," believing that electric fields could manipulate gravitational forces. This led to significant interest in the potential for gravity-defying propulsion.
+- **Key Historical Patents & Records**:
+    - **British Patent # 300,311 (1924) - "Gravitator"**: One of the earliest demonstrations of the interaction between electricity and gravitation using suspended lead balls.
+    - **US Patent 2,949,550 (1960) - "Electrokinetic Apparatus"**: Filed in 1958 by Brown, this patent describes devices leveraging electrical fields to produce thrust.
+    - **US Patent 3,187,206 (1965) - "Electrokinetic Apparatus"**: Further advancement in electrokinetic technology, assigned to Electrokinetics, Inc.
+    - **Office of Naval Research (ONR) Investigation (1952)**: The **Special Inquiry File #24-185** represents a significant official attempt to investigate Brown's "Electro-Gravity Device."
 - **Research Legacy**: Extensive research continued through the mid-20th century, influencing later developments in electric propulsion and even theoretical studies of space-time curvature.
 
 ### Scientific Explanations & Debates
@@ -45,8 +67,7 @@ Despite the controversy surrounding its fundamental nature, the principles of th
 - [[people/thomas-townsend-brown]]
 ### Technologies
 - [[technologies/electrogravitics]]
-- [[technologies/electrohydrodynamics]]
-## Sources
+- [[technologies/electrohydrodynamics]]## Sources
 - [Bief-Brown effect - Wikipedia](httpshttps://en.wikipedia.org/wiki/Biefeld-Brown_effect)
 - [Force on an Asymmetric Capacitor - DTIC](httpshttps://apps.dtic.mil/sti/tr/pdf/ADA416740.pdf)
 - [An analysis of the Brown–Biefeld effect - ScienceDirect](httpshttps://www.sciencedirect.com/science/article/abs/pii/S0304388611001367)

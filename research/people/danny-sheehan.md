@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [lawyer, disclosure, whistleblower_advocate, npi]
-related_cases: []
-related_entities: [[david-grusch], [aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Danny Sheehan
 ---
-# Danny Sheehan
+
+---title: danny sheehan
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- disclosure
+- lawyer
+- npi
+- whistleblower_advocate
+summary: ''
+---# Danny Sheehan
 
 ## Summary
 American constitutional attorney, public interest lawyer, and educator who is a leading figure in the movement for UAP (Unidentified Anomalous Phenomena) disclosure. As a prominent advocate, he represents whistleblowers and pushes for legislative action to compel government transparency regarding UAP programs.

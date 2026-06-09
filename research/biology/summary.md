@@ -1,28 +1,35 @@
 ---
-type: MOC
-domain: biology
-description: A map of content for biological and physiological aspects of the phenomenon.
+title: Biology of Anomalous Phenomena
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- biology
+- uap
+tags:
+- xenobiology
+- plasma-life
+- quantum-biology
+summary: Research into biological implications, plasma-based lifeforms, and the intersection
+  of quantum biology with anomalous phenomena.
 ---
 
-# Biology Map of Content (MOC)
+# 🧬 Biology of Anomalous Phenomena (MOC)
 
-This MOC serves as a central hub for research related to the biological, physiological, and theoretical biological implications of the phenomenon. It connects findings on human physiological impacts, plasma-based life theories, and the intersection of quantum mechanics and biology.
+This Map of Content (MOC) serves as the central node for research into the biological dimensions of UAP and NHI. The focus is on non-carbon-based life models, quantum biological processes, and the psychological impacts of encounters.
 
-## 🧬 Physiological & Psychological Impacts
-Research focusing on the physical and cognitive effects observed in witnesses and individuals following encounters with UAP/NHI.
-- [[biology/biological-psychological-impacts-nhi]]
+## 🔬 Core Research Domains
 
-## 🔬 Theoretical Biological Frameworks
-Exploring non-traditional biological models and the potential for non-carbon-based life.
-- [[biology/plasma-based-life]]
-- [[biology/quantum-biology-research]]
+### 1. Non-Traditional Life Models
+Exploration of theoretical frameworks for life existing in unconventional states or environments.
+* [[research/plasma-based-life|**Plasma-Based Life**]] - Investigation into lifeforms utilizing ionized gas/plasma as a substrate.
+* [[research/quantum-biology-research|**Quantum Biology Research**]] - Examining quantum effects (coherence, tunneling) in biological processes and their potential role in anomalous organisms.
 
-## 🔗 Convergence & Intersection
-The intersection of biological and technological domains, focusing on bio-electronic and plasma-based interfaces.
-- [[technologies/advanced-propulsion-convergence-plasma-bio-electronic]]
-- [[technologies/bio-electronic-propulsion]]
+### 🔬 2. Biological & Psychological Impact
+Analysis of the interface between biological entities and the effects of encounters on terrestrial biology and human psychology.
+* [[research/biological-psychological-impacts-nhi|**Biological & Psychological Impacts**]] - Study of physiological changes and psychological trauma/effects following NHI interactions.
 
 ## 🔗 Related Domains
-- [[physics/summary]]
-- [[theories/summary]]
-- [[technologies/summary]]
+* [[research/index|**Main Index**]]
+* [[research/theories|**Theories**]]
+* [[research/technologies|**Technologies**]]

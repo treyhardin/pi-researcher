@@ -1,9 +1,22 @@
 ---
-type: technology
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
 tags: []
+title: Ndaa Biological Evidence
 ---
 
-# NDAA Biological Evidence
+---title: ndaa biological evidence
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- technology
+tags: []
+summary: ''
+---# NDAA Biological Evidence
 
 ## Summary
 The National Defense Authorization Act (NDAA) has recently included pivotal amendments and provisions aimed at the disclosure of Unidentified Anomalable Phenomena (UAP) and potential non-human intelligence (NHI) evidence. A significant focus has been on the acquisition and oversight of recovered technologies and biological evidence.

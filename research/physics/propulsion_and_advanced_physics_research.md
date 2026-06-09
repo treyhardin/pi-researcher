@@ -1,3 +1,13 @@
+---
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: propulsion and advanced physics research
+---
+
 # Research: Propulsion & Advanced Physics (Electrogravitics & Vacuum Energy)
 
 ## 1. Electrogravitics

@@ -1,10 +1,26 @@
 ---
-type: person
-tags: [senator, intelligence, legislation, uap_disclosure]
-related_cases: []
-related_entities: [[people/marco-rubio]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Mike Rounds
 ---
-# Senator Mike Rounds
+
+---title: mike rounds
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- intelligence
+- legislation
+- senator
+- uap_disclosure
+summary: ''
+---# Senator Mike Rounds
 
 ## Summary
 U.S. Senator Mike Rounds (R-SD) is a key legislative figure in the movement for transparency regarding Unidentified Anomalologous Phenomena (UAP). He has been a leading advocate for legislative efforts to mandate the disclosure of UAP-related information to the public and Congress.

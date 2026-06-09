@@ -1,46 +1,46 @@
 ---
-type: MOC
-domain: people
-description: A map of content for research into notable figures, whistleblowers, and researchers related to the phenomenon.
+title: Key Figures in UAP Research
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- people
+- uap
+tags:
+- whistleblower
+- researcher
+- contactee
+- intelligence
+summary: Biographical and research data on key individuals involved in the study,
+  disclosure, and witnessing of UAP.
 ---
 
-# People Map of Content (MOC)
+# 👥 Key Figures in UAP Research (MOC)
 
-This MOC serves as a central hub for all primary figures, researchers, and whistleblowers documented within this repository. It organizes individuals based on their roles, ranging from military pilots and eyewitnesses to intelligence officials and academic researchers.
+This Map of Content (MOC) organizes information regarding pivotal figures across different domains of the phenomenon.
 
-## 🛡️ Whistleblowers & Intelligence Officials
-Individuals who have provided testimony, leaked information, or shared insights regarding government programs and the management of UAP/NHI information.
-- [[people/christopher-mellon]]
-- [[people/david-grusch]]
-- [[people/luis-elizondo]]
-- [[people/sean-kirkpatrick]]
-- [[people/ralph-blumenthal]]
-- [[people/danny-sheehan]]
-- [[people/jason-sands]]
-- [[people/tim-gallaudet]]
-- [[people/dylan-borland]]
-- [[people/james-t-lacatski]]
+## 🔓 Whistleblowers & Disclosers
+Individuals who have provided testimony or released information from within intelligence and government sectors.
+* [[research/david-grusch|**David Grusch**]] - US Intelligence official and whistleblower.
+* [[research/luis-elizondo|**Luis Elizondo**]] - Former AATIP leader and disclosure advocate.
 
-## 👨‍✈️ Military Pilots & Eyewitnesses
-Service members and personnel who have personally encountered anomalous objects or experienced phenomena during flight operations.
-- [[people/david-fravor]]
-- [[people/ryan-graves]]
+## 🔬 Researchers & Scientists
+Academics, scientists, and investigators who have applied methodical study to the phenomenon.
+* [[research/hynek-j-allen|**J. Allen Hynek**]] - Founder of modern UAP classification systems.
+* [[research/jacques-vallee|**Jacques Vallée**\\]] - Pioneer in UFO studies and interdimensional theories.
+* [[research/edward-condon|**Edward Condon**]] - Lead investigator of the Condon Committee.
+* [[research/michael-levin|**Michael Levin**]] - Researcher in bio-electricity and xenobiology.
 
-## 🔬 Academic & Scientific Researchers
-Scientists and researchers investigating the physical, biological, or theoretical implications of the phenomenon.
-- [[people/michael-levin]]
-- [[people/hal-puthoff]]
-- [[people/jacques-vallee]]
-- [[people/rupert-sheldrake]]
+## 🎖️ Military & Government Personnel
+Observers and officials from defense, intelligence, and legislative backgrounds.
+* [[research/david-fravor|**David Fravor**]] - Pilot of the famous 'Tic Tac' encounter.
+* [[research/marco-rubio|**Marco Rubio**]] - Legislative involvement in UAP transparency.
 
-## 📜 Historical & Investigative Figures
-Researchers, authors, and investigators who have documented and analyzed the phenomenon over the decades.
-- [[people/john-keel]]
-- [[people/hynek-j-allen]]
-- [[people/leslie-kean]]
+## 📜 Historical Contactees & Witnesses
+Individuals involved in historical or foundational contact and sighting reports.
+* [[research/betty-and-barney-hill|**Betty and Barney Hill**]] - Foundational abduction case.
 
 ## 🔗 Related Domains
-- [[cases/summary]]
-- [[entities/summary]]
-- [[technologies/summary]]
-- [[government-and-policy/summary]]
+* [[research/index|**Main Index**]]
+* [[research/organizations|**Organizations**]]
+* [[research/government-and-policy|**Policy & Disclosure**]]

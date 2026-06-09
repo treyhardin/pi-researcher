@@ -1,26 +1,41 @@
 ---
-type: MOC
-domain: government-and-policy
-description: A map of content for research into national security, aerospace warfare, and UAP policy frameworks.
+title: Government & Policy Landscape
+date: '2026-06-08'
+status: review
+source: Internal Synthesis
+categories:
+- government-and-policy
+- uap
+tags:
+- legislation
+- disclosure
+- intelligence
+- ndaa
+summary: Research into the legislative, intelligence, and policy frameworks governing
+  UAP investigations and disclosure.
 ---
 
-# Government and Policy Map of Content (MOC)
+# ⚖️ Government & Policy (MOC)
 
-This MOC serves as a central hub for research into the intersection of national security, advanced aerospace warfare, and the evolving policy landscapes surrounding Unidentified Anomal                ous Phenomena (UAP). It explores how technological advances and legislative mandates are reshaping disclosure and identification.
+This Map of Content (MOC) organizes research related to the legal, political, and intelligence-based landscape surrounding UAP disclosure and regulation.
 
-## 🛡️ National Security & Aerospace Warfare
-Research into the impact of UAS/EW on identification and the military implications of anomalous flight characteristics.
-- [[government-and-policy/the-evolution-of-anomaly-in-the-age-of-uas-ew]]
+## 📜 Legislation & Disclosure Policy
+Analysis of laws, mandates, and policy shifts that drive transparency and public access to information.
+* [[research/legislative-disclosure-and-the-ndaa|**NDAA & Legislative Mandates**]] - The role of the National Defense Authorization Act in UAP disclosure.
+* [[research/collapsing-coverup-modern-disclosure|**The Modern Disclosure Movement**]] - The shift toward transparency in the 21st century.
 
-## ⚖️ Policy, Legislation, and Disclosure
-Investigating the structural shifts in secrecy, including legislative actions, executive directives, and the "transparency effect."
-- [[government-and-policy/collapsing-coverup-modern-disclosure]]
+## 🛡️ Intelligence & Oversight
+Investigation into the roles played by various intelligence agencies and their surveillance capabilities.
+* [[research/cia|**CIA & Intelligence Analysis**]] - Historical and modern role of signals and human intelligence.
+* [[research/nro-research|**NRO & Satellite Surveillance**]] - Role of National Reconnaissance Office in detecting orbital anomalies.
+* [[research/nsa|**NSA & Signal Oversight**]] - Electronic and signal monitoring capabilities.
 
-## 📂 Declassification & Transparency
-*(Placeholder for future research into declassified intelligence and public reporting mandates)*
+## 🚀 Aerospace Policy & Integration
+The intersection of policy with aerospace industry operations and operational integration.
+* [[research/counter-uas-uap-integration|**C-UAS/UAP Integration**]] - Integrating anomaly tracking into existing defense architectures.
+/ [[research/private-aerospace-uap-containment|**Private Aerospace Containment**]] - Managing findings within the commercial aerospace sector.
 
 ## 🔗 Related Domains
-- [[cases/summary]]
-- [[technologies/summary]]
-- [[government-and-policy/summary]]
-- [[organizations/summary]]
+* [[research/index|**Main Index**]]
+* [[research/organizations|**Organizations**]]
+* [[research/people|**Key Figures**]]

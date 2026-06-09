@@ -1,11 +1,27 @@
 ---
-type: case
-tags: [uap, ww2, foo-fighters, aerial-phenomena, historical]
-related_cases: []
-related_technologies: []
-related_people: []
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Ww2 Foo Fighters
 ---
-# WWII Foo Fighters (Aerial Phenomena) Research
+
+---title: ww2 foo fighters
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- case
+tags:
+- aerial-phenomena
+- foo-fighters
+- historical
+- uap
+- ww2
+summary: ''
+---# WWII Foo Fighters (Aerial Phenomena) Research
 
 ## Overview
 The "Foo Fighters" refers to unidentified aerial phenomena (UAP/UFO) reported by Allied and Axis aircraft pilots during World War II. The term was used to describe mysterious, glowing objects that appeared to follow aircraft during combat and night missions.

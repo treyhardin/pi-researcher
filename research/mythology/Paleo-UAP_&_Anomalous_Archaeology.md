@@ -1,8 +1,39 @@
 ---
-type: mythology
-tags: [paleo-uap, anomalous-archaeology, cryptoterrestrial, ancient-astronauts]
-related_theories: [[interdimensional-hypothesis], [the-ultraterrestrial-hypothesis]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Paleo Uap & Anomalous Archaeology
 ---
+
+---title: Paleo UAP & Anomalous Archaeology
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- mythology
+tags:
+- ancient-astronauts
+- anomalous-archaeology
+- cryptoterrestrial
+- paleo-uap
+summary: ''
+------
+type: mythology
+description: Examination of anomalous archaeology and potential contact with ancient non-human intelligence (Paleo-UAP).
+tags: [paleo-uap, anomalous-archaeology, cryptoterrestrial, ancient-astronauts]
+related: [[interdimensional-hypothesis], [the-ultraterrestrial-hypothesis]]
+---
+
+---
+type: mythology
+description: Examination of anomalous archaeology and potential contact with ancient non-human intelligence (Paleo-UAP).
+tags: [paleo-uap, anomalous-archaeology, cryptoterrestrial, ancient-astronauts]
+related: [[interdimensional-hypothesis], [the-ultraterrestrial-hypothesis]]
+---
+
 # Paleo-UAP & Anomalont Archaeology
 
 ## Overview

@@ -1,10 +1,25 @@
 ---
-type: person
-tags: [aaro, dod, uap_investigation]
-related_cases: []
-related_entities: [[organizations/aaro]]
+categories: []
+date: '2026-06-08'
+source: null
+status: draft
+summary: Summary pending.
+tags: []
+title: Jon Kosloski
 ---
-# Jon Kosloski
+
+---title: jon kosloski
+date: '2026-06-08'
+source: null
+status: draft
+categories:
+- person
+tags:
+- aaro
+- dod
+- uap_investigation
+summary: ''
+---# Jon Kosloski
 
 ## Summary
 Dr. Jon Kosloski is the Director of the All-domain Anomaly Resolution Office (AARO), the U.S. Department of Defense's (DoD) official office responsible for investigating Unidentified Anomalous Phenomena (UAP). He assumed this role in August 202
