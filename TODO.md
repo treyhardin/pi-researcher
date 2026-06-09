@@ -13,10 +13,10 @@ This document tracks the transformation of the research folder from a hierarchic
   - [x] Map inter-linkages between related MOCs
 
 ## ⚪ Pending Tasks
-- [ ] Consolidate redundant technology and propulsion documents
-  - [ ] Audit `technology/` and `propulsion/` to identify overlapping files
-  - [ ] Extract unique data from duplicates into consolidated "hub" docs
-  - [ ] Update all incoming references to point to the new primary sources
+- [x] Consolidate redundant technology and propulsion documents
+  - [x] Audit `technology/` and `propulsion/` to identify overlapping files
+  - [x] Extract unique data from duplicates into consolidated "hub" docs
+  - [x] Update all incoming references to point to the new primary sources
 - [ ] Ensure all research sub-directories have an entry point (index.md or MOC.md)
 ...
 - [ ] Ensure all research sub-directories have an entry point (index.md or MOC.md)
