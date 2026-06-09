@@ -11,19 +11,17 @@ This document tracks the transformation of the research folder from a hierarchic
   - [x] Identify and define primary knowledge hubs
   - [x] Develop draft content for each MOC
   - [x] Map inter-linkages between related MOCs
-
-## ⚪ Pending Tasks
 - [x] Consolidate redundant technology and propulsion documents
   - [x] Audit `technology/` and `propulsion/` to identify overlapping files
   - [x] Extract unique data from duplicates into consolidated "hub" docs
   - [x] Update all incoming references to point to the new primary sources
-- [ ] Ensure all research sub-directories have an entry point (index.md or MOC.md)
-...
+
+## ⚪ Pending Tasks
 - [ ] Ensure all research sub-directories have an entry point (index.md or MOC.md)
   - [ ] Map out current directory tree in `research/`
   - [ ] Create missing index pages for each leaf-node subdirectory
 - [ ] Fix specific link in Theory MOC ([theory-of-psychic_quanta] in theories/summary.md)
-  - [ ] Verify the correct path for "theory-of-psychic_quanta"
+  - [ ] Verify the correct path for "theory-of_psychic_quanta"
   - [ ] Update the reference in `theories/summary.md`
 - [ ] Expand Case Study MOC to include missing items (kumburgaz, ww2-foo_fighters, the-orange-orb)
   - [ ] Locate source material for: kumburgaz, ww2-foo_fighters, and the-orange-orb

@@ -37,9 +37,9 @@ The intersection of biological processes and advanced hardware.
 - [[synthetic-biology]]
 
 ## 🧪 Physics of Propulsion
-- [[propulsion_and_advanced_physics_research]]
+- [[technologies/propulsion-systems-overview]]
 - [[advanced-propulsion-convergence]]
-- [[advanced-propulsion-physics]]
+- [[technologies/propulsion-systems-overview]]
 - [[the-enerintics-of-the-universe-zero-point-vacuum-energy]]
 
 ## 🔗 Related MOCs

@@ -26,7 +26,7 @@ Exploration of the role of Zero-Point Energy (ZPE) and vacuum fluctuations in pr
 
 ### 2. Advanced Propulsion Systems
 Investigation into the mechanisms of motion that bypass or manipulate conventional aerodynamic and hydrodynamic constraints.
-* [[research/propulsion_and_advanced_physics_research|**Advanced Propulsion Research**]] - Overview of research into non-Newtonian propulsion models.
+* [[research/technologies/propulsion-systems-overview|**Advanced Propulsion Research**]] - Overview of research into non-Newtonian propulsion models.
 
 ## 🔗 Related Domains
 * [[research/index|**Main Index**]]

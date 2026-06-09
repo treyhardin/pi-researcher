@@ -24,7 +24,7 @@ Investigation into non-Newtonian, electrodynamic, and high-energy propulsion mec
 * [[research/electrogravitics|**Electrogravitics**]] - Research into gravity-linked electromagnetic effects.
 * [[research/biefeld-brown-effect|**Biefeld-Brown Effect**]] - High-voltage electrostatic thrust phenomena.
 * [[research/electrohydrodynamics|**Electrohydrodynamics (EHD)**]] - Ion wind and plasma-based propulsion models.
-* [[research/ion-propulsion|**Ion Propulsion**]] - Advanced electric propulsion research.
+* [[technologies/propulsion-systems-overview|**Ion Propulsion**]] - Advanced electric propulsion research.
 
 ## 📡 Detection & Sensor Fusion
 Research into the sensors, architectures, and signatures involved in UAP tracking and identification.

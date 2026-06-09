@@ -61,7 +61,7 @@ A critical distinction exists between Brown's interpretation and the modern scie
 - [[technologies/biefeld-brown-effect|Biefeld-Brown Effect]]
 - [[technologies/electrogravitics|Electrogravitics]]
 - [[technologies/electrohydrodynamics|Electrohydrodynamics]]
-- [[technologies/ion-propulsion|Ion propulsion]]
+- [[technologies/propulsion-systems-overview|Ion propulsion]]
 ## Sources
 - [Thomas Townsend Brown - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown)
 - [Thomas Townsend Brown | Stephen M. Walker II](https://smw.ai/research/townsend-brown)
