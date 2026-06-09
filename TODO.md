@@ -17,9 +17,9 @@ This document tracks the transformation of the research folder from a hierarchic
   - [x] Update all incoming references to point to the new primary sources
 
 ## ⚪ Pending Tasks
-- [ ] Ensure all research sub-directories have an entry point (index.md or MOC.md)
-  - [ ] Map out current directory tree in `research/`
-  - [ ] Create missing index pages for each leaf-node subdirectory
+- [x] Ensure all research sub-directories have an entry point (index.md or MOC.md)
+  - [x] Map out current directory tree in `research/`
+  - [x] Create missing index pages for each leaf-node subdirectory
 - [ ] Fix specific link in Theory MOC ([theory-of-psychic_quanta] in theories/summary.md)
   - [ ] Verify the correct path for "theory-of_psychic_quanta"
   - [ ] Update the reference in `theories/summary.md`
